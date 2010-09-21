@@ -1,0 +1,61 @@
+
+# Makefile to make nobdict.fst
+# the fst just recognises all lemmas in the nobsme dictionary
+# it does __not__ translate them.
+
+# usage.
+# make -f make-nobdict
+
+# pseudocode:
+
+# read all lexicon files
+# pick the lemmas
+# save as *lemmalist.txt
+# open xfst
+# run command "read text < *lemmalist.txt"
+# save result as *dict.fst
+# the resulting fst to be used to test dict content
+
+XFST = xfst
+
+JV   = java
+MF   = -Xmx2048m
+EF   = -it main
+XSL  = net.sf.saxon.Transform
+
+SRC           = src
+BIN           = bin
+SCRIPTS       = ../scripts
+DICT          = get-lemma.xsl
+
+BEGIN       = @echo "*** Generating $@-file ***"
+END         = @echo "Done."
+CLEAN       = @echo "Cleaning files."
+
+
+nobdict.fst: bin/nobdict.fst
+bin/nobdict.fst: bin/noblemmalist.txt
+	@echo
+	@echo "*** Building  nobdict.fst ***"
+	@echo
+	@printf "read text $< \n\
+	save stack $@ \n\
+	quit \n" > ../tmp/nobdict-fst-script
+	$(XFST)  < ../tmp/nobdict-fst-script
+	@rm -f ../tmp/nobdict-fst-script
+
+noblemmalist.txt: bin/noblemmalist.txt
+bin/noblemmalist.txt: $(SRC) \
+                    $(SCRIPTS)/$(DICT)
+	@echo 
+	$(BEGIN)
+	$(JV) $(MF) $(XSL) $(EF) $(SCRIPTS)/$(DICT) dir=../nobsme/$< > ../nobsme/$@
+	@echo
+	$(END)
+	@echo
+
+
+
+clean:
+	@rm -f bin/*.txt bin/*.fst	
+
