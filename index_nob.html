@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="ru">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+   <script type="text/javascript" src="src/js/popupBox.js"></script>
+
+   <script language="JavaScript" type="text/javascript">
+      function addchar(mychar) {
+         var searchfield = document.getElementById("word");
+         var searchstring = searchfield.value;
+         searchfield.value = searchstring + mychar;
+         searchfield.focus();
+         var event = document.createEvent("KeyboardEvent");
+         event.initKeyEvent(                                                                                      
+                 "keyup",        //  in DOMString typeArg,                                                           
+                  true,             //  in boolean canBubbleArg,                                                        
+                  true,             //  in boolean cancelableArg,                                                       
+                  null,             //  in nsIDOMAbstractView viewArg,  Specifies UIEvent.view. This value may be null.     
+                  false,            //  in boolean ctrlKeyArg,                                                               
+                  false,            //  in boolean altKeyArg,                                                        
+                  false,            //  in boolean shiftKeyArg,                                                      
+                  false,            //  in boolean metaKeyArg,                                                       
+                   9,               //  in unsigned long keyCodeArg,                                                      
+                   0);              //  in unsigned long charCodeArg);    
+       searchfield.dispatchEvent(event);
+
+      }
+   </script>
+
+   <link rel="stylesheet" type="text/css" href="src/css/style.css" />
+   <title>Словаря Гиелатекно - Саамская языковая технология -</title>
+</head>
+    
+<body>
+<div id="gt_header" align="left">
+  <elem>
+  <a href="http://giellatekno.uit.no/rus.html">Giellatekno</a><i> - Саамская языковая технология -</i>
+  </elem>
+</div>
+
+<!-- <div id="spacer"></div> -->
+
+<div id="main_left">
+  <br/>
+  <font size="1" color="#C0C0C0">&#8594; <a href="http://victorio.uit.no/webdict/index.html"><b>Все словари</b></a></font>
+</div>
+
+
+<div id="main">
+
+  <br/>
+  <elem>Словаря Гиелатекно</elem>
+<br/>
+  <elem>blabla</elem>
+  
+
+  <br/>
+  <br/>
+
+  <form class="translation" action="" method="post">
+  <fieldset><legend></legend>
+  <select onchange="ajaxFunction(this.value);" id="direction" name="direction" title="Выберите словарь">
+    <option class='header' value='' disabled='true'>Выберите словарь</option>
+    <option selected="selected" value='sjd-rus-lr' >Кильдинский &rarr; Русский</option>
+    <option value='rus-sjd-lr' >Русский &rarr; Кильдинский</option>
+  </select>
+  
+   <elem_button><a href="help_ru.html" onClick="return show_hide_box(this,350,150,'2px dotted')">помощь</a></elem_button>
+  <br/>
+  <br/>
+  <table class="kildin_samichars">
+    <tr> 
+      <td><input type="button" value="ӓ" onclick="addchar('ӓ')"></td>
+      <td><input type="button" value="а̄" onclick="addchar('а̄')"></td>
+      <td><input type="button" value="е̄" onclick="addchar('е̄')"></td>
+      <td><input type="button" value="ё̄" onclick="addchar('ё̄')"></td>
+      <td><input type="button" value="һ" onclick="addchar('һ')"></td>
+      <td><input type="button" value="ӣ" onclick="addchar('ӣ')"></td>
+      <td><input type="button" value="j" onclick="addchar('j')"></td>
+      <td><input type="button" value="ҋ" onclick="addchar('ҋ')"></td>
+      <td><input type="button" value="ӆ" onclick="addchar('ӆ')"></td>
+      <td><input type="button" value="ӎ" onclick="addchar('ӎ')"></td>
+   </tr>
+    <tr> 
+      <td><input type="button" value="ӊ" onclick="addchar('ӊ')"></td>
+      <td><input type="button" value="ӈ" onclick="addchar('ӈ')"></td>
+      <td><input type="button" value="о̄" onclick="addchar('о̄')"></td>
+      <td><input type="button" value="ҏ" onclick="addchar('ҏ')"></td>
+      <td><input type="button" value="ӯ" onclick="addchar('ӯ')"></td>
+      <td><input type="button" value="ҍ" onclick="addchar('ҍ')"></td>
+      <td><input type="button" value="ӭ" onclick="addchar('ӭ')"></td>
+      <td><input type="button" value="э̄" onclick="addchar('э̄')"></td>
+      <td><input type="button" value="ю̄" onclick="addchar('ю̄')"></td>
+      <td><input type="button" value="я̄" onclick="addchar('я̄')"></td>
+      <!--       <td><input type="button" value="'" onclick="addchar(''')"></td> -->
+   </tr>
+  </table>
+  
+  <input id="word" name="word" type="text" style="font-family: Lucida Sans Unicode" onkeyup="delayLookUp(this.value,true, document.forms[0].direction.value);"/>
+  
+
+ 
+  <br/>
+  </fieldset>
+  </form>
+    
+<div id="message"></div>
+<br/>
+<div id="message2"></div>
+<div id="result" style="overflow:auto; width:500px; height:400px;"></div>
+</div>
+
+<div align="center">
+  <p>
+  <i>Эти словари составлены с помощю
+  <a href="http://www.apertium.org/"><b>Apertium</b></a>
+  инструментов для словарей.
+  </i> 
+  </p>
+  <p>
+  <i>Авторское право: 2010 <a href="http://www.uit.no/"><b>университет г. Tромсе/Норвегия</b></a>.</i>
+  Обратная связь: <i>giellatekno@hum.uit.no</i>
+  </p>
+</div>
+</body>
+</html>
+
+<script src="src/js/lookup_ru.js" type="text/javascript"></script>
+	
