@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD ClosedPOS Dictionaries//ML"
+"../../scripts/gt_dictionary.dtd">
+<r>
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by Giellatekno at UiT, Divvun at the Norwegian Saami Parliament,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:divvun@samediggi.no</a> and <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
+   <e>
+      <lg>
+         <l pos="x">i</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>hvor</re>
+            <te>lokativ</te>
+            <xg>
+               <x>i Finland</x>
+               <xt>Suomas</xt>
+            </xg>
+            <xg>
+               <x>Hun arbeidet i Tromsø i tre år</x>
+               <xt>Son barggai Romssas golmma jági</xt>
+            </xg>
+            <xg>
+               <x>Universitetssykehuset i Nord-Norge</x>
+               <xt>Davvi-Norgga universitehtabuohcceviessu</xt>
+            </xg>
+            <xg>
+               <x>Han er lærer i samisk</x>
+               <xt>Son lea sámeoahpaheaddji</xt>
+            </xg>
+         </tg>
+         <tg>
+            <re>egenskap</re>
+            <t pos="">-n</t>
+            <xg>
+               <x>Har dere denne kjolen i blått?</x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>bevegelse til</re>
+            <te>illativ</te>
+            <xg>
+               <x>Han skal gå i teateret</x>
+               <xt>Son galgá teahterii</xt>
+            </xg>
+            <xg>
+               <x>Foreldrene vil sette barna sine i barnehagen.</x>
+               <xt>Vánhemat háliidit bidjat mánáset mánáidgárdái.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>om tid</re>
+            <te>lokativ</te>
+            <xg>
+               <x>i vår</x>
+               <xt>dan dálvi</xt>
+            </xg>
+            <xg>
+               <x>i mai</x>
+               <xt>miessemánus</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pcle">på</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>hvor</re>
+            <t pos="po">alde</t>
+            <xg>
+               <x>Boka ligger på bordet</x>
+               <xt>Girji lea beavddi alde</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>om tid</re>
+            <te>lokativ</te>
+            <xg>
+               <x>Han laget maten ferdig på to timer</x>
+               <xt></xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">av</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x"></t>
+         </tg>
+      </mg>
+   </e>
+   <xhtml:script src="../../scripts/gt_dictionary.js" type="text/javascript" xmlns:xhtml="http://www.w3.org/1999/xhtml" />
+</r>
