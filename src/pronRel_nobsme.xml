@@ -2,11 +2,143 @@
 <r xml:lang="nob">
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hva</l>
+         <l pos="pron">hva</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">maid</t>
+            <t pos="pron" type="rel">mii</t>
+            <xg>
+               <x>Hva er så der?</x>
+               <xt>Mii bat doppe lea?</xt>
+            </xg>
+            <xg>
+               <x>Det som skjer, det skjer.</x>
+               <xt>Dat mii dáhpáhuvvá, dat dáhpáhuvvá.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">hvem</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="rel">gii</t>
+            <xg>
+               <x>Hvem er så du?</x>
+               <xt>Gii bat don leat?</xt>
+            </xg>
+            <xg>
+               <x>I gamle dager var det en fattig mann som ofte var innom og tigget hos presten.</x>
+               <xt>Dološ áigge lei muhtin geafes olmmái gii dávjá finadii báhpa luhtte ánuheame.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hva (flertall)</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="rel">mat</t>
+            <xg>
+               <x>Hva er asteroider?</x>
+               <xt>Mat leat asteroiidat?</xt>
+            </xg>
+            <xg>
+               <x>Søknader som kommer etter den tidsfristen, behandles ikke.</x>
+               <xt>Ohcamat mat bohtet dan áigemeari maŋŋel, eai meannuduvvo.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hvem (flertall)</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="rel">geat</t>
+            <xg>
+               <x>Hvem er hovedrolleinnehaverne i filmen?</x>
+               <xt>Geat leat váldoneaktárat filmmas?</xt>
+            </xg>
+            <xg>
+               <x>Áššu snakket med mange som ikke var fornøyde.</x>
+               <xt>Áššu humadii máŋgasiin geat eai lean duhtavaččat.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hvilken av de to</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="rel">goabbá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hvilken av de to (om flertallsord)</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="rel">goappát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">hvem</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="rel">guhte</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hvem (flertall)</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="rel">guđet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hva slags</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="interr" nr="sg">makkár</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hva slags (flertall)</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="interr" nr="pl">makkárat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">hva</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="rel" nr="sg">maid</t>
             <xg>
                <x>Hva gjør du her?</x>
                <xt>Maid dagat dáppe?</xt>
@@ -20,11 +152,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hva</l>
+         <l pos="pron">hva</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">man</t>
+            <t pos="pron" type="rel">man</t>
             <xg>
                <x>Hva skriver dere om?</x>
                <xt>Man birra čállibehtet?</xt>
@@ -38,11 +170,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hva</l>
+         <l pos="phrase">til hva</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">masa</t>
+            <t pos="pron" type="rel">masa</t>
             <xg>
                <x>Hva skal du bruke den til?</x>
                <xt>Masa don áiggut dien geavahit?</xt>
@@ -56,11 +188,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvor</l>
+         <l pos="pron">hvor</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mas</t>
+            <t pos="pron" type="rel">mas</t>
             <xg>
                <x>Hva har mest vitaminer?</x>
                <xt>Mas leat eanemus vitamiinnat?</xt>
@@ -74,11 +206,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hva</l>
+         <l pos="phrase">med hva</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mainna</t>
+            <t pos="pron" type="rel">mainna</t>
             <xg>
                <x>På hvilken måte er veps og maur likedanne?</x>
                <xt>Mainna lágiin leat vieksát ja gotkkat ovttaláganat?</xt>
@@ -92,21 +224,21 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som hva</l>
+         <l pos="phrase">som hva</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">manin</t>
+            <t pos="pron" type="rel">manin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem</l>
+         <l pos="pron">hvem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">gean</t>
+            <t pos="pron" type="rel">gean</t>
             <xg>
                <x>Hvem sitt ansvar er det?</x>
                <xt>Gean ovddasvástádus dat lea?</xt>
@@ -128,11 +260,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem sin</l>
+         <l pos="phrase">hvem sin</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">gean</t>
+            <t pos="pron" type="rel">gean</t>
             <xg>
                <x>Hvem sitt ansvar er det?</x>
                <xt>Gean ovddasvástádus dat lea?</xt>
@@ -154,11 +286,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hvem</l>
+         <l pos="phrase">til hvem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">geasa</t>
+            <t pos="pron" type="rel">geasa</t>
             <xg>
                <x>For hvem er det nyttig?</x>
                <xt>Geasa dat lea ávkin?</xt>
@@ -172,11 +304,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem (har)</l>
+         <l pos="phrase">hvem (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">geas</t>
+            <t pos="pron" type="rel">geas</t>
             <xg>
                <x>Hvem har så mye penger?</x>
                <xt>Geas lea nu ollu ruhta?</xt>
@@ -190,11 +322,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hvem</l>
+         <l pos="phrase">med hvem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">geainna</t>
+            <t pos="pron" type="rel">geainna</t>
             <xg>
                <x>Hvem snakker jeg så med nå?</x>
                <xt>Geainna bat mun dál human?</xt>
@@ -208,21 +340,21 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som hvem</l>
+         <l pos="phrase">som hvem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">geanin</t>
+            <t pos="pron" type="rel">geanin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hva (flertall)</l>
+         <l pos="phrase">hva (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">maid</t>
+            <t pos="pron" type="rel" nr="pl">maid</t>
             <xg>
                <x/>
                <xt/>
@@ -236,11 +368,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hva (flertall)</l>
+         <l pos="phrase">til hva (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">maidda</t>
+            <t pos="pron" type="rel">maidda</t>
             <xg>
                <x/>
                <xt/>
@@ -254,11 +386,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">av hva (flertall)</l>
+         <l pos="phrase">av hva (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">main</t>
+            <t pos="pron" type="rel">main</t>
             <xg>
                <x/>
                <xt/>
@@ -272,11 +404,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hva (flertall)</l>
+         <l pos="phrase">med hva (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">maiguin</t>
+            <t pos="pron" type="rel">maiguin</t>
             <xg>
                <x/>
                <xt/>
@@ -290,11 +422,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem sin (flertall)</l>
+         <l pos="phrase">hvem sin (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">geaid</t>
+            <t pos="pron" type="rel">geaid</t>
             <xg>
                <x>Hvem Reisa vil på laget?</x>
                <xt>Geaid Ráisa háliida iežaset jovkui?</xt>
@@ -316,11 +448,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem (flertall)</l>
+         <l pos="phrase">hvem (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">geaid</t>
+            <t pos="pron" type="rel">geaid</t>
             <xg>
                <x>Hvem Reisa vil på laget?</x>
                <xt>Geaid Ráisa háliida iežaset jovkui?</xt>
@@ -342,11 +474,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hvem (flertall)</l>
+         <l pos="phrase">til hvem (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">geaidda</t>
+            <t pos="pron" type="rel">geaidda</t>
             <xg>
                <x>Til hvem tilhørte reinen?</x>
                <xt>Geaidda bohccot gulle?</xt>
@@ -360,11 +492,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem (har) (flertall)</l>
+         <l pos="phrase">hvem (har) (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">geain</t>
+            <t pos="pron" type="rel">geain</t>
             <xg>
                <x>Hvem har slik utdanning?</x>
                <xt>Geain lea dakkár oahppu?</xt>
@@ -378,11 +510,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hvem (flertall)</l>
+         <l pos="phrase">med hvem (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">geaiguin</t>
+            <t pos="pron" type="rel">geaiguin</t>
             <xg>
                <x>Hvem har dere trent med?</x>
                <xt>Geaiguin dii lehpet hárjehallan?</xt>
@@ -396,331 +528,331 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvilken av de to</l>
+         <l pos="phrase">hvilken av de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goappá</t>
+            <t pos="pron" type="rel">goappá</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvilken av de to sin</l>
+         <l pos="phrase">hvilken av de to sin</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goappá</t>
+            <t pos="pron" type="rel">goappá</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hvilken av de to</l>
+         <l pos="phrase">til hvilken av de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goabbái</t>
+            <t pos="pron" type="rel">goabbái</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvilken av de to (har)</l>
+         <l pos="phrase">hvilken av de to (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goappás</t>
+            <t pos="pron" type="rel">goappás</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hvilken av de to</l>
+         <l pos="phrase">med hvilken av de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goappáin</t>
+            <t pos="pron" type="rel" nr="sg">goappáin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som hvilken av de to</l>
+         <l pos="phrase">som hvilken av de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goabbán</t>
+            <t pos="pron" type="rel">goabbán</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvilken av de to sin (flertall)</l>
+         <l pos="phrase">hvilken av de to sin (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goappáid</t>
+            <t pos="pron" type="rel">goappáid</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvilken av de to (flertall)</l>
+         <l pos="phrase">hvilken av de to (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goappáid</t>
+            <t pos="pron" type="rel">goappáid</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hvilken av de to (flertall)</l>
+         <l pos="phrase">til hvilken av de to (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goappáide</t>
+            <t pos="pron" type="rel">goappáide</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvilken av de to (har) (flertall)</l>
+         <l pos="phrase">hvilken av de to (har) (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goappáin</t>
+            <t pos="pron" type="rel" nr="pl">goappáin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hvilken av de to (flertall)</l>
+         <l pos="phrase">med hvilken av de to (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goappáiguin</t>
+            <t pos="pron" type="rel">goappáiguin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem</l>
+         <l pos="pron">hvem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guđe</t>
+            <t pos="pron" type="rel">guđe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem sin</l>
+         <l pos="phrase">hvem sin</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guđe</t>
+            <t pos="pron" type="rel">guđe</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hvem</l>
+         <l pos="phrase">til hvem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guhtii</t>
+            <t pos="pron" type="rel">guhtii</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem (har)</l>
+         <l pos="phrase">hvem (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guđes</t>
+            <t pos="pron" type="rel">guđes</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hvem</l>
+         <l pos="phrase">med hvem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guđiin</t>
+            <t pos="pron" type="rel" nr="sg">guđiin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som hvem</l>
+         <l pos="phrase">som hvem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guhten</t>
+            <t pos="pron" type="rel">guhten</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem sin (flertall)</l>
+         <l pos="phrase">hvem sin (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guđiid</t>
+            <t pos="pron" type="rel">guđiid</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem (flertall)</l>
+         <l pos="phrase">hvem (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guđiid</t>
+            <t pos="pron" type="rel">guđiid</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hvem (flertall)</l>
+         <l pos="phrase">til hvem (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guđiide</t>
+            <t pos="pron" type="rel">guđiide</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hvem (har) (flertall)</l>
+         <l pos="phrase">hvem (har) (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guđiin</t>
+            <t pos="pron" type="rel" nr="pl">guđiin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hvem (flertall)</l>
+         <l pos="phrase">med hvem (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guđiiguin</t>
+            <t pos="pron" type="rel">guđiiguin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hva slags</l>
+         <l pos="phrase">hva slags</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkára</t>
+            <t pos="pron" type="interr">makkára</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hva slags</l>
+         <l pos="phrase">til hva slags</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkárii</t>
+            <t pos="pron" type="interr">makkárii</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">i/av hva slags</l>
+         <l pos="phrase">i/av hva slags</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkáris</t>
+            <t pos="pron" type="interr">makkáris</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hva slags (har)</l>
+         <l pos="phrase">hva slags (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkáris</t>
+            <t pos="pron" type="interr">makkáris</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hva slags</l>
+         <l pos="phrase">med hva slags</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkáriin</t>
+            <t pos="pron" type="interr" nr="sg">makkáriin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som hva slags</l>
+         <l pos="phrase">som hva slags</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkárin</t>
+            <t pos="pron" type="interr">makkárin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hva slags (flertall)</l>
+         <l pos="phrase">hva slags (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkáriid</t>
+            <t pos="pron" type="interr">makkáriid</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til hva slags (flertall)</l>
+         <l pos="phrase">til hva slags (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkáriidda</t>
+            <t pos="pron" type="interr">makkáriidda</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">i/av hva slags (flertall)</l>
+         <l pos="phrase">i/av hva slags (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkáriin</t>
+            <t pos="pron" type="interr" nr="pl">makkáriin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hva slags (har) (flertall)</l>
+         <l pos="phrase">hva slags (har) (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkáriin</t>
+            <t pos="pron" type="interr" nr="pl">makkáriin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med hva slags (flertall)</l>
+         <l pos="phrase">med hva slags (flertall)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">makkáriiguin</t>
+            <t pos="pron" type="interr">makkáriiguin</t>
          </tg>
       </mg>
    </e>

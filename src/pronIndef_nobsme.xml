@@ -2,11 +2,404 @@
 <r xml:lang="nob">
    <e>
       <lg>
-         <l pos="x" decl="xxx">noen</l>
+         <l pos="x">litt</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">soames</t>
+            <t pos="pron" type="indef">veahá</t>
+            <xg>
+               <x>Jeg smurte litt på tærne også, fordi de pleier å bli så svette.</x>
+               <xt>Vuoidalin veahá juolgesuorpmaid nai, go lávejit nu bivastuvvat.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">litt</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="indef">veaháš</t>
+            <xg>
+               <x>Og så er det godt å puste ut litt, og lese litt i avisa.</x>
+               <xt>De lea ge buorre veaháš bosihit, ja lohkalit aviissa.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hver sin</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <re>av flere enn to</re>
+            <t pos="pron" type="indef">iešguhtet</t>
+            <xg>
+               <x>Der tok de hver sin bil.</x>
+               <xt>Iešguhtet válddii doppe biillas.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">hver</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <re>av flere enn to</re>
+            <t pos="pron" type="indef">iešguhtet</t>
+            <xg>
+               <x>Der tok de hver sin bil.</x>
+               <xt>Iešguhtet válddii doppe biillas.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">alle sammen</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">buohkat</t>
+            <xg>
+               <x>Møtet er åpent for alle - velkommen!</x>
+               <xt>Čoahkkin lea rabas buohkaide - bures boahtin!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">annen</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">eará</t>
+            <xg>
+               <x>En slik bred kunnskap er det ikke mange andre som har.</x>
+               <xt>Dákkár viiddis máhttu ii leat nu gallásis earáin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">andre</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">eará</t>
+            <xg>
+               <x>En slik bred kunnskap er det ikke mange andre som har.</x>
+               <xt>Dákkár viiddis máhttu ii leat nu gallásis earáin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">begge</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">goappašagat</t>
+            <xg>
+               <x>De har begge gått på kunsthøgskole.</x>
+               <xt>Soai leaba goappašagat vázzán dáiddaallaskuvlla.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hver av to</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">goappašagat</t>
+            <xg>
+               <x>De har begge gått på kunsthøgskole.</x>
+               <xt>Soai leaba goappašagat vázzán dáiddaallaskuvlla.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">begge</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">guktot</t>
+            <xg>
+               <x>Vi har begge vært en tur i Helsinki.</x>
+               <xt>Moai letne guktot fitnan Helssegis.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="m">annen</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">iežá</t>
+            <xg>
+               <x>Jeg kan ikke ta andre med dit.</x>
+               <xt>In sáhte iežáid váldit mielde dohko.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">annet</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">iežá</t>
+            <xg>
+               <x>Jeg kan ikke ta andre med dit.</x>
+               <xt>In sáhte iežáid váldit mielde dohko.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">noe</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="indef">juoga</t>
+            <xg>
+               <x>Ny nominasjon kan man kreve hvis det er gjort noe formelt feil.</x>
+               <xt>Ođđa nominašuvnna sáhttá gáibidit jus lea juoga dahkkon formálalaččat boastut.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="m">hver</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">juohkehaš</t>
+            <xg>
+               <x>Av dem så hadde hver enkelt egne notsteder og garnsteder.</x>
+               <xt>Dain ledje fas juohkehaččas sierra nuohttunbáikkit ja fierbmunbáikkit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="m">enhver</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">juohkehaš</t>
+            <xg>
+               <x>Av dem så hadde hver enkelt egne notsteder og garnsteder.</x>
+               <xt>Dain ledje fas juohkehaččas sierra nuohttunbáikkit ja fierbmunbáikkit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">flere</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <re>ca 4-10 stk</re>
+            <t illpl="ok" pos="pron" type="indef">moanat</t>
+            <xg>
+               <x>Jeg har allerede invitert nokså mange.</x>
+               <xt>Mun lean moanaid juo bovden.</xt>
+            </xg>
+            <xg>
+               <x>Jeg har allerede invitert nokså mange mennesker.</x>
+               <xt>Mun lean moanaid olbmuid juo bovden.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">en</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">muhtin</t>
+            <xg>
+               <x>Så oppdager læreren noen som springer rundt i klasserommet, men han/hun ser ikke hvem det er.</x>
+               <xt>De oahpaheaddji fuomáša muhtima gii viegada klássalanjas, muhto ii oainne gii dat lea.</xt>
+            </xg>
+            <xg>
+               <x>Mange samer kom tilbake til Norge, andre igjen slo seg ned i Alaska.</x>
+               <xt>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtimat fas ásaiduvve Alaskai.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">noen</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">muhtin</t>
+            <xg>
+               <x>Så oppdager læreren noen som springer rundt i klasserommet, men han/hun ser ikke hvem det er.</x>
+               <xt>De oahpaheaddji fuomáša muhtima gii viegada klássalanjas, muhto ii oainne gii dat lea.</xt>
+            </xg>
+            <xg>
+               <x>Mange samer kom tilbake til Norge, andre igjen slo seg ned i Alaska.</x>
+               <xt>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtimat fas ásaiduvve Alaskai.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">en</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">muhtun</t>
+            <xg>
+               <x>Så oppdager læreren noen som springer rundt i klasserommet, men han/hun ser ikke hvem det er.</x>
+               <xt>De oahpaheaddji fuomáša muhtuma gii viegada klássalanjas, muhto ii oainne gii dat lea.</xt>
+            </xg>
+            <xg>
+               <x>Mange samer kom tilbake til Norge, andre igjen slo seg ned i Alaska.</x>
+               <xt>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtumat fas ásaiduvve Alaskai.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">noen</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">muhtun</t>
+            <xg>
+               <x>Så oppdager læreren noen som springer rundt i klasserommet, men han/hun ser ikke hvem det er.</x>
+               <xt>De oahpaheaddji fuomáša muhtuma gii viegada klássalanjas, muhto ii oainne gii dat lea.</xt>
+            </xg>
+            <xg>
+               <x>Mange samer kom tilbake til Norge, andre igjen slo seg ned i Alaska.</x>
+               <xt>Máŋga sápmelačča bohte ruovttoluotta Norgii, muhtumat fas ásaiduvve Alaskai.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">annen</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">nubbi</t>
+            <xg>
+               <x>Og så er det ikke lov å spise de andre.</x>
+               <xt>Ja de ii leat lohpi nuppiid borrat.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">ene</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">nubbi</t>
+            <xg>
+               <x>Den ene er stor, den andre er liten.</x>
+               <xt>Nubbi lea stuoris, nubbi fas unni.</xt>
+            </xg>
+            <xg>
+               <x>Og den andre hendelsen skjedde omtrent til samme tid.</x>
+               <xt>Ja nubbi dáhpáhus leai seammá áiggiid.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">begge</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">goabbáge</t>
+            <xg>
+               <x>Jeg tviler ikke på at det var 2000 mennesker på hver av de to konsertene.</x>
+               <xt>Mun in eahpit ahte ledje 2000 olbmo goappáge konsearttas.</xt>
+            </xg>
+            <xg>
+               <x>Hvilken av de to tar du? Ingen av de to!</x>
+               <xt>Goappá don válddát? In goappáge!</xt>
+            </xg>
+            <xg>
+               <x>Ingen av de to hadde lenger krefter til å sloss.</x>
+               <xt>Ii lean šat doarrunvuoibmi goappásge.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hver av de to</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">goabbáge</t>
+            <xg>
+               <x>Jeg tviler ikke på at det var 2000 mennesker på hver av de to konsertene.</x>
+               <xt>Mun in eahpit ahte ledje 2000 olbmo goappáge konsearttas.</xt>
+            </xg>
+            <xg>
+               <x>Hvilken av de to tar du? Ingen av de to!</x>
+               <xt>Goappá don válddát? In goappáge!</xt>
+            </xg>
+            <xg>
+               <x>Ingen av de to hadde lenger krefter til å sloss.</x>
+               <xt>Ii lean šat doarrunvuoibmi goappásge.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">mange personer</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">olus</t>
+            <xg>
+               <x>Det er ihvertfall ikke noen problemer med fylkeskommunen her, sier mange.</x>
+               <xt>Ii dás goit leat fylkkagielddas mihkkege váttisvuođaid, olus lohket.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">noen</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">soamis</t>
             <xg>
                <x>Men noen hadde helt andre interesser.</x>
                <xt>Muhto soapmásiin ledje áibbas eará beroštumit.</xt>
@@ -20,11 +413,11 @@
    </e>
    <e>
       <lg>
-         <l pos="m" decl="xxx">en eller annen</l>
+         <l pos="phrase">en eller annen</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">soames</t>
+            <t illpl="ok" pos="pron" type="indef">soamis</t>
             <xg>
                <x>Men noen hadde helt andre interesser.</x>
                <xt>Muhto soapmásiin ledje áibbas eará beroštumit.</xt>
@@ -38,11 +431,47 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">noe</l>
+         <l pos="x">noen</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mihkkige</t>
+            <t illpl="ok" pos="pron" type="indef">soames</t>
+            <xg>
+               <x>Men noen hadde helt andre interesser.</x>
+               <xt>Muhto soapmásiin ledje áibbas eará beroštumit.</xt>
+            </xg>
+            <xg>
+               <x>Det var fint vær, og det ble noen fisk også.</x>
+               <xt>Lei buorre dálki ja soames guolli nai.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">en eller annen</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">soames</t>
+            <xg>
+               <x>Men noen hadde helt andre interesser.</x>
+               <xt>Muhto soapmásiin ledje áibbas eará beroštumit.</xt>
+            </xg>
+            <xg>
+               <x>Det var fint vær, og det ble noen fisk også.</x>
+               <xt>Lei buorre dálki ja soames guolli nai.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="x">noe</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t illpl="ok" pos="pron" type="indef">mihkkige</t>
             <xg>
                <x>Jeg forundret meg litt om hvorfor han/hun ikke sa noe.</x>
                <xt>Imaštallen gal veaháš manne son ii jienát maidege.</xt>
@@ -56,11 +485,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">noe</l>
+         <l pos="x">noe</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mihkkege</t>
+            <t illpl="ok" pos="pron" type="indef">mihkkege</t>
             <xg>
                <x>Jeg forundret meg litt om hvorfor han/hun ikke sa noe.</x>
                <xt>Imaštallen gal veaháš manne son ii jienát maidege.</xt>
@@ -74,11 +503,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">noe</l>
+         <l pos="x">noe</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mihkke</t>
+            <t illpl="ok" pos="pron" type="indef">mihkke</t>
             <xg>
                <x>Vi har ikke lenger noe vi skulle ha sagt til det.</x>
                <xt>Mis ii leat šat mihkke dadjamušaid dasa.</xt>
@@ -88,11 +517,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">hver</l>
+         <l pos="x">hver</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guhtege</t>
+            <t illpl="ok" pos="pron" type="indef">guhtege</t>
             <xg>
                <x>De måler hvor mye hvert vann er over havnivå.</x>
                <xt>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</xt>
@@ -110,11 +539,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">hver for seg</l>
+         <l pos="phrase">hver for seg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">iešguhtege</t>
+            <t pos="pron" type="indef">iešguhtege</t>
             <xg>
                <x>Nå er det plassert containere for hvert slags søppel.</x>
                <xt>Dál leat biddjon iešguđetge ruskkaide kontainerat.</xt>
@@ -124,11 +553,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">ingen</l>
+         <l pos="x">ingen</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">giige</t>
+            <t illpl="ok" pos="pron" type="indef">giige</t>
             <xg>
                <x>Vår livssituasjon blir ikke bedre hvis ingen gidder å arbeide noe.</x>
                <xt>Ii min eallindilli buorrán jus giige ii viša maidege bargat.</xt>
@@ -138,11 +567,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">noe</l>
+         <l pos="x">noe</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">juogamii</t>
+            <t illpl="ok" pos="pron" type="indef">juogamii</t>
             <xg>
                <x>Men på grunn av ett eller annet er det ikke slik.</x>
                <xt>Muhto juogaman dihte nu ii leat.</xt>
@@ -156,11 +585,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">ett eller annet</l>
+         <l pos="phrase">ett eller annet</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">juogamii</t>
+            <t illpl="ok" pos="pron" type="indef">juogamii</t>
             <xg>
                <x>Men på grunn av ett eller annet er det ikke slik.</x>
                <xt>Muhto juogaman dihte nu ii leat.</xt>
@@ -174,11 +603,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">begge to</l>
+         <l pos="phrase">begge to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">goabbánai</t>
+            <t illpl="ok" pos="pron" type="indef">goabbánai</t>
             <xg>
                <x>Máhtte og Biera skjøt mål begge to.</x>
                <xt>Máhtte ja Biera goabbánai bážiiga moala.</xt>
@@ -188,11 +617,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">den ene</l>
+         <l pos="phrase">den ene</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">juobbá</t>
+            <t illpl="ok" pos="pron" type="indef">juobbá</t>
             <xg>
                <x>Den ene av oss to får ihvertfall fri.</x>
                <xt>Juobbá munnos oažžu gal friddja.</xt>
@@ -202,11 +631,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">den andre</l>
+         <l pos="phrase">den andre</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dábbá</t>
+            <t pos="pron" type="indef">dábbá</t>
             <xg>
                <x>den ene etter den andre</x>
                <xt>duobbá dábbá</xt>
@@ -220,11 +649,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">hver enkelt</l>
+         <l pos="phrase">hver enkelt</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">miinai</t>
+            <t illpl="ok" pos="pron" type="indef">miinai</t>
             <xg>
                <x/>
                <xt/>
@@ -234,11 +663,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">den ene av de to</l>
+         <l pos="phrase">den ene av de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">juobbágoabbá</t>
+            <t illpl="ok" pos="pron" type="indef">juobbágoabbá</t>
             <xg>
                <x>Verddestystemets prinsipp er byttehandel hvor den ene alltid er skyldig til den andre.</x>
                <xt>Verddestallama vuođđojurdda lea lonuhangávpi, mas juobbágoabbá lea álo velggolaš nubbái.</xt>
@@ -248,11 +677,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">hver enkelt</l>
+         <l pos="phrase">hver enkelt</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">guhtenai</t>
+            <t illpl="ok" pos="pron" type="indef">guhtenai</t>
             <xg>
                <x>Jegerne får ikke skyte mer enn to fugler hver.</x>
                <xt>Bivdit eai beasa báhčit eanet go guokte lotti guhtenai.</xt>
@@ -262,11 +691,11 @@
    </e>
    <e>
       <lg>
-         <l pos="x" decl="xxx">den ene</l>
+         <l pos="phrase">den ene</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">duobbá</t>
+            <t pos="pron" type="indef">duobbá</t>
             <xg>
                <x>den ene etter den andre</x>
                <xt>duobbá dábbá</xt>

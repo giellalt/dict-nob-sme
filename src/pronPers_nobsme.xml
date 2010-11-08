@@ -2,271 +2,475 @@
 <r xml:lang="nob">
    <e>
       <lg>
-         <l pos="pron" decl="xxx">meg</l>
+         <l pos="pron">jeg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mu</t>
+            <t pos="pron" type="pers">mon</t>
+            <xg>
+               <x>jeg har</x>
+               <xt>mus lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">min</l>
+         <l pos="pron">jeg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mu</t>
+            <t pos="pron" type="pers">mun</t>
+            <xg>
+               <x>jeg har</x>
+               <xt>mus lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">mine</l>
+         <l pos="pron">du</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mu</t>
+            <t pos="pron" type="pers">don</t>
+            <xg>
+               <x>du har en hund</x>
+               <xt>dus lea beana</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til meg</l>
+         <l pos="pron">han</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">munnje</t>
+            <t pos="pron" type="pers">son</t>
+            <xg>
+               <x>han/hun har</x>
+               <xt>sus lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">jeg (har)</l>
+         <l pos="pron">hun</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mus</t>
+            <t pos="pron" type="pers">son</t>
+            <xg>
+               <x>han/hun har</x>
+               <xt>sus lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med meg</l>
+         <l pos="pron">det</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">muinna</t>
+            <t nr="sg" pos="pron" type="pers">dat</t>
+            <xg>
+               <x>Men det/han/hun skal spise ordentlige matsorter.</x>
+               <xt>Muhto dat galgá albma borramušaid borrat.</xt>
+            </xg>
+            <xg>
+               <x>Men det visste han/hun ikke.</x>
+               <xt>Muhto dan son ii diehtán.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som meg</l>
+         <l pos="pron">den</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">munin</t>
+            <t nr="sg" pos="pron" type="pers">dat</t>
+            <xg>
+               <x>Men det/han/hun skal spise ordentlige matsorter.</x>
+               <xt>Muhto dat galgá albma borramušaid borrat.</xt>
+            </xg>
+            <xg>
+               <x>Men det visste han/hun ikke.</x>
+               <xt>Muhto dan son ii diehtán.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">deg</l>
+         <l pos="phrase">vi to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">du</t>
+            <t pos="pron" type="pers">moai</t>
+            <xg>
+               <x>vi to har</x>
+               <xt>munnos lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">din</l>
+         <l pos="phrase">dere to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">du</t>
+            <t pos="pron" type="pers">doai</t>
+            <xg>
+               <x>dere to har</x>
+               <xt>dudnos lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">dine</l>
+         <l pos="phrase">de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">du</t>
+            <t pos="pron" type="pers">soai</t>
+            <xg>
+               <x>de to har</x>
+               <xt>sudnos lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til deg</l>
+         <l pos="pron">vi</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dutnje</t>
+            <t pos="pron" type="pers">mii</t>
+            <xg>
+               <x>vi har</x>
+               <xt>mis lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">du (har)</l>
+         <l pos="pron">dere</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dus</t>
+            <t pos="pron" type="pers">dii</t>
+            <xg>
+               <x>dere har</x>
+               <xt>dis lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med deg</l>
+         <l pos="pron">de</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">duinna</t>
+            <t pos="pron" type="pers">sii</t>
+            <xg>
+               <x>de har</x>
+               <xt>sis lea</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som deg</l>
+         <l pos="pron">de</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dunin</t>
+            <t nr="pl" pos="pron" type="pers">dat</t>
+            <xg>
+               <x>Vi handlet før i matvarebutikkene i Karasjok, men de sluttet å bringe varer til oss.</x>
+               <xt>Mii gávppašeimmet ovdal Kárášjoga borramušbuvddain, muhto dat heite gálvvu buktimis midjiide.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">han</l>
+         <l pos="pron">meg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">su</t>
+            <t pos="pron" type="pers">mu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">henne</l>
+         <l pos="pron">min</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">su</t>
+            <t pos="pron" type="pers">mu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hans</l>
+         <l pos="pron">mine</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">su</t>
+            <t pos="pron" type="pers">mu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hennes</l>
+         <l pos="phrase">til meg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">su</t>
+            <t pos="pron" type="pers">munnje</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til han</l>
+         <l pos="phrase">jeg (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sutnje</t>
+            <t pos="pron" type="pers">mus</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til henne</l>
+         <l pos="phrase">med meg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sutnje</t>
+            <t pos="pron" type="pers">muinna</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">han (har)</l>
+         <l pos="phrase">som meg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sus</t>
+            <t pos="pron" type="pers">munin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">hun (har)</l>
+         <l pos="pron">deg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sus</t>
+            <t pos="pron" type="pers">du</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med henne</l>
+         <l pos="pron">din</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">suinna</t>
+            <t pos="pron" type="pers">du</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med han</l>
+         <l pos="pron">dine</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">suinna</t>
+            <t pos="pron" type="pers">du</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som han</l>
+         <l pos="phrase">til deg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sunin</t>
+            <t pos="pron" type="pers">dutnje</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som henne</l>
+         <l pos="phrase">du (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sunin</t>
+            <t pos="pron" type="pers">dus</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">det</l>
+         <l pos="phrase">med deg</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dan</t>
+            <t pos="pron" type="pers">duinna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">som deg</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">dunin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">han</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">su</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">henne</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">su</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">hans</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">su</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">hennes</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">su</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">til han</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sutnje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">til henne</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sutnje</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">han (har)</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">hun (har)</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">med henne</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">suinna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">med han</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">suinna</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">som han</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sunin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">som henne</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sunin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">det</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">dan</t>
             <xg>
                <x>Jeg gjør det gjerne, sier mor.</x>
                <xt>Mun dagan dan áinnas, lohká eadni.</xt>
@@ -276,11 +480,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">den</l>
+         <l pos="pron">den</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dan</t>
+            <t pos="pron" type="pers">dan</t>
             <xg>
                <x>Jeg gjør det gjerne, sier mor.</x>
                <xt>Mun dagan dan áinnas, lohká eadni.</xt>
@@ -290,21 +494,21 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">dens</l>
+         <l pos="pron">dens</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dan</t>
+            <t pos="pron" type="pers">dan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til det</l>
+         <l pos="phrase">til det</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dasa</t>
+            <t pos="pron" type="pers">dasa</t>
             <xg>
                <x>Til det trenger vi hjelp.</x>
                <xt>Dasa mii dárbbašit veahki.</xt>
@@ -314,11 +518,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til den</l>
+         <l pos="phrase">til den</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dasa</t>
+            <t pos="pron" type="pers">dasa</t>
             <xg>
                <x>Til det trenger vi hjelp.</x>
                <xt>Dasa mii dárbbašit veahki.</xt>
@@ -328,11 +532,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">i det</l>
+         <l pos="phrase">i det</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">das</t>
+            <t pos="pron" type="pers">das</t>
             <xg>
                <x>Hva slags konsekvenser har det for skolen?</x>
                <xt>Makkár váikkuhusat das leat skuvlii?</xt>
@@ -342,11 +546,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">i den</l>
+         <l pos="phrase">i den</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">das</t>
+            <t pos="pron" type="pers">das</t>
             <xg>
                <x>Hva slags konsekvenser har det for skolen?</x>
                <xt>Makkár váikkuhusat das leat skuvlii?</xt>
@@ -356,11 +560,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med den</l>
+         <l pos="phrase">med den</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dainna</t>
+            <t pos="pron" type="pers">dainna</t>
             <xg>
                <x>Med den berges vi ikke til sommeren.</x>
                <xt>Dainna eat birge geassái.</xt>
@@ -370,11 +574,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med det</l>
+         <l pos="phrase">med det</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dainna</t>
+            <t pos="pron" type="pers">dainna</t>
             <xg>
                <x>Med den berges vi ikke til sommeren.</x>
                <xt>Dainna eat birge geassái.</xt>
@@ -384,415 +588,415 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som det</l>
+         <l pos="phrase">som det</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">danin</t>
+            <t pos="pron" type="pers">danin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som den</l>
+         <l pos="phrase">som den</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">danin</t>
+            <t pos="pron" type="pers">danin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">oss to</l>
+         <l pos="phrase">oss to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">munno</t>
+            <t pos="pron" type="pers">munno</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">vår</l>
+         <l pos="pron">vår</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
             <re>om to personer</re>
-            <t xml:lang="sme" pos="pron">munno</t>
+            <t pos="pron" type="pers">munno</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">våre</l>
+         <l pos="pron">våre</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
             <re>om to personer</re>
-            <t xml:lang="sme" pos="pron">munno</t>
+            <t pos="pron" type="pers">munno</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til oss to</l>
+         <l pos="phrase">til oss to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">munnuide</t>
+            <t pos="pron" type="pers">munnuide</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">vi to (har)</l>
+         <l pos="phrase">vi to (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">munnos</t>
+            <t pos="pron" type="pers">munnos</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med oss to</l>
+         <l pos="phrase">med oss to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">munnuin</t>
+            <t pos="pron" type="pers">munnuin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som oss to</l>
+         <l pos="phrase">som oss to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">munnon</t>
+            <t pos="pron" type="pers">munnon</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">dere to</l>
+         <l pos="phrase">dere to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dudno</t>
+            <t pos="pron" type="pers">dudno</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">deres</l>
+         <l pos="pron">deres</l>
       </lg>
-      <mg>
-         <tg>
-            <re>om to personer</re>
-            <t xml:lang="sme" pos="pron">dudno</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" decl="xxx">til dere to</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="sme" pos="pron">dudnuide</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" decl="xxx">dere to (har)</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="sme" pos="pron">dudnos</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" decl="xxx">med dere to</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="sme" pos="pron">dudnuin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" decl="xxx">som dere to</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="sme" pos="pron">dudnon</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" decl="xxx">de to</l>
-      </lg>
-      <mg>
-         <tg>
-            <t xml:lang="sme" pos="pron">sudno</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="pron" decl="xxx">deres</l>
-      </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
             <re>om to personer</re>
-            <t xml:lang="sme" pos="pron">sudno</t>
+            <t pos="pron" type="pers">dudno</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til de to</l>
+         <l pos="phrase">til dere to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sudnuide</t>
+            <t pos="pron" type="pers">dudnuide</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">de to (har)</l>
+         <l pos="phrase">dere to (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sudnos</t>
+            <t pos="pron" type="pers">dudnos</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med de to</l>
+         <l pos="phrase">med dere to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sudnuin</t>
+            <t pos="pron" type="pers">dudnuin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som de to</l>
+         <l pos="phrase">som dere to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sudnon</t>
+            <t pos="pron" type="pers">dudnon</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">oss</l>
+         <l pos="phrase">de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">min</t>
+            <t pos="pron" type="pers">sudno</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">vår</l>
+         <l pos="pron">deres</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">min</t>
+            <re>om to personer</re>
+            <t pos="pron" type="pers">sudno</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">våre</l>
+         <l pos="phrase">til de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">min</t>
+            <t pos="pron" type="pers">sudnuide</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til oss</l>
+         <l pos="phrase">de to (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">midjiide</t>
+            <t pos="pron" type="pers">sudnos</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">vi (har)</l>
+         <l pos="phrase">med de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">mis</t>
+            <t pos="pron" type="pers">sudnuin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med oss</l>
+         <l pos="phrase">som de to</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">minguin</t>
+            <t pos="pron" type="pers">sudnon</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som oss</l>
+         <l pos="pron">oss</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">minin</t>
+            <t pos="pron" type="pers">min</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">dere</l>
+         <l pos="pron">vår</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">din</t>
+            <t pos="pron" type="pers">min</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">deres</l>
+         <l pos="pron">våre</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">din</t>
+            <t pos="pron" type="pers">min</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til dere</l>
+         <l pos="phrase">til oss</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">didjiide</t>
+            <t pos="pron" type="pers">midjiide</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">dere (har)</l>
+         <l pos="phrase">vi (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dis</t>
+            <t pos="pron" type="pers">mis</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med dere</l>
+         <l pos="phrase">med oss</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dinguin</t>
+            <t pos="pron" type="pers">minguin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som dere</l>
+         <l pos="phrase">som oss</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dinin</t>
+            <t pos="pron" type="pers">minin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">dem</l>
+         <l pos="pron">dere</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sin</t>
+            <t pos="pron" type="pers">din</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">deres</l>
+         <l pos="pron">deres</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sin</t>
+            <t pos="pron" type="pers">din</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til dem</l>
+         <l pos="phrase">til dere</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sidjiide</t>
+            <t pos="pron" type="pers">didjiide</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">de (har)</l>
+         <l pos="phrase">dere (har)</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sis</t>
+            <t pos="pron" type="pers">dis</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med dem</l>
+         <l pos="phrase">med dere</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">singuin</t>
+            <t pos="pron" type="pers">dinguin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">som dem</l>
+         <l pos="phrase">som dere</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">sinin</t>
+            <t pos="pron" type="pers">dinin</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">dem</l>
+         <l pos="pron">dem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">daid</t>
+            <t pos="pron" type="pers">sin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">deres</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">til dem</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sidjiide</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">de (har)</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">med dem</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">singuin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">som dem</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">sinin</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pron">dem</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="pron" type="pers">daid</t>
             <xg>
                <x>De burde la reindriftsamene slakte dem.</x>
                <xt>Galggašedje suovvat badjeolbmuid daid njuovvat.</xt>
@@ -802,21 +1006,21 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">deres</l>
+         <l pos="pron">deres</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">daid</t>
+            <t pos="pron" type="pers">daid</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">til dem</l>
+         <l pos="phrase">til dem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">daidda</t>
+            <t pos="pron" type="pers">daidda</t>
             <xg>
                <x>Så sier kongen til dem som er på hans høyre side:</x>
                <xt>De gonagas cealká daidda geat leat su olgeš bealde:</xt>
@@ -826,11 +1030,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">i dem</l>
+         <l pos="phrase">i dem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dain</t>
+            <t pos="pron" type="pers">dain</t>
             <xg>
                <x>De fleste av dem er kommet.</x>
                <xt>Eanemus oassi dain leat boahtán.</xt>
@@ -840,11 +1044,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">av dem</l>
+         <l pos="phrase">av dem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">dain</t>
+            <t pos="pron" type="pers">dain</t>
             <xg>
                <x>De fleste av dem er kommet.</x>
                <xt>Eanemus oassi dain leat boahtán.</xt>
@@ -854,11 +1058,11 @@
    </e>
    <e>
       <lg>
-         <l pos="pron" decl="xxx">med dem</l>
+         <l pos="phrase">med dem</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="pron">daiguin</t>
+            <t pos="pron" type="pers">daiguin</t>
          </tg>
       </mg>
    </e>

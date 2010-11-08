@@ -2,111 +2,125 @@
 <r xml:lang="nob">
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Nordmannset</l>
+         <l pos="prop" type="plc">Nordmannset</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Riimmat</t>
+            <t pos="npl">Riimmat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Skånland (Troms)</l>
+         <l pos="prop" type="plc" reg="Troms">Skånland</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Skánit</t>
+            <t pos="npl">Skánit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Kjelmøya (Finnmark)</l>
+         <l pos="prop" type="plc" reg="Finnmark">Kjelmøya</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Dálmmát</t>
+            <t pos="npl">Dálmmát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Hillesøy</l>
+         <l pos="prop">Karlsvogna</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Hilssát</t>
+            <t pos="npl">Dávggát</t>
+            <xg>
+               <x>Karlsvogna er et stjernebilde.</x>
+               <xt>Dávggát leat nástegovva.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Ingøy</l>
+         <l pos="prop" type="plc">Hillesøy</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Iččát</t>
+            <t pos="npl">Hilssát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Store Ekkerøy</l>
+         <l pos="prop" type="plc">Ingøy</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Ihkkot</t>
+            <t pos="npl">Iččát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Lødingen</l>
+         <l pos="phrase" type="plc">Store Ekkerøy</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Lodegat</t>
+            <t pos="npl">Ihkkot</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Måsøy</l>
+         <l pos="prop" type="plc">Lødingen</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Muosát</t>
+            <t pos="npl">Lodegat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Vardø (Finnmark)</l>
+         <l pos="prop" type="plc">Måsøy</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Várggát</t>
+            <t pos="npl">Muosát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="npl" decl="xxx">Vågan</l>
+         <l pos="prop" type="plc" reg="Finnmark">Vardø</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Voagat</t>
+            <t pos="npl">Várggát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="xxx" decl="xxx">Orions belte</l>
+         <l pos="prop" type="plc">Vågan</l>
       </lg>
-      <mg>
+      <mg xml:lang="sme">
          <tg>
-            <t xml:lang="sme" pos="npl">Gállabártnit</t>
+            <t pos="npl">Voagat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="phrase">Orions belte</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t pos="npl">Gállabártnit</t>
          </tg>
       </mg>
    </e>
