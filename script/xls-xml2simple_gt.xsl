@@ -103,14 +103,17 @@
 		</xsl:message>
 	      </xsl:if>
 	      <e>
+		<xsl:variable name="c_pos" select="if (not(substring-before(normalize-space(Cell[11]/Data/text()), $scl) = '')) 
+						   then substring-before(normalize-space(Cell[11]/Data/text()), $scl)
+						   else 'a'"/>
 		<lg>
-		  <l pos="{substring-before(normalize-space(Cell[11]/Data/text()), $scl)}">
+		  <l pos="{if ($c_pos = 's') then 'n' else $c_pos}">
 		    <xsl:value-of select="normalize-space(Cell[1]/Data/text())"/>
 		  </l>
 		</lg>
 		<mg>
 		  <tg>
-		    <t pos="{substring-before(normalize-space(Cell[11]/Data/text()), $scl)}">
+		    <t pos="{if ($c_pos = 's') then 'n' else $c_pos}">
 		      <xsl:value-of select="normalize-space(Cell[2]/Data/text())"/>
 		    </t>
 		  </tg>
