@@ -106,8 +106,20 @@
 		<xsl:for-each select="./Cell[position() &lt; 17]">
 		  <xsl:variable name="cp" select="position()"/>
 		  <c content="{$labels/e/l[@l_pos = $cp]}" c_pos="{position()}" kids="{count(./*)}">
-		    <xsl:if test="(count(./*) > 0) and not(normalize-space(.) = '')">
-		      <xsl:copy-of copy-namespaces="no" select="./node()"/>
+		    <xsl:if test="(count(./*) &gt; 0) and not(normalize-space(.) = '')">
+		      <xsl:if test="(count(./Data/*) = 0) and not(normalize-space(./Data) = '')">
+			<xsl:value-of select="normalize-space(./Data)"/>
+		      </xsl:if>
+		      <xsl:if test="(count(./Data/*) = 1)">
+			<x_1_x>
+			  <xsl:copy-of copy-namespaces="no" select="./node()"/>
+			</x_1_x>
+		      </xsl:if>
+		      <xsl:if test="(count(./Data/*) &gt; 1)">
+			<yyy yCount="{count(./Data/*)}">
+			  <xsl:copy-of copy-namespaces="no" select="./node()"/>
+			</yyy>
+		      </xsl:if>
 		    </xsl:if>
 		  </c>
 		</xsl:for-each>
