@@ -46,8 +46,6 @@
   <xsl:variable name="e" select="'xml'"/>
   <xsl:variable name="outputDir" select="'output_kt2gt'"/>
   <xsl:variable name="debug" select="true()"/>
-
-
   <xsl:variable name="spc" select="'&#x20;'"/>
   <xsl:variable name="cl" select="':'"/>
   <xsl:variable name="dt" select="'.'"/>
@@ -68,16 +66,11 @@
   <xsl:param name="file" select="'../terms/law/rapl-ril_2011-01.xml'"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
 
-
-  
   <xsl:template match="/" name="main">
-    
     <xsl:choose>
       <xsl:when test="doc-available($file)">
-
 	<xsl:variable name="file_out" as="element()">
 	  <r xml:lang="{$slang}">
-
 	    <xsl:variable name="labels">
 	      <e>
 		<xsl:for-each select="doc($file)/Workbook/Worksheet/Table/Row[1]/Cell">
@@ -134,14 +127,17 @@
 			<xsl:value-of select="normalize-space(Cell[2]/Data/text())"/>
 		      </xsl:if>
 		      <xsl:if test="normalize-space(Cell[2]/Data/text()) = ''">
-			<xsl:value-of select="'xxx'"/>
+			<xsl:value-of select="'sme_xxx'"/>
 		      </xsl:if>
 		    </t>
-		    <xsl:if test="not(normalize-space(Cell[3]/Data/text()) = '')">
-		      <t pos="{$c_pos}" xml:lang="fin">
+		    <t pos="{$c_pos}" xml:lang="fin">
+		      <xsl:if test="not(normalize-space(Cell[3]/Data/text()) = '')">
 			<xsl:value-of select="normalize-space(Cell[3]/Data/text())"/>
-		      </t>
-		    </xsl:if>
+		      </xsl:if>
+		      <xsl:if test="normalize-space(Cell[3]/Data/text()) = ''">
+			<xsl:value-of select="'fin_xxx'"/>
+		      </xsl:if>
+		    </t>
 		  </tg>
 		</mg>
 		<term_info>
