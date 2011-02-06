@@ -65,7 +65,7 @@
 
   <!-- get input files -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="file" select="'../terms/law/my_rapl-ril_2011-01.xml'"/>
+  <xsl:param name="file" select="'../terms/law/rapl-ril_2011-01.xml'"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
 
 
@@ -127,6 +127,23 @@
 		    <xsl:value-of select="normalize-space(Cell[1]/Data/text())"/>
 		  </l>
 		</lg>
+		<mg>
+		  <tg>
+		    <t pos="{$c_pos}" xml:lang="{$tlang}">
+		      <xsl:if test="not(normalize-space(Cell[2]/Data/text()) = '')">
+			<xsl:value-of select="normalize-space(Cell[2]/Data/text())"/>
+		      </xsl:if>
+		      <xsl:if test="normalize-space(Cell[2]/Data/text()) = ''">
+			<xsl:value-of select="'xxx'"/>
+		      </xsl:if>
+		    </t>
+		    <xsl:if test="not(normalize-space(Cell[3]/Data/text()) = '')">
+		      <t pos="{$c_pos}" xml:lang="fin">
+			<xsl:value-of select="normalize-space(Cell[3]/Data/text())"/>
+		      </t>
+		    </xsl:if>
+		  </tg>
+		</mg>
 		<term_info>
 		  <i type="{$labels/e/l[@l_pos = 16]}" value="{normalize-space(Cell[16]/Data/text())}"/>
 		  <!-- <i type="{$labels/e/l[@l_pos = 4]}" count="{count(tokenize(normalize-space(Cell[4]/Data/text()), '___'))}"> -->
@@ -181,23 +198,6 @@
 		    <xsl:copy-of copy-namespaces="no" select="Cell[15]/Data/node()"/>
 		  </i>
 		</term_info>
-		<mg>
-		  <tg>
-		    <t pos="{$c_pos}" xml:lang="{$tlang}">
-		      <xsl:if test="not(normalize-space(Cell[2]/Data/text()) = '')">
-			<xsl:value-of select="normalize-space(Cell[2]/Data/text())"/>
-		      </xsl:if>
-		      <xsl:if test="normalize-space(Cell[2]/Data/text()) = ''">
-			<xsl:value-of select="'xxx'"/>
-		      </xsl:if>
-		    </t>
-		    <xsl:if test="not(normalize-space(Cell[3]/Data/text()) = '')">
-		      <t pos="{$c_pos}" xml:lang="fin">
-			<xsl:value-of select="normalize-space(Cell[3]/Data/text())"/>
-		      </t>
-		    </xsl:if>
-		  </tg>
-		</mg>
 	      </e>
 	    </xsl:for-each>
 	  </r>

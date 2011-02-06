@@ -64,7 +64,7 @@
 
   <!-- get input files -->
   <!-- These paths have to be adjusted accordingly -->
-  <xsl:param name="file" select="'../terms/law/my_rapl-ril_2011-01.xml'"/>
+  <xsl:param name="file" select="'../terms/law/rapl-ril_2011-01.xml'"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($file, '/'))[last()], '.xml')"/>
 
 
