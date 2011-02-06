@@ -44,7 +44,7 @@
   </xsl:function>
   
   <xsl:variable name="e" select="'xml'"/>
-  <xsl:variable name="outputDir" select="'output_kt2gt'"/>
+  <xsl:variable name="outputDir" select="'terms/law/out_check'"/>
   <xsl:variable name="debug" select="true()"/>
 
 
@@ -128,7 +128,7 @@
 	  </r>
 	</xsl:variable>
 	
-	<xsl:result-document href="{$outputDir}/gt_{$file_name}.{$e}">
+	<xsl:result-document href="{$outputDir}/test_{$file_name}.{$e}">
 	  <xsl:copy-of select="$file_out"/>
 	</xsl:result-document>
 	
