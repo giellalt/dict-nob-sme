@@ -1,0 +1,305 @@
+@charset "utf-8";
+
+r, rootdict {
+    display: block;
+    margin: 1ex;
+}
+
+lics {
+    display: block;
+}
+
+lics:before {
+    content: "Copyright Notes";
+    display: block;
+    font-weight: bold;
+    margin-bottom: 21px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 21px;
+}
+
+lic {
+    display: block;
+    margin: 18px;
+}
+
+ref:before {
+    display: inline;
+    white-space: pre; /* required to save \A in the next rule*/
+    content: 'Please refer to this source code with the following attribution text:\A"';
+   	font-weight: bold;
+   	font-size: smaller;
+}
+ref {
+    display: block;
+    margin: 18px;
+}
+ref:after {
+    display: inline;
+    content: '"';
+}
+
+i {
+    display: inline;
+    font-style: italic;
+}
+
+sourcenote {
+    display: block;
+    font-weight: bold;
+    margin: 18px;
+    padding-bottom: 18px;
+}
+
+a {
+    display: inline;
+}
+
+/* e styling: */
+e {
+    display: block;
+    margin-bottom: 0.3ex;
+    counter-reset: meaninggroups;
+    padding: 0.3ex;
+    border: 1px ridge #eee;
+}
+e:after {
+    display: block ;
+    color: gray ;
+    margin-left: 2ex ;
+}
+e[usage]:after {
+    content: "Usage: " attr(usage) ;
+}
+e[src]:after {
+    content: "Source: " attr(src) ;
+}
+e[usage][src]:after {
+    content: "Usage: " attr(usage) ", source: " attr(src) ;
+}
+
+/* l styling: */
+l {
+    font-weight: bold;
+}
+l:after {
+    display: inline;
+    margin-left: 0.5ex;
+    content: attr(pos);
+    font-style: italic;
+    font-size: small;
+    vertical-align: super;
+    color: gray;
+}
+l[pos][type]:after {
+    content: attr(pos) ', ' attr(type);
+}
+l[pos][type][nr]:after {
+    content: attr(pos) ', ' attr(type) ', ' attr(nr);
+}
+l[pos][nr]:after {
+    content: attr(pos) ', ' attr(nr);
+}
+l[pos][illpl]:after {
+    content: attr(pos) ', illpl=' attr(illpl);
+}
+l[pos][context]:after {
+    content: attr(pos) ', ' attr(context);
+}
+
+lg > analysis:before {
+    content: " Analysis: " ;
+    font-size: small;
+    color: gray;
+}
+lg > mg > tg > t {
+    display: inline;
+}
+
+lemma_ref:before {
+    content: "▸ " ;
+}
+lemma_ref {
+    display: inline;
+}
+lemma_ref:after {
+    display: inline;
+    content: " (" attr(lemmaID) ") ";
+    font-size: small;
+    color: gray;
+}
+
+/* mini paradigm styling: */
+/* term_info:before { */
+/*     display: block ; */
+/*     content: " Info:" ; */
+/*     font-size: small; */
+/*     color: gray; */
+/* } */
+term_info {
+    display: inline ;
+    margin-left: 2ex;
+}
+
+/* mg styling: */
+e > mg:before {
+    display: inline;
+    counter-increment: meaninggroups;
+    content: counter(meaninggroups, decimal) ". ";
+}
+e > mg {
+    display: block;
+    margin-bottom: 0.2ex;
+    margin-left: 1.33ex;
+}
+
+re:before, te:before {
+    content: " (";
+    display: inline;
+}
+re {
+    color: gray;
+    font-style: italic;
+    font-size: small;
+}
+re:after, te:after {
+    content: ")";
+    display: inline;
+}
+
+t:after {
+    display: inline;
+    font-style: italic;
+    color: gray;
+    font-size: small;
+    vertical-align: super;
+    margin-left: 0.5ex;
+}
+
+t:before {
+    display: inline;
+    color: gray;
+    content: "  ▶ ";
+    font-size: small;
+}
+
+t[pos]:after {
+    content: attr(pos);
+}
+t[pos][type]:after {
+    content: attr(pos) ", " attr(type) ;
+}
+t[pos][decl]:after {
+    content: attr(pos) " - " attr(decl) ;
+}
+t[pos][decl][type]:after {
+    content: attr(pos) " - " attr(decl) ", " attr(type) ;
+}
+
+xt:before {
+    display: inline;
+    color: gray;
+    content: "⇒ ";
+}
+
+i {
+    display: block;
+    margin-bottom: 1px;
+    margin-left: 5px;
+    margin-right: 0px;
+    margin-top: 1px;
+}
+
+i[type=Listu], i[type=Láhkaovdamearka] {
+    display: inline;
+    margin-bottom: 1px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 1px;
+}
+
+i[type=Listu]:before {
+    color: gray;
+    content: "Listu: " ;
+}
+
+i[type=Listu]:after {
+    content: attr(value);
+}
+
+i[type=Láhkaovdamearka]:before {
+    color: gray;
+    content: "Láhkaovdamearka: ";
+}
+
+i[type=Láhkaovdamearka] si  +  si:before {
+    display: inline;
+    content: " ___ ";
+}
+
+i[type='(Vuosttáš láhkaovdamearkka) cealkkaovdamearka']:before {
+    color: gray;
+    content: "Cealkkaovdamearka: ";
+}
+
+i[type='Eará cealkkaovdamearka']:before {
+    color: gray;
+    content: "Eará cealkkaovdamearka: ";
+}
+
+i[type~='Čilgehus']:before {
+    color: gray;
+    content: attr(type) ": ";
+}
+
+i[type='Antonyma']:before {
+    color: gray;
+    content: attr(type) ": ";
+}
+
+i[type~='Sullásaš']:before {
+    color: gray;
+    content: attr(type) ": ";
+}
+
+i[type~='Sátneluohkká']:before {
+    color: gray;
+    content: attr(type) ": ";
+}
+
+i[type~='Fágajoavkku']:before {
+    color: gray;
+    content: attr(type) ": ";
+}
+
+i[type~='Fágajoavkku'] {
+    color: green;
+}
+
+i[type~='Mannan']:before {
+    color: gray;
+    content: attr(type) ": ";
+}
+
+i[type~='Mannan'] {
+    color: blue;
+}
+
+i[type~='Fágajoavku']:before {
+    color: gray;
+    content: attr(type) ": ";
+}
+
+i[type~='Sámedikki']:before {
+    color: gray;
+    content: attr(type) ": ";
+}
+
+i[type~='Sámedikki'] {
+    color: red;
+}
+
+
+
+

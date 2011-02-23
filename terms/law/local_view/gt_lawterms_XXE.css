@@ -1,0 +1,44 @@
+@charset "utf-8";
+@import "gt_lawterms_XXE_shared.css";
+
+r, rootdict {
+    background-color: #fff;
+}
+
+/* tg styling: */
+tg + tg:before {
+    content: " ";
+}
+tg {
+    display: inline;
+}
+
+/* t styling: */
+t  +  t:before {
+    margin-right: 2ex;
+    margin-left: 2ex;
+    content: " Finsk: ";
+}
+t {
+    display: inline;
+}
+l + t {
+    margin-right: 2ex;
+}
+
+/* xg, x, xt styling: */
+i + xg:before {
+    margin-left: 0.5ex;
+    content: " ";
+}
+
+xg {
+    display: list-item;
+    margin-right: 3ex;
+    margin-left: 3ex;
+}
+
+xg x {
+    font-style: italic;
+}
+
