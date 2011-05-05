@@ -1,0 +1,218 @@
+<!ELEMENT r (lics?, e+, xhtml:script?) >
+<!ATTLIST r xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"      
+	  xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED
+>
+      
+<!-- the header -->
+<!ELEMENT lics (lic, ref*, sourcenote*) >
+<!ATTLIST lics xml:space (default|preserve) 'preserve'>
+<!ELEMENT lic (#PCDATA|a)*>
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA|a|i)*>
+<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
+
+<!ELEMENT e (lg, stem*, apps?, mg+) >
+<!ATTLIST e 
+      usage ( mt | vd | other ) #IMPLIED
+      src ( nj | sk | SvSt | other ) #IMPLIED
+      exclude ( smanob | nobsma ) #IMPLIED
+      reverse ( yes | no ) #IMPLIED
+>      
+<!ELEMENT lg (l, lsub*, lc*, stem*) >
+<!ELEMENT l (#PCDATA) >
+<!ATTLIST l 
+      pos ( a | n | v | adv | po | pr | pron | rel | pers | det | i | pcle |
+            num | cc | cs | prop | propPl | g3 | actor |  
+            prsprc | fp-cmp | lp-cmp | x | xxx | 
+            phrase_n | phrase_a | phrase_v | phrase_adv) #REQUIRED
+      attr ( ok | no ) #IMPLIED
+      decl ( 1 | 2 | 3 | 4 | 5 | x | i ) #IMPLIED 
+      nr ( sg | pl ) #IMPLIED
+      context CDATA #IMPLIED
+      type ( rel | pers | indef | refl | pre | post | ord | TV | IV ) #IMPLIED
+      class ( I | II | III | IV | V | VI | xxx ) #IMPLIED 
+      stem ( even | odd | 2syll | 3syll | weak ) #IMPLIED
+      p3p CDATA #IMPLIED
+      minip ( notSg1 | onlyPl ) #IMPLIED
+      illpl ( ok | no ) #IMPLIED
+      status ( sjekk | ok ) #IMPLIED
+      grad ( pos | comp | sup ) #IMPLIED
+      base CDATA #IMPLIED
+      dialect CDATA #IMPLIED
+      soggi CDATA #IMPLIED
+      rime CDATA #IMPLIED
+      margo CDATA #IMPLIED
+      vow CDATA #IMPLIED
+      diph ( yes ) #IMPLIED
+      umlaut ( full ) #IMPLIED
+      num ( pl ) #IMPLIED
+
+>      
+
+<!-- decl: i indeclineable -->
+
+<!-- lsub = frequent subform of lemma -->
+<!ELEMENT lsub (#PCDATA) >
+<!ATTLIST lsub 
+      pos ( a | n | v | adv | po | pr | pron | rel | pers | det | i | pcle |
+            num | cc | cs | prop | propPl | g3 | actor |  
+            prsprc | fp-cmp | lp-cmp | x ) #REQUIRED
+      attr ( ok | no ) #IMPLIED
+      decl ( 1 | 2 | 3 | 4 | 5 | x | i ) #IMPLIED 
+      nr ( sg | pl ) #IMPLIED
+      context CDATA #IMPLIED
+      type ( rel | pers | indef | refl | pre | post | ord ) #IMPLIED
+      class ( I | II | III | IV | V | VI ) #IMPLIED 
+      stem ( even | odd | 2syll | 3syll | weak ) #IMPLIED
+      p3p CDATA #IMPLIED
+      minip ( notSg1 | onlyPl ) #IMPLIED
+      illpl ( ok | no ) #IMPLIED
+      status ( sjekk | ok ) #IMPLIED
+      grad ( pos | comp | sup ) #IMPLIED
+      base CDATA #IMPLIED
+      dialect CDATA #IMPLIED
+>      
+
+<!-- lc = lemma comment, misused as stem field -->
+<!ELEMENT lc (#PCDATA) >
+
+<!-- the real stem field -->
+<!ELEMENT stem (#PCDATA) >
+<!ATTLIST stem 
+      class ( bisyllabic | trisyllabic | contracted ) #IMPLIED
+>      
+
+<!ELEMENT apps (app+) >
+<!ELEMENT app (sources*) >
+<!ATTLIST app 
+      name ( oahpa | mt ) #IMPLIED
+>   
+<!ELEMENT sources (book*, frequency?, geography*) >
+<!ELEMENT book EMPTY >
+<!ATTLIST book 
+      name ( a1 | dej | s1 | s2 | s3 | s4 | åa1 | åa2 | åa3 | åa4 | åa5 | åa6 | xxx ) #IMPLIED
+>      
+<!ELEMENT frequency EMPTY >
+<!ATTLIST frequency
+      class ( common | rare ) #IMPLIED
+>      
+<!ELEMENT geography EMPTY >
+<!ATTLIST geography
+      class ( other | south | mid | north ) #IMPLIED
+>      
+<!--      name CDATA #REQUIRED -->
+
+<!ELEMENT semantics (sem*) >
+<!ELEMENT sem EMPTY >
+<!ATTLIST sem
+      class CDATA #IMPLIED
+>      
+
+<!ELEMENT mg (apps?, tg+) >
+<!ATTLIST mg 
+      xml:lang ( sme | nob ) #IMPLIED
+>      
+<!ELEMENT tg (semantics?, re?, apps?, ( ((t, stem*) | tf | te ))+, xg*, syng?) >
+<!ATTLIST tg 
+      xml:lang ( sme | nob | swe ) #IMPLIED
+>
+<!ELEMENT re (#PCDATA) > <!-- Domain restriction: bot, phys, ... -->
+<!ATTLIST re 
+	  xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED
+>
+
+<!ELEMENT t (#PCDATA) >
+<!ATTLIST t oa ( first | yes | no ) "yes" >
+<!ATTLIST t dict ( yes | no ) "yes" >
+<!ATTLIST t pos ( a | S  | n  | v | 
+            adv | p | pr | po | det |
+            pron | prop | i  | cc | cs | im | npl | num |
+            pcle | s  | prsprc | phrase | fp-cmp | lp-cmp | x  | xxx |
+	    phrase_n | phrase_a | phrase_v | phrase_adv ) #REQUIRED >
+<!ATTLIST t decl ( 1 | 2 | 3 | 4 | 5 | x | irr | i ) #IMPLIED > <!-- irr irregular -->
+<!ATTLIST t gen ( m | f | n ) #IMPLIED >
+<!ATTLIST t nr ( sg | pl ) #IMPLIED >
+<!ATTLIST t lang ( swe | nob ) #IMPLIED >
+<!ATTLIST t xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
+<!ATTLIST t app CDATA #IMPLIED >
+<!ATTLIST t tcomm ( yes | no ) "no" >
+<!ATTLIST t stat ( pref ) #IMPLIED >
+
+<!-- perhaps not first for attlist oa, if reverse-leksa shall be taken from nobsma -->
+
+
+<!-- translation_comment = for Oahpa use -->
+
+<!ELEMENT tf (#PCDATA) > <!-- Translation phrase -->
+<!ATTLIST tf oa ( first | yes | no ) "yes" >
+<!ATTLIST tf dict (yes | no ) "yes" >
+<!ATTLIST tf pos ( phrase  | phrase_n | phrase_a | phrase_v | phrase_adv ) #IMPLIED >
+<!ATTLIST tf gen ( m | f | n ) #IMPLIED >
+<!ATTLIST tf lang ( swe | nob ) #IMPLIED >
+<!ATTLIST tf xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
+<!ATTLIST tf tcomm ( yes | no ) "no" >
+<!ATTLIST tf stat ( pref ) #IMPLIED >
+
+
+<!ELEMENT te (#PCDATA) > <!-- Translation explanation -->
+<!ATTLIST te lang ( swe | nob ) #IMPLIED >
+<!ATTLIST te xml:lang ( nob | sme | sma | swe | eng | deu ) #IMPLIED >
+<!ATTLIST te dict (yes | no ) "yes" >
+<!ATTLIST te oa ( first | yes | no ) "yes" >
+<!ATTLIST te stat ( pref ) #IMPLIED >
+<!ATTLIST te pos ( phrase  | phrase_n | phrase_a | phrase_v | phrase_adv ) #IMPLIED >
+
+
+<!ELEMENT xg ((x,xt)+)>
+<!ELEMENT x (#PCDATA)>
+<!ELEMENT xt (#PCDATA)>
+
+<!ELEMENT syng (syn+)>
+<!ELEMENT syn (#PCDATA)>
+
+<!ELEMENT xhtml:script EMPTY >
+<!ATTLIST xhtml:script type CDATA #FIXED "text/javascript" >
+<!ATTLIST xhtml:script src  CDATA #IMPLIED >
+<!ATTLIST xhtml:script xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml" >
+
+
+
+<!--
+This document is not quite finished yet...
+
+Here are the pos tags:
+ a  = Adjective
+ m  = Masculine (nob)
+ f  = Feminine (nob) 
+ n  = Neuter (nob), noun (sme)
+ S  = noun, still not given gender (nob)
+ v  = verb
+ adv  = adverb
+ num = numeral
+ pcle = particle
+ p  = preposition (nob)
+ pr = preposition (sme)
+ po = postposition (sme)
+ pron  = pronoun
+ i  = interjection
+ cc  = conjunction
+ cs  = subjunction
+ im = infinitive mark å (nob)
+ s  = sentence, or explanation
+ x  = still no pos
+
+Documenting
+(the tags are short due to a manual cleanup)
+r  root
+e  entry
+l  lemma
+lc lemma comment 
+m  meaning
+re restriction (semantic restriction of the following t)
+t  translation
+x  example
+xt example translation
+.g group 
+-->
