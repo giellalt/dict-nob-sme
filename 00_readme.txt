@@ -1,8 +1,10 @@
 Starting updating the nobsme for the web.
 
-Observation by
+Some observations by browsing through the files
 
-1. Example:
+1. Example: Is it alway appropriate to take the example from
+   the smenob and just turn it around?
+
    <e>
       <lg>
          <l pos="a" decl="2">kjedelig</l>
