@@ -48,4 +48,22 @@ Some observations by browsing through the files
       </mg>
    </e>
 
-2. phrase_nobsme.xml should be checked properly!
+2. Example: <l>spredt</l> vs. <x>spredt</x> exactly the same string (not to comment on
+the content of xt) : from a user perspective, weird.
+   <e>
+      <lg>
+         <l pos="a" decl="2">spredt</l>
+      </lg>
+      <mg xml:lang="sme">
+         <tg>
+            <t context="viesut" pos="a">bieđggus</t>
+            <xg>
+               <x>spredt</x>
+               <xt>biđgosis, biđgosii</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+
+3. phrase_nobsme.xml should be checked properly!
+
