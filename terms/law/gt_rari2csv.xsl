@@ -50,7 +50,7 @@
 			  "/>
   </xsl:function>
   
-  <xsl:variable name="e" select="'txt'"/>
+  <xsl:variable name="e" select="'csv'"/>
   <xsl:variable name="outputDir" select="'x_output_csv'"/>
   <xsl:variable name="debug" select="true()"/>
   <xsl:variable name="spc" select="'&#x20;'"/>
