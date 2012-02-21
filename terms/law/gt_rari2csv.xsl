@@ -100,7 +100,7 @@
 	<xsl:result-document href="{$outputDir}/{$file_name}.{$e}" format="txt">
 	  
 	  <xsl:for-each select="$headings/head">
-	    <xsl:value-of select="normalize-space(.)"/>
+	    <xsl:value-of select="concat($qm, normalize-space(.), $qm)"/>
 	    <xsl:value-of select="if (position() = last()) then $nl else '&#x9;'"/>
 	  </xsl:for-each>
 	  
@@ -117,22 +117,24 @@
 	    <xsl:value-of select="concat(normalize-space(./lg/l), '&#x9;',
 				  normalize-space(./mg/tg/t[@xml:lang='sme']), '&#x9;',
 				  normalize-space(./mg/tg/t[@xml:lang='fin']), '&#x9;',
-				  normalize-space(./term_info/i[@type='Listu']/@value), '&#x9;',
 				  normalize-space(./term_info/i[@type='Láhkaovdamearka']), '&#x9;')"/>
-	    
+
 	    <xsl:for-each select="./term_info/i[@type='(Vuosttáš láhkaovdamearkka) cealkkaovdamearka']/xg">
 	      <xsl:value-of select="normalize-space(concat(./x, '/', ./xt, ' '))"/>
 	    </xsl:for-each>
-
+	    
+	    <xsl:value-of select="'&#x9;'"/>
+	    
 	    <xsl:for-each select="./term_info/i[@type='Eará cealkkaovdamearka']/xg">
 	      <xsl:value-of select="normalize-space(concat(./x, '/', ./xt, ' '))"/>
 	    </xsl:for-each>
-
+	    
+	    <xsl:value-of select="'&#x9;'"/>
+	    
 	    <xsl:value-of select="concat(normalize-space(./term_info/i[@type='Čilgehus sámegillii']), '&#x9;',
 				  normalize-space(./term_info/i[@type='Čilgehus dárogillii']), '&#x9;',
 				  normalize-space(./term_info/i[@type='Antonyma']), '&#x9;')"/>
 	    
-
 	    <xsl:for-each select="./term_info/i[@type='Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)']/xg">
 	      <xsl:value-of select="normalize-space(concat(./x, '/', ./xt, ' '))"/>
 	    </xsl:for-each>
@@ -148,10 +150,8 @@
 				  normalize-space(./term_info/i[@type='Mannan čoahkkimis geargan']), '&#x9;',
 				  normalize-space(./term_info/i[@type='Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat']), '&#x9;',
 				  normalize-space(./term_info/i[@type='Sámedikki giellastivrra áššis 50/05']), '&#x9;',
-				  normalize-space(./term_info/i[@type='Listu']), '&#xa;')"/>
+				  normalize-space(./term_info/i[@type='Listu']/@value), '&#xa;')"/>
 	    
-	    <xsl:value-of select="'&#xa;'"/>
-
 	  </xsl:for-each>
 	</xsl:result-document>
 	
