@@ -114,7 +114,40 @@
 	      </xsl:message>
 	    </xsl:if>
 	    
-	    <xsl:value-of select="concat(./lg/l, ', ', count(./term_info/i), $nl)"/>
+	    <xsl:value-of select="concat(./lg/l, ',',
+				  ./mg/tg/t[@xml:lang='sme'], ',',
+				  ./mg/tg/t[@xml:lang='fin'], ',',
+				  ./term_info/i[@type='Listu']/@value, ',',
+				  ./term_info/i[@type='Láhkaovdamearka'], ',',)"/>
+	    
+	    <xsl:fore-ach select="./term_info/i[@type='(Vuosttáš láhkaovdamearkka) cealkkaovdamearka']/xg">
+	      <xsl:value-of select="concat(./x, '/', ./xt, ' ')"/>
+	    </xsl:fore-ach>
+
+	    <xsl:fore-ach select="./term_info/i[@type='Eará cealkkaovdamearka']/xg">
+	      <xsl:value-of select="concat(./x, '/', ./xt, ' ')"/>
+	    </xsl:fore-ach>
+
+	    <xsl:value-of select="concat(./term_info/i[@type='Čilgehus sámegillii'], ',',
+				  ./term_info/i[@type='Čilgehus dárogillii'], ',',
+				  ./term_info/i[@type='Antonyma'], ',')"/>
+	    
+
+	    <xsl:fore-ach select="./term_info/i[@type='Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)']/xg">
+	      <xsl:value-of select="concat(./x, '/', ./xt, ' ')"/>
+	    </xsl:fore-ach>
+
+	    <xsl:if test="not(./term_info/i[@type='Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)']/xg)">
+	      <xsl:value-of select="./term_info/i[@type='Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)']"/>
+	    </xsl:if>
+	    
+	    <xsl:value-of select="','"/>
+	    
+	    <xsl:value-of select="concat(./term_info/i[@type='Sátneluohkká, sojahanmálle jna.'], ',',
+				  ./term_info/i[@type='Fágajoavkku siskkaldas kommentárat'], ',',
+				  ./term_info/i[@type='Mannan čoahkkimis geargan'], ',',
+				  ./term_info/i[@type=''], ',',
+				  ./term_info/i[@type=''])"/>
 	    
 	  </xsl:for-each>
 	</xsl:result-document>
