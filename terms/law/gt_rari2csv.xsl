@@ -100,8 +100,8 @@
 	<xsl:result-document href="{$outputDir}/{$file_name}.{$e}" format="txt">
 	  
 	  <xsl:for-each select="$headings/head">
-	    <xsl:value-of select="."/>
-	    <xsl:value-of select="if (position() = last()) then $nl else ','"/>
+	    <xsl:value-of select="normalize-space(.)"/>
+	    <xsl:value-of select="if (position() = last()) then $nl else '&#x9;'"/>
 	  </xsl:for-each>
 	  
 	  <xsl:for-each select="doc($file)/r/e">
@@ -114,41 +114,44 @@
 	      </xsl:message>
 	    </xsl:if>
 	    
-	    <xsl:value-of select="concat(./lg/l, ',',
-				  ./mg/tg/t[@xml:lang='sme'], ',',
-				  ./mg/tg/t[@xml:lang='fin'], ',',
-				  ./term_info/i[@type='Listu']/@value, ',',
-				  ./term_info/i[@type='Láhkaovdamearka'], ',',)"/>
+	    <xsl:value-of select="concat(normalize-space(./lg/l), '&#x9;',
+				  normalize-space(./mg/tg/t[@xml:lang='sme']), '&#x9;',
+				  normalize-space(./mg/tg/t[@xml:lang='fin']), '&#x9;',
+				  normalize-space(./term_info/i[@type='Listu']/@value), '&#x9;',
+				  normalize-space(./term_info/i[@type='Láhkaovdamearka']), '&#x9;')"/>
 	    
-	    <xsl:fore-ach select="./term_info/i[@type='(Vuosttáš láhkaovdamearkka) cealkkaovdamearka']/xg">
-	      <xsl:value-of select="concat(./x, '/', ./xt, ' ')"/>
-	    </xsl:fore-ach>
+	    <xsl:for-each select="./term_info/i[@type='(Vuosttáš láhkaovdamearkka) cealkkaovdamearka']/xg">
+	      <xsl:value-of select="normalize-space(concat(./x, '/', ./xt, ' '))"/>
+	    </xsl:for-each>
 
-	    <xsl:fore-ach select="./term_info/i[@type='Eará cealkkaovdamearka']/xg">
-	      <xsl:value-of select="concat(./x, '/', ./xt, ' ')"/>
-	    </xsl:fore-ach>
+	    <xsl:for-each select="./term_info/i[@type='Eará cealkkaovdamearka']/xg">
+	      <xsl:value-of select="normalize-space(concat(./x, '/', ./xt, ' '))"/>
+	    </xsl:for-each>
 
-	    <xsl:value-of select="concat(./term_info/i[@type='Čilgehus sámegillii'], ',',
-				  ./term_info/i[@type='Čilgehus dárogillii'], ',',
-				  ./term_info/i[@type='Antonyma'], ',')"/>
+	    <xsl:value-of select="concat(normalize-space(./term_info/i[@type='Čilgehus sámegillii']), '&#x9;',
+				  normalize-space(./term_info/i[@type='Čilgehus dárogillii']), '&#x9;',
+				  normalize-space(./term_info/i[@type='Antonyma']), '&#x9;')"/>
 	    
 
-	    <xsl:fore-ach select="./term_info/i[@type='Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)']/xg">
-	      <xsl:value-of select="concat(./x, '/', ./xt, ' ')"/>
-	    </xsl:fore-ach>
+	    <xsl:for-each select="./term_info/i[@type='Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)']/xg">
+	      <xsl:value-of select="normalize-space(concat(./x, '/', ./xt, ' '))"/>
+	    </xsl:for-each>
 
 	    <xsl:if test="not(./term_info/i[@type='Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)']/xg)">
-	      <xsl:value-of select="./term_info/i[@type='Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)']"/>
+	      <xsl:value-of select="normalize-space(./term_info/i[@type='Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)'])"/>
 	    </xsl:if>
 	    
-	    <xsl:value-of select="','"/>
+	    <xsl:value-of select="'&#x9;'"/>
 	    
-	    <xsl:value-of select="concat(./term_info/i[@type='Sátneluohkká, sojahanmálle jna.'], ',',
-				  ./term_info/i[@type='Fágajoavkku siskkaldas kommentárat'], ',',
-				  ./term_info/i[@type='Mannan čoahkkimis geargan'], ',',
-				  ./term_info/i[@type=''], ',',
-				  ./term_info/i[@type=''])"/>
+	    <xsl:value-of select="concat(normalize-space(./term_info/i[@type='Sátneluohkká, sojahanmálle jna.']), '&#x9;',
+				  normalize-space(./term_info/i[@type='Fágajoavkku siskkaldas kommentárat']), '&#x9;',
+				  normalize-space(./term_info/i[@type='Mannan čoahkkimis geargan']), '&#x9;',
+				  normalize-space(./term_info/i[@type='Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat']), '&#x9;',
+				  normalize-space(./term_info/i[@type='Sámedikki giellastivrra áššis 50/05']), '&#x9;',
+				  normalize-space(./term_info/i[@type='Listu']), '&#xa;')"/>
 	    
+	    <xsl:value-of select="'&#xa;'"/>
+
 	  </xsl:for-each>
 	</xsl:result-document>
 	
