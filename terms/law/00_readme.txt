@@ -38,5 +38,5 @@ rett, 11
 rettssystem, 12
 rettstap, 12
 rettsvesen, 8
-
+ ==> done
 
