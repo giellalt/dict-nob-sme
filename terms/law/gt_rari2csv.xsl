@@ -100,7 +100,7 @@
 	<xsl:result-document href="{$outputDir}/{$file_name}.{$e}" format="txt">
 	  
 	  <xsl:for-each select="$headings/head">
-	    <xsl:value-of select="concat($qm, normalize-space(.), $qm)"/>
+	    <xsl:value-of select="normalize-space(.)"/>
 	    <xsl:value-of select="if (position() = last()) then $nl else '&#x9;'"/>
 	  </xsl:for-each>
 	  
