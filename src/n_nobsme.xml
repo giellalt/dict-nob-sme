@@ -19083,17 +19083,6 @@
    </e>
    <e>
       <lg>
-         <l pos="n" decl="1" gen="m">farbror</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>eldre enn far</re>
-            <t illpl="ok" pos="n">eahki</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="n" decl="1" gen="m">mistillit</l>
       </lg>
       <mg>
@@ -19733,6 +19722,29 @@
       <mg>
          <tg xml:lang="sme">
             <t illpl="ok" pos="n">eanu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n" decl="1" gen="m">onkel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>morbror</re>
+            <t illpl="ok" pos="n">eanu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>farbror som er yngre enn far</re>
+            <t illpl="ok" pos="n">čeahci</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>farbror som er eldre enn far</re>
+            <t illpl="ok" pos="n">eahki</t>
          </tg>
       </mg>
    </e>
@@ -49841,6 +49853,12 @@
          <tg xml:lang="sme">
             <re>yngre enn far</re>
             <t illpl="ok" pos="n">čeahci</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>eldre enn far</re>
+            <t illpl="ok" pos="n">eahki</t>
          </tg>
       </mg>
    </e>
