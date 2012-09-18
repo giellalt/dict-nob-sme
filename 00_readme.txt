@@ -8,6 +8,9 @@ Det vi bør gjere for nobsme ser ut til å vere:
  ==> DONE
 - snu resten av orda i smenob, men __separat__.
  ==> DONE
+- check the files in reverted_new/src_vd with those in the src and
+  unify whatever it is worth to unify (__Cip and/or Trond__)
+ ==> TODO
 - deretter eventuelt legge til frå not-vd-nobsme til gjeldande nobsme manuelt
  ==> TODO
 - deretter arbeide med nobsme frå eit norsk perspektiv. Tidsplan for det kjem vi attende til
