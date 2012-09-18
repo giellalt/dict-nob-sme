@@ -5,14 +5,13 @@ Issues:
 Det vi bør gjere for nobsme ser ut til å vere:
 
 - snu usage-VD på nytt
- ==> TODO
+ ==> DONE
 - snu resten av orda i smenob, men __separat__.
- ==> TODO
+ ==> DONE
 - deretter eventuelt legge til frå not-vd-nobsme til gjeldande nobsme manuelt
  ==> TODO
 - deretter arbeide med nobsme frå eit norsk perspektiv. Tidsplan for det kjem vi attende til
  ==> TODO
-
 
 Some observations by browsing through the files
 
