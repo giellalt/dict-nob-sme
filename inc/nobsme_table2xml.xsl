@@ -33,7 +33,8 @@
   <xsl:param name="inFile" select="'default'"/>
   <xsl:param name="of" select="'xml'"/>
   <xsl:param name="outDir" select="'out'"/>
-  
+  <xsl:variable name="slang" select="'nob'"/>
+  <xsl:variable name="tlang" select="'sme'"/>
   
   <xsl:template match="/" name="main">
     
@@ -44,7 +45,7 @@
 	<xsl:variable name="file" select="unparsed-text($inFile)"/>
 	<xsl:variable name="file_lines" select="distinct-values(tokenize($file, $nl))" as="xs:string+"/>
 	<xsl:variable name="dict" as="element()">
-	  <r>
+	  <r xml:lang="{$slang}">
 	    <xsl:for-each select="$file_lines">
 	      <xsl:variable name="normLine" select="normalize-space(.)"/>
 	      <xsl:analyze-string select="$normLine" regex="^([^\s|\t|{$us}]+)[\s|\t]+([^\s|\t|{$us}]+)[\s|\t]+(.*)$" flags="s">
@@ -64,12 +65,11 @@
 		    </lg>
 		    <xsl:for-each select="$target">
 		      <mg>
-			<tg>
+			<tg xml:lang="{$slang}">
 			  <xsl:for-each select="tokenize(., $cm)">
 			    <t>
 			      <xsl:attribute name="pos">
 				<xsl:value-of select="normalize-space($pos)"/>
-				<!--				<xsl:value-of select="'xxx'"/> -->
 			      </xsl:attribute>
 			      <xsl:value-of select="normalize-space(.)"/>
 			    </t>
@@ -77,13 +77,6 @@
 			</tg>
 		      </mg>
 		    </xsl:for-each>
-		    <!-- 			  <features> -->
-		    <!-- 			    <xsl:attribute name="count"> -->
-		    <!-- 			      <xsl:value-of select="$count"/> -->
-		    <!-- 			    </xsl:attribute> -->
-		    <!-- 			    <xsl:value-of select="$features"/> -->
-		    <!-- 			  </features> -->
-		    <!-- 			  <rest val="{$rest}"/> -->
 		  </e>
 		</xsl:matching-substring>
 		<xsl:non-matching-substring>
@@ -94,14 +87,14 @@
 	  </r>
 	</xsl:variable>
 	
-	<!-- compute and output the intersection set: elements that are both in file 1 and in file 2 -->
+	<!-- output xml file -->
 	<xsl:result-document href="{$outDir}/{$inFile}.{$of}" format="{$of}">
 	  <r>
 	    <xsl:copy-of select="$dict/e"/>
 	  </r>
 	</xsl:result-document>
 
-	<!-- compute and output the intersection set: elements that are both in file 1 and in file 2 -->
+	<!-- output txt file with non-translated entries in the same format as the input file -->
 	<xsl:result-document href="{$outDir}/{$inFile}" format="txt">
 	  <xsl:value-of select="concat('lemma', $tab, 'POS', $tab, 'jorgalus', $nl)"/>
 	  <xsl:for-each select="$dict/xxx">
