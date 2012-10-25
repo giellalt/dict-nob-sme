@@ -103,8 +103,10 @@
 
 	<!-- compute and output the intersection set: elements that are both in file 1 and in file 2 -->
 	<xsl:result-document href="{$outDir}/{$inFile}" format="txt">
+	  <xsl:value-of select="concat('lemma', $tab, 'POS', $tab, 'jorgalus', $nl)"/>
 	  <xsl:for-each select="$dict/xxx">
-	    <xsl:value-of select="concat(., $nl)"/>
+	    <xsl:variable name="lemma_pos" select="tokenize(., ' ')"/>
+	    <xsl:value-of select="concat(normalize-space($lemma_pos[1]), $tab, normalize-space($lemma_pos[2]), $tab, $nl)"/>
 	  </xsl:for-each>
 	</xsl:result-document>
 
