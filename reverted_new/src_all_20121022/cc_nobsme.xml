@@ -1,42 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xml:lang="nob">
-   <e>
-      <lg>
-         <l pos="cc">eller</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="cc">elege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="cc">ele</t>
-         </tg>
-      </mg>
-   </e>
    <e usage="vd">
       <lg>
          <l pos="cc">eller</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="cc">dahege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="cc">dahe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="cc">dahjege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>i fortellende setninger</re>
             <t pos="cc">dahje</t>
+            <t pos="cc">dahe</t>
+            <t pos="cc">dahege</t>
+            <t pos="cc">dahjege</t>
+            <t pos="cc">dehege</t>
             <xg>
                <x>Alle hadde funnet klær eller andre ting som de ville kjøpe.</x>
                <xt>Buohkat ledje gávdnan biktasiid dahje eará dávviriid maid háliidedje oastit.</xt>
@@ -45,17 +20,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="cc">dehege</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="cc">dehe</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>i spørsmål om to alternativer</re>
+         <re>i spørsmålssetninger</re>
             <t pos="cc">vai</t>
             <xg>
                <x>Er du den som skal komme, eller skal vi vente på en annen?</x>
@@ -82,6 +47,19 @@
          </tg>
       </mg>
    </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="cc">samt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="cc">ja maid</t>
+            <xg>
+               <x>Beskjeden kom pr. mail samt pr. telefon?</x>
+               <xt>Diehtu bođii maila bokte, ja maid telefuvnna bokte.</xt>
+            </xg>
+         </tg>
+      </mg>
    <e src="nj" usage="vd">
       <lg>
          <l pos="cc">men</l>
