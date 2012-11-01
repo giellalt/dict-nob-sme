@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r id="nobsme" xml:lang="nob">
-   <e>
+<r xml:lang="nob">
+   <e src="nj">
+      <lg>
+         <l pos="num">åtte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="num">gákci</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj">
+      <lg>
+         <l pos="num">ni</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="num">okci</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">nitti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="num">okciloge</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">sytti</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="num">čiehčalogi</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">to</l>
       </lg>
@@ -14,7 +54,22 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">halv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om klokka</re>
+            <t pos="num">beal</t>
+            <xg>
+               <x>Klokken er halv ett.</x>
+               <xt>Diibmu lea beal okta.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
       <lg>
          <l pos="num">million</l>
       </lg>
@@ -24,7 +79,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">halvannen</l>
       </lg>
@@ -34,7 +89,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjue-tretti</l>
       </lg>
@@ -44,7 +99,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">flere titalls</l>
       </lg>
@@ -54,7 +109,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tolv-tretten</l>
       </lg>
@@ -64,7 +119,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">parhundre</l>
       </lg>
@@ -74,7 +129,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">mangehundre</l>
       </lg>
@@ -84,7 +139,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">hundretusen</l>
       </lg>
@@ -94,7 +149,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">totusen</l>
       </lg>
@@ -104,7 +159,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">ellevehundre</l>
       </lg>
@@ -114,67 +169,83 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l pos="num">million</l>
+         <l pos="num">14-19000</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">miljon</t>
+            <t pos="num">máŋganuppelohkáiduhát</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">14-19</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="num">máŋganuppelohkái</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">2-3000</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="num">moaddeduhát</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
       <lg>
          <l pos="num">milliard</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">miljárda</t>
+            <t pos="num">miljárda</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">ti</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">logi</t>
+            <t pos="num">logi</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">fire</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">njeallje</t>
+            <t pos="num">njeallje</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">elleve</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">nuppelohkái</t>
-            <xg>
-               <x>I Alta var det tolv-tretten innbrudd sist helg.</x>
-               <xt>Álttás ledje nuppelohkái sisagaikuma mannan vahkkoloahpa.</xt>
-            </xg>
+            <t pos="num">nuppelohkái</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">tolv-tretten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">nuppelohkái</t>
+            <t pos="num">nuppelohkái</t>
             <xg>
                <x>I Alta var det tolv-tretten innbrudd sist helg.</x>
                <xt>Álttás ledje nuppelohkái sisagaikuma mannan vahkkoloahpa.</xt>
@@ -182,111 +253,101 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">en</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">okta</t>
+            <t pos="num">okta</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">ni</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">ovcci</t>
+            <t pos="num">ovcci</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">fem</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">vihtta</t>
+            <t pos="num">vihtta</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">nitti</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">ovccilogi</t>
+            <t pos="num">ovccilogi</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">sju</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">čieža</t>
+            <t pos="num">čieža</t>
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="num">syv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">čieža</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">to</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">guokte</t>
+            <t pos="num">guokte</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">tre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">golbma</t>
+            <t pos="num">golbma</t>
             <xg>
-               <x>Men det har allerede gått tre dager siden den skjedde.</x>
+               <x>Men det har allerede gått tre dager siden det skjedde.</x>
                <xt>Muhto dál leat juo vássán golbma beaivvi dan rájes go dát dáhpáhuvai.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">seks</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">guhtta</t>
+            <t pos="num">guhtta</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="num">åtte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t context="gápmagat" pos="num">gávcci</t>
+            <t pos="num">gávcci</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">elleve</l>
       </lg>
@@ -296,7 +357,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tolv</l>
       </lg>
@@ -306,7 +367,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tretten</l>
       </lg>
@@ -316,7 +377,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">fjorten</l>
       </lg>
@@ -326,7 +387,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">femten</l>
       </lg>
@@ -336,7 +397,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">seksten</l>
       </lg>
@@ -346,7 +407,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">sytten</l>
       </lg>
@@ -356,7 +417,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">søtten</l>
       </lg>
@@ -366,7 +427,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">atten</l>
       </lg>
@@ -376,7 +437,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">nitten</l>
       </lg>
@@ -386,7 +447,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjue</l>
       </lg>
@@ -396,7 +457,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tyve</l>
       </lg>
@@ -406,7 +467,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjueen</l>
       </lg>
@@ -416,7 +477,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjueto</l>
       </lg>
@@ -426,7 +487,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjuetre</l>
       </lg>
@@ -436,7 +497,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjuefire</l>
       </lg>
@@ -446,7 +507,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjuefem</l>
       </lg>
@@ -456,7 +517,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjueseks</l>
       </lg>
@@ -466,7 +527,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjuesju</l>
       </lg>
@@ -476,7 +537,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjueåtte</l>
       </lg>
@@ -486,7 +547,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tjueni</l>
       </lg>
@@ -496,7 +557,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tretti</l>
       </lg>
@@ -506,7 +567,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">trettien</l>
       </lg>
@@ -516,7 +577,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">trettito</l>
       </lg>
@@ -526,7 +587,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">trettitre</l>
       </lg>
@@ -536,7 +597,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">trettifire</l>
       </lg>
@@ -546,7 +607,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">trettifem</l>
       </lg>
@@ -556,7 +617,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">trettiseks</l>
       </lg>
@@ -566,7 +627,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">trettisju</l>
       </lg>
@@ -576,7 +637,17 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
+      <lg>
+         <l pos="num">trettisyv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="num">golbmalogičieža</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
       <lg>
          <l pos="num">trettiåtte</l>
       </lg>
@@ -586,7 +657,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">trettini</l>
       </lg>
@@ -596,7 +667,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">førti</l>
       </lg>
@@ -606,7 +677,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">femti</l>
       </lg>
@@ -616,7 +687,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">seksti</l>
       </lg>
@@ -626,7 +697,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">søtti</l>
       </lg>
@@ -636,7 +707,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">sytti</l>
       </lg>
@@ -646,7 +717,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">åtti</l>
       </lg>
@@ -656,7 +727,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">hundre</l>
       </lg>
@@ -666,7 +737,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tohundre</l>
       </lg>
@@ -676,7 +747,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">trehundre</l>
       </lg>
@@ -686,7 +757,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">firehundre</l>
       </lg>
@@ -696,7 +767,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">femhundre</l>
       </lg>
@@ -706,9 +777,9 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
-         <l pos="num">ekshundre</l>
+         <l pos="num">sekshundre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -716,7 +787,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">sjuhundre</l>
       </lg>
@@ -726,7 +797,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">syvhundre</l>
       </lg>
@@ -736,7 +807,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">åttehundre</l>
       </lg>
@@ -746,7 +817,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">nihundre</l>
       </lg>
@@ -756,7 +827,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tusen</l>
       </lg>
@@ -766,7 +837,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">tretusen</l>
       </lg>
@@ -776,7 +847,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">firetusen</l>
       </lg>
@@ -786,7 +857,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">femtusen</l>
       </lg>
@@ -796,7 +867,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">sekstusen</l>
       </lg>
@@ -806,7 +877,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">sjutusen</l>
       </lg>
@@ -816,7 +887,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">syvtusen</l>
       </lg>
@@ -826,7 +897,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">åttetusen</l>
       </lg>
@@ -836,7 +907,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
       <lg>
          <l pos="num">nitusen</l>
       </lg>

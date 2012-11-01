@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r id="nobsme" xml:lang="nob">
-   <e>
+<r xml:lang="nob">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="i">pokker</l>
       </lg>
@@ -10,7 +10,78 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd">
+      <lg>
+         <l pos="i">oi</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="phrase_i">vuoi ihán</t>
+            <xg>
+               <x>Oi, så flink du er.</x>
+               <xt>Vuoi ihán, don leat čeahppi.</xt>
+            </xg>
+            <xg>
+               <x>Å dæven, det er rotete her.</x>
+               <xt>Vuoi ihán, dáppe lea moivvas.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="i">å dæven</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="phrase_i">vuoi ihán</t>
+            <xg>
+               <x>Oi, så flink du er.</x>
+               <xt>Vuoi ihán, don leat čeahppi.</xt>
+            </xg>
+            <xg>
+               <x>Å dæven, det er rotete her.</x>
+               <xt>Vuoi ihán, dáppe lea moivvas.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="i">nei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>uttrykk for at en nekter, avviser eller protesterer mot noe</re>
+            <t pos="i">aa</t>
+            <xg>
+               <x>Nei, det vil jeg ikke.</x>
+               <xt>Aa, dan in háliit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="i">jasså</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="i">já</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="i">hei</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="i">dearvva</t>
+         </tg>
+      </mg>
+   </e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="i">akk</l>
       </lg>
@@ -28,7 +99,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="i">å</l>
       </lg>

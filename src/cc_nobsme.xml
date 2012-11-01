@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r id="nobsme" xml:lang="nob">
-   <e>
+<r xml:lang="nob">
+   <e usage="vd">
       <lg>
          <l pos="cc">eller</l>
       </lg>
@@ -33,6 +33,7 @@
          </tg>
       </mg>
    </e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="cc">og</l>
       </lg>
@@ -46,21 +47,7 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="cc">men</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="cc">muhto</t>
-            <xg>
-               <x>Jeg kan godt hjelpe deg, men i dag har jeg ikke tid.</x>
-               <xt>Mun sáhtán áinnas veahkehit du, muhto odne in astta.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
+   <e src="nj" usage="vd">
       <lg>
          <l pos="cc">samt</l>
       </lg>
@@ -70,6 +57,19 @@
             <xg>
                <x>Beskjeden kom pr. mail samt pr. telefon?</x>
                <xt>Diehtu bođii maila bokte, ja maid telefuvnna bokte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   <e src="nj" usage="vd">
+      <lg>
+         <l pos="cc">men</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="cc">muhto</t>
+            <xg>
+               <x>Jeg kan godt hjelpe deg, men i dag har jeg ikke tid.</x>
+               <xt>Mun sáhtán áinnas veahkehit du, muhto odne in astta.</xt>
             </xg>
          </tg>
       </mg>
