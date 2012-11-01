@@ -5,9 +5,8 @@
          <l pos="pr">av</l>
       </lg>
       <mg>
-         <tg>
-            <re>bort fra</re>
-            <te>lokativ</te>
+         <tg re="bort fra">
+            <t expl="lokativ" />
             <xg>
                <x>Han datt av hesten</x>
                <xt>Son gahčai heasttas</xt>
@@ -17,36 +16,38 @@
                <xt>Son manai uksa ráigge sisa</xt>
             </xg>
          </tg>
+      </mg>
+      <mg re="opphav">
          <tg>
-            <re>opphav</re>
-            <t pos="">(lokativ)</t>
-            <xg>
-               <x>Et maleri av Iver Jåks</x>
-               <xt>Iver Jåksa maleriija</xt>
-            </xg>
+            <t type="expl=">lokativ</t>
             <xg>
                <x>Han lever av fiske</x>
                <xt>Son eallá guolastemiin</xt>
             </xg>
+            <xg>
+               <x>Et maleri av Iver Jåks</x>
+               <xt>Iver Jåksa maleriija</xt>
+            </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="i passiv">
          <tg>
-            <te>i passiv</te>
             <xg>
                <x>Skuteren ble kjørt av Marit.</x>
                <xt>Skuteriin vujii Máret.</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="i uttrykk">
          <tg>
-            <te>i uttrykk</te>
+            <t/>
             <xg>
                <x>gå av</x>
                <xt>luohpat</xt>
-               <x>Dán virggis lei dassážii go luobai penšuvnnain.</x>
-               <xt> Han var i stillingen helt til han gikk av i pensjon.</xt>
+            </xg>
+            <xg>
+               <x> Han var i stillingen helt til han gikk av med pensjon.</x>
+               <xt>Dán virggis lei dassážii go luobai penšuvnnain.</xt>
             </xg>
             <xg>
                <x>ta av lokket</x>
@@ -125,86 +126,38 @@
       <lg>
          <l pos="pr">på</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om klokkeslett</re>
-            <t pos="adv">váile</t>
-            <xg>
-               <x>Klokka er fem på tre.</x>
-               <xt>Diibmu lea vihtta váile golbma.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>langs en strekning</re>
-            <t pos="po">geaže</t>
-            <xg>
-               <x>De flyttet fordi denne enden.</x>
-               <xt>Dat johte dán geaže.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>langs en strekning</re>
-            <t pos="pr">geaže</t>
-            <xg>
-               <x>De flyttet fordi nordenden av fjellet.</x>
-               <xt>Dat johte davágeaže dán vári</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="po">ala</t>
-            <xg>
-               <x>Sett den på bordet!</x>
-               <xt>Bija dan beavddi ala!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="po">nala</t>
-            <xg>
-               <x>Sett den på bordet!</x>
-               <xt>Bija dan beavddi nala!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+      <mg re="i ro">
+         <tg>
             <t pos="po">alde</t>
+            <xg>
+               <x>Boka ligger på bordet</x>
+               <xt>Girji lea beavddi alde</xt>
+            </xg>
             <xg>
                <x>Guttene holdt på å leke med skuter på elva.</x>
                <xt>Lunttat ledje stoahkame skohteriin eanu alde.</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="po">nalde</t>
+      <mg re="retning til">
+         <tg>
+            <t pos="">ala</t>
             <xg>
-               <x>Guttene holdt på å leke med skuter på elva.</x>
-               <xt>Lunttat ledje stoahkame skohteriin eanu nalde.</xt>
+               <x>Jeg legger boka på bordet</x>
+               <xt>Mun bijan girjji beavddi ala</xt>
+            </xg>
+            <xg>
+               <x>Jeg setter meg på steinen</x>
+               <xt>Mun čohkkedan geađggi ala</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="om klokkeslett">
          <tg xml:lang="sme">
-            <t pos="pr">gasku</t>
+            <t pos="adv">váile</t>
             <xg>
-               <x>Telefonen ringte midt under møtet.</x>
-               <xt>Telefovdna riŋgii gasku čoahkkima.</xt>
-            </xg>
-            <xg>
-               <x>Den gamle mannen malte den gule stripa som går midt på vegen.</x>
-               <xt>Áddjá málii dan fiskes sázu mii manná gasku luotta.</xt>
-            </xg>
-            <xg>
-               <x>Forhåpentligvis er Nordlys midt på tabellen når serien avsluttes på høsten.</x>
-               <xt>Doaivumis lea Nordlys gasku tabealla go čiekčamat loahpahuvvojit čakčat.</xt>
+               <x>Klokka er fem på tre.</x>
+               <xt>Diibmu lea vihtta váile golbma.</xt>
             </xg>
          </tg>
       </mg>
@@ -214,6 +167,23 @@
          <l pos="pr">fra</l>
       </lg>
       <mg>
+         <tg>
+            <t type="expr">lokativ</t>
+            <xg>
+               <x>Hun kom fra Kautokeino i dag</x>
+               <xt>Son bođii Guovdageainnus odne</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="opphav">
+         <tg>
+            <xg>
+               <x>Hun kommer opprinnelig fra Tana</x>
+               <xt>Son lea Deanus eret</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="intervall">
          <tg xml:lang="sme">
             <t pos="po">rájes</t>
             <xg>
@@ -227,55 +197,9 @@
       <lg>
          <l pos="pr">over</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="adv">miehtá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>langs en strekning</re>
-            <t pos="po">geaže</t>
-            <xg>
-               <x>De flyttet fordi denne enden.</x>
-               <xt>Dat johte dán geaže.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>langs en strekning</re>
-            <t pos="pr">geaže</t>
-            <xg>
-               <x>De flyttet fordi nordenden av fjellet.</x>
-               <xt>Dat johte davágeaže dán vári</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="po">bajábealde</t>
-            <xg>
-               <x>Huset vårt står ovenfor veien.</x>
-               <xt>Min viessu lea luotta bajábealde.</xt>
-            </xg>
-            <xg>
-               <x>Til nå har det vært svært lite laksefiske ovenfor fossen.</x>
-               <xt>Dássážii lea leamaš hui unnán luossabivdu bajábealde goržži.</xt>
-            </xg>
-            <xg>
-               <x>Dermed kan samene ha separate rettigheter på grunnlag av prinsippene som er nevnt ovenfor.</x>
-               <xt>Dasto sáhttet sápmelaččain leat leamen sierra vuoigatvuođat bajábealde namuhuvvon prinsihpaid vuođul.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="pr">miehtá</t>
-            <xg>
-               <x>Idolstjernene reiser langs hele Norge den sommeren.</x>
-               <xt>Idol násttit mátkkoštit miehtá Norgga dán geasi.</xt>
-            </xg>
+      <mg re="i ro">
+         <tg>
+            <t pos="po">alde</t>
          </tg>
       </mg>
       <mg>
@@ -307,8 +231,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
-            <re>bevegelse til</re>
+         <tg re="bevegelse til" xml:lang="sme">
             <t pos="po">bajábeallái</t>
             <xg>
                <x>Ánne hengte opp en lampe på veggen over senga.</x>
@@ -331,7 +254,25 @@
       <lg>
          <l pos="pr">til</l>
       </lg>
-      <mg>
+      <mg re="om bevegelse til">
+         <tg>
+            <t type="expr">illativ</t>
+            <xg>
+               <x>Vi drar til Karasjok</x>
+               <xt>Mii vuolgit Kárášjohkii</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="tilhørighet">
+         <tg>
+            <t type="expr">genitiv</t>
+            <xg>
+               <x>Det er bilen til far</x>
+               <xt>Dat lea áhči biila</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="fra ... til">
          <tg xml:lang="sme">
             <t pos="po">rádjai</t>
             <xg>
@@ -346,23 +287,19 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="po">rádjái</t>
+            <t pos="po">lusa</t>
             <xg>
-               <x>Det er 40 slektledd fra David til Babylons fangenskap.</x>
-               <xt>Nu leat 40 buolvva Dávveda rájes Babylonia fáŋgavuođa rádjái.</xt>
-            </xg>
-            <xg>
-               <x>Prosjektfinansieringa varer til 2001, og deretter endres det forhåpentligvis til å bli fast finansiering.</x>
-               <xt>Prošeaktaruhtadeapmi bistá 2001 rádjái, ja dan maŋŋá doaivumis rievdaduvvo bissovažžan.</xt>
+               <x>Han gikk til far.</x>
+               <xt>Son manai áhči lusa.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="po">lusa</t>
+            <t pos="po">geahčai</t>
             <xg>
-               <x>Han gikk til far.</x>
-               <xt>Son manai áhči lusa.</xt>
+               <x>Kom hjem til oss!</x>
+               <xt>Boađe min geahčai!</xt>
             </xg>
          </tg>
       </mg>
@@ -375,16 +312,21 @@
          <tg xml:lang="sme">
             <t pos="po">bokte</t>
             <xg>
-               <x>EU-støtte via Interreg kan gå til slike prosjekter.</x>
-               <xt>EU-doarjja Interreg bokte sáhttá mannat dakkár prošeavttaide.</xt>
-            </xg>
-            <xg>
                <x>Med dette er det spart mye penger.</x>
                <xt>Dakko bokte lea sestojuvvon ollu ruhta.</xt>
             </xg>
             <xg>
                <x>I Finnmark har det bodd bare samer, som med språk og kultur danner et nasjonalt mindretall i Norge.</x>
                <xt>Finnmárkkus leat ássan dušše sápmelaččat, geat giela ja kultuvrra bokte ovddastit čearddalaš unnitlogu Norggas.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="via">
+         <tg>
+            <t pos="po">bokte</t>
+            <xg>
+               <x>Den nye veien går via Ramfjord</x>
+               <xt>Ođđa geaidnu manná Gáranasvuona bokte</xt>
             </xg>
          </tg>
       </mg>
@@ -398,7 +340,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+        <tg xml:lang="sme">
             <t pos="po">fárus</t>
             <xg>
                <x>Mor er med oss.</x>
@@ -444,6 +386,12 @@
          </tg>
       </mg>
       <mg>
+          <t pos="">gaskkas</t>
+            <xg>
+               <x>Samarbeidet mellom barnehage og skole er et av satsingsområdene i Kunnskapsdepartementets strategi</x>
+               <xt>Ovttasbargu mánáidgárddi ja skuvlla gaskkas lea okta nannensuorgi Máhttodepartemeantta strategiijas</xt>
+            </xg>
+
          <tg xml:lang="sme">
             <t pos="pr">gasku</t>
             <xg>
@@ -452,7 +400,7 @@
             </xg>
             <xg>
                <x>Den gamle mannen malte den gule stripa som går midt på vegen.</x>
-               <xt>Áddjá málii dan fiskes sázu mii manná gasku luotta.</xt>
+               <xt>Áddjá málii fiskes sázu gasku luotta.</xt>
             </xg>
             <xg>
                <x>Forhåpentligvis er Nordlys midt på tabellen når serien avsluttes på høsten.</x>
@@ -473,6 +421,15 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="adv">gaskka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="po">gaskkas</t>
+            <xg>
+               <x>Endringer blant de politiske rådgiverne</x>
+               <xt>Nuppástusat politihkalaš ráđđeaddiid gaskkas</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -498,18 +455,18 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="langs en strekning">
          <tg xml:lang="sme">
-            <t pos="pr">meattá</t>
+            <t pos="po">geaže</t>
+            <xg>
+               <x>De flyttet forbi denne enden.</x>
+               <xt>Dat johte dán geaže.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="po">meaddel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="po">meaddil</t>
          </tg>
       </mg>
@@ -518,6 +475,22 @@
       <lg>
          <l pos="pr">for</l>
       </lg>
+      <mg>
+         <tg>
+            <t type="expl">illativ</t>
+            <xg>
+               <x>Tran er godt for helsa</x>
+               <xt>Guolevuodja lea buorre dearvvašvuhtii</xt>
+            </xg>
+         </tg>
+         <tg>
+            <t pos="">ovddas</t>
+            <xg>
+               <x>Han kjøper godter for 20 kroner</x>
+               <xt>Son oastá njálggasiid 20 ruvnnu ovddas</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="po">dihtii</t>
@@ -531,8 +504,74 @@
          <tg xml:lang="sme">
             <t pos="po">dihte</t>
             <xg>
+               <x>Mun dagan dan du dihte</x>
+               <xt>Jeg gjør det for din skyld</xt>
+            </xg>
+            <xg>
                <x>Jeg kommer her til deg for å skrive det brevet.</x>
                <xt>Mun dál boađán du lusa čállin dihte dan reivve.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="om tid">
+            <t pos=""></t>
+            <xg>
+               <x>nå for tiden</x>
+               <xt>dán áigge</xt>
+            </xg>
+            <xg>
+               <x>for to år siden</x>
+               <xt>guokte jagi áigi</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t type="expl">komitativ</t>
+            <xg>
+               <x>Det er sydd for hånd</x>
+               <xt>Dát lea gieđaiguin gorrojuvvon</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t type="expr">lokativ</t>
+            <xg>
+               <x>Han laget maten ferdig på to timer</x>
+               <xt>Son gárvii biepmu guovtti diimmus</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="tidspunkt">
+         <tg>
+            <t type="expr">akkusativ</t>
+            <xg>
+               <x>Hun kom på søndag</x>
+               <xt>Son bođii sotnabeaivvi</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="om klokka">
+         <tg>
+            <t pos="po">váile</t>
+            <xg>
+               <x>Klokka er fem på tre</x>
+               <xt>Diibmu lea vihtta váile golbma</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="om mengde og størrelse">
+         <tg>
+            <t type="expr">adjektivsavledning</t>
+            <xg>
+               <x>et barn på to år</x>
+               <xt>guovttejahkásaš mánná</xt>
+            </xg>
+            <xg>
+               <x>en fisk på fem kilo</x>
+               <xt>viđa gilosaš guolli</xt>
             </xg>
          </tg>
       </mg>
@@ -559,31 +598,22 @@
       <lg>
          <l pos="pr">langs</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="adv">miehtá</t>
-         </tg>
-      </mg>
-      <mg>
+      <mg re="langs hele">
          <tg xml:lang="sme">
             <t pos="pr">miehtá</t>
             <xg>
                <x>Idolstjernene reiser langs hele Norge den sommeren.</x>
                <xt>Idol násttit mátkkoštit miehtá Norgga dán geasi.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="po">mielde</t>
             <xg>
                <x>langs veien</x>
                <xt>geainnu mielde</xt>
             </xg>
-            <xg>
-               <x>Hun blir med meg til Finland.</x>
-               <xt>Son vuolgá mu mielde Supmii.</xt>
-            </xg>
+         </tg>
+      </mg>
+      <mg re="langs sida av">
+         <tg>
+            <t pos="">bálddas</t>
          </tg>
       </mg>
    </e>
@@ -624,22 +654,20 @@
          </tg>
       </mg>
    </e>
+   
    <e usage="vd">
       <lg>
          <l pos="pr">etter</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>om sted i overført betydning</re>
-            <t pos="po">bearrái</t>
+            <t pos="po">maŋŋái</t>
             <xg>
-               <x>Jeg skal se etter dette huset.</x>
-               <xt>Mun galggan geahččat dán viesu bearrái.</xt>
+               <x>Bestemor sprang av gårde etter barna.</x>
+               <xt>Áhkku viehkalii mánáid maŋŋái.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+         <tg re="om to som beveger seg i samme retning" xml:lang="sme">
             <t pos="po">maŋis</t>
             <xg>
                <x>Bestemor sprang etter barna.</x>
@@ -649,14 +677,32 @@
                <x>Ánte kom springende med Biera etter seg.</x>
                <xt>Ánte bođii viega ja Biera bođii maŋis.</xt>
             </xg>
+            <xg>
+               <x>Hunden kom springende etter dem</x>
+               <xt>Beana bođii ruohta sin maŋis</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="om tid">
+         <tg>
+            <t pos="pr">maŋŋel</t>
+            <xg>
+               <x>Barna går hjem etter skolen</x>
+               <xt>Mánát vázzet ruoktot maŋŋel skuvlla</xt>
+            </xg>
+            <xg>
+               <x>etter krigen</x>
+               <xt>maŋŋel soađi</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="po">maŋŋái</t>
+         <tg re="om sted i overført betydning" xml:lang="sme">
+             
+            <t pos="po">bearrái</t>
             <xg>
-               <x>Bestemor sprang av gårde etter barna.</x>
-               <xt>Áhkku viehkalii mánáid maŋŋái.</xt>
+               <x>Jeg skal se etter dette huset.</x>
+               <xt>Mun galggan geahččat dán viesu bearrái.</xt>
             </xg>
          </tg>
       </mg>
@@ -712,19 +758,32 @@
          <l pos="pr">under</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
-            <re>bevegelse til</re>
-            <t pos="po">vuollai</t>
+         <tg re="bevegelse til" xml:lang="sme">
+             
+            <t pos="po">vuollái</t>
             <xg>
                <x>Barnet krøp inn under senga.</x>
-               <xt>Mánná čáŋai seaŋgga vuollai.</xt>
+               <xt>Mánná čáŋai seaŋgga vuollái.</xt>
+            </xg>
+            <xg>
+               <x>Jeg legger matta under bordet</x>
+               <xt>Mun bijan láhtteránu beavdde vuollái</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="i ro">
+         <tg>
+            <t pos="x">vuolde</t>
+            <xg>
+               <x>Matta ligger under bordet</x>
+               <xt>Láhtterátnu lea beavdde vuolde</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="bevegelse til i overført betydning">
          <tg xml:lang="sme">
-            <re>overført stedsbetydning</re>
-            <t pos="po">vuollai</t>
+             
+            <t pos="po">vuollái</t>
             <xg>
                <x>Norge kom under Danmark.</x>
                <xt>Norga šattai Danmárkku vuollai.</xt>
@@ -732,24 +791,6 @@
             <xg>
                <x>Han har satt seg i gjeld.</x>
                <xt>Son lea šaddan vealggi vuollai.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="po">vuolde</t>
-            <xg>
-               <x>Den ligger under bordet.</x>
-               <xt>Dat lea beavddi vuolde.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="po">vuollái</t>
-            <xg>
-               <x>Legg den under bordet.</x>
-               <xt>Bija dan beavddi vuollái.</xt>
             </xg>
          </tg>
       </mg>
@@ -768,8 +809,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
-            <re>ved bevegelse</re>
+         <tg re="ved bevegelse" xml:lang="sme">
+             
             <t pos="po">maŋil</t>
             <xg>
                <x>Ánte kom gående og Biera kom bak ham.</x>
@@ -837,8 +878,8 @@
          <l pos="pr">mot</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
-            <re>om tid</re>
+         <tg re="om tid" xml:lang="sme">
+             
             <t pos="po">vuollai</t>
             <xg>
                <x>Heaika dro ut på reise mot natta.</x>
@@ -848,10 +889,10 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="po">njeaigga</t>
+            <t pos="po">njeaiga</t>
             <xg>
                <x>mot den</x>
-               <xt>dan njeaigga</xt>
+               <xt>dan njeaiga</xt>
             </xg>
          </tg>
       </mg>
@@ -861,6 +902,14 @@
             <xg>
                <x>Han stilte skiene mot veggen.</x>
                <xt>Son ceggii sabehiid seainni vuostá.</xt>
+            </xg>
+            <xg>
+                <x>Båten kommer mot oss</x>
+               <xt>Fanas boahtá min vuostá</xt>
+            </xg>
+            <xg>
+               <x>Vi arbeider mot et felles mål</x>
+               <xt>Mii bargat oktasaš mihtuid vuostá</xt>
             </xg>
          </tg>
       </mg>
@@ -888,16 +937,60 @@
          <l pos="pr">i</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
-            <re>overført stedsbetydning</re>
-            <t pos="po">vuollai</t>
+         <tg>
+            <re>hvor</re>
+            <te>lokativ</te>
             <xg>
-               <x>Norge kom under Danmark.</x>
-               <xt>Norga šattai Danmárkku vuollai.</xt>
+               <x>i Finland</x>
+               <xt>Suomas</xt>
             </xg>
             <xg>
-               <x>Han har satt seg i gjeld.</x>
-               <xt>Son lea šaddan vealggi vuollai.</xt>
+               <x>Hun arbeidet i Tromsø i tre år</x>
+               <xt>Son barggai Romssas golbma jagi</xt>
+            </xg>
+            <xg>
+               <x>Universitetssykehuset i Nord-Norge</x>
+               <xt>Davvi-Norgga universitehtabuohcceviessu</xt>
+            </xg>
+            <xg>
+               <x>Han er lærer i samisk</x>
+               <xt>Son lea sámegieloahpaheaddji</xt>
+            </xg>
+         </tg>
+         <tg>
+            <re>egenskap</re>
+            <t pos="">-n</t>
+            <xg>
+               <x>Har dere denne kjolen i blått?</x>
+               <xt>Lea go dis dát čuvla alit ivnnis?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>bevegelse til</re>
+            <te>illativ</te>
+            <xg>
+               <x>Han skal gå i teateret</x>
+               <xt>Son galgá teáhterii</xt>
+            </xg>
+            <xg>
+               <x>Foreldrene vil sette barna sine i barnehagen.</x>
+               <xt>Váhnemat háliidit bidjat mánáset mánáidgárdái.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>om tid</re>
+            <te>lokativ</te>
+            <xg>
+               <x>i vår</x>
+               <xt>dán giđa</xt>
+            </xg>
+            <xg>
+               <x>i mai</x>
+               <xt>miessemánus</xt>
             </xg>
          </tg>
       </mg>
@@ -948,9 +1041,8 @@
       <lg>
          <l pos="pr">foran</l>
       </lg>
-      <mg>
+      <mg re="bevegelse til">
          <tg xml:lang="sme">
-            <re>bevegelse til</re>
             <t pos="po">ovddabeallái</t>
             <xg>
                <x>Ikke stikk hånda rett foran en steinbitsnute!</x>
@@ -961,6 +1053,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="po">ovddabealde</t>
+            <xg>
+               <x>Stolen står foran bordet</x>
+               <xt>Stuollu lea beavddi ovddabealde</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1001,11 +1097,12 @@
             </xg>
             <xg>
                <x>Til nå har det vært svært lite laksefiske ovenfor fossen.</x>
-               <xt>Dássážii lea leamaš hui unnán luossabivdu bajábealde goržži.</xt>
+               <xt>Dassážii lea leamaš hui unnán luossabivdu bajábealde goržži.</xt>
             </xg>
             <xg>
                <x>Dermed kan samene ha separate rettigheter på grunnlag av prinsippene som er nevnt ovenfor.</x>
-               <xt>Dasto sáhttet sápmelaččain leat leamen sierra vuoigatvuođat bajábealde namuhuvvon prinsihpaid vuođul.</xt>
+               <xt>
+               .</xt>
             </xg>
          </tg>
       </mg>
@@ -1077,8 +1174,8 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
+      <mg re="om tid, etter">
+       <tg xml:lang="sme">
             <t pos="po">geažes</t>
             <xg>
                <x>Mor skal hente meg om en uke på fjellstua.</x>
@@ -1126,6 +1223,14 @@
                <x>Jeg gikk gjennom bygda.</x>
                <xt>Vázzen gili čađa.</xt>
             </xg>
+            <xg>
+               <x>Siidaen må flytte gjennom andres område for å komme til sin egen sommerboplass</x>
+               <xt>Siida ferte earáid orohaga čađa johtit iežas geasseorohahkii</xt>
+            </xg>
+            <xg>
+               <x>Det har vært mange syn på den saka opp gjennom tidene.</x>
+               <xt>Dan áššis leat áiggiid čađa leamaš máŋggalágan oaivilat</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1144,19 +1249,10 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="po">geahčai</t>
-            <xg>
-               <x>Kom hjem til oss!</x>
-               <xt>Boađe min geahčai!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="po">luhtte</t>
             <xg>
                <x>Hun er hos meg.</x>
-               <xt>Dat lea mu luhtte.</xt>
+               <xt>Son lea mu luhtte.</xt>
             </xg>
          </tg>
       </mg>
@@ -1172,6 +1268,10 @@
                <x>Ikke dra uten penger!</x>
                <xt>Ale vuolgge ruđa haga!</xt>
             </xg>
+            <xg>
+               <x>Hun arbeider uten lønn</x>
+               <xt>Son bargá bálkká haga</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1183,7 +1283,7 @@
             </xg>
             <xg>
                <x>Og den kan nemlig ikke fungere uten et slikt utmarksområde.</x>
-               <xt>Ja dat oainnat ii sáhte doaibmat almmá dakkár meahcceguovllu haga.</xt>
+               <xt>Ja dat oainnat ii sáhte doaibmat dakkár meahcceguovllu haga.</xt>
             </xg>
          </tg>
       </mg>
@@ -1221,4 +1321,104 @@
          </tg>
       </mg>
    </e>
+<e>
+      <lg>
+         <l pos="pr">ifølge</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">mielde</t>
+            <xg>
+               <x>I følge samelovens § 3-1 skal Sametingets årsmelding oversendes Kongen.</x>
+               <xt>Sámelága $ 3-1 mielde, galgá Sámedikki jahkedieđáhus sáddejuvvot Gonagassii</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+     <lg>
+        <l pos="pr">imot</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="po">vuostá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">innen</l>
+      </lg>
+      <mg>
+         <tg>
+            <t type="expl">illativ</t>
+            <xg>
+               <x>Vi må gjøre det innen fredag.</x>
+               <xt>Mii fertet dan dahkat bearjadahkii.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="pr">innenfor</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">siste</t>
+            <xg>
+               <x>Flokken er innenfor gjerdet.</x>
+               <xt>Eallu lea gárddi siste.</xt>
+            </xg>
+         </tg>
+         <tg re="bak">
+            <t pos="po">siskkobealde</t>
+            <xg>
+               <x>Hun står innenfor døra.</x>
+               <xt>Son čuožžu uvssa siskkobealde.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+        <l pos="pr">omkring</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="x">birra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+   <lg>
+            <l pos="pr">med</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>hos, ved</re>
+            <te>komitativ</te>
+            <xg>
+               <x>en hund med hvalpene sine</x>
+               <xt>beana iežas vielpaiguin</xt>
+            </xg>
+            <xg>
+               <x>arbeide med hendene</x>
+               <xt>bargat gieđaiguin</xt>
+            </xg>
+         </tg>
+         <tg>
+            <re>som har</re>
+            <te>...</te>
+            <xg>
+               <x>en mann med skjegg</x>
+               <xt>almmái geas leat skávččat</xt>
+            </xg>
+            <xg>
+               <x>et hus med rødt tak</x>
+               <xt>viessu mas lea alit dahkki</xt>
+            </xg>
+         </tg>
+      </mg>
+    </e>
 </r>
