@@ -232,8 +232,8 @@
             <t pos="po">bajábeallai</t>
          </tg>
       </mg>
-      <mg>
-         <tg re="bevegelse til" xml:lang="sme">
+      <mg re="bevegelse til">
+         <tg xml:lang="sme">
             <t pos="po">bajábeallái</t>
             <xg>
                <x>Ánne hengte opp en lampe på veggen over senga.</x>
@@ -388,12 +388,15 @@
          </tg>
       </mg>
       <mg>
-          <t pos="">gaskkas</t>
+        <tg>
+          <t pos="po">gaskkas</t>
             <xg>
                <x>Samarbeidet mellom barnehage og skole er et av satsingsområdene i Kunnskapsdepartementets strategi</x>
                <xt>Ovttasbargu mánáidgárddi ja skuvlla gaskkas lea okta nannensuorgi Máhttodepartemeantta strategiijas</xt>
             </xg>
-
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme">
             <t pos="pr">gasku</t>
             <xg>
@@ -486,7 +489,7 @@
             </xg>
          </tg>
          <tg>
-            <t pos="">ovddas</t>
+            <t pos="po">ovddas</t>
             <xg>
                <x>Han kjøper godter for 20 kroner</x>
                <xt>Son oastá njálggasiid 20 ruvnnu ovddas</xt>
@@ -515,9 +518,9 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg re="om tid">
-            <t pos=""></t>
+      <mg re="om tid">
+         <tg>
+            <t type="expl">genitiv</t>
             <xg>
                <x>nå for tiden</x>
                <xt>dán áigge</xt>
@@ -615,7 +618,7 @@
       </mg>
       <mg re="langs sida av">
          <tg>
-            <t pos="">bálddas</t>
+            <t pos="po">bálddas</t>
          </tg>
       </mg>
    </e>
@@ -656,7 +659,6 @@
          </tg>
       </mg>
    </e>
-   
    <e usage="vd">
       <lg>
          <l pos="pr">etter</l>
@@ -669,7 +671,9 @@
                <xt>Áhkku viehkalii mánáid maŋŋái.</xt>
             </xg>
          </tg>
-         <tg re="om to som beveger seg i samme retning" xml:lang="sme">
+      </mg>
+         <mg re="om to som beveger seg i samme retning" xml:lang="sme">
+         <tg xml:lang="sme">
             <t pos="po">maŋis</t>
             <xg>
                <x>Bestemor sprang etter barna.</x>
@@ -761,7 +765,6 @@
       </lg>
       <mg>
          <tg re="bevegelse til" xml:lang="sme">
-             
             <t pos="po">vuollái</t>
             <xg>
                <x>Barnet krøp inn under senga.</x>
@@ -810,9 +813,8 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg re="ved bevegelse" xml:lang="sme">
-             
+      <mg> re="ved bevegelse" xml:lang="sme">
+          <tg>
             <t pos="po">maŋil</t>
             <xg>
                <x>Ánte kom gående og Biera kom bak ham.</x>
