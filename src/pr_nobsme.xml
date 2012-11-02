@@ -4,9 +4,9 @@
       <lg>
          <l pos="pr">av</l>
       </lg>
-      <mg>
-         <tg re="bort fra">
-            <t expl="lokativ" />
+      <mg re="bort fra">
+         <tg>
+            <t type="expl">lokativ</t>
             <xg>
                <x>Han datt av hesten</x>
                <xt>Son gahčai heasttas</xt>
@@ -19,7 +19,7 @@
       </mg>
       <mg re="opphav">
          <tg>
-            <t type="expl=">lokativ</t>
+            <t type="expl">lokativ</t>
             <xg>
                <x>Han lever av fiske</x>
                <xt>Son eallá guolastemiin</xt>
@@ -30,8 +30,9 @@
             </xg>
          </tg>
       </mg>
-      <mg re="i passiv">
+      <mg>
          <tg>
+            <t type="expl">i passiv</t>
             <xg>
                <x>Skuteren ble kjørt av Marit.</x>
                <xt>Skuteriin vujii Máret.</xt>
@@ -141,7 +142,7 @@
       </mg>
       <mg re="retning til">
          <tg>
-            <t pos="">ala</t>
+            <t pos="po">ala</t>
             <xg>
                <x>Jeg legger boka på bordet</x>
                <xt>Mun bijan girjji beavddi ala</xt>
@@ -168,7 +169,7 @@
       </lg>
       <mg>
          <tg>
-            <t type="expr">lokativ</t>
+            <t type="expl">lokativ</t>
             <xg>
                <x>Hun kom fra Kautokeino i dag</x>
                <xt>Son bođii Guovdageainnus odne</xt>
@@ -177,6 +178,7 @@
       </mg>
       <mg re="opphav">
          <tg>
+            <t pos="adv">eret</t>
             <xg>
                <x>Hun kommer opprinnelig fra Tana</x>
                <xt>Son lea Deanus eret</xt>
@@ -256,7 +258,7 @@
       </lg>
       <mg re="om bevegelse til">
          <tg>
-            <t type="expr">illativ</t>
+            <t type="expl">illativ</t>
             <xg>
                <x>Vi drar til Karasjok</x>
                <xt>Mii vuolgit Kárášjohkii</xt>
@@ -265,7 +267,7 @@
       </mg>
       <mg re="tilhørighet">
          <tg>
-            <t type="expr">genitiv</t>
+            <t type="expl">genitiv</t>
             <xg>
                <x>Det er bilen til far</x>
                <xt>Dat lea áhči biila</xt>
@@ -537,7 +539,7 @@
       </mg>
       <mg>
          <tg>
-            <t type="expr">lokativ</t>
+            <t type="expl">lokativ</t>
             <xg>
                <x>Han laget maten ferdig på to timer</x>
                <xt>Son gárvii biepmu guovtti diimmus</xt>
@@ -546,7 +548,7 @@
       </mg>
       <mg re="tidspunkt">
          <tg>
-            <t type="expr">akkusativ</t>
+            <t type="expl">akkusativ</t>
             <xg>
                <x>Hun kom på søndag</x>
                <xt>Son bođii sotnabeaivvi</xt>
@@ -564,7 +566,7 @@
       </mg>
       <mg re="om mengde og størrelse">
          <tg>
-            <t type="expr">adjektivsavledning</t>
+            <t type="expl">adjektivsavledning</t>
             <xg>
                <x>et barn på to år</x>
                <xt>guovttejahkásaš mánná</xt>
