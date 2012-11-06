@@ -69,3 +69,17 @@ the content of xt) : from a user perspective, weird.
 
 3. phrase_nobsme.xml should be checked properly!
 
+=======
+
+Testing before merging the new_entries2add and src:
+in both dirs, there a lots of doubled entries.
+
+What are the reasons for this state?
+1. sme entries with different e-flags: vd vs. non-vd
+
+ ==> question to Trond (and Marja): Have you done something about those entries?
+                                    Do you want to do something about that?
+
+
+
+
