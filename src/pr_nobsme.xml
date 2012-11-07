@@ -1395,34 +1395,33 @@
       </mg>
    </e>
    <e>
-   <lg>
-            <l pos="pr">med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>hos, ved</re>
-            <te>komitativ</te>
-            <xg>
-               <x>en hund med hvalpene sine</x>
-               <xt>beana iežas vielpaiguin</xt>
-            </xg>
-            <xg>
-               <x>arbeide med hendene</x>
-               <xt>bargat gieđaiguin</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="sme">
-            <re>som har</re>
-            <te>...</te>
-            <xg>
-               <x>en mann med skjegg</x>
-               <xt>almmái geas leat skávččat</xt>
-            </xg>
-            <xg>
-               <x>et hus med rødt tak</x>
-               <xt>viessu mas lea alit dahkki</xt>
-            </xg>
-         </tg>
-      </mg>
-    </e>
+     <lg>
+       <l pos="pr">med</l>
+     </lg>
+     <mg>
+       <tg re="hos, ved" xml:lang="sme">
+	 <t type="expl">komitativ</t>
+	 <xg>
+	   <x>en hund med hvalpene sine</x>
+	   <xt>beana iežas vielpaiguin</xt>
+	 </xg>
+	 <xg>
+	   <x>arbeide med hendene</x>
+	   <xt>bargat gieđaiguin</xt>
+	 </xg>
+       </tg>
+       <tg re="som har" xml:lang="sme">
+	 <t type="expl">...</t>
+	 <xg>
+	   <x>en mann med skjegg</x>
+	   <xt>almmái geas leat skávččat</xt>
+	 </xg>
+	 <xg>
+	   <x>et hus med rødt tak</x>
+	   <xt>viessu mas lea alit dahkki</xt>
+	 </xg>
+       </tg>
+     </mg>
+   </e>
 </r>
+ 
