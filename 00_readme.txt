@@ -22,7 +22,7 @@ grep '<e ' * | wc -l
 src>!678
 grep '<e>' * | wc -l
    11243
-Dette betyr at det finns mer non-vd entrier som vd!
+Dette betyr at det finns mer non-vd entrier enn vd!
  
 - deretter arbeide med nobsme frå eit norsk perspektiv. Tidsplan for det kjem vi attende til
  ==> TODO
