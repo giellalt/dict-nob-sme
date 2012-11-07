@@ -10,9 +10,20 @@ Det vi bør gjere for nobsme ser ut til å vere:
  ==> DONE
 - check the files in reverted_new/src_vd with those in the src and
   unify whatever it is worth to unify (__Cip and/or Trond__)
- ==> TODO
+ ==> DONE
 - deretter eventuelt legge til frå not-vd-nobsme til gjeldande nobsme manuelt
- ==> TODO
+ ==> DONE (på et annet måte: både vd- og non-vd-entrier ble snudd og lagt til;
+                             vd-merkelappen kommer til å være på t-elementet;
+                             for tiden er på e-elementet men cip skal endre det snart)
+
+Nota bene:
+grep '<e ' * | wc -l
+   10442
+src>!678
+grep '<e>' * | wc -l
+   11243
+Dette betyr at det finns mer non-vd entrier som vd!
+ 
 - deretter arbeide med nobsme frå eit norsk perspektiv. Tidsplan for det kjem vi attende til
  ==> TODO
 
