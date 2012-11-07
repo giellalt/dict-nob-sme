@@ -20,7 +20,7 @@ XFST = xfst
 
 JV   = java
 MF   = -Xmx2048m
-EF   = -it main
+EF   = -it:main
 XSL  = net.sf.saxon.Transform
 
 SRC           = src
