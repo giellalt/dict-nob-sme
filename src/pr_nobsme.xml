@@ -81,16 +81,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="pr">foran</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">ovda</t>
-         </tg>
-      </mg>
-   </e>
    <e usage="vd">
       <lg>
          <l pos="pr">angående</l>
@@ -1056,6 +1046,17 @@
          </tg>
       </mg>
    </e>
+      <e>
+      <lg>
+         <l pos="pr">foran</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="n">ovda</t>
+         </tg>
+      </mg>
+   </e>
+
    <e usage="vd">
       <lg>
          <l pos="pr">foran</l>
@@ -1426,7 +1427,7 @@
 	 </xg>
        </tg>
        <tg re="som har" xml:lang="sme">
-	 <t type="expl">...</t>
+	 <t type="expl"></t>
 	 <xg>
 	   <x>en mann med skjegg</x>
 	   <xt>almmái geas leat skávččat</xt>
