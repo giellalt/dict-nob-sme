@@ -48,14 +48,14 @@
 
   <xsl:template match="/" name="main">
     
-    <xsl:if test="misc:file-exists(resolve-uri($inFile))">
+    <!--xsl:if test="misc:file-exists(resolve-uri($inFile))">
       <xsl:call-template name="processFile">
     	<xsl:with-param name="file" select="document($inFile)"/>
     	<xsl:with-param name="name" select="$file_name"/>
 	<xsl:with-param name="ie" select="'xml'"/>
 	<xsl:with-param name="relPath" select="'./'"/>
       </xsl:call-template>
-    </xsl:if>
+    </xsl:if-->
 
     <xsl:if test="misc:file-exists(resolve-uri($inDir))">
       
@@ -63,7 +63,7 @@
 	<xsl:value-of select="concat('Processing dir: ', $inDir)"/>
       </xsl:message>
       
-      <xsl:for-each select="for $f in collection(concat($inDir, '?select=*.xml;recurse=yes;on-error=warning')) return $f">
+      <xsl:for-each select="for $f in collection(concat($inDir, '?select=*.xml;recurse=no;on-error=warning')) return $f">
 	
 	<xsl:variable name="current_file" select="substring-before((tokenize(document-uri(.), '/'))[last()], '.xml')"/>
 	<xsl:variable name="current_dir" select="substring-before(document-uri(.), $current_file)"/>
@@ -100,37 +100,39 @@
     </xsl:message>      
     
     <!-- out -->
-    <xsl:result-document href="{$outDir}/{$relPath}{$name}.{$oe}" format="{$oe}">
+    <xsl:result-document href="{$outDir}/{$relPath}/{$name}.{$oe}" format="{$oe}">
       <r id="nobsme" xml:lang="nob">  
 	<xsl:for-each select="$file/r/e">
 	  <xsl:message terminate="no">
-	    <xsl:value-of select="concat('Processing file: ', ./lg/l, $nl)"/>
-	  </xsl:message>      
-	  
+	    <xsl:value-of select="concat('entry: ', ./lg/l, $nl)"/>
+	  </xsl:message>
 	  <e>
 	    <xsl:copy-of copy-namespaces="no" select="./lg"/>
 	    <xsl:for-each select="./mg">
 	      <mg>
 		<xsl:copy-of copy-namespaces="no" select="./@*"/>
 		<xsl:for-each select="./tg">
-		<tg>
-		  <xsl:copy-of copy-namespaces="no" select="./@*"/>
-		  <xsl:for-each select="./t">
-		    <t>
-		      <xsl:copy-of copy-namespaces="no" select="./@*"/>
-		      <xsl:copy-of copy-namespaces="no" select="../../../@*"/>
-		      <xsl:value-of select="normalize-space(.)"/>
-		    </t>
-		  </xsl:for-each>
-		  <xsl:copy-of copy-namespaces="no" select="./xg"/>
-		</tg>
+		  <tg>
+		    <xsl:copy-of copy-namespaces="no" select="./@*"/>
+		    <!-- where to put re-info? this has been transferred from smenob:
+		    Belongs re now to the l-value or to the t-value? -->
+		    <xsl:copy-of copy-namespaces="no" select="./re"/>
+		    <xsl:for-each select="./t">
+		      <t>
+			<xsl:copy-of copy-namespaces="no" select="./@*"/>
+			<xsl:copy-of copy-namespaces="no" select="../../../@*"/>
+			<xsl:value-of select="normalize-space(.)"/>
+		      </t>
+		    </xsl:for-each>
+		    <xsl:copy-of copy-namespaces="no" select="./xg"/>
+		  </tg>
 		</xsl:for-each>
 	      </mg>
 	    </xsl:for-each>
 	  </e>
 	</xsl:for-each>
       </r>
-
+      
     </xsl:result-document>
 
     <xsl:if test="$debug">
