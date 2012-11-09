@@ -136,6 +136,8 @@ What are the reasons for this state?
 
 Some TODO-issue based on the last check:
  - unify the p_nobsme and po_nobsme file with the current pr_nobsme file (__Marja__)
- - transfer the '<re>'-elements into the re-attributes (__Ciprian__)
+ - transfer the '<re>'-elements into the re-elements (__Ciprian__)
+ ==> DONE
  - transfer the vd-flags from the e-element to the t-element; these flags belong to the sme-word (entry)
+ ==> DONE
 
