@@ -1,10 +1,14 @@
 <?xml version="1.0"?>
 <!--+
     | 
-    | compares two lists of words and outputs both the intersection set
-    | and the set of items which are in the first but not in the second set
-    | NB: The user has to adjust the paths to the input files accordingly
-    | Usage: java net.sf.saxon.Transform -it main THIS_FILE
+    | Script to merged entries with the samme lemma as following:
+    | 1. if two or more meaning groups are exactly the same the are reduced to one
+    | 2. if two or more meaning groups differ in the least feature (different attribute names, values, etc.)
+    |    each of them is added to the unified entry
+    | 3. the unified lemma gets the attribute "merge" with a numerical value showing how many entries have been 
+    |    unified with the purpose of easing the linguists' manual cleanup 
+    |
+    | Usage: java -Xmx2048m -Dfile.encoding=UTF8 net.sf.saxon.Transform XML-INPUT XSL-THIS_FILE > XML-OUTPUT
     +-->
 
 <xsl:stylesheet version="2.0"
