@@ -111,10 +111,8 @@
 	    <xsl:copy-of copy-namespaces="no" select="./lg"/>
 	    <xsl:for-each select="./mg">
 	      <mg>
-		<!-- two things to watch for:
-		     1. after conversion, check whether there are more re-elements than one
-		     (expect the unexpectable!)
-		     2. when dealing with pr_file the position of the re-info is both in tg and in mg as attributes
+		<!-- to watch for:
+		     when dealing with pr_file the position of the re-info is both in tg and in mg as attributes
 		-->
 		<xsl:copy-of copy-namespaces="no" select="./@*"/>
 		<xsl:for-each select="./tg">
