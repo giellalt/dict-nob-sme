@@ -141,3 +141,9 @@ Some TODO-issue based on the last check:
  - transfer the vd-flags from the e-element to the t-element; these flags belong to the sme-word (entry)
  ==> DONE
 
+Cip's next todo issues:
+ - check new_entries2add file for formal/contentwise usefulness
+ ==> TODO
+ - merge entries into the src files 
+ ==> TODO
+
