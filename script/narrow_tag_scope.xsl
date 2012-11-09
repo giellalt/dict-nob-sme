@@ -116,12 +116,11 @@
 		     (expect the unexpectable!)
 		     2. when dealing with pr_file the position of the re-info is both in tg and in mg as attributes
 		-->
-
-		<xsl:copy-of copy-namespaces="no" select="./tg/re"/>
 		<xsl:copy-of copy-namespaces="no" select="./@*"/>
 		<xsl:for-each select="./tg">
 		  <tg>
 		    <xsl:copy-of copy-namespaces="no" select="./@*"/>
+		    <xsl:copy-of copy-namespaces="no" select="./tg/re"/>
 		    <xsl:for-each select="./t">
 		      <t>
 			<xsl:copy-of copy-namespaces="no" select="./@*"/>
