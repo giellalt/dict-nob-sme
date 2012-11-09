@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="nob">
-   <e usage="vd">
+<r id="nobsme" xml:lang="nob">
+   <e>
       <lg>
          <l pos="cc">eller</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>i fortellende setninger</re>
-            <t pos="cc">dahje</t>
-            <t pos="cc">dahe</t>
-            <t pos="cc">dahege</t>
-            <t pos="cc">dahjege</t>
-            <t pos="cc">dehege</t>
+            <t pos="cc" usage="vd">dahje</t>
+            <t pos="cc" usage="vd">dahe</t>
+            <t pos="cc" usage="vd">dahege</t>
+            <t pos="cc" usage="vd">dahjege</t>
+            <t pos="cc" usage="vd">dehege</t>
             <xg>
                <x>Alle hadde funnet klær eller andre ting som de ville kjøpe.</x>
                <xt>Buohkat ledje gávdnan biktasiid dahje eará dávviriid maid háliidedje oastit.</xt>
@@ -20,8 +20,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>i spørsmålssetninger</re>
-            <t pos="cc">vai</t>
+            <re>i spørsmålssetninger</re>
+            <t pos="cc" usage="vd">vai</t>
             <xg>
                <x>Er du den som skal komme, eller skal vi vente på en annen?</x>
                <xt>Leat go don dat guhte galgá boahtit, vai galgat go mii vuordit muhtun eará?</xt>
@@ -33,13 +33,13 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e>
       <lg>
          <l pos="cc">og</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="cc">ja</t>
+            <t pos="cc" src="nj" usage="vd">ja</t>
             <xg>
                <x>Det er både bra og dårlig.</x>
                <xt>Dat lea sihke buorre ja heittot.</xt>
@@ -47,13 +47,13 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e>
       <lg>
          <l pos="cc">samt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="cc">ja maid</t>
+            <t pos="cc" src="nj" usage="vd">ja maid</t>
             <xg>
                <x>Beskjeden kom pr. mail samt pr. telefon?</x>
                <xt>Diehtu bođii maila bokte, ja maid telefuvnna bokte.</xt>
@@ -61,13 +61,13 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e>
       <lg>
          <l pos="cc">men</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="cc">muhto</t>
+            <t pos="cc" src="nj" usage="vd">muhto</t>
             <xg>
                <x>Jeg kan godt hjelpe deg, men i dag har jeg ikke tid.</x>
                <xt>Mun sáhtán áinnas veahkehit du, muhto odne in astta.</xt>

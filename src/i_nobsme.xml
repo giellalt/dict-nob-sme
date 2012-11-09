@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xml:lang="nob">
-   <e src="nj" usage="vd">
+<r id="nobsme" xml:lang="nob">
+   <e>
       <lg>
          <l pos="i">pokker</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="adv">doantá</t>
+            <t pos="adv" src="nj" usage="vd">doantá</t>
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e>
       <lg>
          <l pos="i">oi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="phrase_i">vuoi ihán</t>
+            <t pos="phrase_i" usage="vd">vuoi ihán</t>
             <xg>
                <x>Oi, så flink du er.</x>
                <xt>Vuoi ihán, don leat čeahppi.</xt>
@@ -28,13 +28,13 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e>
       <lg>
          <l pos="i">å dæven</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="phrase_i">vuoi ihán</t>
+            <t pos="phrase_i" usage="vd">vuoi ihán</t>
             <xg>
                <x>Oi, så flink du er.</x>
                <xt>Vuoi ihán, don leat čeahppi.</xt>
@@ -46,14 +46,14 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e>
       <lg>
          <l pos="i">nei</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>uttrykk for at en nekter, avviser eller protesterer mot noe</re>
-            <t pos="i">aa</t>
+            <t pos="i" usage="vd">aa</t>
             <xg>
                <x>Nei, det vil jeg ikke.</x>
                <xt>Aa, dan in háliit.</xt>
@@ -61,33 +61,33 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e>
       <lg>
          <l pos="i">jasså</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="i">já</t>
+            <t pos="i" usage="vd">já</t>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e>
       <lg>
          <l pos="i">hei</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="i">dearvva</t>
+            <t pos="i" src="nj" usage="vd">dearvva</t>
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e>
       <lg>
          <l pos="i">akk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="i">vuoi</t>
+            <t pos="i" src="nj" usage="vd">vuoi</t>
             <xg>
                <x>Å akk, hvor trist det er.</x>
                <xt>Vuoi, go lea váivi.</xt>
@@ -99,13 +99,13 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e>
       <lg>
          <l pos="i">å</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="i">vuoi</t>
+            <t pos="i" src="nj" usage="vd">vuoi</t>
             <xg>
                <x>Å akk, hvor trist det er.</x>
                <xt>Vuoi, go lea váivi.</xt>
