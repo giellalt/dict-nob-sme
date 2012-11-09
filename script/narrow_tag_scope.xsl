@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <!--+
-    | 
-    | change the 2004-xml-spreadsheet XML files into a simpler xml format
+    | Script to correct (=narrow) the scope of the <e>-attributes stemming from the smenob-<e>-elements.
+    | The flags belong to the respective t-element, not to the whole entry.
+    | This script assigns also the <re>-elements to the respective <mg>-element.
     | Usage: java net.sf.saxon.Transform -it main STYLESHEET_NAME.xsl (inFile=INPUT_FILE_NAME.xml | inDir=INPUT_DIR)
     +-->
 
@@ -110,13 +111,17 @@
 	    <xsl:copy-of copy-namespaces="no" select="./lg"/>
 	    <xsl:for-each select="./mg">
 	      <mg>
+		<!-- two things to watch for:
+		     1. after conversion, check whether there are more re-elements than one
+		     (expect the unexpectable!)
+		     2. when dealing with pr_file the position of the re-info is both in tg and in mg as attributes
+		-->
+
+		<xsl:copy-of copy-namespaces="no" select="./tg/re"/>
 		<xsl:copy-of copy-namespaces="no" select="./@*"/>
 		<xsl:for-each select="./tg">
 		  <tg>
 		    <xsl:copy-of copy-namespaces="no" select="./@*"/>
-		    <!-- where to put re-info? this has been transferred from smenob:
-		    Belongs re now to the l-value or to the t-value? -->
-		    <xsl:copy-of copy-namespaces="no" select="./re"/>
 		    <xsl:for-each select="./t">
 		      <t>
 			<xsl:copy-of copy-namespaces="no" select="./@*"/>
