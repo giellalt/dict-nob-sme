@@ -5,7 +5,7 @@
     | 1. if two or more meaning groups are exactly the same the are reduced to one
     | 2. if two or more meaning groups differ in the least feature (different attribute names, values, etc.)
     |    each of them is added to the unified entry
-    | 3. the unified lemma gets the attribute "merge" with a numerical value showing how many entries have been 
+    | 3. the unified lemma gets the attribute "merged" with a numerical value showing how many entries have been 
     |    unified with the purpose of easing the linguists' manual cleanup 
     |
     | Usage: java -Xmx2048m -Dfile.encoding=UTF8 net.sf.saxon.Transform XML-INPUT XSL-THIS_FILE > XML-OUTPUT
@@ -82,14 +82,12 @@
     <xsl:if test="$lemma_freq = 1">
       <e>
 	<xsl:copy-of select="./@*"/>
-      
-<!-- 	<xsl:attribute name="e_pos"> -->
-<!-- 	  <xsl:value-of select="$current_position"/> -->
-<!-- 	</xsl:attribute> -->
-	
-<!-- 	<xsl:attribute name="single_counter"> -->
-<!-- 	  <xsl:value-of select="$lemma_freq"/> -->
-<!-- 	</xsl:attribute> -->
+	<!-- <xsl:attribute name="e_pos"> -->
+	<!--   <xsl:value-of select="$current_position"/> -->
+	<!-- </xsl:attribute> -->
+	<!-- <xsl:attribute name="single_counter"> -->
+	<!--   <xsl:value-of select="$lemma_freq"/> -->
+	<!-- </xsl:attribute> -->
 	<xsl:copy-of select="./node()"/>
       </e>
     </xsl:if>
@@ -97,18 +95,18 @@
     <xsl:if test="($lemma_freq &gt; 1) and ($follow_lemma = 0)">
       <e>
 	<xsl:copy-of select="./@*"/>
-      
-<!-- 	<xsl:attribute name="e_pos"> -->
-<!-- 	  <xsl:value-of select="$current_position"/> -->
-<!-- 	</xsl:attribute> -->
 	
-	<xsl:attribute name="lc">
+	<!-- <xsl:attribute name="e_pos"> -->
+	<!--   <xsl:value-of select="$current_position"/> -->
+	<!-- </xsl:attribute> -->
+	
+	<xsl:attribute name="merged">
 	  <xsl:value-of select="$lemma_freq"/>
 	</xsl:attribute>
 
-	<xsl:attribute name="flc">
-	  <xsl:value-of select="$follow_lemma"/>
-	</xsl:attribute>
+	<!-- <xsl:attribute name="flc"> -->
+	<!--   <xsl:value-of select="$follow_lemma"/> -->
+	<!-- </xsl:attribute> -->
 
 	<xsl:copy-of select="./lg"/>
 	<xsl:copy-of select="functx:distinct-deep(../e[$current_lemma = normalize-space(./lg/l/text())]/mg)"/>
