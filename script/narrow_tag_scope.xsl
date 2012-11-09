@@ -120,7 +120,7 @@
 		<xsl:for-each select="./tg">
 		  <tg>
 		    <xsl:copy-of copy-namespaces="no" select="./@*"/>
-		    <xsl:copy-of copy-namespaces="no" select="./tg/re"/>
+		    <xsl:copy-of copy-namespaces="no" select="./re"/>
 		    <xsl:for-each select="./t">
 		      <t>
 			<xsl:copy-of copy-namespaces="no" select="./@*"/>
