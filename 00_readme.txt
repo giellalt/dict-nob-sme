@@ -23,6 +23,23 @@ Det vi bør gjere for nobsme ser ut til å vere:
 	        Belongs re now to the l-value or to the t-value?
 	    2.c Do we really need the re-info both in the mg-element and in the tg-element?
 
+Last answer from Trond: 
+Spörsmålet var:
+Under <l> eller under <mg>
+
+Svaret er framleis: Under <mg>.
+
+__Men__ vi vil at dei ulike ordbökene skal vere mest mogleg lik. Som bm minnar oss på har vi faktisk dokumentasjon for dette, 
+http://giellatekno.uit.no/doc/dicts/dictionarywork.html
+
+Der går det fram at <re> ligg under <tg>.
+
+No er tg = mg (dvs. kvar mg har ei dotter), så lingvistisk sett er desse to konvensjonane identisk.
+
+Men prosesseringsmessig vil vi ikkje ha variasjon. Ergo følgjer vi dokumentasjonen, og har <re> under <tg>.
+
+
+
 Observation on <re> issue:
  In such an entry as
    <e usage="vd">
