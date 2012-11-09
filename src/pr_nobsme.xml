@@ -157,12 +157,52 @@
             </xg>
          </tg>
       </mg>
-      <mg re="om klokkeslett">
+      <mg>
          <tg xml:lang="sme">
-            <t pos="adv">váile</t>
+            <t type="expl">komitativ</t>
             <xg>
-               <x>Klokka er fem på tre.</x>
-               <xt>Diibmu lea vihtta váile golbma.</xt>
+               <x>Det er sydd for hånd</x>
+               <xt>Dát lea gieđaiguin gorrojuvvon</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t type="expl">lokativ</t>
+            <xg>
+               <x>Han laget maten ferdig på to timer</x>
+               <xt>Son gárvii biepmu guovtti diimmus</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="tidspunkt">
+         <tg xml:lang="sme">
+            <t type="expl">akkusativ</t>
+            <xg>
+               <x>Hun kom på søndag</x>
+               <xt>Son bođii sotnabeaivvi</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="om klokka">
+         <tg xml:lang="sme">
+            <t pos="po">váile</t>
+            <xg>
+               <x>Klokka er fem på tre</x>
+               <xt>Diibmu lea vihtta váile golbma</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="om mengde og størrelse">
+         <tg xml:lang="sme">
+            <t type="expl">adjektivsavledning</t>
+            <xg>
+               <x>et barn på to år</x>
+               <xt>guovttejahkásaš mánná</xt>
+            </xg>
+            <xg>
+               <x>en fisk på fem kilo</x>
+               <xt>viđa gilosaš guolli</xt>
             </xg>
          </tg>
       </mg>
@@ -496,7 +536,7 @@
             <t pos="po">ovddas</t>
             <xg>
                <x>Han kjøper godter for 20 kroner</x>
-               <xt>Son oastá njálggasiid 20 ruvnnu ovddas</xt>
+               <xt>Son oastá njálgáid 20 ruvnnu ovddas</xt>
             </xg>
          </tg>
       </mg>
@@ -537,50 +577,10 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t type="expl">komitativ</t>
+            <t pos="po">ektui</t>
             <xg>
-               <x>Det er sydd for hånd</x>
-               <xt>Dát lea gieđaiguin gorrojuvvon</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t type="expl">lokativ</t>
-            <xg>
-               <x>Han laget maten ferdig på to timer</x>
-               <xt>Son gárvii biepmu guovtti diimmus</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg re="tidspunkt">
-         <tg xml:lang="sme">
-            <t type="expl">akkusativ</t>
-            <xg>
-               <x>Hun kom på søndag</x>
-               <xt>Son bođii sotnabeaivvi</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg re="om klokka">
-         <tg xml:lang="sme">
-            <t pos="po">váile</t>
-            <xg>
-               <x>Klokka er fem på tre</x>
-               <xt>Diibmu lea vihtta váile golbma</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg re="om mengde og størrelse">
-         <tg xml:lang="sme">
-            <t type="expl">adjektivsavledning</t>
-            <xg>
-               <x>et barn på to år</x>
-               <xt>guovttejahkásaš mánná</xt>
-            </xg>
-            <xg>
-               <x>en fisk på fem kilo</x>
-               <xt>viđa gilosaš guolli</xt>
+               <x>Sametinget har ikke det formelle ansvaret for reindriften i Norge.</x>
+               <xt>Sámedikkis ii leat odne formálalaš ovddasvástádus boazodoalu ektui Norggas.</xt>
             </xg>
          </tg>
       </mg>
