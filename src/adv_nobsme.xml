@@ -26,16 +26,6 @@
    </e>
    <e>
       <lg>
-         <l pos="adv">sjelden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="adv" src="nj">ipmašis</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="adv">først</l>
       </lg>
       <mg>
@@ -4464,10 +4454,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e merged="2">
       <lg>
          <l pos="adv">sjelden</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="adv" src="nj">ipmašis</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="adv" src="nj" usage="vd">hárve</t>

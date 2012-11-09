@@ -1062,16 +1062,6 @@
    </e>
    <e>
       <lg>
-         <l pos="prop">Kjelmøya</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="npl" src="sk">Dálmmat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="prop">Gettosvannene</l>
       </lg>
       <mg>
@@ -1367,16 +1357,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="npl" src="sk">Oaggočohkat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="prop">Reinøya</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="npl" src="sk">Reainnát</t>
          </tg>
       </mg>
    </e>
@@ -1721,10 +1701,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e merged="2">
       <lg>
          <l pos="prop">Kjelmøya</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="npl" src="sk">Dálmmat</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="npl" usage="vd">Dálmmát</t>
@@ -3060,10 +3045,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e merged="2">
       <lg>
          <l pos="prop">Reinøya</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="npl" src="sk">Reainnát</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="prop" usage="vd">Ráidná</t>
