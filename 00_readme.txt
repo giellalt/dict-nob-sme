@@ -15,6 +15,13 @@ Det vi bør gjere for nobsme ser ut til å vere:
  ==> DONE (på et annet måte: både vd- og non-vd-entrier ble snudd og lagt til;
                              vd-merkelappen kommer til å være på t-elementet;
                              for tiden er på e-elementet men cip skal endre det snart)
+     - the script is now tested and ready for use: waiting for
+	1. Marja to finish the cleanup in the p_, po_ and pr_-files 
+	2. Trond to answer the <re>-related questions:
+	    2.a Where to put re-info? 
+            2.b This has been transferred from smenob:
+	        Belongs re now to the l-value or to the t-value?
+	    2.c Do we really need the re-info both in the mg-element and in the tg-element?
 
 Nota bene:
 grep '<e ' * | wc -l
