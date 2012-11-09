@@ -23,6 +23,23 @@ Det vi bør gjere for nobsme ser ut til å vere:
 	        Belongs re now to the l-value or to the t-value?
 	    2.c Do we really need the re-info both in the mg-element and in the tg-element?
 
+Observation on <re> issue:
+ In such an entry as
+   <e usage="vd">
+      <lg>
+         <l pos="x">strekke seg etter noe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>en gang</re>
+            <t pos="v">faŋádit</t>
+         </tg>
+      </mg>
+   </e>
+ the <re> is not of much use if you don't put also 
+ the non-restricted/complementarily restricted entry (in this specific case
+ "flere ganger", "to ganger", etc.)
+
 Nota bene:
 grep '<e ' * | wc -l
    10442
