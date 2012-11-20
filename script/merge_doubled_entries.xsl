@@ -81,7 +81,13 @@
     
     <xsl:if test="$lemma_freq = 1">
       <e>
-	<xsl:copy-of select="./@*"/>
+	<xsl:copy-of select="./@*[not(./local-name() = 'merged')]"/>
+	<xsl:variable name="mgs" select="count(./mg)"/>
+	<xsl:if test="not($mgs = 1)">
+	  <xsl:attribute name="mg_counter">
+	    <xsl:value-of select="$mgs"/>
+	  </xsl:attribute>
+	</xsl:if>
 	<!-- <xsl:attribute name="e_pos"> -->
 	<!--   <xsl:value-of select="$current_position"/> -->
 	<!-- </xsl:attribute> -->
@@ -94,20 +100,23 @@
       
     <xsl:if test="($lemma_freq &gt; 1) and ($follow_lemma = 0)">
       <e>
-	<xsl:copy-of select="./@*"/>
+	<xsl:copy-of select="./@*[not(./local-name() = 'merged')]"/>
+	<xsl:variable name="mgs" select="count(functx:distinct-deep(../e[$current_lemma = normalize-space(./lg/l/text())]/mg))"/>
 	
 	<!-- <xsl:attribute name="e_pos"> -->
 	<!--   <xsl:value-of select="$current_position"/> -->
 	<!-- </xsl:attribute> -->
 	
-	<xsl:attribute name="merged">
-	  <xsl:value-of select="$lemma_freq"/>
-	</xsl:attribute>
-
+	<xsl:if test="not($mgs = 1)">
+	  <xsl:attribute name="mg_counter">
+	    <xsl:value-of select="$mgs"/>
+	  </xsl:attribute>
+	</xsl:if>
+	
 	<!-- <xsl:attribute name="flc"> -->
 	<!--   <xsl:value-of select="$follow_lemma"/> -->
 	<!-- </xsl:attribute> -->
-
+	
 	<xsl:copy-of select="./lg"/>
 	<xsl:copy-of select="functx:distinct-deep(../e[$current_lemma = normalize-space(./lg/l/text())]/mg)"/>
       </e>
