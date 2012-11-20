@@ -1,5 +1,426 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r id="nobsme" xml:lang="nob">
+<r xml:lang="nob">
+   <e>
+      <lg>
+         <l pos="v">starte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">álgit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bestå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">ceavzit</t>
+            <t pos="v">nagodit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">danne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">ávdnet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">benytte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">geavahit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">opprette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">álggahit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">omfatte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">sisdoallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">utnevne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">nammadit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bake</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">gáhkket</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tilhøre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">gullat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">motta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">oažžut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">jobbe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">bargat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gifte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">náitalit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppstå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">čuožžilit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">tildele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">juohkit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">variere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">varieret</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppnå</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">oláhit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">etterfølge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">čuovvut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">søke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">ohcat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">vedta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">mearridit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">oppføre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">láhttet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forekomme</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">dáhpáhuvvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">fordele</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">juohkit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">overleve</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">ceavcit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">ligne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">sulastahttit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">godkjenne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">dohkkehit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">innebære</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">sisdoallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">rette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">divvut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">melde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">dieđihit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beregne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">rehkenastit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beslutte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">mearridit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forkorte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">oanidit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">opprettholde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">doalahit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">bevise</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">duođaštit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">innlede</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">álggahit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">beordre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">gohččut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">gravlegge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">hávdadit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">forvente</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">vuordit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">lete</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">ohcat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">restaurere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">divodit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">anbefale</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">ávččuhit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">offentliggjøre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">almmuhit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="v">overraske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">hirpmástuhttit</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="v">sentrifuge</l>
@@ -60,7 +481,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">abonnere</l>
       </lg>
@@ -265,7 +686,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">presisere</l>
       </lg>
@@ -360,7 +781,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">akselerere</l>
       </lg>
@@ -405,7 +826,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">aksjonere</l>
       </lg>
@@ -630,7 +1051,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">annektere</l>
       </lg>
@@ -645,7 +1066,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">annonsere</l>
       </lg>
@@ -845,7 +1266,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">arrondere</l>
       </lg>
@@ -1000,7 +1421,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">avertere</l>
       </lg>
@@ -1165,7 +1586,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">innkreve</l>
       </lg>
@@ -1250,7 +1671,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">møblere</l>
       </lg>
@@ -1399,10 +1820,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">redusere</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">unnidit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">binnudit</t>
@@ -1936,7 +2362,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">budsjettere</l>
       </lg>
@@ -2091,7 +2517,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">referere</l>
       </lg>
@@ -2106,7 +2532,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sitere</l>
       </lg>
@@ -2181,7 +2607,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">deformere</l>
       </lg>
@@ -2496,7 +2922,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">demisjonere</l>
       </lg>
@@ -2571,7 +2997,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">denasjonalisere</l>
       </lg>
@@ -2716,7 +3142,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">desentralisere</l>
       </lg>
@@ -2996,7 +3422,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">dimensjonere</l>
       </lg>
@@ -3096,7 +3522,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">disponere</l>
       </lg>
@@ -3341,7 +3767,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">dominere</l>
       </lg>
@@ -3416,7 +3842,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">identifisere</l>
       </lg>
@@ -3451,7 +3877,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">drenere</l>
       </lg>
@@ -3556,7 +3982,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">filtrere</l>
       </lg>
@@ -3646,7 +4072,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">frustrere</l>
       </lg>
@@ -3671,7 +4097,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">justere</l>
       </lg>
@@ -3856,10 +4282,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">eksistere</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">gávdnot</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">eksisteret</t>
@@ -3876,7 +4307,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ekskludere</l>
       </lg>
@@ -4281,7 +4712,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">isolere</l>
       </lg>
@@ -4676,7 +5107,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fisjonere</l>
       </lg>
@@ -4701,7 +5132,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">flambere</l>
       </lg>
@@ -4866,7 +5297,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forsere</l>
       </lg>
@@ -4901,7 +5332,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fraksjonere</l>
       </lg>
@@ -4916,7 +5347,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">frankere</l>
       </lg>
@@ -5021,7 +5452,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">funksjonere</l>
       </lg>
@@ -5376,7 +5807,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">behefte</l>
       </lg>
@@ -5551,7 +5982,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">retardere</l>
       </lg>
@@ -5736,7 +6167,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kvittere</l>
       </lg>
@@ -5821,7 +6252,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sentralisere</l>
       </lg>
@@ -5836,7 +6267,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">konsentrere</l>
       </lg>
@@ -6136,7 +6567,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli kraftløs</l>
       </lg>
@@ -6641,10 +7072,16 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">inkludere</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">fátmmastit</t>
+            <t pos="v">goallostit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">inkluderet</t>
@@ -6701,7 +7138,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">inspirere</l>
       </lg>
@@ -6746,7 +7183,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">integrere</l>
       </lg>
@@ -6791,10 +7228,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">interessere</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">beroštit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">interesseret</t>
@@ -6821,7 +7263,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">internasjonalisere</l>
       </lg>
@@ -7486,7 +7928,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">klassifisere</l>
       </lg>
@@ -7551,7 +7993,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">koagulere</l>
       </lg>
@@ -7606,7 +8048,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kollasjonere</l>
       </lg>
@@ -7751,7 +8193,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kompostere</l>
       </lg>
@@ -7826,7 +8268,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kondisjonere</l>
       </lg>
@@ -8341,7 +8783,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">krystallisere</l>
       </lg>
@@ -8726,10 +9168,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">levere</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">addit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">leveret</t>
@@ -8856,7 +9303,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fornærme</l>
       </lg>
@@ -9061,7 +9508,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">prosedere</l>
       </lg>
@@ -9136,7 +9583,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">maksimere</l>
       </lg>
@@ -9251,7 +9698,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">maskinere</l>
       </lg>
@@ -9336,7 +9783,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">rangere</l>
       </lg>
@@ -9431,7 +9878,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">rasjonalisere</l>
       </lg>
@@ -9446,7 +9893,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">porsjonere</l>
       </lg>
@@ -9486,7 +9933,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">parafere</l>
       </lg>
@@ -9601,7 +10048,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">misjonere</l>
       </lg>
@@ -9641,7 +10088,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">modifisere</l>
       </lg>
@@ -9776,7 +10223,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">mosjonere</l>
       </lg>
@@ -10191,7 +10638,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">presumere</l>
       </lg>
@@ -10407,10 +10854,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">observere</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">áicat</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">observeret</t>
@@ -10437,7 +10889,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">preferere</l>
       </lg>
@@ -10462,7 +10914,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">okkupere</l>
       </lg>
@@ -10547,7 +10999,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">operasjonalisere</l>
       </lg>
@@ -11032,7 +11484,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">pensjonere</l>
       </lg>
@@ -11057,7 +11509,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">perfeksjonere</l>
       </lg>
@@ -11402,7 +11854,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">posisjonere</l>
       </lg>
@@ -11937,7 +12389,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">proporsjonere</l>
       </lg>
@@ -12222,7 +12674,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">rasjonere</l>
       </lg>
@@ -12237,7 +12689,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">reagere</l>
       </lg>
@@ -12752,7 +13204,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">reservere</l>
       </lg>
@@ -12867,7 +13319,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">respektere</l>
       </lg>
@@ -13057,7 +13509,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">revolusjonere</l>
       </lg>
@@ -13082,7 +13534,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">serratere</l>
       </lg>
@@ -13387,7 +13839,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">installere</l>
       </lg>
@@ -13552,7 +14004,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">seksjonere</l>
       </lg>
@@ -13757,7 +14209,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">innføre</l>
       </lg>
@@ -14252,7 +14704,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">stasjonere</l>
       </lg>
@@ -14277,7 +14729,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">stenografere</l>
       </lg>
@@ -14482,7 +14934,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">summere</l>
       </lg>
@@ -15117,7 +15569,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">testamentere</l>
       </lg>
@@ -16502,7 +16954,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">bøte</l>
       </lg>
@@ -16824,7 +17276,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">la</l>
       </lg>
@@ -16865,7 +17317,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">nå</l>
       </lg>
@@ -16924,7 +17376,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">gynge</l>
       </lg>
@@ -16944,7 +17396,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">drikke</l>
       </lg>
@@ -16963,7 +17415,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">løfte</l>
       </lg>
@@ -16994,7 +17446,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">klage</l>
       </lg>
@@ -17009,7 +17461,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">fiske</l>
       </lg>
@@ -17058,7 +17510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">nytte</l>
       </lg>
@@ -17073,7 +17525,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">føde</l>
       </lg>
@@ -17099,7 +17551,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">pipe</l>
       </lg>
@@ -17124,7 +17576,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">svette</l>
       </lg>
@@ -17139,7 +17591,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">rekke</l>
       </lg>
@@ -17169,7 +17621,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">varme</l>
       </lg>
@@ -17189,7 +17641,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">klippe</l>
       </lg>
@@ -17215,7 +17667,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="5">
       <lg>
          <l pos="v">støtte</l>
       </lg>
@@ -17245,7 +17697,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">pleie</l>
       </lg>
@@ -17260,7 +17712,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">flå</l>
       </lg>
@@ -17275,7 +17727,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">ønske</l>
       </lg>
@@ -17295,7 +17747,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">hoppe</l>
       </lg>
@@ -17316,7 +17768,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skrape</l>
       </lg>
@@ -17345,7 +17797,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">styrke</l>
       </lg>
@@ -17365,7 +17817,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">følge</l>
       </lg>
@@ -17404,7 +17856,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">plage</l>
       </lg>
@@ -17434,7 +17886,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">hoste</l>
       </lg>
@@ -17455,7 +17907,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">dekke</l>
       </lg>
@@ -17480,7 +17932,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">anklage</l>
       </lg>
@@ -17515,7 +17967,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">melke</l>
       </lg>
@@ -17530,7 +17982,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">tro</l>
       </lg>
@@ -17569,7 +18021,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vare</l>
       </lg>
@@ -17588,7 +18040,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">glo</l>
       </lg>
@@ -17603,7 +18055,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">prøve</l>
       </lg>
@@ -17633,7 +18085,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">ro</l>
       </lg>
@@ -17648,7 +18100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">høve</l>
       </lg>
@@ -17677,7 +18129,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">leie</l>
       </lg>
@@ -17692,7 +18144,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">rømme</l>
       </lg>
@@ -17707,7 +18159,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tømme</l>
       </lg>
@@ -17722,7 +18174,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">tabbe</l>
       </lg>
@@ -17737,7 +18189,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">merke</l>
       </lg>
@@ -17786,7 +18238,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">reise</l>
       </lg>
@@ -17844,7 +18296,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">lære</l>
       </lg>
@@ -17903,7 +18355,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">greie</l>
       </lg>
@@ -17936,7 +18388,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">stige</l>
       </lg>
@@ -17970,7 +18422,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">hale</l>
       </lg>
@@ -17985,7 +18437,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">skjære</l>
       </lg>
@@ -18009,7 +18461,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="11">
       <lg>
          <l pos="v">slå</l>
       </lg>
@@ -18114,7 +18566,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">styre</l>
       </lg>
@@ -18138,7 +18590,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">leke</l>
       </lg>
@@ -18158,7 +18610,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">stråle</l>
       </lg>
@@ -18183,7 +18635,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tale</l>
       </lg>
@@ -18198,7 +18650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bytte</l>
       </lg>
@@ -18247,7 +18699,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="7">
       <lg>
          <l pos="v">rose</l>
       </lg>
@@ -18297,7 +18749,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">presse</l>
       </lg>
@@ -18317,7 +18769,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">frynse</l>
       </lg>
@@ -18332,7 +18784,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">rulle</l>
       </lg>
@@ -18352,7 +18804,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">se</l>
       </lg>
@@ -18386,7 +18838,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">koste</l>
       </lg>
@@ -18409,7 +18861,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">banke på</l>
       </lg>
@@ -18484,7 +18936,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vise veg</l>
       </lg>
@@ -18499,7 +18951,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">guide</l>
       </lg>
@@ -18638,7 +19090,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">svømme</l>
       </lg>
@@ -18653,7 +19105,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">bade</l>
       </lg>
@@ -18686,7 +19138,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">gjøre ferdig</l>
       </lg>
@@ -18838,7 +19290,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">etterlate</l>
       </lg>
@@ -18857,7 +19309,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vinke</l>
       </lg>
@@ -18897,7 +19349,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">oppdage</l>
       </lg>
@@ -18962,7 +19414,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sitte</l>
       </lg>
@@ -18977,7 +19429,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">glitre</l>
       </lg>
@@ -19002,10 +19454,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forsøke</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">geahččalit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">vikkahit</t>
@@ -19022,7 +19479,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">tenke</l>
       </lg>
@@ -19087,7 +19544,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">sveve</l>
       </lg>
@@ -19117,7 +19574,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">hviske</l>
       </lg>
@@ -19137,7 +19594,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">barbere</l>
       </lg>
@@ -19161,7 +19618,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forstyrre</l>
       </lg>
@@ -19200,7 +19657,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">åpne</l>
       </lg>
@@ -19230,7 +19687,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">lukke opp</l>
       </lg>
@@ -19312,7 +19769,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">forandre</l>
       </lg>
@@ -19337,7 +19794,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">raute</l>
       </lg>
@@ -19392,7 +19849,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">bevege</l>
       </lg>
@@ -19422,7 +19879,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">røre</l>
       </lg>
@@ -19452,7 +19909,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">holde kaffepause</l>
       </lg>
@@ -19531,7 +19988,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">bli glad</l>
       </lg>
@@ -19561,7 +20018,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">mase</l>
       </lg>
@@ -19621,7 +20078,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli narret</l>
       </lg>
@@ -19636,7 +20093,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">tråkke</l>
       </lg>
@@ -19656,7 +20113,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">trø</l>
       </lg>
@@ -19701,7 +20158,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">sprute</l>
       </lg>
@@ -19734,7 +20191,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="9">
       <lg>
          <l pos="v">smelle</l>
       </lg>
@@ -19798,7 +20255,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">skinne</l>
       </lg>
@@ -19828,7 +20285,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">lyse</l>
       </lg>
@@ -19848,7 +20305,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">spise</l>
       </lg>
@@ -19877,7 +20334,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">legge</l>
       </lg>
@@ -19897,7 +20354,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sette</l>
       </lg>
@@ -19925,7 +20382,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">skremme</l>
       </lg>
@@ -19960,7 +20417,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">frykte</l>
       </lg>
@@ -20003,7 +20460,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forberede</l>
       </lg>
@@ -20032,7 +20489,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kartlegge</l>
       </lg>
@@ -20047,7 +20504,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">oppfordre</l>
       </lg>
@@ -20071,7 +20528,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">utfordre</l>
       </lg>
@@ -20105,7 +20562,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">undersøke</l>
       </lg>
@@ -20145,10 +20602,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">veie</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">vihkket</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">vihkket</t>
@@ -20168,17 +20630,22 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">studere</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">studeret</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">studeret</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forelske seg</l>
       </lg>
@@ -20193,7 +20660,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">omfavne</l>
       </lg>
@@ -20218,7 +20685,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">klemme</l>
       </lg>
@@ -20250,7 +20717,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli rørt</l>
       </lg>
@@ -20295,7 +20762,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">unngå</l>
       </lg>
@@ -20348,7 +20815,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">holde</l>
       </lg>
@@ -20397,7 +20864,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">medføre</l>
       </lg>
@@ -20456,7 +20923,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kline</l>
       </lg>
@@ -20511,7 +20978,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">undervise</l>
       </lg>
@@ -20526,7 +20993,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">rote</l>
       </lg>
@@ -20595,7 +21062,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">intervjue</l>
       </lg>
@@ -20615,7 +21082,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="6">
       <lg>
          <l pos="v">spørre</l>
       </lg>
@@ -20655,7 +21122,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">plages</l>
       </lg>
@@ -20680,7 +21147,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">lykkes</l>
       </lg>
@@ -20730,7 +21197,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gi</l>
       </lg>
@@ -20755,7 +21222,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">flø</l>
       </lg>
@@ -20770,7 +21237,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">vantrives</l>
       </lg>
@@ -20790,7 +21257,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">utvikle seg</l>
       </lg>
@@ -20830,7 +21297,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">publisere</l>
       </lg>
@@ -20863,7 +21330,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">deklarere</l>
       </lg>
@@ -20898,7 +21365,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">gjøre seg til</l>
       </lg>
@@ -20928,7 +21395,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">våge</l>
       </lg>
@@ -20947,7 +21414,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">regne</l>
       </lg>
@@ -20977,7 +21444,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">bruke</l>
       </lg>
@@ -21072,7 +21539,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">beskrive</l>
       </lg>
@@ -21092,7 +21559,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">instruere</l>
       </lg>
@@ -21127,7 +21594,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">straffe</l>
       </lg>
@@ -21190,7 +21657,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">sentrifugere</l>
       </lg>
@@ -21215,7 +21682,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">heve</l>
       </lg>
@@ -21259,7 +21726,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">mistenke</l>
       </lg>
@@ -21296,7 +21763,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli redd</l>
       </lg>
@@ -21325,7 +21792,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">stable</l>
       </lg>
@@ -21348,7 +21815,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">arbeide</l>
       </lg>
@@ -21371,7 +21838,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gjøre</l>
       </lg>
@@ -21430,7 +21897,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">steike</l>
       </lg>
@@ -21490,7 +21957,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">spinne</l>
       </lg>
@@ -21546,7 +22013,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">krype</l>
       </lg>
@@ -21566,7 +22033,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli skuffet</l>
       </lg>
@@ -21591,7 +22058,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">narre</l>
       </lg>
@@ -21636,7 +22103,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">forsvare</l>
       </lg>
@@ -21676,7 +22143,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">inspisere</l>
       </lg>
@@ -21691,7 +22158,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="6">
       <lg>
          <l pos="v">miste</l>
       </lg>
@@ -21800,7 +22267,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">berge</l>
       </lg>
@@ -21815,7 +22282,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">slamre</l>
       </lg>
@@ -21830,7 +22297,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">kollidere</l>
       </lg>
@@ -21849,7 +22316,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">bry seg om</l>
       </lg>
@@ -21934,7 +22401,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="5">
       <lg>
          <l pos="v">blåse</l>
       </lg>
@@ -21994,7 +22461,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">nekte</l>
       </lg>
@@ -22014,7 +22481,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">benekte</l>
       </lg>
@@ -22059,7 +22526,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">slippe</l>
       </lg>
@@ -22074,7 +22541,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gå i stykker</l>
       </lg>
@@ -22089,7 +22556,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">spre seg</l>
       </lg>
@@ -22104,7 +22571,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">klare</l>
       </lg>
@@ -22134,7 +22601,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">pine</l>
       </lg>
@@ -22149,7 +22616,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">ødelegge</l>
       </lg>
@@ -22189,7 +22656,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">ironisere</l>
       </lg>
@@ -22224,7 +22691,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">holde seg</l>
       </lg>
@@ -22264,7 +22731,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">stanse</l>
       </lg>
@@ -22289,7 +22756,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">stoppe</l>
       </lg>
@@ -22333,7 +22800,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forbli</l>
       </lg>
@@ -22362,7 +22829,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">feste seg</l>
       </lg>
@@ -22391,7 +22858,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">jakte</l>
       </lg>
@@ -22410,7 +22877,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">be</l>
       </lg>
@@ -22464,7 +22931,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">spre</l>
       </lg>
@@ -22479,7 +22946,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">skrike</l>
       </lg>
@@ -22499,7 +22966,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">hyle</l>
       </lg>
@@ -22565,10 +23032,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">le</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">boagustit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">boagustit</t>
@@ -22580,7 +23052,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">flire</l>
       </lg>
@@ -22595,7 +23067,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tørke litt</l>
       </lg>
@@ -22628,7 +23100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">plukke</l>
       </lg>
@@ -22663,7 +23135,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">sortere</l>
       </lg>
@@ -22698,7 +23170,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">brenne</l>
       </lg>
@@ -22722,7 +23194,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">svi</l>
       </lg>
@@ -22778,7 +23250,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bore</l>
       </lg>
@@ -22803,7 +23275,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fosse</l>
       </lg>
@@ -22842,7 +23314,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">hovne</l>
       </lg>
@@ -22857,7 +23329,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vekke</l>
       </lg>
@@ -22886,7 +23358,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">rote opp</l>
       </lg>
@@ -22901,7 +23373,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">grave opp</l>
       </lg>
@@ -22921,7 +23393,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ete</l>
       </lg>
@@ -22970,7 +23442,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">fyke</l>
       </lg>
@@ -23007,7 +23479,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ryke</l>
       </lg>
@@ -23026,7 +23498,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">røyke</l>
       </lg>
@@ -23049,7 +23521,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">seile</l>
       </lg>
@@ -23084,7 +23556,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="6">
       <lg>
          <l pos="v">bryte</l>
       </lg>
@@ -23147,7 +23619,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vri</l>
       </lg>
@@ -23171,7 +23643,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">invitere</l>
       </lg>
@@ -23204,7 +23676,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">dundre</l>
       </lg>
@@ -23219,7 +23691,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">brake</l>
       </lg>
@@ -23234,7 +23706,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">kompensere</l>
       </lg>
@@ -23249,7 +23721,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">refundere</l>
       </lg>
@@ -23342,7 +23814,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">dykke</l>
       </lg>
@@ -23377,7 +23849,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">forbedre</l>
       </lg>
@@ -23392,7 +23864,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">rette på</l>
       </lg>
@@ -23412,7 +23884,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli bedre</l>
       </lg>
@@ -23497,7 +23969,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">herde</l>
       </lg>
@@ -23532,7 +24004,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">grave</l>
       </lg>
@@ -23561,7 +24033,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">demontere</l>
       </lg>
@@ -23576,7 +24048,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kvele</l>
       </lg>
@@ -23591,7 +24063,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">produsere</l>
       </lg>
@@ -23626,7 +24098,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">smette</l>
       </lg>
@@ -23641,7 +24113,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">svulme opp</l>
       </lg>
@@ -23656,7 +24128,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tvinge</l>
       </lg>
@@ -23671,7 +24143,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">ekspropriere</l>
       </lg>
@@ -23686,7 +24158,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gå av</l>
       </lg>
@@ -23701,7 +24173,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="7">
       <lg>
          <l pos="v">sprette</l>
       </lg>
@@ -23745,7 +24217,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli igjen</l>
       </lg>
@@ -23764,7 +24236,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli varm</l>
       </lg>
@@ -23789,7 +24261,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">skyte</l>
       </lg>
@@ -23805,7 +24277,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">stikke</l>
       </lg>
@@ -23860,7 +24332,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">påvirke</l>
       </lg>
@@ -23923,7 +24395,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">kaste</l>
       </lg>
@@ -23951,7 +24423,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gjengjelde</l>
       </lg>
@@ -23976,7 +24448,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">betale</l>
       </lg>
@@ -24034,7 +24506,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tjene</l>
       </lg>
@@ -24053,7 +24525,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">sprelle</l>
       </lg>
@@ -24093,7 +24565,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">være uheldig</l>
       </lg>
@@ -24118,7 +24590,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gjøre ondt</l>
       </lg>
@@ -24143,7 +24615,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">forhindre</l>
       </lg>
@@ -24228,7 +24700,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">si</l>
       </lg>
@@ -24270,7 +24742,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">klare seg</l>
       </lg>
@@ -24324,7 +24796,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">gnage</l>
       </lg>
@@ -24371,7 +24843,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skjelle ut</l>
       </lg>
@@ -24406,7 +24878,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">barke</l>
       </lg>
@@ -24444,7 +24916,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">klype</l>
       </lg>
@@ -24480,7 +24952,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tisse</l>
       </lg>
@@ -24495,7 +24967,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">kvitre</l>
       </lg>
@@ -24548,7 +25020,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">synke</l>
       </lg>
@@ -24577,7 +25049,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">putte</l>
       </lg>
@@ -24602,7 +25074,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">påpeke</l>
       </lg>
@@ -24618,7 +25090,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">formane</l>
       </lg>
@@ -24638,7 +25110,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">advare</l>
       </lg>
@@ -24668,7 +25140,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gjøre oppmerksom på</l>
       </lg>
@@ -24713,7 +25185,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fnyse</l>
       </lg>
@@ -24762,7 +25234,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">makulere</l>
       </lg>
@@ -24777,7 +25249,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="6">
       <lg>
          <l pos="v">banke</l>
       </lg>
@@ -24900,7 +25372,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">skjelve</l>
       </lg>
@@ -24925,7 +25397,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">riste</l>
       </lg>
@@ -24959,7 +25431,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">feste</l>
       </lg>
@@ -25012,7 +25484,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli fast</l>
       </lg>
@@ -25027,7 +25499,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">trykke</l>
       </lg>
@@ -25054,7 +25526,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">glimte</l>
       </lg>
@@ -25083,7 +25555,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">glinse</l>
       </lg>
@@ -25120,7 +25592,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">møtes</l>
       </lg>
@@ -25159,7 +25631,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli frisk</l>
       </lg>
@@ -25202,7 +25674,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">poengtere</l>
       </lg>
@@ -25231,7 +25703,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">klaske</l>
       </lg>
@@ -25247,7 +25719,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">dekorere</l>
       </lg>
@@ -25306,7 +25778,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">orientere</l>
       </lg>
@@ -25321,7 +25793,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">debattere</l>
       </lg>
@@ -25336,7 +25808,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">diskutere</l>
       </lg>
@@ -25356,7 +25828,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="6">
       <lg>
          <l pos="v">krangle</l>
       </lg>
@@ -25395,7 +25867,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bestille</l>
       </lg>
@@ -25424,7 +25896,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tillate</l>
       </lg>
@@ -25439,7 +25911,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">stelle</l>
       </lg>
@@ -25474,7 +25946,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">reparere</l>
       </lg>
@@ -25505,7 +25977,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gå fort</l>
       </lg>
@@ -25545,7 +26017,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">skvette</l>
       </lg>
@@ -25581,7 +26053,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">gripe</l>
       </lg>
@@ -25612,7 +26084,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ta hensyn til</l>
       </lg>
@@ -25627,7 +26099,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">fungere</l>
       </lg>
@@ -25712,7 +26184,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">eksportere</l>
       </lg>
@@ -25727,7 +26199,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">trave</l>
       </lg>
@@ -25742,7 +26214,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">skynde seg</l>
       </lg>
@@ -25776,7 +26248,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forfølge</l>
       </lg>
@@ -25815,7 +26287,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">slå med flat hånd</l>
       </lg>
@@ -25867,7 +26339,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">akseptere</l>
       </lg>
@@ -25882,7 +26354,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bifalle</l>
       </lg>
@@ -25937,7 +26409,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skylle</l>
       </lg>
@@ -25953,7 +26425,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">brenne bål og koke kaffe</l>
       </lg>
@@ -25968,7 +26440,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">brenne bål</l>
       </lg>
@@ -25983,7 +26455,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fyre i ovnen</l>
       </lg>
@@ -25998,7 +26470,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli lei</l>
       </lg>
@@ -26031,7 +26503,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">konfiskere</l>
       </lg>
@@ -26046,7 +26518,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">stole på</l>
       </lg>
@@ -26107,7 +26579,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">innrømme</l>
       </lg>
@@ -26142,7 +26614,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kjennes</l>
       </lg>
@@ -26181,7 +26653,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">lage</l>
       </lg>
@@ -26240,7 +26712,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">jevne</l>
       </lg>
@@ -26285,7 +26757,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">koke opp</l>
       </lg>
@@ -26340,7 +26812,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">tåle</l>
       </lg>
@@ -26375,7 +26847,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">lappe</l>
       </lg>
@@ -26390,7 +26862,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">nå igjen</l>
       </lg>
@@ -26405,7 +26877,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">koke</l>
       </lg>
@@ -26448,7 +26920,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ta imot</l>
       </lg>
@@ -26467,7 +26939,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">bekrefte</l>
       </lg>
@@ -26497,7 +26969,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">attestere</l>
       </lg>
@@ -26552,7 +27024,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">dempe</l>
       </lg>
@@ -26567,7 +27039,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">granske</l>
       </lg>
@@ -26592,7 +27064,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">puffe</l>
       </lg>
@@ -26628,7 +27100,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tumle</l>
       </lg>
@@ -26653,7 +27125,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">omkomme</l>
       </lg>
@@ -26678,7 +27150,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">annullere</l>
       </lg>
@@ -26713,7 +27185,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tøve</l>
       </lg>
@@ -26728,7 +27200,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">tøyse</l>
       </lg>
@@ -26748,7 +27220,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">garantere</l>
       </lg>
@@ -26773,7 +27245,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">kausjonere</l>
       </lg>
@@ -26813,7 +27285,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">ville</l>
       </lg>
@@ -26837,7 +27309,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">summe seg</l>
       </lg>
@@ -26892,7 +27364,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">danse</l>
       </lg>
@@ -26917,7 +27389,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">trenge</l>
       </lg>
@@ -26976,7 +27448,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">betrakte</l>
       </lg>
@@ -27021,7 +27493,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">stabilisere</l>
       </lg>
@@ -27036,7 +27508,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">svare</l>
       </lg>
@@ -27171,7 +27643,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli sur</l>
       </lg>
@@ -27196,7 +27668,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skilles</l>
       </lg>
@@ -27211,7 +27683,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">differensiere</l>
       </lg>
@@ -27236,7 +27708,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">hindre</l>
       </lg>
@@ -27265,7 +27737,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">bli sint</l>
       </lg>
@@ -27355,7 +27827,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">strekke seg</l>
       </lg>
@@ -27375,7 +27847,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">angripe</l>
       </lg>
@@ -27390,7 +27862,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">drive idrett</l>
       </lg>
@@ -27415,7 +27887,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tøye</l>
       </lg>
@@ -27430,7 +27902,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">fantasere</l>
       </lg>
@@ -27445,7 +27917,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">vifte</l>
       </lg>
@@ -27490,7 +27962,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="5">
       <lg>
          <l pos="v">male</l>
       </lg>
@@ -27522,7 +27994,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">kverne</l>
       </lg>
@@ -27537,7 +28009,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">oppleve</l>
       </lg>
@@ -27575,7 +28047,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">få</l>
       </lg>
@@ -27590,7 +28062,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">få tak i</l>
       </lg>
@@ -27645,7 +28117,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">frakte</l>
       </lg>
@@ -27743,7 +28215,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">jamre</l>
       </lg>
@@ -27773,7 +28245,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sørge for</l>
       </lg>
@@ -27792,7 +28264,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">drive utukt</l>
       </lg>
@@ -27817,7 +28289,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ta tak</l>
       </lg>
@@ -27832,7 +28304,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">passe</l>
       </lg>
@@ -27856,7 +28328,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">vokte</l>
       </lg>
@@ -27876,7 +28348,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">tilby</l>
       </lg>
@@ -27901,7 +28373,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">flytte</l>
       </lg>
@@ -27926,7 +28398,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">flakse</l>
       </lg>
@@ -27941,7 +28413,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">slenge</l>
       </lg>
@@ -27977,7 +28449,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="6">
       <lg>
          <l pos="v">rykke</l>
       </lg>
@@ -28017,7 +28489,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">rive</l>
       </lg>
@@ -28032,7 +28504,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">slite</l>
       </lg>
@@ -28068,7 +28540,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">revne</l>
       </lg>
@@ -28083,7 +28555,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">glane</l>
       </lg>
@@ -28103,7 +28575,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">klatre</l>
       </lg>
@@ -28139,7 +28611,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fryse</l>
       </lg>
@@ -28154,7 +28626,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skulle</l>
       </lg>
@@ -28173,7 +28645,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">besøke</l>
       </lg>
@@ -28243,7 +28715,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">unnvike</l>
       </lg>
@@ -28318,7 +28790,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">klore</l>
       </lg>
@@ -28369,7 +28841,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">lette</l>
       </lg>
@@ -28384,7 +28856,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">minske</l>
       </lg>
@@ -28469,7 +28941,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">spenne</l>
       </lg>
@@ -28494,7 +28966,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">pusse</l>
       </lg>
@@ -28514,7 +28986,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">polere</l>
       </lg>
@@ -28534,7 +29006,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">repetere</l>
       </lg>
@@ -28549,7 +29021,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gjenta</l>
       </lg>
@@ -28564,7 +29036,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">multiplisere</l>
       </lg>
@@ -28579,7 +29051,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli ferdig</l>
       </lg>
@@ -28594,7 +29066,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">tigge</l>
       </lg>
@@ -28614,7 +29086,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kjøre</l>
       </lg>
@@ -28629,7 +29101,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">dra</l>
       </lg>
@@ -28657,7 +29129,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">trekke</l>
       </lg>
@@ -28712,7 +29184,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">heve seg</l>
       </lg>
@@ -28731,7 +29203,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">gå</l>
       </lg>
@@ -28799,7 +29271,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">strekke ut</l>
       </lg>
@@ -28824,7 +29296,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">skryte</l>
       </lg>
@@ -28849,7 +29321,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">kommandere</l>
       </lg>
@@ -28864,7 +29336,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ha løpetid</l>
       </lg>
@@ -28917,7 +29389,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">surre</l>
       </lg>
@@ -28962,7 +29434,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">bearbeide</l>
       </lg>
@@ -28977,7 +29449,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">behandle</l>
       </lg>
@@ -28992,7 +29464,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">knirke</l>
       </lg>
@@ -29007,7 +29479,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">takke</l>
       </lg>
@@ -29053,7 +29525,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">lokke</l>
       </lg>
@@ -29078,7 +29550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="6">
       <lg>
          <l pos="v">brøle</l>
       </lg>
@@ -29114,7 +29586,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">orke</l>
       </lg>
@@ -29148,7 +29620,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">konkurrere</l>
       </lg>
@@ -29208,7 +29680,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">flimre</l>
       </lg>
@@ -29228,7 +29700,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">bremse</l>
       </lg>
@@ -29243,7 +29715,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">dryppe</l>
       </lg>
@@ -29279,7 +29751,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">knakke</l>
       </lg>
@@ -29311,7 +29783,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">gratinere</l>
       </lg>
@@ -29376,7 +29848,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">visne</l>
       </lg>
@@ -29412,7 +29884,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bekoste</l>
       </lg>
@@ -29437,7 +29909,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">drepe</l>
       </lg>
@@ -29470,7 +29942,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kalle</l>
       </lg>
@@ -29525,7 +29997,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">tørke</l>
       </lg>
@@ -29605,7 +30077,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">forbruke</l>
       </lg>
@@ -29633,7 +30105,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">fiske med drivgarn</l>
       </lg>
@@ -29663,7 +30135,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">renne</l>
       </lg>
@@ -29688,7 +30160,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">reke</l>
       </lg>
@@ -29703,7 +30175,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">drive</l>
       </lg>
@@ -29733,7 +30205,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">svinne</l>
       </lg>
@@ -29756,7 +30228,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">velte</l>
       </lg>
@@ -29790,7 +30262,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bukke</l>
       </lg>
@@ -29805,7 +30277,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">bøye seg</l>
       </lg>
@@ -29825,7 +30297,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">veltes</l>
       </lg>
@@ -29880,7 +30352,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">fotografere</l>
       </lg>
@@ -29969,7 +30441,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forstå hverandre</l>
       </lg>
@@ -29984,7 +30456,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">kommunisere</l>
       </lg>
@@ -30129,7 +30601,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli svidd</l>
       </lg>
@@ -30182,7 +30654,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">følge spor</l>
       </lg>
@@ -30225,7 +30697,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">berøre</l>
       </lg>
@@ -30289,7 +30761,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">traktere</l>
       </lg>
@@ -30309,7 +30781,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">servere</l>
       </lg>
@@ -30394,7 +30866,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gå i rad og rekke</l>
       </lg>
@@ -30419,7 +30891,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gjelde</l>
       </lg>
@@ -30434,7 +30906,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">blekne</l>
       </lg>
@@ -30459,7 +30931,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">anta</l>
       </lg>
@@ -30488,7 +30960,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">koke seg kaffe</l>
       </lg>
@@ -30543,7 +31015,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">ta vare på</l>
       </lg>
@@ -30598,7 +31070,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forsvinne</l>
       </lg>
@@ -30633,7 +31105,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">kastrere</l>
       </lg>
@@ -30648,7 +31120,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="5">
       <lg>
          <l pos="v">løse</l>
       </lg>
@@ -30678,7 +31150,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">lønne seg</l>
       </lg>
@@ -30713,7 +31185,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vikle opp</l>
       </lg>
@@ -30738,7 +31210,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">komme til å</l>
       </lg>
@@ -30791,7 +31263,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">innskrenke</l>
       </lg>
@@ -30856,7 +31328,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gjespe</l>
       </lg>
@@ -30882,7 +31354,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli oppdaget</l>
       </lg>
@@ -30907,7 +31379,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">handle</l>
       </lg>
@@ -30942,7 +31414,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">lukte</l>
       </lg>
@@ -30961,7 +31433,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">stinke</l>
       </lg>
@@ -30980,7 +31452,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">henge</l>
       </lg>
@@ -31049,7 +31521,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">slutte</l>
       </lg>
@@ -31128,7 +31600,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">drukne</l>
       </lg>
@@ -31173,7 +31645,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">henge opp</l>
       </lg>
@@ -31188,7 +31660,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli svak</l>
       </lg>
@@ -31227,7 +31699,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">vrake</l>
       </lg>
@@ -31262,7 +31734,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kremte</l>
       </lg>
@@ -31288,7 +31760,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">snakke</l>
       </lg>
@@ -31316,7 +31788,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skyve</l>
       </lg>
@@ -31332,7 +31804,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">finne på</l>
       </lg>
@@ -31367,7 +31839,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">lede</l>
       </lg>
@@ -31416,7 +31888,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">rope</l>
       </lg>
@@ -31437,7 +31909,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">bygge</l>
       </lg>
@@ -31452,7 +31924,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">prate</l>
       </lg>
@@ -31497,7 +31969,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skaffe</l>
       </lg>
@@ -31512,7 +31984,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">rekruttere</l>
       </lg>
@@ -31587,7 +32059,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">snakke sammen</l>
       </lg>
@@ -31656,7 +32128,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">trene</l>
       </lg>
@@ -31715,7 +32187,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">overnatte</l>
       </lg>
@@ -31735,7 +32207,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vise seg</l>
       </lg>
@@ -31824,7 +32296,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forstå</l>
       </lg>
@@ -31839,7 +32311,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skjønne</l>
       </lg>
@@ -31904,7 +32376,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">lyde</l>
       </lg>
@@ -31963,7 +32435,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">trøste</l>
       </lg>
@@ -31988,7 +32460,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">blåse svakt</l>
       </lg>
@@ -32003,7 +32475,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ymte</l>
       </lg>
@@ -32018,7 +32490,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">herme</l>
       </lg>
@@ -32063,7 +32535,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">nå fram</l>
       </lg>
@@ -32117,7 +32589,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">bevege seg</l>
       </lg>
@@ -32182,7 +32654,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">rotere</l>
       </lg>
@@ -32217,7 +32689,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">snu</l>
       </lg>
@@ -32242,7 +32714,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">dreie</l>
       </lg>
@@ -32267,7 +32739,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">skravle</l>
       </lg>
@@ -32287,7 +32759,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">suse</l>
       </lg>
@@ -32307,7 +32779,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">bruse</l>
       </lg>
@@ -32342,7 +32814,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">drønne</l>
       </lg>
@@ -32357,7 +32829,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">dele</l>
       </lg>
@@ -32402,7 +32874,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">avse</l>
       </lg>
@@ -32441,7 +32913,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vagge</l>
       </lg>
@@ -32474,7 +32946,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sladre</l>
       </lg>
@@ -32489,7 +32961,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">vakle</l>
       </lg>
@@ -32529,7 +33001,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">dure</l>
       </lg>
@@ -32549,7 +33021,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">slukke</l>
       </lg>
@@ -32564,7 +33036,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">slukne</l>
       </lg>
@@ -32599,7 +33071,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">knake</l>
       </lg>
@@ -32625,7 +33097,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">nærme seg</l>
       </lg>
@@ -32640,7 +33112,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">løsne</l>
       </lg>
@@ -32665,7 +33137,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">huke seg ned</l>
       </lg>
@@ -32700,7 +33172,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">øke</l>
       </lg>
@@ -32735,7 +33207,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bre ut</l>
       </lg>
@@ -32751,7 +33223,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">folde ut</l>
       </lg>
@@ -32777,7 +33249,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">åpne seg</l>
       </lg>
@@ -32792,7 +33264,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">spøke</l>
       </lg>
@@ -32817,7 +33289,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vitse</l>
       </lg>
@@ -32832,7 +33304,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">skjenke</l>
       </lg>
@@ -32864,7 +33336,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">helle</l>
       </lg>
@@ -32901,7 +33373,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">blinke</l>
       </lg>
@@ -32952,7 +33424,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">lime</l>
       </lg>
@@ -32967,7 +33439,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">stryke</l>
       </lg>
@@ -32987,7 +33459,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skrante</l>
       </lg>
@@ -33002,7 +33474,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fare</l>
       </lg>
@@ -33017,7 +33489,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">ligge</l>
       </lg>
@@ -33042,7 +33514,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">legge seg</l>
       </lg>
@@ -33057,7 +33529,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skvulpe over</l>
       </lg>
@@ -33083,7 +33555,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">avrunde</l>
       </lg>
@@ -33148,7 +33620,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">flekke</l>
       </lg>
@@ -33219,7 +33691,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli lunken</l>
       </lg>
@@ -33289,7 +33761,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">kløyve</l>
       </lg>
@@ -33403,7 +33875,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bløyte</l>
       </lg>
@@ -33448,7 +33920,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">avstå</l>
       </lg>
@@ -33517,7 +33989,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="5">
       <lg>
          <l pos="v">ordne</l>
       </lg>
@@ -33547,7 +34019,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">arrangere</l>
       </lg>
@@ -33582,10 +34054,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">re</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">láhčit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">láhčit</t>
@@ -33632,7 +34109,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">kritisere</l>
       </lg>
@@ -33672,7 +34149,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli vanfør</l>
       </lg>
@@ -33687,7 +34164,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">bli skadet</l>
       </lg>
@@ -33839,7 +34316,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">hogge</l>
       </lg>
@@ -33900,7 +34377,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="5">
       <lg>
          <l pos="v">notere</l>
       </lg>
@@ -33944,7 +34421,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">definere</l>
       </lg>
@@ -34049,7 +34526,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli rasende</l>
       </lg>
@@ -34104,7 +34581,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">skifte</l>
       </lg>
@@ -34134,7 +34611,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">våkne</l>
       </lg>
@@ -34154,7 +34631,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">oppmuntre</l>
       </lg>
@@ -34193,7 +34670,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">korrigere</l>
       </lg>
@@ -34208,7 +34685,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">moderere</l>
       </lg>
@@ -34223,7 +34700,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">regulere</l>
       </lg>
@@ -34238,7 +34715,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fortelle</l>
       </lg>
@@ -34263,7 +34740,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">minnes</l>
       </lg>
@@ -34308,7 +34785,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skule</l>
       </lg>
@@ -34334,7 +34811,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">smake</l>
       </lg>
@@ -34379,7 +34856,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">brette</l>
       </lg>
@@ -34405,7 +34882,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">kunne</l>
       </lg>
@@ -34428,7 +34905,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">prise</l>
       </lg>
@@ -34453,7 +34930,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">omtale</l>
       </lg>
@@ -34492,7 +34969,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">lage middag</l>
       </lg>
@@ -34577,7 +35054,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">nevne</l>
       </lg>
@@ -34620,7 +35097,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">pirke</l>
       </lg>
@@ -34659,7 +35136,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gi råd</l>
       </lg>
@@ -34674,7 +35151,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">nettobudsjettere</l>
       </lg>
@@ -34709,7 +35186,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">true</l>
       </lg>
@@ -34734,7 +35211,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">beklage</l>
       </lg>
@@ -34754,7 +35231,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">grine</l>
       </lg>
@@ -34789,7 +35266,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">snufse</l>
       </lg>
@@ -34818,7 +35295,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">nikke</l>
       </lg>
@@ -34863,7 +35340,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gli</l>
       </lg>
@@ -34928,7 +35405,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">absorbere</l>
       </lg>
@@ -34963,7 +35440,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">geipe</l>
       </lg>
@@ -34978,7 +35455,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gå ned</l>
       </lg>
@@ -35007,7 +35484,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">svelge</l>
       </lg>
@@ -35043,7 +35520,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">flamme opp</l>
       </lg>
@@ -35079,7 +35556,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tappe</l>
       </lg>
@@ -35094,7 +35571,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">rette ut</l>
       </lg>
@@ -35119,7 +35596,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">væte</l>
       </lg>
@@ -35148,7 +35625,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">slakte</l>
       </lg>
@@ -35163,7 +35640,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">plystre</l>
       </lg>
@@ -35179,7 +35656,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">smøre</l>
       </lg>
@@ -35194,7 +35671,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">smyge</l>
       </lg>
@@ -35269,7 +35746,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">mjaue</l>
       </lg>
@@ -35294,7 +35771,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">støvsuge</l>
       </lg>
@@ -35329,7 +35806,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sove</l>
       </lg>
@@ -35378,7 +35855,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">støte</l>
       </lg>
@@ -35404,7 +35881,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">fiske med not</l>
       </lg>
@@ -35483,7 +35960,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forandre seg</l>
       </lg>
@@ -35498,7 +35975,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">påstå</l>
       </lg>
@@ -35615,7 +36092,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli kjent</l>
       </lg>
@@ -35698,7 +36175,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">savne</l>
       </lg>
@@ -35737,7 +36214,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">synes</l>
       </lg>
@@ -35760,10 +36237,15 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">utgi</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">almmuhit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">almmustahttit</t>
@@ -35775,7 +36257,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">diskriminere</l>
       </lg>
@@ -35825,7 +36307,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli</l>
       </lg>
@@ -35844,7 +36326,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bo</l>
       </lg>
@@ -35889,7 +36371,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">presentere</l>
       </lg>
@@ -35934,7 +36416,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">representere</l>
       </lg>
@@ -35977,7 +36459,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">avansere</l>
       </lg>
@@ -35992,7 +36474,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forene</l>
       </lg>
@@ -36007,7 +36489,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">inkorporere</l>
       </lg>
@@ -36022,7 +36504,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">kombinere</l>
       </lg>
@@ -36047,7 +36529,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fornye</l>
       </lg>
@@ -36112,7 +36594,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">streve</l>
       </lg>
@@ -36152,7 +36634,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">krysse</l>
       </lg>
@@ -36177,7 +36659,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli bulket</l>
       </lg>
@@ -36192,7 +36674,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">rape</l>
       </lg>
@@ -36207,7 +36689,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skratte</l>
       </lg>
@@ -36227,7 +36709,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">registrere</l>
       </lg>
@@ -36282,7 +36764,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">skråle</l>
       </lg>
@@ -36302,7 +36784,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">fødes</l>
       </lg>
@@ -36317,7 +36799,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">begynne</l>
       </lg>
@@ -36336,7 +36818,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">bråke</l>
       </lg>
@@ -36396,7 +36878,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">røve</l>
       </lg>
@@ -36431,7 +36913,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">ringe</l>
       </lg>
@@ -36456,7 +36938,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">frese</l>
       </lg>
@@ -36521,7 +37003,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">skade seg</l>
       </lg>
@@ -36580,7 +37062,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli dradd</l>
       </lg>
@@ -36635,7 +37117,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">klø</l>
       </lg>
@@ -36650,7 +37132,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">løpe avgårde</l>
       </lg>
@@ -36665,7 +37147,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">løpe</l>
       </lg>
@@ -36690,7 +37172,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli mager</l>
       </lg>
@@ -36759,7 +37241,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">partere</l>
       </lg>
@@ -36804,7 +37286,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">massere</l>
       </lg>
@@ -36829,7 +37311,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">oppbevare</l>
       </lg>
@@ -36912,7 +37394,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">skramle</l>
       </lg>
@@ -36967,7 +37449,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="5">
       <lg>
          <l pos="v">skille</l>
       </lg>
@@ -37008,7 +37490,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">be om</l>
       </lg>
@@ -37028,7 +37510,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">råde</l>
       </lg>
@@ -37058,7 +37540,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">drøfte</l>
       </lg>
@@ -37103,7 +37585,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">file</l>
       </lg>
@@ -37128,7 +37610,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">puste</l>
       </lg>
@@ -37148,7 +37630,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">pese</l>
       </lg>
@@ -37173,7 +37655,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">tine</l>
       </lg>
@@ -37204,7 +37686,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">blande</l>
       </lg>
@@ -37219,7 +37701,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">legere</l>
       </lg>
@@ -37324,7 +37806,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">spare</l>
       </lg>
@@ -37339,7 +37821,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">tilpasse seg</l>
       </lg>
@@ -37374,7 +37856,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">sikre</l>
       </lg>
@@ -37427,7 +37909,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ville ha</l>
       </lg>
@@ -37506,7 +37988,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">halte</l>
       </lg>
@@ -37521,7 +38003,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">klinge</l>
       </lg>
@@ -37586,7 +38068,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">rispe</l>
       </lg>
@@ -37611,7 +38093,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">fundere</l>
       </lg>
@@ -37636,7 +38118,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">glefse</l>
       </lg>
@@ -37672,7 +38154,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">snuse på</l>
       </lg>
@@ -37707,7 +38189,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli enig</l>
       </lg>
@@ -37786,7 +38268,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sikle</l>
       </lg>
@@ -37811,7 +38293,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">skamfere</l>
       </lg>
@@ -37846,7 +38328,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">bøye</l>
       </lg>
@@ -37881,7 +38363,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">dirre</l>
       </lg>
@@ -37896,7 +38378,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">vibrere</l>
       </lg>
@@ -37911,7 +38393,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">plyndre</l>
       </lg>
@@ -37926,7 +38408,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">herje</l>
       </lg>
@@ -37941,7 +38423,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">spille</l>
       </lg>
@@ -37966,7 +38448,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">daske</l>
       </lg>
@@ -38017,7 +38499,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">avta</l>
       </lg>
@@ -38036,7 +38518,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">plassere</l>
       </lg>
@@ -38061,7 +38543,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">støye</l>
       </lg>
@@ -38076,7 +38558,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">plaske</l>
       </lg>
@@ -38142,7 +38624,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">smelte</l>
       </lg>
@@ -38174,7 +38656,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">beskytte</l>
       </lg>
@@ -38422,7 +38904,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">tegne</l>
       </lg>
@@ -38462,7 +38944,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli mindre</l>
       </lg>
@@ -38497,7 +38979,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">dorge</l>
       </lg>
@@ -38572,7 +39054,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">stamme</l>
       </lg>
@@ -38627,7 +39109,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">assistere</l>
       </lg>
@@ -38686,7 +39168,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vente</l>
       </lg>
@@ -38721,7 +39203,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">mørkne</l>
       </lg>
@@ -38756,7 +39238,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli trøtt</l>
       </lg>
@@ -38865,7 +39347,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">ansette</l>
       </lg>
@@ -38890,7 +39372,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">senke</l>
       </lg>
@@ -38954,7 +39436,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">tape</l>
       </lg>
@@ -38984,7 +39466,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">jage</l>
       </lg>
@@ -38999,7 +39481,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">spy</l>
       </lg>
@@ -39014,7 +39496,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">få i gang</l>
       </lg>
@@ -39059,7 +39541,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">resignere</l>
       </lg>
@@ -39114,7 +39596,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">sjenere</l>
       </lg>
@@ -39143,7 +39625,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vise</l>
       </lg>
@@ -39158,7 +39640,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">protestere</l>
       </lg>
@@ -39233,7 +39715,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="4">
       <lg>
          <l pos="v">spasere</l>
       </lg>
@@ -39262,7 +39744,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">vandre</l>
       </lg>
@@ -39397,7 +39879,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">erfare</l>
       </lg>
@@ -39416,7 +39898,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">begynne å gå</l>
       </lg>
@@ -39431,7 +39913,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gagne</l>
       </lg>
@@ -39492,7 +39974,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli forsinket</l>
       </lg>
@@ -39607,7 +40089,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">synes synd på</l>
       </lg>
@@ -39666,7 +40148,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">vurdere</l>
       </lg>
@@ -39681,10 +40163,15 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">etablere</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">ásahit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">etableret</t>
@@ -39806,7 +40293,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">kople</l>
       </lg>
@@ -39831,7 +40318,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">tordne</l>
       </lg>
@@ -39902,7 +40389,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sparke</l>
       </lg>
@@ -39938,7 +40425,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">forklare</l>
       </lg>
@@ -39953,7 +40440,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ake</l>
       </lg>
@@ -40023,7 +40510,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">pynte</l>
       </lg>
@@ -40048,7 +40535,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">samles</l>
       </lg>
@@ -40063,7 +40550,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="3">
       <lg>
          <l pos="v">sløye fisk</l>
       </lg>
@@ -40133,7 +40620,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">sette seg</l>
       </lg>
@@ -40158,7 +40645,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">montere</l>
       </lg>
@@ -40197,7 +40684,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">spytte</l>
       </lg>
@@ -40223,7 +40710,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">slå med knyttneven</l>
       </lg>
@@ -40259,7 +40746,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">markere</l>
       </lg>
@@ -40328,7 +40815,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">gå på ski</l>
       </lg>
@@ -40393,7 +40880,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">galoppere</l>
       </lg>
@@ -40408,7 +40895,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">belyse</l>
       </lg>
@@ -40423,7 +40910,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="3">
       <lg>
          <l pos="v">reise seg</l>
       </lg>
@@ -40451,7 +40938,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">stille seg</l>
       </lg>
@@ -40534,7 +41021,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">få plass</l>
       </lg>
@@ -40873,7 +41360,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli forskrekket</l>
       </lg>
@@ -40968,7 +41455,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">gjemme</l>
       </lg>
@@ -41063,7 +41550,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli etter</l>
       </lg>
@@ -41099,7 +41586,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">eksperimentere</l>
       </lg>
@@ -41164,7 +41651,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">markedsføre</l>
       </lg>
@@ -41229,7 +41716,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">medisinere</l>
       </lg>
@@ -41589,7 +42076,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">drikke fort</l>
       </lg>
@@ -41667,7 +42154,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">spise en skjefull</l>
       </lg>
@@ -41720,7 +42207,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">få utslett</l>
       </lg>
@@ -41922,7 +42409,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">strø</l>
       </lg>
@@ -41951,7 +42438,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">puste ut</l>
       </lg>
@@ -42249,7 +42736,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">analysere</l>
       </lg>
@@ -42476,7 +42963,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">bli lettere</l>
       </lg>
@@ -42571,7 +43058,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">ryktes</l>
       </lg>
@@ -42876,7 +43363,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="2">
       <lg>
          <l pos="v">låse</l>
       </lg>
@@ -42941,7 +43428,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">forsterke</l>
       </lg>
@@ -43047,7 +43534,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">sikte</l>
       </lg>
@@ -43212,7 +43699,7 @@
          </tg>
       </mg>
    </e>
-   <e merged="2">
+   <e mg_counter="2">
       <lg>
          <l pos="v">være påståelig</l>
       </lg>
@@ -43588,7 +44075,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_counter="4">
       <lg>
          <l pos="v">er</l>
       </lg>
