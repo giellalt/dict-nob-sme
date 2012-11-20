@@ -132,8 +132,6 @@ What are the reasons for this state?
  ==> question to Trond (and Marja): Have you done something about those entries?
                                     Do you want to do something about that?
 
-
-
 Some TODO-issue based on the last check:
  - unify the p_nobsme and po_nobsme file with the current pr_nobsme file (__Marja__)
  - transfer the '<re>'-elements into the re-elements (__Ciprian__)
@@ -143,7 +141,9 @@ Some TODO-issue based on the last check:
 
 Cip's next todo issues:
  - check new_entries2add file for formal/contentwise usefulness
- ==> TODO
+ ==> DONE
  - merge entries into the src files 
- ==> TODO
+ ==> DONE
+
+NB: The tag 'merged' has been replaced by the tag 'mg_counter'!
 
