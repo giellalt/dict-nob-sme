@@ -169,15 +169,6 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t type="expl">komitativ</t>
-            <xg>
-               <x>Det er sydd for hånd</x>
-               <xt>Dát lea gieđaiguin gorrojuvvon</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t type="expl">lokativ</t>
             <xg>
                <x>Han laget maten ferdig på to timer</x>
@@ -407,6 +398,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="po">mielde</t>
+            <xg>
+               <x>Hun blir med meg til Finland.</x>
+               <xt>Son vuolgá mu mielde Supmii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1062,11 +1057,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">ovda</t>
+            <t pos="po">ovddas</t>
+            <xg>
+               <x>Du er i vegen for meg.</x>
+               <xt>Don leat mu ovddas.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-
    <e usage="vd">
       <lg>
          <l pos="pr">foran</l>
@@ -1448,6 +1446,24 @@
 	 </xg>
        </tg>
      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="po">fárrui</t>
+            <xg>
+               <x>Bli med oss!</x>
+               <xt>Vuolgge min fárrui!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="po">fárus</t>
+            <xg>
+               <x>Mor er med oss.</x>
+               <xt>Eadni lea min fárus.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
 </r>
  
