@@ -487,6 +487,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="v">doallat</t>
             <t pos="v">abbonneret</t>
          </tg>
       </mg>
@@ -516,8 +517,14 @@
          <l pos="v">abortere</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="om mennesker" xml:lang="sme">
+            <t pos="v">cuovkanit</t>
             <t pos="v">aborteret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="om dyr" xml:lang="sme">
+            <t pos="v">reitot</t>
          </tg>
       </mg>
    </e>
@@ -657,6 +664,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="v">láhttet</t>
             <t pos="v">ageret</t>
          </tg>
       </mg>
@@ -688,10 +696,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">aiddostahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">presiseret</t>
          </tg>
       </mg>
@@ -712,6 +716,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="v">vuogáidit</t>
             <t pos="v">akklimatiseret</t>
          </tg>
       </mg>
@@ -776,18 +781,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">akselerere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">akselereret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">lehttohit</t>
+            <t pos="v">akselereret</t>
          </tg>
       </mg>
    </e>
@@ -821,17 +822,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">aksjonere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">akšoneret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">akšuneret</t>
          </tg>
       </mg>
@@ -972,6 +969,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="v">johtit</t>
             <t pos="v">ambuleret</t>
          </tg>
       </mg>
@@ -1046,38 +1044,26 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">annektere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="v">vuollástit</t>
             <t pos="v">annekteret</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">vuollástit</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">annonsere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">annonseret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">máinnustit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">álmmuhit</t>
+            <t pos="v">almmuhit</t>
+            <t pos="v">annonseret</t>
          </tg>
       </mg>
    </e>
@@ -1261,18 +1247,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">arrondere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">arronderet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">heivehallat</t>
+            <t pos="v">arronderet</t>
          </tg>
       </mg>
    </e>
@@ -1422,12 +1404,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="v">almmuhit</t>
             <t pos="v">averteret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">álmmuhit</t>
          </tg>
       </mg>
    </e>
@@ -1581,17 +1559,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">innkreve</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">bearrat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">sisagáibidit</t>
          </tg>
       </mg>
@@ -1603,6 +1577,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">bearráigohcit</t>
+            <t pos="v">gozihit</t>
          </tg>
       </mg>
    </e>
@@ -1666,18 +1641,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">møblere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">bierggastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">møbleret</t>
+            <t pos="v">bierggastit</t>
          </tg>
       </mg>
    </e>
@@ -1815,22 +1786,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">redusere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">unnidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">binnudit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">reduseret</t>
          </tg>
       </mg>
@@ -1883,7 +1846,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>flere ganger</re>
-            <t pos="v">bivaldaddat</t>
+            <t pos="v">bivaldit</t>
          </tg>
       </mg>
    </e>
@@ -1953,7 +1916,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">biđđit</t>
+            <t pos="v"></t>
          </tg>
       </mg>
    </e>
@@ -7059,10 +7022,6 @@
          <tg xml:lang="sme">
             <t pos="v">fátmmastit</t>
             <t pos="v">goallostit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v">inkluderet</t>
          </tg>
       </mg>
