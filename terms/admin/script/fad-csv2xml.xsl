@@ -83,7 +83,7 @@
 		    <xsl:analyze-string select="$l_sme"
 					regex="^([^&lt;]+)(&lt;[^&lt;|&gt;]+&gt;)(.*)$">
 		      <xsl:matching-substring>
-
+			
 			<xsl:variable name="pos">
 			  <xsl:if test="(substring-before(substring-after(regex-group(2), '&lt;'), '&gt;')) = 'N'">
 			    <xsl:value-of select="'prop'"/>
@@ -91,17 +91,22 @@
 			  <xsl:if test="not((substring-before(substring-after(regex-group(2), '&lt;'), '&gt;')) = 'N')">
 			    <xsl:value-of select="substring-before(substring-after(regex-group(2), '&lt;'), '&gt;')"/>
 			  </xsl:if>
-			  
 			</xsl:variable>
+
 			<tg xml:lang="{$tlang}">
 			  <t pos="{$pos}">
+			    <xsl:if test="not(normalize-space(regex-group(3)) = '')">
+			      <xsl:attribute name="rest">
+				<xsl:value-of select="translate(translate(regex-group(3), '&lt;', ''), '&gt;', '/')"/>
+			      </xsl:attribute>
+			    </xsl:if>
 			    <xsl:value-of select="regex-group(1)"/>
 			  </t>
 			</tg>
 		      </xsl:matching-substring>
 		    </xsl:analyze-string>
 		  </xsl:variable>
-
+		  
 		  <e>
 		    <lg>
 		      <xsl:copy-of select="$lemma_nob"/>
