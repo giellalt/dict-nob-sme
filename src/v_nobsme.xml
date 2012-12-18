@@ -17474,22 +17474,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e>
       <lg>
          <l pos="v">anklage</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">áššásskuhttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">guoddalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">váidit</t>
          </tg>
       </mg>
@@ -18250,7 +18242,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">koste</l>
       </lg>
@@ -18271,22 +18263,18 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">banke på</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">čoalkkuhit</t>
+            <t pos="v" usage="vd">skoalkalit</t>
             <xg>
                <x>Bestefar banket på døra.</x>
                <xt>Áddjá čoalkkuhii uksii.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" usage="vd">skoalkalit</t>
          </tg>
       </mg>
    </e>
@@ -18981,32 +18969,32 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e>
       <lg>
          <l pos="v">åpne</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">rabastit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="Åpne opp noe som kun kan åpnes i den ene siden. En gang." xml:lang="sme">
             <t pos="v" usage="vd">leahkastit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="Åpne opp noe som kun kan åpnes i den ene siden. Flere ganger." xml:lang="sme">
             <t pos="v" usage="vd">leahkkut</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">rahpat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="Åpne noe fort." xml:lang="sme">
             <t pos="v" usage="vd">rabestit</t>
          </tg>
       </mg>
