@@ -17837,50 +17837,45 @@
          <l pos="v">greie</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="om fysiske eller mentale forutsetninger" xml:lang="sme">
             <t pos="v" usage="vd">nákcet</t>
             <t pos="v" usage="vd">nagadit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="utholdenhet" xml:lang="sme">
             <t pos="v" usage="vd">veadjit</t>
             <xg>
-               <x>Jeg gjør det så lenge jeg orker.</x>
+               <x>Jeg gjør det så lenge jeg greier.</x>
                <xt>Mun barggan dan nu guhká go veaján.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="om hår" xml:lang="sme">
             <t pos="v" usage="vd">čohkut</t>
             <xg>
-               <x>Husk å kjemme håret før du går til skolen.</x>
+               <x>Husk å greie håret før du går til skolen.</x>
                <xt>Muitte fal čohkut vuovttaid ovdal go manat skuvlii.</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">stige</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">badjánit</t>
             <xg>
-               <x>Da jeg så hvordan situasjonen var i de områdene, så steg tanken om at er det noe nyttig som jeg kan gjøre.</x>
-               <xt>Go oidnen makkár dilli doppe guovlluin lea, badjánii jurdda ahte lea go mihkkege maid mun sáhtán bargat ávkin.</xt>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">báddat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+         <tg re="stige opp" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">goargŋut</t>
          </tg>
       </mg>
@@ -17925,8 +17920,8 @@
          <tg re="" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">čuohppat</t>
             <xg>
-               <x>Far dro for å hogge ved.</x>
-               <xt>Áhčči manai muoraid čuohppat.</xt>
+               <x>Far dro for å skjære sennagress</x>
+               <xt>Áhčči manai gámasuinniid čuohppat.</xt>
             </xg>
          </tg>
       </mg>
@@ -17939,8 +17934,8 @@
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">cábmit</t>
             <xg>
-               <x>En rettferdig mann kan slå meg, han tukter meg i kjærlighet. Men gudløse skal aldri få salve mitt hode.</x>
-               <xt>Vanhurskkis oažžu cábmit ja bagadit mu ráhkisvuođas, muhto ipmilmeahttumat eai oaččo golggahit oljju mu oaivvi ala.</xt>
+               <x>Vi må slå sennagresset mot spikerfjøl, for å myke de opp.</x>
+               <xt>Gámasuinniid ferte cábmit spihkárfielluin, vai dipmet.</xt>
             </xg>
          </tg>
       </mg>
@@ -17982,8 +17977,8 @@
          <tg re="applaudere" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">speažžut</t>
             <xg>
-               <x>Skolebarna fikk konferansedeltakerne til smile og klappe i hendene.</x>
-               <xt>Skuvlamánát ožžo konferánssa oasálastiid moddját ja speažžut gieđaid.</xt>
+               <x></x>
+               <xt></xt>
             </xg>
          </tg>
       </mg>
@@ -18208,7 +18203,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">se</l>
       </lg>
@@ -18222,12 +18217,12 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">geahččat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">oaidnit</t>
          </tg>
       </mg>
@@ -18340,7 +18335,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" usage="vd">oahpistit</t>
             <t pos="v" usage="vd">ofelastit</t>
          </tg>
       </mg>
@@ -18352,7 +18346,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">oahpistit</t>
-            <t pos="v" usage="vd">ofelastit</t>
          </tg>
       </mg>
    </e>
