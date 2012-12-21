@@ -18999,7 +18999,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e>
       <lg>
          <l pos="v">lukke opp</l>
       </lg>
@@ -19077,42 +19077,34 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e>
       <lg>
          <l pos="v">forandre</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="fort" xml:lang="sme">
             <t pos="v" usage="vd">muhttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">muktit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="fort" xml:lang="sme">
             <t pos="v" usage="vd">nuppástuhttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">rievdadit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">raute</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="fort" xml:lang="sme">
             <t pos="v" usage="vd">muhkut</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="fort" xml:lang="sme">
             <t pos="v" usage="vd">bárgut</t>
          </tg>
       </mg>
@@ -19133,7 +19125,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" usage="vd">mieiggastit</t>
+            <t pos="v" usage="vd">mieigat</t>
          </tg>
       </mg>
    </e>
@@ -19157,28 +19149,23 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e>
       <lg>
          <l pos="v">bevege</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">lihkastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" usage="vd">jođašit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">lihkahit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
-            <re>flere ganger</re>
+         <tg re="" xml:lang="sme">
+            <t pos="v" usage="vd">jođašit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="flere ganger" xml:lang="sme">
             <t pos="v" usage="vd">lihkahallat</t>
             <xg>
                <x>Katten beveget på ørene.</x>
