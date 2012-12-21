@@ -18657,7 +18657,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">etterlate</l>
       </lg>
@@ -18672,18 +18672,26 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">vinke</l>
       </lg>
       <mg>
          <tg re="i hast" xml:lang="sme">
             <t pos="v" usage="vd">seavvilit</t>
+            <xg>
+               <x>Politiet vinket bilen til parkeringen.</x>
+               <xt>Poletiija seavvelii biilla luoddagurrii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg re="hilse" xml:lang="sme">
             <t pos="v" usage="vd">seavvit</t>
+            <xg>
+               <x>Jeg vinker hadet til barna.</x>
+               <xt>Mun seavan mánáide ovdal vuolggán.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -18711,13 +18719,16 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e>
       <lg>
          <l pos="v">oppdage</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="synlig oppdagelse" xml:lang="sme">
             <t pos="v" usage="vd">áicát</t>
+         </tg>
+      </mg>
+         <tg re="komme på" xml:lang="sme">
             <t pos="v" usage="vd">fuobmát</t>
             <t pos="v" usage="vd">fuomášit</t>
          </tg>
@@ -18865,22 +18876,18 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">sveve</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">skirvehallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">sattáhaddat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="lande" xml:lang="sme">
             <t pos="v" usage="vd">seaivut</t>
          </tg>
       </mg>
@@ -18997,28 +19004,24 @@
          <l pos="v">lukke opp</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="fort" xml:lang="sme">
             <t pos="v" usage="vd">rabastit</t>
+            <t pos="v" usage="vd">rabestit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="fort, men bare på den ene siden av f.eks lavvodøra" xml:lang="sme">
             <t pos="v" usage="vd">leahkastit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="åpne helt opp på den ene siden" xml:lang="sme">
             <t pos="v" usage="vd">leahkkut</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="åpne opp" xml:lang="sme">
             <t pos="v" usage="vd">rahpat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" usage="vd">rabestit</t>
          </tg>
       </mg>
    </e>
