@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r id="nobsme" xml:lang="nob">
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">frykte</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" usage="vd">baladit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">ballat</t>
@@ -22,6 +17,11 @@
             </xg>
          </tg>
       </mg>
+         <tg re="over lenger tid" xml:lang="sme">
+            <t pos="v" usage="vd">baladit</t>
+         </tg>
+      </mg>
+      <mg>
    </e>
    <e>
       <lg>
@@ -48,12 +48,12 @@
          <l pos="v">forberede</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">ráhkkanahttit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="gjøre ferdig" xml:lang="sme">
             <t pos="v" usage="vd">gárvvistit</t>
          </tg>
       </mg>
@@ -72,17 +72,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">kartlegge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">gártet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">kártet</t>
          </tg>
       </mg>
