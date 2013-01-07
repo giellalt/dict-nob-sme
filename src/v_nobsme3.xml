@@ -20,7 +20,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">trøste</l>
       </lg>
@@ -31,6 +31,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>i lengre tid</re>
             <t pos="v" src="nj" usage="vd">jeđđedit</t>
          </tg>
       </mg>
@@ -45,22 +46,24 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">blåse svakt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>upersonlig</re>
             <t pos="v" src="nj" usage="vd">jiellat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>upersonlig, svakere enn jiellat</re>
             <t pos="v" src="nj" usage="vd">hieibmat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">ymte</l>
       </lg>
@@ -75,28 +78,25 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e >
       <lg>
          <l pos="v">herme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">jievžžadit</t>
+            <t pos="v" src="nj" usage="vd">áđđestallat</t>
          </tg>
-      </mg>
-      <mg>
+         <tg xml:lang="sme">
+            <t pos="v" src="nj" usage="vd">áddestallat</t>
+         </tg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">áddestaddat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">áddestallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">áđđestallat</t>
+            <re>holde på å gjenta ord eller uttrykk</re>
+            <t pos="v" src="nj" usage="vd">jievžžadit</t>
          </tg>
       </mg>
    </e>
