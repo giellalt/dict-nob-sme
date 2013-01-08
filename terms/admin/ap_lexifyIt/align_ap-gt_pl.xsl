@@ -45,21 +45,27 @@
   <xsl:variable name="outputDir" select="'xml-out'"/>
 
   <xsl:param name="in_nob" select="'data.nob'"/>
-  <xsl:param name="ot_nob" select="'data.tagged.clean.nob'"/>
   <xsl:param name="in_sme" select="'data.sme'"/>
-  <xsl:param name="ot_sme" select="'data.tagged.clean.sme'"/>
+  <xsl:param name="ut_ap_nob" select="'data.ap.tagged.clean.nob'"/>
+  <xsl:param name="ut_ap_sme" select="'data.ap.tagged.clean.sme'"/>
+  <xsl:param name="ut_gt_nob" select="'data.gt.tagged.clean.nob'"/>
+  <xsl:param name="ut_gt_sme" select="'data.gt.tagged.clean.sme'"/>
   
   <xsl:template match="/" name="main">
     <xsl:variable name="src_in_nob" select="unparsed-text($in_nob)"/>
-    <xsl:variable name="src_ot_nob" select="unparsed-text($ot_nob)"/>
     <xsl:variable name="src_in_sme" select="unparsed-text($in_sme)"/>
-    <xsl:variable name="src_ot_sme" select="unparsed-text($ot_sme)"/>
-
+    <xsl:variable name="src_ut_ap_nob" select="unparsed-text($ut_ap_nob)"/>
+    <xsl:variable name="src_ut_ap_sme" select="unparsed-text($ut_ap_sme)"/>
+    <xsl:variable name="src_ut_gt_nob" select="unparsed-text($ut_gt_nob)"/>
+    <xsl:variable name="src_ut_gt_sme" select="unparsed-text($ut_gt_sme)"/>
+    
     <xsl:variable name="lns_in_nob" select="tokenize($src_in_nob, '&#xa;')" as="xs:string+"/>
-    <xsl:variable name="lns_ot_nob" select="tokenize($src_ot_nob, '&#xa;')" as="xs:string+"/>
     <xsl:variable name="lns_in_sme" select="tokenize($src_in_sme, '&#xa;')" as="xs:string+"/>
-    <xsl:variable name="lns_ot_sme" select="tokenize($src_ot_sme, '&#xa;')" as="xs:string+"/>
-
+    <xsl:variable name="lns_ut_ap_nob" select="tokenize($src_ut_ap_nob, '&#xa;')" as="xs:string+"/>
+    <xsl:variable name="lns_ut_ap_sme" select="tokenize($src_ut_ap_sme, '&#xa;')" as="xs:string+"/>
+    <xsl:variable name="lns_ut_gt_nob" select="tokenize($src_ut_gt_nob, '&#xa;')" as="xs:string+"/>
+    <xsl:variable name="lns_ut_gt_sme" select="tokenize($src_ut_gt_sme, '&#xa;')" as="xs:string+"/>
+    
     <xsl:result-document href="{$outputDir}/aligned_in-ot_data.{$e}">
       <nob2sme>
 	<xsl:for-each select="$lns_in_nob">
