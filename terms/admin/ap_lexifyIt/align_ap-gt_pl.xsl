@@ -66,7 +66,7 @@
     <xsl:variable name="lns_ut_gt_nob" select="tokenize($src_ut_gt_nob, '&#xa;')" as="xs:string+"/>
     <xsl:variable name="lns_ut_gt_sme" select="tokenize($src_ut_gt_sme, '&#xa;')" as="xs:string+"/>
     
-    <xsl:result-document href="{$outputDir}/aligned_in-ot_data.{$e}">
+    <xsl:result-document href="{$outputDir}/aligned_in-ut_data.{$e}">
       <nob2sme>
 	<xsl:for-each select="$lns_in_nob">
 	  <xsl:variable name="position" select="position()"/>
@@ -82,22 +82,25 @@
 		</xsl:attribute>
 		<xsl:copy-of select="normalize-space(.)"/>
 	      </in_nob>
-	      <ot_nob>
+	      <ut_ap_nob>
 		<xsl:attribute name="tc">
-		  <xsl:value-of select="count(tokenize(normalize-space($lns_ot_nob[$position]), ' '))"/>
+		  <xsl:value-of select="count(tokenize(normalize-space($lns_ut_ap_nob[$position]), ' '))"/>
 		</xsl:attribute>
-		<xsl:copy-of select="normalize-space($lns_ot_nob[$position])"/>
-	      </ot_nob>
+		<xsl:copy-of select="normalize-space($lns_ut_ap_nob[$position])"/>
+	      </ut_ap_nob>
 	      <nob_aligned>
-		<xsl:for-each select="tokenize(normalize-space($lns_ot_nob[$position]), ' ')">
+		<xsl:for-each select="tokenize(normalize-space($lns_ut_ap_nob[$position]), ' ')">
 		  <xsl:variable name="cp" select="position()"/>
 		  <l pos="{$cp}">
 		    <in_nob_w>
 		      <xsl:value-of select="(tokenize($current_line, ' '))[$cp]"/>
 		    </in_nob_w>
-		    <ot_nob_w>
+		    <ut_gt_nob_w>
+		      <xsl:value-of select="'xxxxxxxxx'"/>
+		    </ut_gt_nob_w>
+		    <ut_ap_nob_w>
 		      <xsl:value-of select="."/>
-		    </ot_nob_w>
+		    </ut_ap_nob_w>
 		  </l>
 		</xsl:for-each>
 	      </nob_aligned>
@@ -109,22 +112,25 @@
 		</xsl:attribute>
 		<xsl:copy-of select="normalize-space($lns_in_sme[$position])"/>
 	      </in_sme>
-	      <ot_sme>
+	      <ut_ap_sme>
 		<xsl:attribute name="tc">
-		  <xsl:value-of select="count(tokenize(normalize-space($lns_ot_sme[$position]), ' '))"/>
+		  <xsl:value-of select="count(tokenize(normalize-space($lns_ut_ap_sme[$position]), ' '))"/>
 		</xsl:attribute>
-		<xsl:copy-of select="normalize-space($lns_ot_sme[$position])"/>
-	      </ot_sme>
+		<xsl:copy-of select="normalize-space($lns_ut_ap_sme[$position])"/>
+	      </ut_ap_sme>
 	      <sme_aligned>
-		<xsl:for-each select="tokenize(normalize-space($lns_ot_sme[$position]), ' ')">
+		<xsl:for-each select="tokenize(normalize-space($lns_ut_ap_sme[$position]), ' ')">
 		  <xsl:variable name="cp" select="position()"/>
 		  <l pos="{$cp}">
 		    <in_sme_w>
 		      <xsl:value-of select="(tokenize(normalize-space($lns_in_sme[$position]), ' '))[$cp]"/>
 		    </in_sme_w>
-		    <ot_sme_w>
+		    <ut_gt_sme_w>
+		      <xsl:value-of select="'xxxxxxxxx'"/>
+		    </ut_gt_sme_w>
+		    <ut_ap_sme_w>
 		      <xsl:value-of select="."/>
-		    </ot_sme_w>
+		    </ut_ap_sme_w>
 		  </l>
 		</xsl:for-each>
 	      </sme_aligned>
