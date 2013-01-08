@@ -43,7 +43,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">forberede</l>
       </lg>
@@ -88,7 +88,7 @@
          <l pos="v">oppfordre</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="flere ganger" xml:lang="sme">
             <t pos="v" usage="vd">hásttuhit</t>
             <xg>
                <x>Derfor oppfordrer jeg elevenes foreldre til å påvirke saka.</x>
@@ -97,12 +97,12 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="en gang" xml:lang="sme">
             <t pos="v" usage="vd">hástit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">ávžžuhit</t>
          </tg>
       </mg>
@@ -141,33 +141,29 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e>
       <lg>
          <l pos="v">undersøke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="v" usage="vd">iskat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="holde på" xml:lang="sme">
             <t pos="v" usage="vd">iskkadit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">dárkot</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="mer omfattende" xml:lang="sme">
             <t pos="v" usage="vd">guorahaddat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">guorahallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" usage="vd">iskat</t>
          </tg>
       </mg>
    </e>
@@ -181,17 +177,12 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">veie</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="v">vihkket</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+         <tg re="fastsette vekt" xml:lang="sme">
             <t pos="v" usage="vd">vihkket</t>
             <xg>
                <x>Jeg veier potetene.</x>
@@ -200,7 +191,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="ha en viss vekt" xml:lang="sme">
             <t pos="v" usage="vd">deaddit</t>
             <xg>
                <x>Lillesøster veier femten kilo.</x>
@@ -209,62 +200,53 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">studere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">studeret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">studeret</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">forelske seg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">ráhkásmuvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">ráhkistuvvat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e>
       <lg>
          <l pos="v">omfavne</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="tar en del av" xml:lang="sme">
             <t pos="v" usage="vd">fátmmastit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="gi en klem" xml:lang="sme">
             <t pos="v" usage="vd">buorrestit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="holde rundt hverandre, en gang" xml:lang="sme">
             <t pos="v" usage="vd">salastit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="holde rundt hverandre, lenge" xml:lang="sme">
             <t pos="v" usage="vd">sallut</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e>
       <lg>
          <l pos="v">klemme</l>
       </lg>
@@ -274,7 +256,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="ved melking" xml:lang="sme">
             <t pos="v" usage="vd">bohčit</t>
          </tg>
       </mg>
@@ -291,22 +273,18 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="flere ganger" xml:lang="sme">
             <t pos="v" usage="vd">čárvut</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">bli rørt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">njuorasmuvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">njuorrasit</t>
          </tg>
       </mg>
@@ -341,12 +319,12 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">unngå</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="holde på" xml:lang="sme">
             <t pos="v" usage="vd">garvit</t>
             <xg>
                <x>Og jeg unngår det så lenge som jeg kan.</x>
