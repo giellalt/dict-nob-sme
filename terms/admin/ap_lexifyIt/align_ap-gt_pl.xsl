@@ -70,7 +70,16 @@
       <nob2sme>
 	<xsl:for-each select="$lns_in_nob">
 	  <xsl:variable name="position" select="position()"/>
-	  <xsl:variable name="current_line" select="normalize-space(.)"/>
+	  <!-- to filter nob punctuation here -->
+	  <xsl:variable name="lin" select="normalize-space(.)"/>
+	  <xsl:variable name="lis" select="normalize-space($lns_in_sme[$position])"/>
+	  
+	  <xsl:variable name="luan" select="normalize-space(translate(translate($lns_ut_ap_nob[$position], '&lt;', '{'), '&gt;', '}'))"/>
+	  <xsl:variable name="luas" select="normalize-space(translate(translate($lns_ut_ap_sme[$position], '&lt;', '{'), '&gt;', '}'))"/>
+	  
+	  <xsl:variable name="lugn" select="normalize-space(translate(translate($lns_ut_gt_nob[$position], '&lt;', '{'), '&gt;', '}'))"/>
+	  <xsl:variable name="lugs" select="normalize-space(translate(translate($lns_ut_gt_sme[$position], '&lt;', '{'), '&gt;', '}'))"/>
+
 	  <xsl:message terminate="no">
 	    <xsl:value-of select="concat('Processing line ', $position)"/>
 	  </xsl:message>
@@ -78,62 +87,58 @@
 	    <nob>
 	      <in_nob>
 		<xsl:attribute name="tc">
-		  <xsl:value-of select="count(tokenize(normalize-space(.), ' '))"/>
+		  <xsl:value-of select="count(tokenize($lin, ' '))"/>
 		</xsl:attribute>
-		<xsl:copy-of select="normalize-space(.)"/>
+		<xsl:copy-of select="$lin"/>
 	      </in_nob>
+	      <ut_gt_nob>
+		<xsl:attribute name="tc">
+		  <xsl:value-of select="count(tokenize($lugn, ' '))"/>
+		</xsl:attribute>
+		<xsl:copy-of select="$lugn"/>
+	      </ut_gt_nob>
 	      <ut_ap_nob>
 		<xsl:attribute name="tc">
-		  <xsl:value-of select="count(tokenize(normalize-space($lns_ut_ap_nob[$position]), ' '))"/>
+		  <xsl:value-of select="count(tokenize($luan, ' '))"/>
 		</xsl:attribute>
-		<xsl:copy-of select="normalize-space($lns_ut_ap_nob[$position])"/>
+		<xsl:copy-of select="$luan"/>
 	      </ut_ap_nob>
-	      <nob_aligned>
-		<xsl:for-each select="tokenize(normalize-space($lns_ut_ap_nob[$position]), ' ')">
+	      <aligned_nob>
+		<xsl:for-each select="tokenize($luan, ' ')">
 		  <xsl:variable name="cp" select="position()"/>
-		  <l pos="{$cp}">
-		    <in_nob_w>
-		      <xsl:value-of select="(tokenize($current_line, ' '))[$cp]"/>
-		    </in_nob_w>
-		    <ut_gt_nob_w>
-		      <xsl:value-of select="'xxxxxxxxx'"/>
-		    </ut_gt_nob_w>
-		    <ut_ap_nob_w>
-		      <xsl:value-of select="."/>
-		    </ut_ap_nob_w>
-		  </l>
+		  <tn pos="{$cp}">
+		    <xsl:value-of select="concat((tokenize($lin, ' '))[$cp], ' _:_ ', ., ' _:_ ', (tokenize($lugn, ' '))[$cp])"/>
+		  </tn>
 		</xsl:for-each>
-	      </nob_aligned>
+	      </aligned_nob>
 	    </nob>
 	    <sme>
 	      <in_sme>
 		<xsl:attribute name="tc">
-		  <xsl:value-of select="count(tokenize(normalize-space($lns_in_sme[$position]), ' '))"/>
+		  <xsl:value-of select="count(tokenize($lis), ' '))"/>
 		</xsl:attribute>
-		<xsl:copy-of select="normalize-space($lns_in_sme[$position])"/>
+		<xsl:copy-of select="$lis"/>
 	      </in_sme>
+	      <ut_gt_sme>
+		<xsl:attribute name="tc">
+		  <xsl:value-of select="count(tokenize($lugs, ' '))"/>
+		</xsl:attribute>
+		<xsl:copy-of select="$lugs"/>
+	      </ut_gt_sme>
 	      <ut_ap_sme>
 		<xsl:attribute name="tc">
-		  <xsl:value-of select="count(tokenize(normalize-space($lns_ut_ap_sme[$position]), ' '))"/>
+		  <xsl:value-of select="count(tokenize($luas, ' '))"/>
 		</xsl:attribute>
-		<xsl:copy-of select="normalize-space($lns_ut_ap_sme[$position])"/>
+		<xsl:copy-of select="$luas"/>
 	      </ut_ap_sme>
-	      <sme_aligned>
-		<xsl:for-each select="tokenize(normalize-space($lns_ut_ap_sme[$position]), ' ')">
+	      <aligned_sme>
+		<xsl:for-each select="tokenize($luas, ' ')">
 		  <xsl:variable name="cp" select="position()"/>
-		  <l pos="{$cp}">
-		    <in_sme_w>
-		      <xsl:value-of select="(tokenize(normalize-space($lns_in_sme[$position]), ' '))[$cp]"/>
-		    </in_sme_w>
-		    <ut_gt_sme_w>
-		      <xsl:value-of select="'xxxxxxxxx'"/>
-		    </ut_gt_sme_w>
-		    <ut_ap_sme_w>
-		      <xsl:value-of select="."/>
-		    </ut_ap_sme_w>
-		  </l>
+		  <ts pos="{$cp}">
+		    <xsl:value-of select="concat((tokenize($lis, ' '))[$cp], ' _:_ ', ., ' _:_ ', (tokenize($lugs, ' '))[$cp])"/>
+		  </ts>
 		</xsl:for-each>
-	      </sme_aligned>
+	      </aligned_sme>
 	    </sme>
 	  </l>
 	</xsl:for-each>
