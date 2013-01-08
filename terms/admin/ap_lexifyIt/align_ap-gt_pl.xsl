@@ -44,7 +44,7 @@
   <xsl:variable name="e" select="'xml'"/>
   <xsl:variable name="outputDir" select="'xml-out'"/>
   <xsl:variable name="pp" select="'|'"/>
-  
+  <xsl:variable name="pct" select="'!#%()+/-,....:..;=?–––—‘’“”„†•…‰€−'&apos;&quot;&lt;&gt;&amp;'"/>
   
   
   <xsl:param name="in_nob" select="'data.nob'"/>
@@ -73,9 +73,30 @@
       <nob2sme>
 	<xsl:for-each select="$lns_in_nob">
 	  <xsl:variable name="position" select="position()"/>
-	  <!-- to filter nob punctuation here -->
-	  <xsl:variable name="lin" select="normalize-space(.)"/>
-	  <xsl:variable name="lis" select="normalize-space($lns_in_sme[$position])"/>
+	  <!-- filtering nob/sme punctuation from the input data-->
+	  <xsl:variable name="clin" select="normalize-space(.)"/>
+	  <xsl:variable name="lin">
+	    <xsl:variable name="wcl">
+	      <xsl:for-each select="tokenize($clin, ' ')">
+		<xsl:if test="not(contains($pct, .))">
+		  <xsl:value-of select="concat(., ' ')"/>
+		</xsl:if>
+	      </xsl:for-each>
+	    </xsl:variable>
+	    <xsl:value-of select="normalize-space($wcl)"/>
+	  </xsl:variable>
+	  
+	  <xsl:variable name="clis" select="normalize-space($lns_in_sme[$position])"/>
+	  <xsl:variable name="lis">
+	    <xsl:variable name="wcl">
+	      <xsl:for-each select="tokenize($clis, ' ')">
+		<xsl:if test="not(contains($pct, .))">
+		  <xsl:value-of select="concat(., ' ')"/>
+		</xsl:if>
+	      </xsl:for-each>
+	    </xsl:variable>
+	    <xsl:value-of select="normalize-space($wcl)"/>
+	  </xsl:variable>
 	  
 	  <xsl:variable name="luan" select="normalize-space(translate(translate($lns_ut_ap_nob[$position], '&lt;', '{'), '&gt;', '}'))"/>
 	  <xsl:variable name="luas" select="normalize-space(translate(translate($lns_ut_ap_sme[$position], '&lt;', '{'), '&gt;', '}'))"/>
