@@ -43,7 +43,10 @@
 
   <xsl:variable name="e" select="'xml'"/>
   <xsl:variable name="outputDir" select="'xml-out'"/>
-
+  <xsl:variable name="pp" select="'|'"/>
+  
+  
+  
   <xsl:param name="in_nob" select="'data.nob'"/>
   <xsl:param name="in_sme" select="'data.sme'"/>
   <xsl:param name="ut_ap_nob" select="'data.ap.tagged.clean.nob'"/>
@@ -107,7 +110,7 @@
 		<xsl:for-each select="tokenize($luan, ' ')">
 		  <xsl:variable name="cp" select="position()"/>
 		  <tn pos="{$cp}">
-		    <xsl:value-of select="concat((tokenize($lin, ' '))[$cp], ' _:_ ', ., ' _:_ ', (tokenize($lugn, ' '))[$cp])"/>
+		    <xsl:value-of select="concat((tokenize($lin, ' '))[$cp], ' ', $pp, ' ', (tokenize($lugn, ' '))[$cp], ' ', $pp, ' ', .)"/>
 		  </tn>
 		</xsl:for-each>
 	      </aligned_nob>
@@ -115,7 +118,7 @@
 	    <sme>
 	      <in_sme>
 		<xsl:attribute name="tc">
-		  <xsl:value-of select="count(tokenize($lis), ' '))"/>
+		  <xsl:value-of select="count(tokenize($lis, ' '))"/>
 		</xsl:attribute>
 		<xsl:copy-of select="$lis"/>
 	      </in_sme>
@@ -135,7 +138,7 @@
 		<xsl:for-each select="tokenize($luas, ' ')">
 		  <xsl:variable name="cp" select="position()"/>
 		  <ts pos="{$cp}">
-		    <xsl:value-of select="concat((tokenize($lis, ' '))[$cp], ' _:_ ', ., ' _:_ ', (tokenize($lugs, ' '))[$cp])"/>
+		    <xsl:value-of select="concat((tokenize($lis, ' '))[$cp], ' ', $pp, ' ', (tokenize($lugs, ' '))[$cp], ' ', $pp, ' ', .)"/>
 		  </ts>
 		</xsl:for-each>
 	      </aligned_sme>
