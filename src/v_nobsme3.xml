@@ -52,13 +52,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>upersonlig</re>
+            <re>om vind</re>
             <t pos="v" src="nj" usage="vd">jiellat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>upersonlig, svakere enn jiellat</re>
+            <re>om vind, svakere enn jiellat</re>
             <t pos="v" src="nj" usage="vd">hieibmat</t>
          </tg>
       </mg>
@@ -120,7 +120,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">nå fram</l>
       </lg>
@@ -180,21 +180,23 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">johtit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">lihkadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">lihkkat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="v" src="nj" usage="vd">johtit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>i lengre tid</re>
+            <t pos="v" src="nj" usage="vd">lihkadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>i hast eller en gang</re>
             <t pos="v" src="nj" usage="vd">lihkestit</t>
          </tg>
       </mg>
@@ -239,7 +241,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">rotere</l>
       </lg>
@@ -250,6 +252,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>transitiv</re>
             <t pos="v" src="nj" usage="vd">jorahit</t>
          </tg>
       </mg>
@@ -274,7 +277,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">snu</l>
       </lg>
@@ -285,6 +288,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>intransitiv</re>
             <t pos="v" src="nj" usage="vd">máhccat</t>
          </tg>
       </mg>
@@ -299,18 +303,26 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">dreie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">várvet</t>
+            <re>intransitiv</re>
+            <t pos="v" src="nj" usage="vd">jorrat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">jorrat</t>
+            <re>sette i bevegelse</re>
+            <t pos="v" usage="vd">jorahit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på dreiebenk</re>
+            <t pos="v">várvet</t>
          </tg>
       </mg>
    </e>
@@ -324,68 +336,77 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">skravle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>snakke tull</re>
             <t pos="v" src="nj" usage="vd">jozzidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>høyrøstet</re>
             <t pos="v" src="nj" usage="vd">šoambbistit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>i munnen på hverandre</re>
             <t pos="v" src="nj" usage="vd">šuddidit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">suse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">juhcat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">šoavvat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>om vind; frembringe susende lyd ved hurtig bevegelse</re>
             <t pos="v" src="nj" usage="vd">šuvvat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>suse sterkt, f.eks. ild</re>
+            <t pos="v" src="nj" usage="vd">juhcat</t>
+         </tg>
+      </mg>
    </e>
-   <e mg_counter="4">
+   <e>
       <lg>
          <l pos="v">bruse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">juhcat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">márrat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>om elv</re>
             <t pos="v" src="nj" usage="vd">šoavvat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>om foss og stryk</re>
             <t pos="v" src="nj" usage="vd">šávvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om havet</re>
+            <t pos="v" src="nj" usage="vd">juhcat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om opprørt hav</re>
+            <t pos="v" src="nj" usage="vd">márrat</t>
          </tg>
       </mg>
    </e>
@@ -405,27 +426,29 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">julkit</t>
+            <t pos="v" src="nj" usage="vd">jullat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">jullat</t>
+            <re>om lyden som oppstår når noe støter mot noe annet</re>
+            <t pos="v" src="nj" usage="vd">julkit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">dele</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">juogadit</t>
+            <t pos="v" src="nj" usage="vd">juohkit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">juohkit</t>
+            <re>i flere stykker</re>
+            <t pos="v" src="nj" usage="vd">juogadit</t>
          </tg>
       </mg>
    </e>
