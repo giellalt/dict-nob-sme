@@ -107,12 +107,16 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">utfordre</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
+            <t pos="v" usage="vd">hástalit</t>
+         </tg>
+      </mg>
+         <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">hásttuhit</t>
             <xg>
                <x>Derfor oppfordrer jeg elevenes foreldre til å påvirke saka.</x>
@@ -121,12 +125,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="v" usage="vd">hástalit</t>
-         </tg>
-      </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="en gang" xml:lang="sme">
             <t pos="v" usage="vd">hástit</t>
          </tg>
       </mg>
@@ -372,18 +372,26 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">holde</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="holde ved" xml:lang="sme">
             <t pos="v" usage="vd">doalahit</t>
+            <xg>
+               <x>Per prøver å holde hunden i ro.</x>
+               <xt>Biera geahččala doalahit beatnaga jaska.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="fysisk" xml:lang="sme">
             <t pos="v" usage="vd">doallat</t>
+            <xg>
+               <x>Mor holder barnet sitt i fanget.</x>
+               <xt>Eadni doallá máná askkis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -421,13 +429,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">medføre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">mielddisbuktit</t>
+            <t pos="v" usage="vd">mielddistit</t>
             <xg>
                <x>Forslaget medfører 200 millioners tillegg sammenlignet med det salderte budsjettet fra 2010.</x>
                <xt>Árvalus mielddisbuktá 200 miljovnna lasáhusa 2010 salderejuvvon bušeahta ektui.</xt>
@@ -436,7 +445,6 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" usage="vd">mielddistit</t>
          </tg>
       </mg>
    </e>
@@ -480,17 +488,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">kline</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="kyss" xml:lang="sme">
             <t pos="v" usage="vd">cummástallat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="smøre noe utover bordet eller huden" xml:lang="sme">
             <t pos="v" usage="vd">njuvdit</t>
          </tg>
       </mg>
@@ -535,32 +543,28 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">undervise</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">skuvlet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">oahpahit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e>
       <lg>
          <l pos="v">rote</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="skape rot, ved å unnlate rydding" xml:lang="sme">
             <t pos="v" usage="vd">ruivet</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="lete etter noe" xml:lang="sme">
             <t pos="v" usage="vd">burgit</t>
             <xg>
                <x>Mor grov den fram av sekken.</x>
@@ -569,12 +573,12 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="spre utover" xml:lang="sme">
             <t pos="v" usage="vd">háddjet</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="lage rot" xml:lang="sme">
             <t pos="v" usage="vd">moivet</t>
          </tg>
       </mg>
@@ -619,22 +623,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">intervjue</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">jearahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">gažadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">jearahallat</t>
          </tg>
       </mg>
