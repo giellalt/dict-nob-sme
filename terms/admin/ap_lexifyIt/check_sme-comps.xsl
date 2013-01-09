@@ -121,7 +121,7 @@
 					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]"/>
 		  </xsl:variable>
 		  <x>
-		    <xsl:attribute name="init_str_length">
+		    <xsl:attribute name="cisl">
                       <xsl:call-template name="getCISL">
                         <xsl:with-param name="t" select="./tg/t" />
                         <xsl:with-param name="x" select="normalize-space(substring-after(substring-before($lemma_pos, '{'), '|'))" />
@@ -156,7 +156,7 @@
 	<xsl:value-of select="$l"/>
       </xsl:when>
       <xsl:otherwise>
-	<xsl:call-template name="getISL">
+	<xsl:call-template name="getCISL">
 	  <xsl:with-param name="t" select="substring($t, 2)" />
 	  <xsl:with-param name="x" select="substring($x, 2)" />
 	  <xsl:with-param name="l" select="$l + 1" />
