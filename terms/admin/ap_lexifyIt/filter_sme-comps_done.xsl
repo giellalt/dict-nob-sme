@@ -32,8 +32,7 @@
   
   <!-- in -->
   <xsl:param name="inDir" select="'xxxdirxxx'"/>
-  <xsl:param name="inFile" select="'nobsme_sme-comps.xml'"/>
-  <xsl:param name="corpus" select="'in_ap_gt_nob2sme.xml'"/>
+  <xsl:param name="inFile" select="'nobsme_sme-comps_lex.xml'"/>
   <xsl:param name="this" select="base-uri(document(''))"/>
   <xsl:variable name="this_name" select="(tokenize($this, '/'))[last()]"/>
   <xsl:variable name="file_name" select="substring-before((tokenize($inFile, '/'))[last()], '.xml')"/> 
@@ -101,14 +100,28 @@
     <!-- out -->
     <xsl:result-document href="{$outDir}/{$relPath}{$name}.{$oe}" format="{$oe}">
       <r>
-	<xsl:for-each select="$file//e">
+	<xsl:for-each select="$file//e[___FILTER___]">
 	  <xsl:message terminate="no">
 	    <xsl:value-of select="concat('Processing e: ', ./lg/l, $nl)"/>
 	  </xsl:message> 
 	  <!-- here to go -->
 	  <e>
+	    <xsl:copy-of select="./@*"/>
+	    <xsl:copy-of select="./lg"/>
+	    <xsl:copy-of select="./mg[not(contains(.//t, '+'))]"/>
 	    <xsl:for-each select="mg[contains(.//t, '+')]">
-	      
+	      <mg>
+		<tg>
+		  <xsl:copy-of select="./tg/@*"/>
+		  <t>
+		    <xsl:copy-of select="./tg/t/@pos"/>
+		    <xsl:attribute name="ap">
+		      <xsl:value-of select="./tg/t"/>
+		    </xsl:attribute>
+		    <xsl:value-of select="./tg/x"/>
+		  </t>
+		</tg>
+	      </mg>
 	    </xsl:for-each>
 	  </e>
 	</xsl:for-each>
