@@ -117,7 +117,7 @@
 		  <xsl:copy-of select="./tg/@*"/>
 		  <xsl:copy-of select="./tg/t"/>
 		  <x>
-		    <xsl:value-of select="document($corpus)/nob2sme/l[1][contains(./nob/ut_ap_nob, $nob_t)]
+		    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
 					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]"/>
 		  </x>
 		</tg>
