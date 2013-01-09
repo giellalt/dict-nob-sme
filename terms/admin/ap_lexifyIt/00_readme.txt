@@ -2,7 +2,7 @@ Steps:
 
 1. extract entries with at least one t-element contaning an apertium-analysis
    of a compound ('+')
-_six filter_sme-comps.xsl inFile=inData/fad_nobsme.20121130_merged_simp.xml 
+_six filter_sme-comps_todo.xsl inFile=inData/fad_nobsme.20121130_merged_simp.xml 
 
 2. compile an aligned nob2sme corpus of:
  a. input data
