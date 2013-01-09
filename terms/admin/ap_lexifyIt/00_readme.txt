@@ -14,5 +14,5 @@ _six align_ap-gt_pl.xsl
 _six check_sme-comps.xsl
 
 4. extract entries with correctly lemmatized sme-componds
-
+_six filter_sme-comps_done.xsl
 
