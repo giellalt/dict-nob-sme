@@ -107,12 +107,12 @@
 	  </xsl:message> 
 	  <!-- here to go -->
 	  <xsl:variable name="nob_t" select="concat(./lg/l, '{',./lg/l/@pos,'}')"/>
-	  <xsl:variable name="sme_t" select="concat(./mg/tg/t, '{', upper-case(./mg/tg/t/@pos),'}')"/>
 	  <e>
 	    <xsl:copy-of select="./lg"/>
 	    <xsl:copy-of select="./mg[not(contains(.//t, '+'))]"/>
 	    <xsl:for-each select="mg[contains(.//t, '+')]">
 	      <mg>
+		<xsl:variable name="sme_t" select="concat(./tg/t, '{', upper-case(./tg/t/@pos),'}')"/>
 		<tg>
 		  <xsl:copy-of select="./tg/@*"/>
 		  <xsl:copy-of select="./tg/t"/>
