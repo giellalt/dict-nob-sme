@@ -32,7 +32,7 @@
   
   <!-- in -->
   <xsl:param name="inDir" select="'xxxdirxxx'"/>
-  <xsl:param name="inFile" select="'xxxfilexxx.xml'"/>
+  <xsl:param name="inFile" select="'nobsme_sme-comps.xml'"/>
   <xsl:param name="corpus" select="'in_ap_gt_nob2sme.xml'"/>
   <xsl:param name="this" select="base-uri(document(''))"/>
   <xsl:variable name="this_name" select="(tokenize($this, '/'))[last()]"/>
@@ -117,7 +117,7 @@
 		  <xsl:copy-of select="./tg/@*"/>
 		  <xsl:copy-of select="./tg/t"/>
 		  <x>
-		    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
+		    <xsl:value-of select="document($corpus)/nob2sme/l[1][contains(./nob/ut_ap_nob, $nob_t)]
 					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]"/>
 		  </x>
 		</tg>
