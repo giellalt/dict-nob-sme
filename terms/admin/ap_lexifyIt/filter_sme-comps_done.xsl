@@ -106,32 +106,9 @@
 	    <xsl:value-of select="concat('Processing e: ', ./lg/l, $nl)"/>
 	  </xsl:message> 
 	  <!-- here to go -->
-	  <xsl:variable name="nob_t" select="concat(./lg/l, '{',./lg/l/@pos,'}')"/>
 	  <e>
-	    <xsl:copy-of select="./lg"/>
-	    <xsl:copy-of select="./mg[not(contains(.//t, '+'))]"/>
 	    <xsl:for-each select="mg[contains(.//t, '+')]">
-	      <mg>
-		<xsl:variable name="sme_t" select="concat(./tg/t, '{', upper-case(./tg/t/@pos),'}')"/>
-		<tg>
-		  <xsl:copy-of select="./tg/@*"/>
-		  <xsl:copy-of select="./tg/t"/>
-		  <xsl:variable name="lemma_pos">
-		    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
-					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]"/>
-		  </xsl:variable>
-		  <x>
-		    <xsl:attribute name="cisl">
-                      <xsl:call-template name="getCISL">
-                        <xsl:with-param name="t" select="./tg/t" />
-                        <xsl:with-param name="x" select="normalize-space(substring-after(substring-before($lemma_pos, '{'), '|'))" />
-                        <xsl:with-param name="l" select="0" />
-                      </xsl:call-template>
-		    </xsl:attribute>
-		    <xsl:value-of select="normalize-space(substring-after(substring-before($lemma_pos, '{'), '|'))"/>
-		  </x>
-		</tg>
-	      </mg>
+	      
 	    </xsl:for-each>
 	  </e>
 	</xsl:for-each>
