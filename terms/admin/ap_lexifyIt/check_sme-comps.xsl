@@ -121,6 +121,13 @@
 					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]"/>
 		  </xsl:variable>
 		  <x>
+		    <xsl:attribute name="init_str_length">
+                      <xsl:call-template name="getCISL">
+                        <xsl:with-param name="t" select="./tg/t" />
+                        <xsl:with-param name="x" select="normalize-space(substring-after(substring-before($lemma_pos, '{'), '|'))" />
+                        <xsl:with-param name="l" select="0" />
+                      </xsl:call-template>
+		    </xsl:attribute>
 		    <xsl:value-of select="normalize-space(substring-after(substring-before($lemma_pos, '{'), '|'))"/>
 		  </x>
 		</tg>
@@ -139,5 +146,26 @@
 
   </xsl:template>
   
+  <xsl:template name="getCISL">
+    <xsl:param name="t" />
+    <xsl:param name="x" />
+    <xsl:param name="l" />
+    
+    <xsl:choose>
+      <xsl:when test="not(substring($t, 1, 1) = substring($x, 1, 1))">
+	<xsl:value-of select="$l"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:call-template name="getISL">
+	  <xsl:with-param name="t" select="substring($t, 2)" />
+	  <xsl:with-param name="x" select="substring($x, 2)" />
+	  <xsl:with-param name="l" select="$l + 1" />
+	</xsl:call-template>
+      </xsl:otherwise>
+    </xsl:choose>
+    
+  </xsl:template>
+  
+
 </xsl:stylesheet>
 
