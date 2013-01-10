@@ -100,14 +100,14 @@
     <!-- out -->
     <xsl:result-document href="{$outDir}/{$relPath}{$name}.{$oe}" format="{$oe}">
       <r>
-	<!--xsl:for-each select="$file//e[not(every $mg in ./mg satisfies (($mg/tg/x and ($mg/tg/x/@cisl &gt; 2)) or (not($mg/tg/x))))]"-->
-	<xsl:for-each select="$file//e[every $mg in ./mg satisfies (($mg/tg/x and ($mg/tg/x/@cisl &gt; 2)) or (not($mg/tg/x)))]">
+	<xsl:for-each select="$file//e[not(every $mg in ./mg satisfies (($mg/tg/x and ($mg/tg/x/@cisl &gt; 2)) or (not($mg/tg/x))))]">
+	<!--xsl:for-each select="$file//e[every $mg in ./mg satisfies (($mg/tg/x and ($mg/tg/x/@cisl &gt; 2)) or (not($mg/tg/x)))]"-->
 	  <xsl:message terminate="no">
 	    <xsl:value-of select="concat('Processing e: ', ./lg/l, $nl)"/>
 	  </xsl:message> 
 	  <!-- here to go -->
-	  <!--xsl:copy-of select="."/-->
-	  <e>
+	  <xsl:copy-of select="."/>
+	  <!--e>
 	    <xsl:copy-of select="./@*"/>
 	    <xsl:copy-of select="./lg"/>
 	    <xsl:copy-of select="./mg[not(contains(.//t, '+'))]"/>
@@ -125,7 +125,7 @@
 		</tg>
 	      </mg>
 	    </xsl:for-each>
-	  </e>
+	  </e-->
 	</xsl:for-each>
       </r>
     </xsl:result-document>
