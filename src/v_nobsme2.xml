@@ -17,11 +17,11 @@
             </xg>
          </tg>
       </mg>
+      <mg>
          <tg re="over lenger tid" xml:lang="sme">
             <t pos="v" usage="vd">baladit</t>
          </tg>
       </mg>
-      <mg>
    </e>
    <e>
       <lg>
@@ -88,22 +88,18 @@
          <l pos="v">oppfordre</l>
       </lg>
       <mg>
-         <tg re="flere ganger" xml:lang="sme">
-            <t pos="v" usage="vd">hásttuhit</t>
-            <xg>
-               <x>Derfor oppfordrer jeg elevenes foreldre til å påvirke saka.</x>
-               <xt>Danin hásttuhan ohppiid váhnemiid váikkuhit áššái.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
          <tg re="en gang" xml:lang="sme">
             <t pos="v" usage="vd">hástit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="flere ganger" xml:lang="sme">
+            <t pos="v" usage="vd">hásttuhit</t>
             <t pos="v" usage="vd">ávžžuhit</t>
+            <xg>
+               <x>Derfor oppfordrer jeg elevenes foreldre til å påvirke saka.</x>
+               <xt>Danin hásttuhan ohppiid váhnemiid váikkuhit áššái.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -114,9 +110,6 @@
       <mg>
          <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">hástalit</t>
-         </tg>
-      </mg>
-         <tg re="" xml:lang="sme">
             <t pos="v" usage="vd">hásttuhit</t>
             <xg>
                <x>Derfor oppfordrer jeg elevenes foreldre til å påvirke saka.</x>
@@ -124,7 +117,6 @@
             </xg>
          </tg>
       </mg>
-      <mg>
       <mg>
          <tg re="en gang" xml:lang="sme">
             <t pos="v" usage="vd">hástit</t>
@@ -635,43 +627,30 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="6">
+   <e>
       <lg>
          <l pos="v">spørre</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="v" usage="vd">jearahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+         <tg re="en gang" xml:lang="sme">
+            <t pos="v" usage="vd">jearrat</t>
             <t pos="v" usage="vd">gahčat</t>
-            <xg>
-               <x>Jeg spurte deg.</x>
-               <xt>Mun jerren dus.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="flere ganger" xml:lang="sme">
+            <t pos="v" usage="vd">jearahit</t>
+            <t pos="v" usage="vd">jearadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="formelt, ved f.eks intevju eller avhør" xml:lang="sme">
             <t pos="v" usage="vd">gažadit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="høre rundt" xml:lang="sme">
             <t pos="v" usage="vd">gulaskuddat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" usage="vd">jearrat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flere ganger</re>
-            <t pos="v" usage="vd">jearadit</t>
          </tg>
       </mg>
    </e>
