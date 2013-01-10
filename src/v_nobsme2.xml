@@ -83,7 +83,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">oppfordre</l>
       </lg>
@@ -654,48 +654,39 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e>
       <lg>
          <l pos="v">plages</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="v">buozahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+         <tg re="være bekymret" xml:lang="sme">
             <t pos="v" usage="vd">vuorjašuvvat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="fysisk ubehag" xml:lang="sme">
             <t pos="v" usage="vd">bálgat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="være trist" xml:lang="sme">
             <t pos="v" usage="vd">váivašuvvat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">lykkes</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="oppnå noe" xml:lang="sme">
             <t pos="v" usage="vd">meinnestuvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" usage="vd">lihkostuvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">menestuvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="ha hell med seg" xml:lang="sme">
+            <t pos="v" usage="vd">lihkostuvvat</t>
          </tg>
       </mg>
    </e>
@@ -729,17 +720,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">gi</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="(over)rekke, donere" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">addit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="skjenke som gave" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">skeŋket</t>
          </tg>
       </mg>
@@ -754,57 +745,49 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">flø</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">ahcit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dievvat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">vantrives</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">ahkiduššat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">goarránit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">láittastuvvat</t>
          </tg>
       </mg>
+      <mg>
+         <tg re="" xml:lang="sme">
+            <t pos="v" src="nj" usage="vd">goarránit</t>
+         </tg>
+      </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">utvikle seg</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="fysisk utvikling" xml:lang="sme">
             <t pos="v">čálgat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="øke i størrelse og vekt" xml:lang="sme">
             <t pos="v" usage="vd">ahtanuššat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="framskritt" xml:lang="sme">
             <t pos="v" usage="vd">ovdánit</t>
          </tg>
       </mg>
@@ -829,17 +812,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">publisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">publiseret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">almmuhit</t>
             <xg>
                <x>Vokalisten har også gitt ut CDer.</x>
@@ -862,17 +841,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">deklarere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">deklareret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">almmuhit</t>
          </tg>
       </mg>
@@ -897,22 +872,18 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">gjøre seg til</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">almmáštaddat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+         <tg re="uavhengig av kjønn" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dahkaluddat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="om menn" xml:lang="sme">
+            <t pos="v" src="nj" usage="vd">almmáštaddat</t>
             <t pos="v" src="nj" usage="vd">olmmáštallat</t>
          </tg>
       </mg>
@@ -927,26 +898,22 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">våge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">arvat</t>
+            <t pos="v" src="nj" usage="vd">duostat</t>
             <xg>
                <x>Slik kan kanskje enda flere ungdommer våge å bli med på Sámi Grand Prix joikedel.</x>
                <xt>Nu soitet vel eanet nuorat arvat searvat Sámi Grand Prix juoigamii.</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">duostat</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">regne</l>
       </lg>
@@ -961,7 +928,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="om matematikk" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">rehkenastit</t>
          </tg>
       </mg>
@@ -981,8 +948,9 @@
          <l pos="v">bruke</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="benytte seg av" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">atnit</t>
+            <t pos="v" src="nj" usage="vd">geavahit</t>
             <xg>
                <x>Skolen bruker veldig mye norskspråklige lærebøker.</x>
                <xt>Skuvla atná hui ollu dárogielat oahppogirjjiid.</xt>
@@ -990,12 +958,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">geavahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+         <tg re="om sløsing av penger eller tid" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">golahit</t>
             <xg>
                <x>Man kan f.eks. bruke penger eller tiden.</x>
@@ -1004,7 +967,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="noe man pleier å gjøre" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">lávet</t>
          </tg>
       </mg>
