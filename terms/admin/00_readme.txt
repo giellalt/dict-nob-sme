@@ -20,5 +20,19 @@ ap_lexifyIt/nobsme_sme-comps_lex.xml
 src/fad_nobsme.20121130_merged_comp.xml
  ==> todo         
 
+3. what about that?
+
+   <e>   
+      <lg>  
+         <l pos="n">kvalitet+reform</l>
+      </lg> 
+      <mg>  
+         <tg xml:lang="sme">
+            <t pos="prop" rest="Prop/Obj/">Kvalitetsreformen</t>
+         </tg> 
+      </mg> 
+   </e>  
+
+
 Lesson learned: don't merge entries that have to be lexified!
 
