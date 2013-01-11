@@ -32,7 +32,7 @@
   
   <!-- in -->
   <xsl:param name="inDir" select="'xxxdirxxx'"/>
-  <xsl:param name="inFile" select="'nobsme_sme-comps.xml'"/>
+  <xsl:param name="inFile" select="'00_coxx/fad_nobsme.20121130_nob-c_sme-c.xml'"/>
   <xsl:param name="corpus" select="'in_ap_gt_nob2sme.xml'"/>
   <xsl:param name="this" select="base-uri(document(''))"/>
   <xsl:variable name="this_name" select="(tokenize($this, '/'))[last()]"/>
@@ -106,38 +106,59 @@
 	    <xsl:value-of select="concat('Processing e: ', ./lg/l, $nl)"/>
 	  </xsl:message> 
 	  <!-- here to go -->
-	  <xsl:variable name="nob_t" select="concat(./lg/l, '{',./lg/l/@pos,'}')"/>
+	  <xsl:variable name="ap_nob_l" select="./lg/l"/>
+	  <xsl:variable name="ap_sme_l" select="./mg/tg/t"/>
+	  <xsl:variable name="gt_nob_l">
+	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
+				  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]"/>
+	  </xsl:variable>
+	  <xsl:variable name="gt_nob_l_m1">
+	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
+				  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/preceding-sibling::ts[1]"/>
+	  </xsl:variable>
+	  <xsl:variable name="gt_nob_l_p1">
+	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
+				  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/following-sibling::ts[1]"/>
+	  </xsl:variable>
+	  <xsl:variable name="gt_sme_l">
+	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
+				  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]"/>
+	  </xsl:variable>
+	  <xsl:variable name="gt_sme_l_m1">
+	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
+				  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/preceding-sibling::ts[1]"/>
+	  </xsl:variable>
+	  <xsl:variable name="gt_sme_l_p1">
+	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
+				  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/following-sibling::ts[1]"/>
+	  </xsl:variable>
 	  <e>
 	    <xsl:copy-of select="./@*"/>
+	    <lg> 
+	      <l>
+		
+	      </l>
+	      <y>
+
+	      </y>
+	    </lg>
 	    <xsl:copy-of select="./lg"/>
-	    <xsl:copy-of select="./mg[not(contains(.//t, '+'))]"/>
-	    <xsl:for-each select="mg[contains(.//t, '+')]">
-	      <mg>
-		<xsl:variable name="sme_t" select="concat(./tg/t, '{', upper-case(./tg/t/@pos),'}')"/>
-		<tg>
-		  <xsl:copy-of select="./tg/@*"/>
-		  <xsl:copy-of select="./tg/t"/>
-		  <xsl:variable name="lemma_pos">
-		    <!--xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
-					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/preceding-sibling::ts[1]"/-->
-		    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
-					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/preceding-sibling::ts"/>
-		    <!--xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
-					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/following-sibling::ts[1]"/-->
-		  </xsl:variable>
-		  <x>
-		    <xsl:attribute name="cisl">
-                      <xsl:call-template name="getCISL">
-                        <xsl:with-param name="t" select="./tg/t" />
-                        <xsl:with-param name="x" select="normalize-space(substring-after(substring-before($lemma_pos, '{'), '|'))" />
-                        <xsl:with-param name="l" select="0" />
-                      </xsl:call-template>
-		    </xsl:attribute>
-		    <xsl:value-of select="normalize-space(substring-after(substring-before($lemma_pos, '{'), '|'))"/>
-		  </x>
-		</tg>
-	      </mg>
-	    </xsl:for-each>
+	    <mg>
+	      <tg>
+		<xsl:copy-of select="./tg/@*"/>
+		<xsl:copy-of select="./tg/t"/>
+		<x>
+		  <xsl:attribute name="cisl">
+		    <xsl:call-template name="getCISL">
+		      <xsl:with-param name="t" select="./tg/t" />
+		      <xsl:with-param name="x" select="normalize-space(substring-after(substring-before($gt_sme_lemma, '{'), '|'))" />
+		      <xsl:with-param name="l" select="0" />
+		    </xsl:call-template>
+		  </xsl:attribute>
+		  <xsl:value-of select="normalize-space(substring-after(substring-before($gt_sme_lemma, '{'), '|'))"/>
+		</x>
+	      </tg>
+	    </mg>
 	  </e>
 	</xsl:for-each>
       </r>
