@@ -149,8 +149,8 @@
 	    </lg>
 	    <mg>
 	      <tg>
-		<xsl:copy-of select="./tg/@*"/>
-		<xsl:copy-of select="./tg/t"/>
+		<xsl:copy-of select="./mg/tg/@*"/>
+		<xsl:copy-of select="./mg/tg/t"/>
 		<y>
 		  <xsl:attribute name="cisl">
 		    <xsl:call-template name="getCISL">
