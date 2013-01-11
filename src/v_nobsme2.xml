@@ -1816,12 +1816,12 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e>
       <lg>
          <l pos="v">blåse</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="blåse lenge" xml:lang="sme">
             <t pos="v">bieggaladdat</t>
          </tg>
       </mg>
@@ -1876,37 +1876,38 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">nekte</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="avstå" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">biehtadit</t>
+            <t pos="v" src="nj" usage="vd">biehttalit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="si nei" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">gieldit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="prøve å hindre" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">riidit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">benekte</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="avstå" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">biehtadit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="nekte for" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">šiitit</t>
          </tg>
       </mg>
@@ -1941,67 +1942,44 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">slippe</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="ufrivillig" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">biestit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="frivillig" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">luoitit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">gå i stykker</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bieđganit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">cuovkanit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
-      <lg>
-         <l pos="v">spre seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">bieđganit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">viidánit</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">klare</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="klare å hanskes med, fysisk" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bihtit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="mestre noe" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">nagadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">nagodit</t>
          </tg>
       </mg>
@@ -2016,37 +1994,29 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">pine</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">biinnidit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="forårsaket av ytre faktorer" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">givssidit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">ødelegge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bilidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">billistit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">biđget</t>
          </tg>
       </mg>
@@ -2071,17 +2041,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">ironisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">ironiseret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bilkidit</t>
          </tg>
       </mg>
@@ -2111,17 +2077,13 @@
          <l pos="v">holde seg</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bindit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bissut</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="bestå eller overleve" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">ceavzit</t>
          </tg>
       </mg>
