@@ -120,10 +120,10 @@
 		  <xsl:variable name="lemma_pos">
 		    <!--xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
 					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/preceding-sibling::ts[1]"/-->
-		    <!--xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
-					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/preceding-sibling::ts"/-->
 		    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
-					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/following-sibling::ts[1]"/>
+					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/preceding-sibling::ts"/>
+		    <!--xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $nob_t)]
+					  [contains(./sme/ut_ap_sme, $sme_t)]/sme/aligned_sme/ts[contains(., $sme_t)]/following-sibling::ts[1]"/-->
 		  </xsl:variable>
 		  <x>
 		    <xsl:attribute name="cisl">

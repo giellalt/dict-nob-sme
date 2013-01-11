@@ -16,3 +16,14 @@ _six check_sme-comps.xsl
 4. extract entries with correctly lemmatized sme-componds
 _six filter_sme-comps_done.xsl
 
+nob-c_sme-c issue:
+
+ap_lexifyIt>grep '<e' 00_coxx/fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
+    8358
+ap_lexifyIt>grep '<mg' 00_coxx/fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
+    8358
+ap_lexifyIt>grep '<tg' 00_coxx/fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
+    8358
+ap_lexifyIt>grep '<t ' 00_coxx/fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
+    8358
+
