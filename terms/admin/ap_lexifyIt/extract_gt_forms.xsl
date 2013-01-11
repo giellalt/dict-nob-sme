@@ -110,7 +110,7 @@
 	  <xsl:variable name="ap_sme_l" select="./mg/tg/t"/>
 	  <xsl:variable name="all_gt_nob_l">
 	    <all_x>
-	      <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
+	      <xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
 				    [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]"/>
 	    </all_x>
 	  </xsl:variable>
@@ -155,7 +155,7 @@
 		<xsl:value-of select="normalize-space(substring-after(substring-before($gt_nob_l, '{'), '|'))"/>
 	      </x>
 
-	      <xsl:copy-of select="$all_gt_nob_l)"/>
+	      <xsl:copy-of select="$all_gt_nob_l"/>
 
 	    </lg>
 	    <mg>
