@@ -30,6 +30,27 @@
   <xsl:output method="text" name="txt"
 	      encoding="UTF-8"/>
   
+<xsl:function name="local:distinct-deep" as="node()*">
+  <xsl:param name="nodes" as="node()*"/> 
+ 
+  <xsl:sequence select=" 
+    for $seq in (1 to count($nodes))
+    return $nodes[$seq][not(local:is-node-in-sequence-deep-equal(
+                          .,$nodes[position() &lt; $seq]))]
+ "/> 
+   
+</xsl:function>
+
+<xsl:function name="local:is-node-in-sequence-deep-equal" as="xs:boolean">
+  <xsl:param name="node" as="node()?"/> 
+  <xsl:param name="seq" as="node()*"/> 
+ 
+  <xsl:sequence select=" 
+   some $nodeInSeq in $seq satisfies deep-equal($nodeInSeq,$node)
+ "/> 
+   
+</xsl:function>
+
   <!-- in -->
   <xsl:param name="inDir" select="'xxxdirxxx'"/>
   <xsl:param name="inFile" select="'00_coxx/fad_nobsme.20121130_nob-c_sme-c.xml'"/>
@@ -111,7 +132,10 @@
 
 	  <xsl:variable name="all_gt_nob_l">
 	    <all_x>
-
+	      <xsl:call-template name="get_gt_nob_l">
+		<xsl:with-param name="n0" select="$ap_nob_l" />
+		<xsl:with-param name="s0" select="ap_sme_l" />
+	      </xsl:call-template>
 	    </all_x>
 	  </xsl:variable>
 	  
@@ -221,29 +245,48 @@
   </xsl:template>
   
   <xsl:template name="get_gt_nob_l">
-    <xsl:param name="n" />
-    <xsl:param name="s" />
+    <xsl:param name="n0" />
+    <xsl:param name="s0" />
 
     <xsl:variable name="default">
-      <xsl:variable name="n1" select="concat(upper-case(substring($n, 1, 1)), substring($n, 2))"/>
-      <xsl:variable name="n2" select="upper-case($n)"/>
-      <xsl:variable name="s1" select="concat(upper-case(substring($s, 1, 1)), substring($s, 2))"/>
-      <xsl:variable name="s2" select="upper-case($ap_sme_l)"/>
-      <xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-			   [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]"/>
-      <xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $v1)]
-			   [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $v1)]"/>
-      <xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $v2)]
-			   [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $v2)]"/>
+      <xsl:variable name="n1" select="concat(upper-case(substring($n0, 1, 1)), lower-case(substring($n0, 2)))"/>
+      <xsl:variable name="n2" select="upper-case($n0)"/>
+      <xsl:variable name="n3" select="lower-case($n0)"/>
+
+      <xsl:variable name="s1" select="concat(upper-case(substring($s0, 1, 1)), lower-case(substring($s0, 2)))"/>
+      <xsl:variable name="s2" select="upper-case($s0)"/>
+      <xsl:variable name="s3" select="lower-case($s0)"/>
+
+      <xsl:for-each select="($n0, $n1, $n2, $n3)">
+	<xsl:variable name="current_n" select="."/>
+	<xsl:for-each select="($s0, $s1, $s2, $s3)">
+	  <xsl:variable name="current_s" select="."/>
+	  <xsl:for-each select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)]">
+	    <tn>
+	      <xsl:value-of select="normalize-space(substring-after(., '|'))"/>
+	    </tn>
+	    
+	    <!--xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+		[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)]"/-->
+	    
+	    
+	    <!--xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $v1)]
+		[contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $v1)]"/-->
+	    <!--xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $v2)]
+		[contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $v2)]"/-->
+	    
+	  </xsl:for-each>
+	</xsl:for-each>
+      </xsl:for-each>
     </xsl:variable>
-    
-    <xsl:copy-of select="$default"/>
+    <xsl:copy-of select="local:distinct-deep($default/*)"/>
     
   </xsl:template>
 
-  <xsl:template name="get_gt_sme_l">
-    <xsl:param name="t" />
-    <xsl:param name="x" />
+  <!--xsl:template name="get_gt_sme_l">
+    <xsl:param name="n0" />
+    <xsl:param name="s0" />
     
     <xsl:variable name="default">
       <xsl:variable name="v1" select="concat(upper-case(substring($ap_nob_l, 1, 1)), substring($ap_nob_l, 2))"/>
@@ -263,7 +306,7 @@
     
     <xsl:copy-of select="$default"/>
     
-  </xsl:template>
+  </xsl:template-->
 
 
 </xsl:stylesheet>
