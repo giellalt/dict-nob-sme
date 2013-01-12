@@ -66,7 +66,7 @@
   <xsl:variable name="oe" select="'xml'"/>
   <xsl:variable name="tb" select="'&#9;'"/>
   <xsl:variable name="nl" select="'&#xA;'"/>
-  <xsl:variable name="debug" select="false()"/>  
+  <xsl:variable name="debug" select="true()"/>  
 
   <xsl:template match="/" name="main">
     
@@ -130,29 +130,7 @@
 	  <xsl:variable name="ap_nob_l" select="./lg/l"/>
 	  <xsl:variable name="ap_sme_l" select="./mg/tg/t"/>
 
-	  <xsl:variable name="all_gt_nob_l">
-	    <all_x>
-	      <xsl:call-template name="get_gt_nob_l">
-		<xsl:with-param name="n0" select="$ap_nob_l" />
-		<xsl:with-param name="s0" select="ap_sme_l" />
-	      </xsl:call-template>
-	    </all_x>
-	  </xsl:variable>
 	  
-	  <xsl:variable name="gt_nob_l">
-	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]"/>
-	  </xsl:variable>
-
-	  <xsl:variable name="gt_nob_l_m1">
-	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]/preceding-sibling::tn[1]"/>
-	  </xsl:variable>
-	  <xsl:variable name="gt_nob_l_p1">
-	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]/following-sibling::tn[1]"/>
-	  </xsl:variable>
-
 	  <xsl:variable name="all_gt_sme_l">
 	    <all_y>
 
@@ -176,19 +154,10 @@
 	    <xsl:copy-of select="./@*"/>
 	    <lg> 
 	      <xsl:copy-of select="./lg/l"/>
-	      <x>
-		<xsl:attribute name="cisl">
-		  <xsl:call-template name="getCISL">
-		    <xsl:with-param name="t" select="$ap_nob_l" />
-		    <xsl:with-param name="x" select="normalize-space(substring-after(substring-before($gt_nob_l, '{'), '|'))" />
-		    <xsl:with-param name="l" select="0" />
-		  </xsl:call-template>
-		</xsl:attribute>
-		<xsl:value-of select="normalize-space(substring-after(substring-before($gt_nob_l, '{'), '|'))"/>
-	      </x>
-
-	      <xsl:copy-of select="$all_gt_nob_l"/>
-
+	      <xsl:call-template name="get_gt_nob_l">
+		<xsl:with-param name="n0" select="$ap_nob_l" />
+		<xsl:with-param name="s0" select="ap_sme_l" />
+	      </xsl:call-template>
 	    </lg>
 	    <mg>
 	      <tg>
@@ -272,14 +241,44 @@
 				document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
 				[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)]/following-sibling::tn[2])">
 	    <tn>
-	      <xsl:value-of select="normalize-space(substring-before(substring-after(., '|'), '{'))"/>
+	      <xsl:attribute name="gt_pos">
+		<xsl:value-of select="normalize-space(substring-before(substring-after(substring-before(substring-after(., '|'), '|'), '{'), '}'))"/>
+	      </xsl:attribute>
+	      <xsl:value-of select="normalize-space(lower-case(substring-before(substring-after(., '|'), '{')))"/>
 	    </tn>
 	  </xsl:for-each>
 	</xsl:for-each>
       </xsl:for-each>
     </xsl:variable>
-    <xsl:copy-of select="local:distinct-deep($default/*)"/>
+
+    <xsl:variable name="filter">
+      <xsl:for-each select="local:distinct-deep($default/*)[starts-with(lower-case(.), lower-case(substring-before($n0, '+')))]">
+	<xsl:if test="$debug">
+	  <xsl:message terminate="no">
+	    <xsl:value-of select="concat('   Doing ', .)"/>
+	  </xsl:message>
+	</xsl:if>
+	<l_gt>
+	  <xsl:copy-of select="./@*"/>
+	  <xsl:attribute name="c">
+	    <xsl:value-of select="position()"/>
+	  </xsl:attribute>
+	  <xsl:value-of select="."/>
+	</l_gt>
+      </xsl:for-each>
+    </xsl:variable>
+
+    <xsl:if test="count($filter/*) = 1">
+      <l_gt>
+	<xsl:copy-of select="$filter/*[1]/@gt_pos"/>
+	<xsl:value-of select="$filter/*[1]"/>
+      </l_gt>
+    </xsl:if>
     
+    <xsl:if test="count($filter/*) &gt; 1">
+      <xsl:copy-of select="$filter"/>
+    </xsl:if>
+
   </xsl:template>
 
   <!--xsl:template name="get_gt_sme_l">
