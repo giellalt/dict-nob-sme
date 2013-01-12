@@ -146,11 +146,11 @@
 
 	  <xsl:variable name="gt_nob_l_m1">
 	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]/preceding-sibling::ts[1]"/>
+				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]/preceding-sibling::tn[1]"/>
 	  </xsl:variable>
 	  <xsl:variable name="gt_nob_l_p1">
 	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]/following-sibling::ts[1]"/>
+				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]/following-sibling::tn[1]"/>
 	  </xsl:variable>
 
 	  <xsl:variable name="all_gt_sme_l">
@@ -261,21 +261,19 @@
 	<xsl:variable name="current_n" select="."/>
 	<xsl:for-each select="($s0, $s1, $s2, $s3)">
 	  <xsl:variable name="current_s" select="."/>
-	  <xsl:for-each select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
-				[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)]">
+	  <xsl:for-each select="(document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)],
+				document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)]/preceding-sibling::tn[1],
+				document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)]/following-sibling::tn[1],
+				document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)]/preceding-sibling::tn[2],
+				document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)]/following-sibling::tn[2])">
 	    <tn>
-	      <xsl:value-of select="normalize-space(substring-after(., '|'))"/>
+	      <xsl:value-of select="normalize-space(substring-before(substring-after(., '|'), '{'))"/>
 	    </tn>
-	    
-	    <!--xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
-		[contains(./sme/ut_ap_sme, $current_s)]/nob/aligned_nob/tn[contains(., $current_n)]"/-->
-	    
-	    
-	    <!--xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $v1)]
-		[contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $v1)]"/-->
-	    <!--xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $v2)]
-		[contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $v2)]"/-->
-	    
 	  </xsl:for-each>
 	</xsl:for-each>
       </xsl:for-each>
