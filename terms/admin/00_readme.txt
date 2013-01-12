@@ -33,6 +33,9 @@ src/fad_nobsme.20121130_merged_comp.xml
       </mg> 
    </e>  
 
+4. check OBT because of <tn pos="1">Omgangskolene | Omgangskolene{subst} | Omgang+skole{n}{m}</tn>:
+<in_nob tc="16">Omgangskolene viste seg lite effektive for å gi ungdommene det         minimum av kunnskaper som loven krevde</in_nob>
+
 
 Lesson learned: don't merge entries that have to be lexified!
 
