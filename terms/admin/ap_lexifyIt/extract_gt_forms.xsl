@@ -133,10 +133,6 @@
 	  
 	  <xsl:variable name="all_gt_sme_l">
 	    <all_y>
-	      <xsl:call-template name="get_gt_sme_l">
-		<xsl:with-param name="n0" select="$ap_nob_l" />
-		<xsl:with-param name="s0" select="ap_sme_l" />
-	      </xsl:call-template>
 	    </all_y>
 	  </xsl:variable>
 
@@ -151,26 +147,17 @@
 	      <xsl:copy-of select="./lg/l"/>
 	      <xsl:call-template name="get_gt_nob_l">
 		<xsl:with-param name="n0" select="$ap_nob_l" />
-		<xsl:with-param name="s0" select="ap_sme_l" />
+		<xsl:with-param name="s0" select="$ap_sme_l" />
 	      </xsl:call-template>
 	    </lg>
 	    <mg>
 	      <tg>
 		<xsl:copy-of select="./mg/tg/@*"/>
 		<xsl:copy-of select="./mg/tg/t"/>
-		<y>
-		  <xsl:attribute name="cisl">
-		    <xsl:call-template name="getCISL">
-		      <xsl:with-param name="t" select="$ap_sme_l" />
-		      <xsl:with-param name="x" select="normalize-space(substring-after(substring-before($gt_sme_l, '{'), '|'))" />
-		      <xsl:with-param name="l" select="0" />
-		    </xsl:call-template>
-		  </xsl:attribute>
-		  <xsl:value-of select="normalize-space(substring-after(substring-before($gt_sme_l, '{'), '|'))"/>
-		</y>
-
-		<xsl:copy-of select="$all_gt_sme_l"/>
-		
+		<xsl:call-template name="get_gt_sme_l">
+		  <xsl:with-param name="n0" select="$ap_nob_l" />
+		  <xsl:with-param name="s0" select="$ap_sme_l" />
+		</xsl:call-template>
 	      </tg>
 	    </mg>
 	  </e>
@@ -314,12 +301,13 @@
       </xsl:for-each>
     </xsl:variable>
     
+    <xsl:variable name="s_head" select="lower-case((tokenize($s0, '\+'))[last()])"/>
     
     <xsl:variable name="filter">
-      <xsl:for-each select="local:distinct-deep($default/*)[starts-with(lower-case(.), lower-case(substring-before($s0, '+')))]">
+      <xsl:for-each select="local:distinct-deep($default/*)[ends-with(lower-case(.), $s_head)]">
 	<xsl:if test="$debug">
 	  <xsl:message terminate="no">
-	    <xsl:value-of select="concat('   Doing ', .)"/>
+	    <xsl:value-of select="concat('   Doing ', ., ' with s_head ', $s_head)"/>
 	  </xsl:message>
 	</xsl:if>
 	<t_gt>
