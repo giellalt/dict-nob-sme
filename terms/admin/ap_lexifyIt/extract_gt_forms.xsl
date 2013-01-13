@@ -133,7 +133,10 @@
 	  
 	  <xsl:variable name="all_gt_sme_l">
 	    <all_y>
-
+	      <xsl:call-template name="get_gt_nob_l">
+		<xsl:with-param name="n0" select="$ap_nob_l" />
+		<xsl:with-param name="s0" select="ap_sme_l" />
+	      </xsl:call-template>
 	    </all_y>
 	  </xsl:variable>
 
@@ -142,14 +145,6 @@
 				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/sme/aligned_sme/ts[contains(., $ap_sme_l)]"/>
 	  </xsl:variable>
 
-	  <xsl:variable name="gt_sme_l_m1">
-	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/sme/aligned_sme/ts[contains(., $ap_sme_l)]/preceding-sibling::ts[1]"/>
-	  </xsl:variable>
-	  <xsl:variable name="gt_sme_l_p1">
-	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/sme/aligned_sme/ts[contains(., $ap_sme_l)]/following-sibling::ts[1]"/>
-	  </xsl:variable>
 	  <e>
 	    <xsl:copy-of select="./@*"/>
 	    <lg> 
@@ -281,29 +276,74 @@
 
   </xsl:template>
 
-  <!--xsl:template name="get_gt_sme_l">
+  <xsl:template name="get_gt_sme_l">
     <xsl:param name="n0" />
     <xsl:param name="s0" />
     
     <xsl:variable name="default">
-      <xsl:variable name="v1" select="concat(upper-case(substring($ap_nob_l, 1, 1)), substring($ap_nob_l, 2))"/>
-      <xsl:variable name="v2" select="upper-case($ap_nob_l)"/>
-      <xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-			   [contains(./sme/ut_ap_sme, $ap_sme_l)]/sme/aligned_sme/ts[contains(., $ap_sme_l)]"/>
+      <xsl:variable name="n1" select="concat(upper-case(substring($n0, 1, 1)), lower-case(substring($n0, 2)))"/>
+      <xsl:variable name="n2" select="upper-case($n0)"/>
+      <xsl:variable name="n3" select="lower-case($n0)"/>
       
+      <xsl:variable name="s1" select="concat(upper-case(substring($s0, 1, 1)), lower-case(substring($s0, 2)))"/>
+      <xsl:variable name="s2" select="upper-case($s0)"/>
+      <xsl:variable name="s3" select="lower-case($s0)"/>
       
-      
-      <xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-			   [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $ap_nob_l)]"/>
-      <xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $v1)]
-			   [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $v1)]"/>
-      <xsl:copy-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $v2)]
-			   [contains(./sme/ut_ap_sme, $ap_sme_l)]/nob/aligned_nob/tn[contains(., $v2)]"/>
+      <xsl:for-each select="($n0, $n1, $n2, $n3)">
+	<xsl:variable name="current_n" select="."/>
+	<xsl:for-each select="($s0, $s1, $s2, $s3)">
+	  <xsl:variable name="current_s" select="."/>
+	  <xsl:for-each select="(document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/sme/aligned_sme/ts[contains(., $current_s)],
+				document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/sme/aligned_sme/ts[contains(., $current_s)]/preceding-sibling::ts[1],
+				document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/sme/aligned_sme/ts[contains(., $current_s)]/following-sibling::ts[1],
+				document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/sme/aligned_sme/ts[contains(., $current_s)]/preceding-sibling::ts[2],
+				document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $current_n)]
+				[contains(./sme/ut_ap_sme, $current_s)]/sme/aligned_sme/ts[contains(., $current_s)]/following-sibling::ts[2])">
+	    <ts>
+	      <xsl:attribute name="gt_pos">
+		<xsl:value-of select="normalize-space(substring-before(substring-after(substring-before(substring-after(., '|'), '|'), '{'), '}'))"/>
+	      </xsl:attribute>
+	      <xsl:value-of select="normalize-space(lower-case(substring-before(substring-after(., '|'), '{')))"/>
+	    </ts>
+	  </xsl:for-each>
+	</xsl:for-each>
+      </xsl:for-each>
     </xsl:variable>
     
-    <xsl:copy-of select="$default"/>
     
-  </xsl:template-->
+    <xsl:variable name="filter">
+      <xsl:for-each select="local:distinct-deep($default/*)[starts-with(lower-case(.), lower-case(substring-before($s0, '+')))]">
+	<xsl:if test="$debug">
+	  <xsl:message terminate="no">
+	    <xsl:value-of select="concat('   Doing ', .)"/>
+	  </xsl:message>
+	</xsl:if>
+	<t_gt>
+	  <xsl:copy-of select="./@*"/>
+	  <xsl:attribute name="c">
+	    <xsl:value-of select="position()"/>
+	  </xsl:attribute>
+	  <xsl:value-of select="."/>
+	</t_gt>
+      </xsl:for-each>
+    </xsl:variable>
+
+    <xsl:if test="count($filter/*) = 1">
+      <t_gt>
+	<xsl:copy-of select="$filter/*[1]/@gt_pos"/>
+	<xsl:value-of select="$filter/*[1]"/>
+      </t_gt>
+    </xsl:if>
+    
+    <xsl:if test="count($filter/*) &gt; 1">
+      <xsl:copy-of select="$filter"/>
+    </xsl:if>
+    
+  </xsl:template>
 
 
 </xsl:stylesheet>
