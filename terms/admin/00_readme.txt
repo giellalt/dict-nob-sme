@@ -40,5 +40,7 @@ src/fad_nobsme.20121130_merged_comp.xml
 
 6. betaling+sikkerhet
 
+7. plenum+sekretariat
+
 Lesson learned: don't merge entries that have to be lexified!
 
