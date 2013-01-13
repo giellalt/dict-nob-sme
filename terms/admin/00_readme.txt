@@ -44,5 +44,7 @@ src/fad_nobsme.20121130_merged_comp.xml
 
 8. check ap kapasitet+bygg+ende
 
+9. boazodoallobláđđi{Txt}: question - What kind of pos is "Txt"? 
+
 Lesson learned: don't merge entries that have to be lexified!
 
