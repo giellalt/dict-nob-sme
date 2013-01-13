@@ -38,6 +38,7 @@ src/fad_nobsme.20121130_merged_comp.xml
 
 5. check ap bygg+efor+skrift
 
+6. betaling+sikkerhet
 
 Lesson learned: don't merge entries that have to be lexified!
 
