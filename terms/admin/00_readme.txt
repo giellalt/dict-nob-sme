@@ -42,5 +42,7 @@ src/fad_nobsme.20121130_merged_comp.xml
 
 7. plenum+sekretariat
 
+8. check ap kapasitet+bygg+ende
+
 Lesson learned: don't merge entries that have to be lexified!
 
