@@ -130,17 +130,6 @@
 	  <xsl:variable name="ap_nob_l" select="./lg/l"/>
 	  <xsl:variable name="ap_sme_l" select="./mg/tg/t"/>
 
-	  
-	  <xsl:variable name="all_gt_sme_l">
-	    <all_y>
-	    </all_y>
-	  </xsl:variable>
-
-	  <xsl:variable name="gt_sme_l">
-	    <xsl:value-of select="document($corpus)/nob2sme/l[contains(./nob/ut_ap_nob, $ap_nob_l)]
-				  [contains(./sme/ut_ap_sme, $ap_sme_l)]/sme/aligned_sme/ts[contains(., $ap_sme_l)]"/>
-	  </xsl:variable>
-
 	  <e>
 	    <xsl:copy-of select="./@*"/>
 	    <lg> 
@@ -301,20 +290,33 @@
       </xsl:for-each>
     </xsl:variable>
     
-    <xsl:variable name="s_head" select="lower-case((tokenize($s0, '\+'))[last()])"/>
+    <xsl:variable name="s_head" select="(tokenize(lower-case($s0), '\+'))[last()]"/>
+    <xsl:variable name="s_left" select="translate(substring-before(lower-case($s0), (tokenize(lower-case($s0), '\+'))[last()]), '\+', '')"/>
+
     
     <xsl:variable name="filter">
       <xsl:for-each select="local:distinct-deep($default/*)[ends-with(lower-case(.), $s_head)]">
+	<xsl:variable name="c_left" select="substring-before(lower-case(.), $s_head)"/>
 	<xsl:if test="$debug">
 	  <xsl:message terminate="no">
-	    <xsl:value-of select="concat('   Doing ', ., ' with s_head ', $s_head)"/>
+	    <xsl:value-of select="concat('   Doing ', ., ' with s_head ', $s_head, ' s_left ', $s_left, ' c_left ', $c_left)"/>
 	  </xsl:message>
 	</xsl:if>
+
 	<t_gt>
 	  <xsl:copy-of select="./@*"/>
 	  <xsl:attribute name="c">
 	    <xsl:value-of select="position()"/>
 	  </xsl:attribute>
+	  <xsl:if test="not((normalize-space($c_left) = '') or (normalize-space($s_left) = '') or ($c_left = $s_left))">
+	    <xsl:attribute name="cisl">
+	      <xsl:call-template name="getCISL">
+		<xsl:with-param name="t" select="$c_left" />
+		<xsl:with-param name="x" select="$s_left" />
+		<xsl:with-param name="l" select="0" />
+	      </xsl:call-template>
+	    </xsl:attribute>
+	  </xsl:if>
 	  <xsl:value-of select="."/>
 	</t_gt>
       </xsl:for-each>
