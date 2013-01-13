@@ -133,7 +133,7 @@
 	  
 	  <xsl:variable name="all_gt_sme_l">
 	    <all_y>
-	      <xsl:call-template name="get_gt_nob_l">
+	      <xsl:call-template name="get_gt_sme_l">
 		<xsl:with-param name="n0" select="$ap_nob_l" />
 		<xsl:with-param name="s0" select="ap_sme_l" />
 	      </xsl:call-template>
