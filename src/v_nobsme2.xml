@@ -2242,7 +2242,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">jakte</l>
       </lg>
@@ -2547,7 +2547,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv</re>
+            <re></re>
             <t pos="v" src="nj" usage="vd">boaldit</t>
             <xg>
                <x>Jeg brenner gamle papirer.</x>
@@ -2557,6 +2557,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re></re>
             <t pos="v" src="nj" usage="vd">buollit</t>
             <xg>
                <x>Ilden brenner.</x>
@@ -2565,18 +2566,19 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">svi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>brenne noe</re>
             <t pos="v" src="nj" usage="vd">boaldit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>intransitiv</re>
+            <re>ƒysisk smerte</re>
             <t pos="v" src="nj" usage="vd">spiiddistit</t>
          </tg>
       </mg>
@@ -2621,17 +2623,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">bore</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bohkat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bovret</t>
          </tg>
       </mg>
@@ -2685,32 +2683,24 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">hovne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bohtanit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">báisat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">vekke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">boktit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">rávkat</t>
          </tg>
       </mg>
@@ -2729,50 +2719,33 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">rote opp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">boltut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">goldit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">grave opp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">boltut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">goldit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">roggat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">ete</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">boradit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">borrat</t>
@@ -2869,12 +2842,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">røyke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>røyke tobakk</re>
             <t pos="v" src="nj" usage="vd">borgguhit</t>
             <xg>
                <x>I Norge røyker 32 prosent av kvinnene.</x>
@@ -2884,6 +2858,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>røyk av bål</re>
             <t pos="v" src="nj" usage="vd">suovastit</t>
             <xg>
                <x>Man røyker kjøtt og fisk.</x>
@@ -2892,18 +2867,20 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">seile</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">borjjastallat</t>
+            <re></re>
+            <t pos="v" src="nj" usage="vd">borjjastit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">borjjastit</t>
+            <re>seile litt, over tid</re>
+            <t pos="v">borjjastallat</t>
          </tg>
       </mg>
    </e>
@@ -2927,7 +2904,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="6">
+   <e>
       <lg>
          <l pos="v">bryte</l>
       </lg>
@@ -2942,26 +2919,31 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re></re>
             <t pos="v" src="nj" usage="vd">doadjit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>fysisk kamp</re>
             <t pos="v" src="nj" usage="vd">fággádit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>åpne noe, eller få noe løs med makt</re>
             <t pos="v" src="nj" usage="vd">gággat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re></re>
             <t pos="v" src="nj" usage="vd">heaibut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bryte lover, avtaler eller regler</re>
             <t pos="v" src="nj" usage="vd">rihkkut</t>
          </tg>
       </mg>
@@ -2990,7 +2972,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">vri</l>
       </lg>
@@ -3014,17 +2996,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">invitere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">inviteret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bovdet</t>
             <xg>
                <x>Sire hadde invitert stedets befolkning hjem til seg.</x>
@@ -3047,62 +3025,46 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">dundre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">boŋkit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">julkit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">brake</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">boŋkit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">jullat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">kompensere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">kompenseret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">buhtadit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">refundere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">refunderet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">buhtadit</t>
          </tg>
       </mg>
@@ -3185,17 +3147,19 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">dykke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>en gang</re>
             <t pos="v" src="nj" usage="vd">buokčalit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>flere fanger</re>
             <t pos="v" src="nj" usage="vd">buokčat</t>
          </tg>
       </mg>
@@ -3220,52 +3184,47 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">forbedre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">buorádahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">buoridit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">rette på</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>gjøre noe bedre</re>
             <t pos="v" src="nj" usage="vd">buoridit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>mer omfattende retting</re>
             <t pos="v" src="nj" usage="vd">divvut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>rette på en ting, fort</re>
             <t pos="v" src="nj" usage="vd">divustit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">bli bedre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">buorránit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">áhtat</t>
          </tg>
       </mg>
