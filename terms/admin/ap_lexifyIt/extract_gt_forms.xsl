@@ -53,7 +53,7 @@
 
   <!-- in -->
   <xsl:param name="inDir" select="'xxxdirxxx'"/>
-  <xsl:param name="inFile" select="'00_coxx/fad_nobsme.20121130_nob-c_sme-c.xml'"/>
+  <xsl:param name="inFile" select="'00_a_rest_input/fad_nobsme.20121130_nob-s_sme-c.xml'"/>
   <xsl:param name="corpus" select="'in_ap_gt_nob2sme.xml'"/>
   <xsl:param name="this" select="base-uri(document(''))"/>
   <xsl:variable name="this_name" select="(tokenize($this, '/'))[last()]"/>
@@ -67,6 +67,7 @@
   <xsl:variable name="tb" select="'&#9;'"/>
   <xsl:variable name="nl" select="'&#xA;'"/>
   <xsl:variable name="debug" select="true()"/>  
+  <xsl:variable name="lexify_both" select="false()"/>  
 
   <xsl:template match="/" name="main">
     
@@ -134,10 +135,12 @@
 	    <xsl:copy-of select="./@*"/>
 	    <lg> 
 	      <xsl:copy-of select="./lg/l"/>
-	      <xsl:call-template name="get_gt_nob_l">
-		<xsl:with-param name="n0" select="$ap_nob_l" />
-		<xsl:with-param name="s0" select="$ap_sme_l" />
-	      </xsl:call-template>
+	      <xsl:if test="$lexify_both">
+		<xsl:call-template name="get_gt_nob_l">
+		  <xsl:with-param name="n0" select="$ap_nob_l" />
+		  <xsl:with-param name="s0" select="$ap_sme_l" />
+		</xsl:call-template>
+	      </xsl:if>
 	    </lg>
 	    <mg>
 	      <tg>
