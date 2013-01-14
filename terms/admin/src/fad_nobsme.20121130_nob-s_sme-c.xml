@@ -7,7 +7,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">nato+riika</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -18,7 +17,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">sárdnidit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -29,7 +27,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der4/der_n/n/sg/gen/">hearva+njuohtat</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="V*">hearvanjuohtat</t_gt>
          </tg>
       </mg>
    </e>
@@ -40,7 +38,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">nasjonal+galleriija</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="Org">nasjonálagalleriija</t_gt>
          </tg>
       </mg>
    </e>
@@ -51,7 +49,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">tele+fierpmádat</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="Org">tele-fierpmádat</t_gt>
          </tg>
       </mg>
    </e>
@@ -62,7 +60,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">áigi+govva</t>
-            <x cisl="0">kultuvrralaš</x>
+            <t_gt gt_pos="N">áigegovva</t_gt>
          </tg>
       </mg>
    </e>
@@ -73,7 +71,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">prográmma+direktevra</t>
-            <x cisl="0">áibmomediahoavda</x>
+            <t_gt gt_pos="Hum">prográmmadirektevra</t_gt>
          </tg>
       </mg>
    </e>
@@ -84,7 +82,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">njeašši+eana</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="Plc">njeaššeeana</t_gt>
          </tg>
       </mg>
    </e>
@@ -95,7 +93,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">skuvla+oahppat</t>
-            <x cisl="0">lohku</x>
          </tg>
       </mg>
    </e>
@@ -106,7 +103,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gaskaboddosaš+áigodat</t>
-            <x cisl="0">1999/2000</x>
+            <t_gt gt_pos="Time">gaskaboddosašáigodat</t_gt>
          </tg>
       </mg>
    </e>
@@ -117,7 +114,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">molsut+áigodat</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="Time" c="1" cisl="0">buolvamolsunáigodat</t_gt>
+            <t_gt gt_pos="Time" c="2" cisl="5">molsunáigodat</t_gt>
          </tg>
       </mg>
    </e>
@@ -128,7 +126,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">skuvla+ahki</t>
-            <x cisl="0">galgat</x>
+            <t_gt gt_pos="N" c="1" cisl="0">vuođđoskuvlaahki</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="0">vuođđoskuvllaahki</t_gt>
+            <t_gt gt_pos="N" c="3">skuvlaahki</t_gt>
+            <t_gt gt_pos="" c="4" cisl="0">| vuođđoskuvla+ahki</t_gt>
          </tg>
       </mg>
    </e>
@@ -139,7 +140,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">fága+tearbma</t>
-            <x cisl="0">davvisámegiella</x>
+            <t_gt gt_pos="N" c="1" cisl="0">servodatfágatearbma</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="0">luonddufágatearbma</t_gt>
+            <t_gt gt_pos="N" c="3">fágatearbma</t_gt>
          </tg>
       </mg>
    </e>
@@ -150,7 +153,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">nagir+dálkkas</t>
-            <x cisl="0">geavaheapmi</x>
+            <t_gt gt_pos="N">nagirdálkkas</t_gt>
          </tg>
       </mg>
    </e>
@@ -161,7 +164,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">riika+stivra</t>
-            <x cisl="0">jođiheaddji</x>
+            <t_gt gt_pos="Org">riikkastivra</t_gt>
          </tg>
       </mg>
    </e>
@@ -172,7 +175,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">fidnu+eallin</t>
-            <x cisl="0">bargat</x>
+            <t_gt gt_pos="N">fidnoeallin</t_gt>
          </tg>
       </mg>
    </e>
@@ -183,7 +186,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">fitnodat+eallin</t>
-            <x cisl="0">de</x>
+            <t_gt gt_pos="N">fitnodateallin</t_gt>
          </tg>
       </mg>
    </e>
@@ -194,7 +197,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="ind/prt/sg1/">jearrat+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -205,7 +207,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="iv/der4/der_n/n/pl/nom/">mols+šuvvat</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="V*">molsašuvvat</t_gt>
          </tg>
       </mg>
    </e>
@@ -216,7 +218,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">ráhkkanit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -227,7 +228,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="prop" rest="Prop/Plc/">Norga+Ruoŧŧa</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">norgga-ruoŧŧa</t_gt>
          </tg>
       </mg>
    </e>
@@ -238,7 +239,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ovdánit+proseassa</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="N">ovdánanproseassa</t_gt>
          </tg>
       </mg>
    </e>
@@ -249,7 +250,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ovddidit+proseassa</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="N">ovddidanproseassa</t_gt>
          </tg>
       </mg>
    </e>
@@ -260,7 +261,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">giehta+telefovdna</t>
-            <x cisl="0">917_20_679</x>
+            <t_gt gt_pos="N">giehtatelefovdna</t_gt>
          </tg>
       </mg>
    </e>
@@ -271,7 +272,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mo+biila</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="A">mobiila</t_gt>
          </tg>
       </mg>
    </e>
@@ -282,7 +283,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n" rest="sg/gen/rcmpnd/">giehta+telefon</t>
-            <x cisl="0">ja</x>
          </tg>
       </mg>
    </e>
@@ -293,7 +293,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">ollis+máhttit</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="V*">ollismáhttit</t_gt>
          </tg>
       </mg>
    </e>
@@ -304,7 +304,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">dievas+máhttit</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="V*">dievasmáhttit</t_gt>
          </tg>
       </mg>
    </e>
@@ -315,7 +315,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">geavaheapmi+vuohki</t>
-            <x cisl="0">mii</x>
+            <t_gt gt_pos="N">geavahanvuohki</t_gt>
          </tg>
       </mg>
    </e>
@@ -326,7 +326,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">romani+álbmot</t>
-            <x cisl="0">oahppováillat</x>
+            <t_gt gt_pos="N">romániálbmot</t_gt>
          </tg>
       </mg>
    </e>
@@ -337,7 +337,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mearra+guolásteapmi</t>
-            <x cisl="0">jna</x>
+            <t_gt gt_pos="N">mearraguolásteapmi</t_gt>
          </tg>
       </mg>
    </e>
@@ -348,7 +348,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">sálti+čáhci+bivdu</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="N">sáltečáhcebivdu</t_gt>
          </tg>
       </mg>
    </e>
@@ -359,7 +359,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">láhka+árvalus</t>
-            <x cisl="0">ektui</x>
+            <t_gt gt_pos="N" c="1" cisl="0">bággonjuovvanláhkaárvalus</t_gt>
+            <t_gt gt_pos="N" c="2">láhkaárvalus</t_gt>
          </tg>
       </mg>
    </e>
@@ -370,7 +371,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">iskkadit+bargu</t>
-            <x cisl="0">iskosiidváldit</x>
+            <t_gt gt_pos="Plc">iskkadanbargu</t_gt>
          </tg>
       </mg>
    </e>
@@ -381,7 +382,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">áigi+mearrat</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="V*">áigemearrat</t_gt>
          </tg>
       </mg>
    </e>
@@ -392,7 +393,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">duollu+mearri</t>
-            <x cisl="0">leat</x>
+            <t_gt gt_pos="N" c="1" cisl="0">ruvdnoduollomearri</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="5">duollomearri</t_gt>
+            <t_gt gt_pos="N" c="3" cisl="0">kruvdnoduollomearri</t_gt>
          </tg>
       </mg>
    </e>
@@ -403,7 +406,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">duollu+máksu+mearri</t>
-            <x cisl="0">ektui</x>
+            <t_gt gt_pos="N">duollomáksomearri</t_gt>
          </tg>
       </mg>
    </e>
@@ -414,7 +417,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">duollu+earri</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">duolloearri</t_gt>
          </tg>
       </mg>
    </e>
@@ -425,7 +428,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">tuollu+máksu+mearri</t>
-            <x cisl="0">dat</x>
+            <t_gt gt_pos="N">tuollomáksomearri</t_gt>
          </tg>
       </mg>
    </e>
@@ -436,7 +439,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">lohkan+suorgi</t>
-            <x cisl="0">| ja</x>
+            <t_gt gt_pos="N">lohkansuorgi</t_gt>
          </tg>
       </mg>
    </e>
@@ -447,7 +450,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">jorgalit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -458,7 +460,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">luondu+suodjalit+guovlu</t>
-            <x cisl="0">stuoris</x>
+            <t_gt gt_pos="Plc">luonddusuodjalanguovlu</t_gt>
          </tg>
       </mg>
    </e>
@@ -469,7 +471,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">álbmotlaš+meahcci</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="Plc">álbmotlašmeahcci</t_gt>
          </tg>
       </mg>
    </e>
@@ -480,7 +482,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n" rest="g3/">oahpahit+málle</t>
-            <x cisl="0">heivet</x>
+            <t_gt gt_pos="N">oahpahanmálle</t_gt>
          </tg>
       </mg>
    </e>
@@ -491,7 +493,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">speadjal+astat</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -502,7 +503,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">báidnit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -513,7 +513,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">lahkanit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -524,7 +523,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">lahkonit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -535,7 +533,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">ihtit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -546,7 +543,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ámmát+oahpahus</t>
-            <x cisl="0">fágageahččaleapmi</x>
+            <t_gt gt_pos="N">ámmátoahpahus</t_gt>
          </tg>
       </mg>
    </e>
@@ -557,7 +554,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">fidnu+oahpahus</t>
-            <x cisl="0">earenoamážit</x>
+            <t_gt gt_pos="N">fidnooahpahus</t_gt>
          </tg>
       </mg>
    </e>
@@ -568,7 +565,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n" rest="actor/;">oassi+váldi</t>
-            <x cisl="0">180.000</x>
+            <t_gt gt_pos="Hum" c="1" cisl="4">oasseváldi</t_gt>
+            <t_gt gt_pos="Org" c="2" cisl="4">oasseváldi</t_gt>
          </tg>
       </mg>
    </e>
@@ -579,7 +577,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">giehta+telefovdna</t>
-            <x cisl="0">ollu</x>
+            <t_gt gt_pos="N">giehtatelefovdna</t_gt>
          </tg>
       </mg>
    </e>
@@ -590,7 +588,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mátki+telefovdna</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">mátketelefovdna</t_gt>
          </tg>
       </mg>
    </e>
@@ -601,7 +599,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/der_eapmi/n/">sisa+čálihit</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="V">sisačálihit</t_gt>
          </tg>
       </mg>
    </e>
@@ -612,7 +610,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="ind/prs/sg2/">jurddašit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -623,7 +620,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="iv/der4/der_n/n/sg/gen/">sisa+fárret</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -634,7 +630,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gáhttet+bargu</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="Plc">gáhttenbargu</t_gt>
          </tg>
       </mg>
    </e>
@@ -645,7 +641,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">suodjalus+bargu</t>
-            <x cisl="0">vuohki</x>
+            <t_gt gt_pos="Plc">suodjalusbargu</t_gt>
          </tg>
       </mg>
    </e>
@@ -656,7 +652,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="ind/prt/sg1/">goarrut+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -667,7 +662,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gusto+viidodat</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="unknown">gustoviidodat</t_gt>
          </tg>
       </mg>
    </e>
@@ -678,7 +673,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">ovddidit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -689,7 +683,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">luođđa+bargat</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="">| luođđa+bargat</t_gt>
          </tg>
       </mg>
    </e>
@@ -700,7 +694,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gássa+fápmu+rusttet</t>
-            <x cisl="0">okta</x>
+            <t_gt gt_pos="N">gássafápmorusttet</t_gt>
          </tg>
       </mg>
    </e>
@@ -711,7 +705,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="iv/der4/der_n/n/sg/nom/">gavja+luvvat</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="V">gavjaluvvat</t_gt>
          </tg>
       </mg>
    </e>
@@ -722,7 +716,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">europa+ráđđi</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="Org">europa-ráđđi</t_gt>
          </tg>
       </mg>
    </e>
@@ -733,7 +727,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">eurohpa+ráđđi</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N" c="1" cisl="6">eurohpáráđđi</t_gt>
+            <t_gt gt_pos="Org" c="2">ráđđi</t_gt>
+            <t_gt gt_pos="Org" c="3" cisl="0">nuoraidráđđi</t_gt>
          </tg>
       </mg>
    </e>
@@ -744,7 +740,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dearvvas+dilálašvuohta</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="N">dearvvasvuođadilálašvuohta</t_gt>
          </tg>
       </mg>
    </e>
@@ -755,7 +751,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="prop" rest="Prop/Plc/">dearvvaš+Norga</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">dearvvašvuođa-norga</t_gt>
          </tg>
       </mg>
    </e>
@@ -766,7 +762,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">astu+áigi</t>
-            <x cisl="0">dadjat</x>
+            <t_gt gt_pos="Time" c="1" cisl="0">skuvlaastoáigi</t_gt>
+            <t_gt gt_pos="Time" c="2" cisl="3">asttuáigi</t_gt>
          </tg>
       </mg>
    </e>
@@ -777,7 +774,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">eamit+álbmot</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="Hum">eamitálbmot</t_gt>
          </tg>
       </mg>
    </e>
@@ -788,7 +785,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">emi+álbmot</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -799,7 +795,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">álgu+olmmoš</t>
-            <x cisl="0">birra</x>
+            <t_gt gt_pos="Hum">álgoolmmoš</t_gt>
          </tg>
       </mg>
    </e>
@@ -810,7 +806,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">giella+gažaldat</t>
-            <x cisl="0">birra</x>
+            <t_gt gt_pos="N">giellagažaldat</t_gt>
          </tg>
       </mg>
    </e>
@@ -821,7 +817,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">giella+ášši</t>
-            <x cisl="0">birra</x>
+            <t_gt gt_pos="N">giellaášši</t_gt>
          </tg>
       </mg>
    </e>
@@ -832,7 +828,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">šaddu+áigodat</t>
-            <x cisl="0">leat</x>
+            <t_gt gt_pos="Time">šaddoáigodat</t_gt>
          </tg>
       </mg>
    </e>
@@ -843,7 +839,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">šaddat+áigodat</t>
-            <x cisl="0">leat</x>
+            <t_gt gt_pos="Time">šaddanáigodat</t_gt>
          </tg>
       </mg>
    </e>
@@ -854,7 +850,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">lassánit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -865,7 +860,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">biras+gáhttet+minister</t>
-            <x cisl="0">njukčamánnu</x>
          </tg>
       </mg>
    </e>
@@ -876,7 +870,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">birasgáhtten+minister</t>
-            <x cisl="0">mátki</x>
          </tg>
       </mg>
    </e>
@@ -887,7 +880,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">biras+gáhttet+ministtar</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="Hum">birasgáhttenministtar</t_gt>
          </tg>
       </mg>
    </e>
@@ -898,7 +891,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/">ságat+ovddidit</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -909,7 +901,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">rievdadeapmi+bargu</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="Plc" c="1" cisl="0">láhkarievdadanbargu</t_gt>
+            <t_gt gt_pos="Plc" c="2" cisl="7">rievdadanbargu</t_gt>
          </tg>
       </mg>
    </e>
@@ -920,7 +913,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der4/der_n/n/sg/acc/">jahki+molsut</t>
-            <x cisl="0">evttohit</x>
+            <t_gt gt_pos="V*" c="1" cisl="0">duhátjagimolsut</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">| jahki+molsut</t_gt>
          </tg>
       </mg>
    </e>
@@ -931,7 +925,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">guolástit+fanas</t>
-            <x cisl="0">III</x>
+            <t_gt gt_pos="Veh">guolástanfanas</t_gt>
          </tg>
       </mg>
    </e>
@@ -942,7 +936,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">guolástus+fanas</t>
-            <x cisl="0">bággovuovdin</x>
+            <t_gt gt_pos="Veh" c="1">guolástusfanas</t_gt>
+            <t_gt gt_pos="Veh" c="2" cisl="0">riddoguolástusfanas</t_gt>
          </tg>
       </mg>
    </e>
@@ -953,7 +948,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">girdi+gieddi</t>
-            <x cisl="0">Avvil</x>
+            <t_gt gt_pos="N">girdigieddi</t_gt>
          </tg>
       </mg>
    </e>
@@ -964,7 +959,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">máksu+bargu</t>
-            <x cisl="0">almmolaš</x>
+            <t_gt gt_pos="Plc">máksobargu</t_gt>
          </tg>
       </mg>
    </e>
@@ -975,7 +970,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/">veahkki+heivehit</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="V">veahkke-heivehit</t_gt>
          </tg>
       </mg>
    </e>
@@ -986,7 +981,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mátkkoštit+eallin</t>
-            <x cisl="0">PETROLEUM</x>
          </tg>
       </mg>
    </e>
@@ -997,7 +991,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mátki+eallin+ealáhus</t>
-            <x cisl="1">maiddái</x>
+            <t_gt gt_pos="N" c="1" cisl="4">mátkeeallinealáhus</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">| mátki+eallin+ealáhus</t_gt>
          </tg>
       </mg>
    </e>
@@ -1008,7 +1003,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mátki+eallin</t>
-            <x cisl="0">fertet</x>
+            <t_gt gt_pos="N">mátkeeallin</t_gt>
          </tg>
       </mg>
    </e>
@@ -1019,7 +1014,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mátkkoštit+ealáhus</t>
-            <x cisl="1">meahcásteapmi</x>
+            <t_gt gt_pos="N" c="1" cisl="8">mátkkoštanealáhus</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">| mátkkoštit+ealáhus</t_gt>
+            <t_gt gt_pos="N" c="3">ealáhus</t_gt>
+            <t_gt gt_pos="N" c="4" cisl="1">meahcceealáhus</t_gt>
+            <t_gt gt_pos="N" c="5" cisl="0">dárjjodanealáhus</t_gt>
          </tg>
       </mg>
    </e>
@@ -1030,7 +1029,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">jahki+geardi</t>
-            <x cisl="0">-_5</x>
+            <t_gt gt_pos="N">jahkegeardi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1041,7 +1040,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="ind/prt/sg1/">bohčit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1052,7 +1050,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">jiekŋa+áhpi</t>
-            <x cisl="0">norggabealde</x>
+            <t_gt gt_pos="N">jiekŋaáhpi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1063,7 +1061,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">kompromissa+árvalus</t>
-            <x cisl="0">máilbmi</x>
+            <t_gt gt_pos="N">kompromissaárvalus</t_gt>
          </tg>
       </mg>
    </e>
@@ -1074,7 +1072,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gierdu+mátki</t>
-            <x cisl="0">Singapor</x>
+            <t_gt gt_pos="N">gierdomátki</t_gt>
          </tg>
       </mg>
    </e>
@@ -1085,7 +1083,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ahki+ceahkki</t>
-            <x cisl="0">dat</x>
+            <t_gt gt_pos="N" c="1" cisl="0">jahkeceahkki</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="3">ahkeceahkki</t_gt>
          </tg>
       </mg>
    </e>
@@ -1096,7 +1095,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">diehtojuohkin+konsuleanta+virgi</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">diehtojuohkinkonsuleantavirgi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1107,7 +1106,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">informašuvdna+konsuleanta</t>
-            <x cisl="0">| 2001</x>
+            <t_gt gt_pos="" c="1" cisl="0">| informašuvdna+konsuleanta</t_gt>
+            <t_gt gt_pos="Hum" c="2">informašuvdnakonsuleanta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1118,7 +1118,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mála+govva</t>
-            <x cisl="0">vávvu</x>
+            <t_gt gt_pos="N" c="1" cisl="0">oljomálagovva</t_gt>
+            <t_gt gt_pos="N" c="2">málagovva</t_gt>
          </tg>
       </mg>
    </e>
@@ -1129,7 +1130,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">olju+mála+govva</t>
-            <x cisl="0">vávvu</x>
+            <t_gt gt_pos="N">oljomálagovva</t_gt>
          </tg>
       </mg>
    </e>
@@ -1140,7 +1141,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der4/der_muš/n/sg/nom/">virgelohpi+ohcat</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1151,7 +1151,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">váldu+dokumeanta</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">váldodokumeanta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1162,7 +1162,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">hálddašit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1173,7 +1172,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">fállat+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1184,7 +1182,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">áŋgiruššat+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1195,7 +1192,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="ind/prt/pl1/">ipmirdit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1206,7 +1202,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="ind/prt/sg1/">ráhkadit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1217,7 +1212,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ovddasvástádus+oktavuohta</t>
-            <x cisl="0">leat</x>
+            <t_gt gt_pos="N">ovddasvástádusoktavuohta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1228,7 +1223,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ovddasvástádus+gaskavuohta</t>
-            <x cisl="0">stáhta</x>
+            <t_gt gt_pos="N">ovddasvástádusgaskavuohta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1239,7 +1234,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ovddasvástádus+bealli</t>
-            <x cisl="0">ii</x>
+            <t_gt gt_pos="N">ovddasvástádusbealli</t_gt>
          </tg>
       </mg>
    </e>
@@ -1250,7 +1245,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gollu+buhtadus</t>
-            <x cisl="0">suohkan</x>
+            <t_gt gt_pos="N">goluidbuhtadus</t_gt>
          </tg>
       </mg>
    </e>
@@ -1261,7 +1256,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">on+dokumeanta</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">on-dokumeanta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1272,7 +1267,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n" rest="sg/nom/rcmpnd/">mearra+doalut</t>
-            <x cisl="0">ja</x>
          </tg>
       </mg>
    </e>
@@ -1283,7 +1277,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mearra+doallu</t>
-            <x cisl="0">4.2</x>
+            <t_gt gt_pos="N" c="1">mearradoallu</t_gt>
+            <t_gt gt_pos="unknown" c="2">mearradoallu</t_gt>
+            <t_gt gt_pos="N" c="3" cisl="0">eanandoallu</t_gt>
+            <t_gt gt_pos="unknown" c="4" cisl="0">eanandoallu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1294,7 +1291,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">mearra+geavahus</t>
-            <x cisl="0">lagabui</x>
+            <t_gt gt_pos="N">mearrageavahus</t_gt>
          </tg>
       </mg>
    </e>
@@ -1305,7 +1302,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">luondu+gáhttet+departemeanta</t>
-            <x cisl="0">1990-1991</x>
+            <t_gt gt_pos="Org">luonddugáhttendepartemeanta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1316,7 +1313,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">biras+gáhttet+departemeanta</t>
-            <x cisl="0">vai</x>
+            <t_gt gt_pos="" c="1" cisl="0">| biras+gáhttet+departemeanta</t_gt>
+            <t_gt gt_pos="Org" c="2" cisl="11">birasgáhttendepartemeanta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1327,7 +1325,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="ind/prt/du3/">hupmat+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1338,7 +1335,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">hállat+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1349,7 +1345,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">radio+sátta+sárdni</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">radiosáttasárdni</t_gt>
          </tg>
       </mg>
    </e>
@@ -1360,7 +1356,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">hearva+sáhka</t>
-            <x cisl="0">noaidi</x>
+            <t_gt gt_pos="N">hearvasáhka</t_gt>
          </tg>
       </mg>
    </e>
@@ -1371,7 +1367,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">sisa+váldit+geahččaleapmi</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">sisaváldingeahččaleapmi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1382,7 +1378,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">riekti+stáda</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="Org">riektestáda</t_gt>
          </tg>
       </mg>
    </e>
@@ -1393,7 +1389,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">riekti+stáhta</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="Org" c="1" cisl="0">olmmošriektestáhta</t_gt>
+            <t_gt gt_pos="Org" c="2" cisl="5">riektestáhta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1404,7 +1401,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n" rest="actor/;">beahcce+vuovdi</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="Plc">beahcevuovdi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1415,7 +1412,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">beahci+vuovdi</t>
-            <x cisl="0">ektui</x>
+            <t_gt gt_pos="Plc">beahcevuovdi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1426,7 +1423,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">bargu+eaktu</t>
-            <x cisl="0">nissonáirras</x>
+            <t_gt gt_pos="N">bargoeaktu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1437,7 +1434,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der4/der_n/n/sg/gen/">beaivi+borrat</t>
-            <x cisl="0">diehtosiida</x>
          </tg>
       </mg>
    </e>
@@ -1448,7 +1444,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">čohkket+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1459,7 +1454,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">sárggus+ráidu</t>
-            <x cisl="0">leat</x>
+            <t_gt gt_pos="N" c="1" cisl="0">govvasárggusráidu</t_gt>
+            <t_gt gt_pos="N" c="2">sárggusráidu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1470,7 +1466,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">sárggus+govva+ráidu</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">sárggusgovvaráidu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1481,7 +1477,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">govva+sárggus+ráidu</t>
-            <x cisl="0">leat</x>
+            <t_gt gt_pos="N">govvasárggusráidu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1492,7 +1488,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dearvvaš+fuolla</t>
-            <x cisl="0">huksenplána</x>
+            <t_gt gt_pos="N">dearvvašvuođafuolla</t_gt>
          </tg>
       </mg>
    </e>
@@ -1503,7 +1499,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dearvvas+suddjen</t>
-            <x cisl="0">siskkabealde</x>
+            <t_gt gt_pos="N">dearvvasvuođasuddjen</t_gt>
          </tg>
       </mg>
    </e>
@@ -1514,7 +1510,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dearvvas+suodjalus</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="Org">dearvvasvuođasuodjalus</t_gt>
          </tg>
       </mg>
    </e>
@@ -1525,7 +1521,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dearvvaš+suodjalus</t>
-            <x cisl="0">riikkaviidosaš</x>
+            <t_gt gt_pos="Org" c="1" cisl="8">dearvvašvuođasuodjalus</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">| dearvvaš+suodjalus</t_gt>
          </tg>
       </mg>
    </e>
@@ -1536,7 +1533,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dearvvaš+suddjen</t>
-            <x cisl="0">fálaldat</x>
+            <t_gt gt_pos="N" c="1" cisl="8">dearvvašvuođa-suddjen</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="8">dearvvašvuođasuddjen</t_gt>
          </tg>
       </mg>
    </e>
@@ -1547,7 +1545,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der4/der_n/n/sg/gen/">dearvvaš+gáhttet</t>
-            <x cisl="0">láhka</x>
+            <t_gt gt_pos="V*">dearvvašvuođagáhttet</t_gt>
          </tg>
       </mg>
    </e>
@@ -1558,7 +1556,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dearvvašvuohta+suddjen</t>
-            <x cisl="0">gelbbolašvuođaguovddáš</x>
+            <t_gt gt_pos="N">dearvvašvuođasuddjen</t_gt>
          </tg>
       </mg>
    </e>
@@ -1569,7 +1567,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">čoaggit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1580,7 +1577,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">oahpahus+vuogádat</t>
-            <x cisl="0">artihkal</x>
+            <t_gt gt_pos="N">oahpahusvuogádat</t_gt>
          </tg>
       </mg>
    </e>
@@ -1591,7 +1588,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">oahppu+vuogádat</t>
-            <x cisl="0">bokte</x>
+            <t_gt gt_pos="N" c="1" cisl="5">oahppovuogádat</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">| oahppu+vuogádat</t_gt>
          </tg>
       </mg>
    </e>
@@ -1602,7 +1600,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">bargu+vásáhus</t>
-            <x cisl="0">de</x>
+            <t_gt gt_pos="N">bargovásáhus</t_gt>
          </tg>
       </mg>
    </e>
@@ -1613,7 +1611,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gávpi+ministtar</t>
-            <x cisl="0">Trond</x>
+            <t_gt gt_pos="Hum">gávpeministtar</t_gt>
          </tg>
       </mg>
    </e>
@@ -1624,7 +1622,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gávpi+departemeanta</t>
-            <x cisl="0">dál</x>
+            <t_gt gt_pos="" c="1" cisl="0">| gávpi+departemeanta</t_gt>
+            <t_gt gt_pos="Org" c="2" cisl="4">gávpedepartemeanta</t_gt>
+            <t_gt gt_pos="N" c="3" cisl="1">gielda-_ja_guovlodepartemeanta</t_gt>
+            <t_gt gt_pos="N" c="4" cisl="0">ealáhus-_ja_gávpedepartemeanta</t_gt>
+            <t_gt gt_pos="Org" c="5" cisl="0">dárbašiidháhkandepartemeanta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1635,7 +1637,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n" rest="g3/">ealáhat+kássa</t>
-            <x cisl="0">láhka</x>
+            <t_gt gt_pos="N">ealáhatkássa</t_gt>
          </tg>
       </mg>
    </e>
@@ -1646,7 +1648,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n" rest="g3/">penšuvdna+kássa</t>
-            <x cisl="0">| birra</x>
+            <t_gt gt_pos="N" c="1">penšuvdnakássa</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="0">stáhta_penšuvdnakássa</t_gt>
          </tg>
       </mg>
    </e>
@@ -1657,7 +1660,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">joatkka+skuvla+oahppu</t>
-            <x cisl="0">5</x>
+            <t_gt gt_pos="N">joatkkaskuvlaoahppu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1668,7 +1671,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ámmát+oahppu</t>
-            <x cisl="0">http://www.fafo.no/pub/rapp/20156/20156.pdf</x>
+            <t_gt gt_pos="N">ámmátoahppu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1679,7 +1682,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">allat+oahppu</t>
-            <x cisl="0">buot</x>
+            <t_gt gt_pos="N" c="1" cisl="0">hárjehallanoahppu</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="4">allaoahppu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1690,7 +1694,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der4/der_n/n/sg/gen/">oahppu+váldit</t>
-            <x cisl="1">oktavuohta</x>
+            <t_gt gt_pos="V*">oahppováldit</t_gt>
          </tg>
       </mg>
    </e>
@@ -1701,7 +1705,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">alit+oahpahus</t>
-            <x cisl="0">dáfus</x>
+            <t_gt gt_pos="N" c="1">alitoahpahus</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="0">vuođđooahpahus</t_gt>
          </tg>
       </mg>
    </e>
@@ -1712,7 +1717,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">stivra+ovdaolmmoš</t>
-            <x cisl="0">| ruhta+submi</x>
+            <t_gt gt_pos="Hum" c="1">stivraovdaolmmoš</t_gt>
+            <t_gt gt_pos="Hum" c="2" cisl="0">riikkastivrraovdaolmmoš</t_gt>
          </tg>
       </mg>
    </e>
@@ -1723,7 +1729,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">eana+vuođđu</t>
-            <x cisl="0">šaddu</x>
+            <t_gt gt_pos="N">eanavuođđu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1734,7 +1740,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">jávri+guolli</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="Ani">jávrreguolli</t_gt>
          </tg>
       </mg>
    </e>
@@ -1745,7 +1751,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="ind/prt/sg1/">čállit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1756,7 +1761,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der4/der_n/n/pl/acc/">veahka+váldit</t>
-            <x cisl="0">ja</x>
          </tg>
       </mg>
    </e>
@@ -1767,7 +1771,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">álbmot+stáhta</t>
-            <x cisl="0">fertet</x>
+            <t_gt gt_pos="Org">álbmotstáhta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1778,7 +1782,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">našuvnnalaš+stáhta</t>
-            <x cisl="0">rádjá</x>
+            <t_gt gt_pos="Org">našuvnnalašstáhta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1789,7 +1793,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">našunála+stáhta</t>
-            <x cisl="0">rádji</x>
+            <t_gt gt_pos="Org" c="1" cisl="2">nationálastáhta</t_gt>
+            <t_gt gt_pos="N" c="2">našunálastáhta</t_gt>
+            <t_gt gt_pos="Org" c="3" cisl="1">nášunálastáhta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1800,7 +1806,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">national+stáhta</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1811,7 +1816,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">bággu+lotnut+vuođđu</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">bággolotnunvuođđu</t_gt>
          </tg>
       </mg>
    </e>
@@ -1822,7 +1827,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">ollašuvvat+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1833,7 +1837,18 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">fápmu+rusttet</t>
-            <x cisl="0">muhto</x>
+            <t_gt gt_pos="N" c="1" cisl="0">smávvafápmorusttet</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">| čáhci+fápmu+rusttet</t_gt>
+            <t_gt gt_pos="N" c="3" cisl="0">čáhcefápmorusttet</t_gt>
+            <t_gt gt_pos="N" c="4" cisl="0">bieggafápmorusttet</t_gt>
+            <t_gt gt_pos="N" c="5" cisl="4">fápmorusttet</t_gt>
+            <t_gt gt_pos="N" c="6" cisl="2">fámorusttet</t_gt>
+            <t_gt gt_pos="N" c="7" cisl="0">atomafápmorusttet</t_gt>
+            <t_gt gt_pos="N" c="8" cisl="0">gássafápmorusttet</t_gt>
+            <t_gt gt_pos="" c="9" cisl="0">| biegga+fápmu+rusttet</t_gt>
+            <t_gt gt_pos="N" c="10" cisl="0">bieggamillofápmorusttet</t_gt>
+            <t_gt gt_pos="N" c="11" cisl="0">mearrafápmorusttet</t_gt>
+            <t_gt gt_pos="N" c="12" cisl="0">industriijarusttet</t_gt>
          </tg>
       </mg>
    </e>
@@ -1844,7 +1859,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">may+álbmot</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="Hum">mayaálbmot</t_gt>
          </tg>
       </mg>
    </e>
@@ -1855,7 +1870,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">girjerádju+bargat</t>
-            <x cisl="0">vástidit</x>
+            <t_gt gt_pos="V" c="1" cisl="0">ovttasbargat</t_gt>
+            <t_gt gt_pos="V" c="2">bargat</t_gt>
          </tg>
       </mg>
    </e>
@@ -1866,7 +1882,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">bellodat+searvi</t>
-            <x cisl="0">cealkin</x>
+            <t_gt gt_pos="Org" c="1" cisl="0">fylkkabellodatsearvi</t_gt>
+            <t_gt gt_pos="Org" c="2">bellodatsearvi</t_gt>
+            <t_gt gt_pos="Org" c="3">searvi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1877,7 +1895,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">plána+lávdegoddi</t>
-            <x cisl="0">bokte</x>
+            <t_gt gt_pos="Org" c="1" cisl="0">boazodoalloplánalávdegoddi</t_gt>
+            <t_gt gt_pos="Org" c="2" cisl="1">prográmmaplánalávdegoddi</t_gt>
+            <t_gt gt_pos="Org" c="3" cisl="0">rámmaplánalávdegoddi</t_gt>
+            <t_gt gt_pos="Org" c="4" cisl="0">fágaplánalávdegoddi</t_gt>
+            <t_gt gt_pos="Org" c="5">plánalávdegoddi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1888,7 +1910,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">plána+lávdi+goddi</t>
-            <x cisl="0">leat</x>
+            <t_gt gt_pos="Org" c="1" cisl="0">rámmaplánalávdegoddi</t_gt>
+            <t_gt gt_pos="Org" c="2" cisl="9">plánalávdegoddi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1899,7 +1922,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">plánet+lávdegoddi</t>
-            <x cisl="0">mearrádus</x>
+            <t_gt gt_pos="Org">plánenlávdegoddi</t_gt>
          </tg>
       </mg>
    </e>
@@ -1910,7 +1933,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">diehtu+girji</t>
-            <x cisl="0">bargat</x>
+            <t_gt gt_pos="Txt">diehtogirji</t_gt>
          </tg>
       </mg>
    </e>
@@ -1921,7 +1944,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ohcan+girji</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="Txt">ohcangirji</t_gt>
          </tg>
       </mg>
    </e>
@@ -1932,7 +1955,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ohcan+báiki</t>
-            <x cisl="0">áigečálaindeaksaide</x>
+            <t_gt gt_pos="Plc">ohcanbáiki</t_gt>
          </tg>
       </mg>
    </e>
@@ -1943,7 +1966,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">fápmu+gaskavuohta</t>
-            <x cisl="0">birra</x>
+            <t_gt gt_pos="N">fápmogaskavuohta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1954,7 +1977,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">váldi+gaskavuohta</t>
-            <x cisl="0">birra</x>
+            <t_gt gt_pos="N">váldegaskavuohta</t_gt>
          </tg>
       </mg>
    </e>
@@ -1965,7 +1988,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">nummár+astat</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1976,7 +1998,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/sg/gen/pxsg1/">nummar+astat</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -1987,7 +2008,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">guohtun+eana</t>
-            <x cisl="0">dát</x>
+            <t_gt gt_pos="Plc" c="1">guohtuneana</t_gt>
+            <t_gt gt_pos="Plc" c="2" cisl="5">guohtoneana</t_gt>
+            <t_gt gt_pos="Plc" c="3" cisl="1">geasseguohtoneana</t_gt>
+            <t_gt gt_pos="Plc" c="4" cisl="0">boazoguohtoneana</t_gt>
+            <t_gt gt_pos="Plc" c="5" cisl="0">čakčaguohtuneana</t_gt>
+            <t_gt gt_pos="Plc" c="6" cisl="1">giđđaguohtuneana</t_gt>
+            <t_gt gt_pos="Plc" c="7" cisl="0">dálveguohtoneana</t_gt>
+            <t_gt gt_pos="Plc" c="8" cisl="0">boazodoalloguohtuneana</t_gt>
          </tg>
       </mg>
    </e>
@@ -1998,7 +2026,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">guohtut+guovlu</t>
-            <x cisl="0">dahje</x>
+            <t_gt gt_pos="Plc" c="1" cisl="6">guohtunguovlu</t_gt>
+            <t_gt gt_pos="Plc" c="2" cisl="0">boazoguohtonguovlu</t_gt>
+            <t_gt gt_pos="Plc" c="3" cisl="0">boazoguohtunguovlu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2009,7 +2039,15 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">guohtun+guovlu</t>
-            <x cisl="0">leat</x>
+            <t_gt gt_pos="Plc" c="1" cisl="0">boazoguohtunguovlu</t_gt>
+            <t_gt gt_pos="Plc" c="2">guohtunguovlu</t_gt>
+            <t_gt gt_pos="" c="3" cisl="0">| boazoguohtun+guovlu</t_gt>
+            <t_gt gt_pos="Plc" c="4" cisl="0">boazoguohtonguovlu</t_gt>
+            <t_gt gt_pos="Plc" c="5" cisl="1">geasseguohtonguovlu</t_gt>
+            <t_gt gt_pos="Plc" c="6" cisl="3">guovdageain-boazoguohtonguovlu</t_gt>
+            <t_gt gt_pos="Plc" c="7" cisl="0">dálveguohtonguovlu</t_gt>
+            <t_gt gt_pos="Plc" c="8" cisl="5">guohtonguovlu</t_gt>
+            <t_gt gt_pos="Plc" c="9" cisl="0">báhčinguovlu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2020,7 +2058,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">čájehit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2031,7 +2068,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">guldalit+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2042,7 +2078,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">registreret+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2053,7 +2088,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dadjat+vuohki</t>
-            <x cisl="0">láhkaevttohus</x>
+            <t_gt gt_pos="N">dadjanvuohki</t_gt>
          </tg>
       </mg>
    </e>
@@ -2064,7 +2099,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="ind/prt/sg1/">áddet+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2075,7 +2109,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">čoahkkin+astat</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2086,7 +2119,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/">ođas+ásahit</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2097,7 +2129,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">blohkka+oassi</t>
-            <x cisl="0">Barents-áhpi</x>
+            <t_gt gt_pos="N">blohkkaoassi</t_gt>
          </tg>
       </mg>
    </e>
@@ -2108,7 +2140,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">brennpunkt+prográmma</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">brennpunkt-prográmma</t_gt>
          </tg>
       </mg>
    </e>
@@ -2119,7 +2151,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/der_eapmi/n/">bággu+heaittihit</t>
-            <x cisl="0">hálddašit</x>
          </tg>
       </mg>
    </e>
@@ -2130,7 +2161,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gollu+juohkin</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="" c="1" cisl="0">| gollu+juohkin</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="4">gollojuohkin</t_gt>
          </tg>
       </mg>
    </e>
@@ -2141,7 +2173,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dálvi+gilvu</t>
-            <x cisl="0">| jahki</x>
+            <t_gt gt_pos="Event">dálvegilvu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2152,7 +2184,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dálvi+gilvvohallan</t>
-            <x cisl="0">| excl</x>
+            <t_gt gt_pos="Event">dálvegilvvohallan</t_gt>
          </tg>
       </mg>
    </e>
@@ -2163,7 +2195,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">sosial+ekonomiija</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">sosialekonomiija</t_gt>
          </tg>
       </mg>
    </e>
@@ -2174,7 +2206,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">sosiál+ekonomiija</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">sosiálaekonomiija</t_gt>
          </tg>
       </mg>
    </e>
@@ -2185,7 +2217,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">sosiála+ekonomiija</t>
-            <x cisl="0">Institut</x>
+            <t_gt gt_pos="N">sosiálaekonomiija</t_gt>
          </tg>
       </mg>
    </e>
@@ -2196,7 +2228,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">stádagirku+ortnet</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="N">stádagirkoortnet</t_gt>
          </tg>
       </mg>
    </e>
@@ -2207,7 +2239,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/der_eapmi/n/">álgu+geahčastit</t>
-            <x cisl="0">seammalágan</x>
+            <t_gt gt_pos="V*">álgogeahčastit</t_gt>
          </tg>
       </mg>
    </e>
@@ -2218,7 +2250,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">álgu+vuorru</t>
-            <x cisl="0">defineret</x>
+            <t_gt gt_pos="N">álgovuorru</t_gt>
          </tg>
       </mg>
    </e>
@@ -2229,7 +2261,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">álgu+álgu</t>
-            <x cisl="0">dušše</x>
+            <t_gt gt_pos="N">álgoálgu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2240,7 +2272,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">vuolgga+báiki</t>
-            <x cisl="0">galgat</x>
+            <t_gt gt_pos="Plc">vuolggabáiki</t_gt>
          </tg>
       </mg>
    </e>
@@ -2251,7 +2283,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">vuođđo+dilli</t>
-            <x cisl="0">galgat</x>
+            <t_gt gt_pos="N">vuođđodilli</t_gt>
          </tg>
       </mg>
    </e>
@@ -2262,7 +2294,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">álgit+sadjin</t>
-            <x cisl="0">ja</x>
+            <t_gt gt_pos="N">álginsadjin</t_gt>
          </tg>
       </mg>
    </e>
@@ -2273,7 +2305,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">álgu+vuođđu</t>
-            <x cisl="0">birget</x>
+            <t_gt gt_pos="N">álgovuođđu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2284,7 +2316,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">álgu+oaidnu</t>
-            <x cisl="0">mielde</x>
+            <t_gt gt_pos="N">álgooaidnu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2295,7 +2327,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">rievdat+goahti</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2306,7 +2337,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="a">fágalaš+use+sub</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2317,7 +2347,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">vuovdin+gálvu</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N">vuovdingálvu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2328,7 +2358,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">čielggadeapmi+bargu</t>
-            <x cisl="0">sápmi</x>
+            <t_gt gt_pos="Plc" c="1" cisl="8">čielggadanbargu</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">| čielggadeapmi+bargu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2339,7 +2370,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">čielggadus+bargu</t>
-            <x cisl="0">mii</x>
+            <t_gt gt_pos="N" c="1">čielggadusbargu</t_gt>
+            <t_gt gt_pos="Plc" c="2" cisl="10">čielggadusabargu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2350,7 +2382,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">suodjalus+minister</t>
-            <x cisl="0">Eldbjørg</x>
+            <t_gt gt_pos="Hum">eanadoallominister</t_gt>
          </tg>
       </mg>
    </e>
@@ -2361,7 +2393,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">suodjalus+minsttar</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N" c="1">suodjalusminsttar</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="0">justisminsttar</t_gt>
          </tg>
       </mg>
    </e>
@@ -2372,7 +2405,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">1978+láhka</t>
-            <x cisl="0">9</x>
+            <t_gt gt_pos="N">1978-láhka</t_gt>
          </tg>
       </mg>
    </e>
@@ -2383,7 +2416,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">girdi+mášiidna</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2394,7 +2426,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n" rest="g3/">stáhta+kássa</t>
-            <x cisl="0">OHCAN</x>
+            <t_gt gt_pos="N">stáhtakássa</t_gt>
          </tg>
       </mg>
    </e>
@@ -2405,7 +2437,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">riika+arkiiva</t>
-            <x cisl="0">leat</x>
+            <t_gt gt_pos="Org" c="1" cisl="4">riikkaarkiiva</t_gt>
+            <t_gt gt_pos="Org" c="2">arkiiva</t_gt>
+            <t_gt gt_pos="Org" c="3" cisl="0">stáhtaarkiiva</t_gt>
          </tg>
       </mg>
    </e>
@@ -2416,7 +2450,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">riika+árkiiva</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2427,7 +2460,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">ruhta+máksu</t>
-            <x cisl="0">juohke</x>
+            <t_gt gt_pos="N">ruhtamáksu</t_gt>
          </tg>
       </mg>
    </e>
@@ -2438,7 +2471,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">máksu+mearri</t>
-            <x cisl="1">mielde</x>
+            <t_gt gt_pos="N" c="1" cisl="4">máksomearri</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="0">duollomáksomearri</t_gt>
+            <t_gt gt_pos="N" c="3" cisl="0">tuollomáksomearri</t_gt>
+            <t_gt gt_pos="N" c="4" cisl="0">refušuvdnamáksomearri</t_gt>
+            <t_gt gt_pos="N" c="5" cisl="0">kilomehtermáksomearri</t_gt>
+            <t_gt gt_pos="N" c="6" cisl="0">vearromáksomearri</t_gt>
+            <t_gt gt_pos="N" c="7" cisl="0">beaivemáksomearri</t_gt>
+            <t_gt gt_pos="" c="8" cisl="0">| láigu+máksu+mearri</t_gt>
+            <t_gt gt_pos="N" c="9" cisl="0">doarjjamáksomearri</t_gt>
+            <t_gt gt_pos="N" c="10" cisl="0">láigomáksomearri</t_gt>
+            <t_gt gt_pos="N" c="11" cisl="0">ruhtamearri</t_gt>
          </tg>
       </mg>
    </e>
@@ -2449,7 +2492,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="a">árjjálaš+use+sub</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2460,7 +2502,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">duiska+giella</t>
-            <x cisl="0"/>
+            <t_gt gt_pos="N" c="1" cisl="5">duiskkagiella</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="0">eatnigiella</t_gt>
+            <t_gt gt_pos="N" c="3" cisl="0">eŋgelasgiella</t_gt>
+            <t_gt gt_pos="N" c="4" cisl="0">ruoŧagiella</t_gt>
+            <t_gt gt_pos="N" c="5" cisl="0">eaŋgasgiella</t_gt>
+            <t_gt gt_pos="N" c="6" cisl="1">dárogiella</t_gt>
+            <t_gt gt_pos="N" c="7" cisl="0">váldooahpahusgiella</t_gt>
+            <t_gt gt_pos="N" c="8" cisl="0">eaŋgalasgiella</t_gt>
          </tg>
       </mg>
    </e>
@@ -2471,7 +2520,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">v+fálaldat</t>
-            <x cisl="0">mánná</x>
+            <t_gt gt_pos="" c="1" cisl="0">| v+fálaldat</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="0">tv-fálaldat</t_gt>
          </tg>
       </mg>
    </e>
@@ -2482,7 +2532,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">olmmoš+logus</t>
-            <x cisl="0">2000</x>
          </tg>
       </mg>
    </e>
@@ -2493,7 +2542,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v" rest="tv/der2/actor/n/">áigeguovdil+astat</t>
-            <x cisl="0"/>
          </tg>
       </mg>
    </e>
@@ -2504,7 +2552,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">áirras+doaibma</t>
-            <x cisl="0">Vatne</x>
+            <t_gt gt_pos="N" c="1">áirrasdoaibma</t_gt>
+            <t_gt gt_pos="N" c="2" cisl="0">várreáirrasdoaibma</t_gt>
          </tg>
       </mg>
    </e>
@@ -2515,7 +2564,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">luohttit+doaibma</t>
-            <x cisl="0">2009</x>
+            <t_gt gt_pos="N">luohttámušdoaibma</t_gt>
          </tg>
       </mg>
    </e>
@@ -2526,7 +2575,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">gaska+mearri</t>
-            <x cisl="0">vuođul</x>
+            <t_gt gt_pos="N" c="1" cisl="0">árvosátnegaskamearri</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">| gaska+mearri</t_gt>
+            <t_gt gt_pos="N" c="3">gaskamearri</t_gt>
+            <t_gt gt_pos="N" c="4" cisl="0">riikkagaskamearri</t_gt>
          </tg>
       </mg>
    </e>
