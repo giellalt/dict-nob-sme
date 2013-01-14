@@ -152,5 +152,5 @@ NB: The tag 'merged' has been replaced by the tag 'mg_counter'!
 
 Missing:
 
-cat ~/big/st/nob/nowac/nowac-1-1.1.lemmas.freq |sed 's/^ *//g;'|cut -d" " -f2|cut -f1|grep -v '[A-ZÆØÅ0-9$.,:;/_-]'|grep '[a-z]'|lookup bin/nobdict.fst |grep '?'|cut -f1 > inc/nylangliste
+cat $GTBIG/st/nob/nowac/nowac-1-1.1.lemmas.freq |sed 's/^ *//g;'|cut -d" " -f2|cut -f1|grep -v '[A-ZÆØÅ0-9$.,:;/_-]'|grep '[a-z]'|lookup bin/nobdict.fst |grep '?'|cut -f1 > inc/nylangliste
 
