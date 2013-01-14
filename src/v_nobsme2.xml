@@ -2072,7 +2072,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">holde seg</l>
       </lg>
@@ -2108,7 +2108,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">stanse</l>
       </lg>
@@ -2124,16 +2124,18 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>transitiv</re>
             <t pos="v" src="nj" usage="vd">dollet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>intransitiv</re>
             <t pos="v" src="nj" usage="vd">orustit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e>
       <lg>
          <l pos="v">stoppe</l>
       </lg>
@@ -2149,16 +2151,23 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>intransitiv</re>
             <t pos="v" src="nj" usage="vd">bisánit</t>
+            <xg>
+               <x>Den stoppet.</x>
+               <xt>Dat bisánii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re></re>
             <t pos="v" src="nj" usage="vd">notkat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>intransitiv</re>
             <t pos="v" src="nj" usage="vd">orustit</t>
          </tg>
       </mg>
@@ -2177,17 +2186,19 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">forbli</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>intransitiv</re>
             <t pos="v" src="nj" usage="vd">bissut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>transitiv</re>
             <t pos="v" src="nj" usage="vd">healbat</t>
             <xg>
                <x>Hun ble værende der.</x>
@@ -2206,17 +2217,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">feste seg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bisánit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">darvánit</t>
          </tg>
       </mg>
@@ -2241,16 +2248,18 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">bivdáladdat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>transitiv</re>
             <t pos="v" src="nj" usage="vd">bivdit</t>
             <xg>
                <x>Men med posegarnstengsel blei det fiska laks langs heile Tana.</x>
                <xt>Muhto joddobuođuiguin bivdojuvvo luossa miehtá Deanu.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">bivdáladdat</t>
+            <re>jakte sånn smått</re>
          </tg>
       </mg>
    </e>
@@ -2308,17 +2317,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">spre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">biđget</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">háddjet</t>
          </tg>
       </mg>
@@ -2409,47 +2414,35 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">le</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v">boagustit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">boagustit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">čaibmat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">flire</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">boagustit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">čaibmat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">tørke litt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>tørke litt</re>
             <t pos="v" src="nj" usage="vd">boahkkudit</t>
             <xg>
                <x>Tørke fisk og kjøtt litt.</x>
@@ -2459,6 +2452,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bokne</re>
             <t pos="v" src="nj" usage="vd">boahkkut</t>
             <xg>
                <x>Fisk og kjøtt tørker litt.</x>
@@ -2729,7 +2723,7 @@
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">boltasit</t>
             <xg>
-               <x>Gutten veltet seg ut av senga.</x>
+               <x>Gutten kom seg opp av senga.</x>
                <xt>Bárdni boltasii seaŋggas.</xt>
             </xg>
          </tg>
@@ -9610,22 +9604,43 @@
          <l pos="v">velte</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="ting med innhold" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">gomihit</t>
             <xg>
-               <x>Jeg velter den.</x>
-               <xt>Mun gomihan dan.</xt>
+               <x>Jeg velter koppen.</x>
+               <xt>Mun gomihan gohpu.</xt>
+            </xg>
+            <xg>
+               <x>Jeg velter stolen.</x>
+               <xt>Mun gomihan stuolu.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">gággat</t>
+         <tg re="ting med innhold" xml:lang="sme">
+            <t pos="v" src="nj" usage="vd">gopmánit</t>
+            <xg>
+               <x>Stolen velter.</x>
+               <xt>Stuollu gopmána.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="ting som står" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">njeaidit</t>
+            <xg>
+               <x>Jeg velter stolpen.</x>
+               <xt>Mun njeaiddán stoalppu.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="ting som står" xml:lang="sme">
+            <t pos="v" src="nj" usage="vd">gahččat</t>
+            <xg>
+               <x>Stolpen velter.</x>
+               <xt>Stoalpu gahččá.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
