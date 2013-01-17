@@ -49,6 +49,7 @@ src/fad_nobsme.20121130_merged_comp.xml
 Lesson learned: don't merge entries that have to be lexified!
 
 Postprocessing gt lemmata:
+- nob
 6867          <l_test l_gt-counter="1"/>
  889          <l_test l_gt-counter="2"/>
  207          <l_test l_gt-counter="3"/>
@@ -68,4 +69,23 @@ Postprocessing gt lemmata:
    1          <l_test l_gt-counter="31"/>
    1          <l_test l_gt-counter="22"/>
    1          <l_test l_gt-counter="21"/>
+
+ - sme
+6691             <t_test t_gt-counter="1"/>
+ 978             <t_test t_gt-counter="2"/>
+ 348             <t_test t_gt-counter="0"/>
+ 224             <t_test t_gt-counter="3"/>
+  64             <t_test t_gt-counter="4"/>
+  20             <t_test t_gt-counter="5"/>
+  13             <t_test t_gt-counter="6"/>
+   7             <t_test t_gt-counter="7"/>
+   4             <t_test t_gt-counter="10"/>
+   2             <t_test t_gt-counter="9"/>
+   2             <t_test t_gt-counter="11"/>
+   1             <t_test t_gt-counter="8"/>
+   1             <t_test t_gt-counter="35"/>
+   1             <t_test t_gt-counter="30"/>
+   1             <t_test t_gt-counter="14"/>
+   1             <t_test t_gt-counter="12"/>
+
 
