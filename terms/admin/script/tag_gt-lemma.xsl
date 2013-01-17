@@ -109,13 +109,14 @@
 	    <xsl:copy-of select="./@*"/>
 	    <lg>
 	      <xsl:copy-of select="./lg/l"/>
-	      <l_test l_gt-counter="count(./lg/l_gt)">
+	      <l_test l_gt-counter="{count(./lg/l_gt)}">
 		<!--xsl:if test=" = 1">
 		  <xsl:value-of select="ok"/>
 		</xsl:if-->
 	      </l_test>
 	      <xsl:copy-of select="./lg/l_gt"/>
 	    </lg>
+	    <xsl:copy-of select="./mg"/>
 	  </e>
 	</xsl:for-each>
       </r>
