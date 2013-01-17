@@ -2898,7 +2898,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">nikke</l>
       </lg>
@@ -2911,10 +2911,6 @@
          <tg xml:lang="sme">
             <re>en gang</re>
             <t pos="v" src="nj" usage="vd">nivkalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">nuvkkihit</t>
          </tg>
       </mg>
@@ -3164,18 +3160,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">tappe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>av beholder med smal åpning</re>
             <t pos="v" src="nj" usage="vd">njoarrat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">sálket</t>
          </tg>
       </mg>
    </e>
@@ -3381,18 +3373,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">støvsuge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">novket</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="v" usage="vd">noavkkuhit</t>
+            <t pos="v">novket</t>
          </tg>
       </mg>
    </e>
@@ -3416,15 +3404,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">sove</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">nohkkat</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">oađđit</t>
@@ -3471,13 +3454,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>en gang</re>
-            <t pos="v" src="nj" usage="vd">nordadit</t>
+            <t pos="v" src="nj" usage="vd">nordat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" src="nj" usage="vd">nordat</t>
+            <re>en gang</re>
+            <t pos="v" src="nj" usage="vd">nordadit</t>
          </tg>
       </mg>
    </e>
@@ -5223,19 +5206,19 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>smelte, bråne</re>
+            <re>intransitiv</re>
             <t pos="v" src="nj" usage="vd">suddat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om fisk og kjøtt som tines opp</re>
+            <re>intransitiv: om fisk og kjøtt</re>
             <t pos="v" src="nj" usage="vd">máizat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>intransitiv; om isbelegg</re>
+            <re>intransitiv: om isbelegg</re>
             <t pos="v" src="nj" usage="vd">salgat</t>
             <xg>
                <x>Isen tiner av kaffekjelen.</x>
@@ -5245,7 +5228,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv; få til å tine opp</re>
+            <re>transitiv: om fisk og kjøtt</re>
             <t pos="v" src="nj" usage="vd">máizadit</t>
          </tg>
       </mg>
