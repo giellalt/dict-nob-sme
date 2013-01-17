@@ -33,7 +33,7 @@
   <xsl:variable name="nl" select="'&#xa;'"/>
 
   <!-- input file, extention of the output file -->
-  <xsl:param name="inFile" select="'fad_nobsme_candidates_ap-pl.20121130_01_filtered'"/>
+  <xsl:param name="inFile" select="'fad_nobsme_cand_ap-pl.20121130'"/>
   <xsl:param name="inDir" select="'_xxx_'"/>
   <xsl:param name="outDir" select="'_outData'"/>
   <xsl:variable name="current_file" select="(tokenize($inFile, '/'))[last()]"/>
@@ -51,7 +51,7 @@
         <xsl:variable name="file_lines" select="tokenize($file, $nl)" as="xs:string+"/>
 	
 	<xsl:message terminate="no">
-	  <xsl:value-of select="concat('Processing file: ', $current_file)"/>
+	  <xsl:value-of select="concat('Processing file: ', $current_file, $nl)"/>
 	  <xsl:value-of select="concat('Location: ', $current_dir, $nl)"/>
 	</xsl:message>
 	
