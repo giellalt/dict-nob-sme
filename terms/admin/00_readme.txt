@@ -48,3 +48,24 @@ src/fad_nobsme.20121130_merged_comp.xml
 
 Lesson learned: don't merge entries that have to be lexified!
 
+Postprocessing gt lemmata:
+6867          <l_test l_gt-counter="1"/>
+ 889          <l_test l_gt-counter="2"/>
+ 207          <l_test l_gt-counter="3"/>
+ 191          <l_test l_gt-counter="0"/>
+  92          <l_test l_gt-counter="4"/>
+  35          <l_test l_gt-counter="5"/>
+  22          <l_test l_gt-counter="6"/>
+  14          <l_test l_gt-counter="7"/>
+   8          <l_test l_gt-counter="9"/>
+   8          <l_test l_gt-counter="10"/>
+   5          <l_test l_gt-counter="8"/>
+   5          <l_test l_gt-counter="12"/>
+   5          <l_test l_gt-counter="11"/>
+   3          <l_test l_gt-counter="13"/>
+   2          <l_test l_gt-counter="16"/>
+   2          <l_test l_gt-counter="14"/>
+   1          <l_test l_gt-counter="31"/>
+   1          <l_test l_gt-counter="22"/>
+   1          <l_test l_gt-counter="21"/>
+
