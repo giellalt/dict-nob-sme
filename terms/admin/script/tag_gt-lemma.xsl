@@ -109,14 +109,65 @@
 	    <xsl:copy-of select="./@*"/>
 	    <lg>
 	      <xsl:copy-of select="./lg/l"/>
-	      <l_test l_gt-counter="{count(./lg/l_gt)}">
-		<!--xsl:if test=" = 1">
-		  <xsl:value-of select="ok"/>
-		</xsl:if-->
-	      </l_test>
-	      <xsl:copy-of select="./lg/l_gt"/>
+	      <xsl:variable name="lgtc" select="count(./lg/l_gt)"/>
+	      <!--l_test l_gt_c="{$lgtc}"/-->
+	      <xsl:if test="$lgtc = 1">
+		<xsl:copy-of select="./lg/l_gt"/>
+	      </xsl:if>
+	      <xsl:variable name="fix1" select="translate(./lg/l, '+', '')"/>
+	      <xsl:variable name="fix2" select="translate(./lg/l, '+', 's')"/>
+	      <!--xsl:message terminate="no">
+		<xsl:value-of select="concat('xxxxxxxxxxxxxxxxxxxxxxxxxx ', ./lg/l, ' === ', $fix1)"/>
+	      </xsl:message-->      
+	      <xsl:if test="$lgtc &gt; 1">
+
+		<xsl:variable name="same_lemma">
+		  <l_gt>
+		    <xsl:copy-of select="./lg/l_gt[. = $fix1]/@*"/>
+		    <xsl:value-of select="./lg/l_gt[. = $fix1]"/>
+		  </l_gt>
+		</xsl:variable>
+		<xsl:if test="not($same_lemma = '')">
+		  <xsl:copy-of select="$same_lemma"/>
+		</xsl:if>
+		
+		<xsl:variable name="s_lemma">
+		  <l_gt>
+		    <xsl:copy-of select="./lg/l_gt[. = $fix2]/@*"/>
+		    <xsl:value-of select="./lg/l_gt[. = $fix2]"/>
+		  </l_gt>
+		</xsl:variable>
+
+		<xsl:if test="not($s_lemma = '')">
+		  <xsl:copy-of select="$s_lemma"/>
+		</xsl:if>
+
+		<xsl:if test="$same_lemma = '' and $s_lemma = ''">
+		  <xsl:for-each select="./lg/l_gt">
+		    <l_gt_zzz>
+		      <xsl:copy-of select="./@*"/>
+		      <xsl:value-of select="."/>
+		    </l_gt_zzz>
+		  </xsl:for-each>
+		</xsl:if>
+	      </xsl:if>
 	    </lg>
-	    <xsl:copy-of select="./mg"/>
+	    <mg>
+	      <tg>
+		<xsl:copy-of select="./mg/tg/@*"/>
+		<xsl:copy-of select="./mg/tg/t"/>
+		<xsl:variable name="tgtc" select="count(./mg/tg/t_gt)"/>
+		<!--t_test t_gt-c="{$tgtc}"/-->
+		<xsl:if test="$tgtc = 1">
+		  <xsl:copy-of select="./mg/tg/t_gt"/>
+		</xsl:if>
+		<xsl:if test="$tgtc &gt; 1">
+		  <!--xsl:if test="./mg/tg/t">
+		  </xsl:if-->
+		  <xsl:copy-of select="./mg/tg/t_gt"/>
+		</xsl:if>
+	      </tg>
+	    </mg>
 	  </e>
 	</xsl:for-each>
       </r>
