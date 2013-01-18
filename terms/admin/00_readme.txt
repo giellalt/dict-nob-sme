@@ -50,25 +50,49 @@ Lesson learned: don't merge entries that have to be lexified!
 
 Postprocessing gt lemmata:
 - nob
-6867          <l_test l_gt-counter="1"/>
- 889          <l_test l_gt-counter="2"/>
- 207          <l_test l_gt-counter="3"/>
- 191          <l_test l_gt-counter="0"/>
-  92          <l_test l_gt-counter="4"/>
-  35          <l_test l_gt-counter="5"/>
-  22          <l_test l_gt-counter="6"/>
-  14          <l_test l_gt-counter="7"/>
-   8          <l_test l_gt-counter="9"/>
-   8          <l_test l_gt-counter="10"/>
-   5          <l_test l_gt-counter="8"/>
-   5          <l_test l_gt-counter="12"/>
-   5          <l_test l_gt-counter="11"/>
-   3          <l_test l_gt-counter="13"/>
-   2          <l_test l_gt-counter="16"/>
-   2          <l_test l_gt-counter="14"/>
-   1          <l_test l_gt-counter="31"/>
-   1          <l_test l_gt-counter="22"/>
-   1          <l_test l_gt-counter="21"/>
+src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
+     137
+src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | sort | uniq -c | sort -nr 
+  97          <l_test l_gt_c="2"/>
+  23          <l_test l_gt_c="3"/>
+   7          <l_test l_gt_c="5"/>
+   5          <l_test l_gt_c="4"/>
+   2          <l_test l_gt_c="7"/>
+   1          <l_test l_gt_c="9"/>
+   1          <l_test l_gt_c="6"/>
+   1          <l_test l_gt_c="11"/>
+
+
+   <e>
+      <lg>
+         <l pos="n">barnevern+institusjon</l>
+         <l_gt gt_pos="subst" c="1">barneverninstitusjon</l_gt>
+         <l_gt gt_pos="subst" c="2">barnevernsinstitusjon</l_gt>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="n">suodjalit+ásahus</t>
+            <t_gt gt_pos="Org" c="1" cisl="0">mánáidsuodjalanásahus</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">| mánná+suodjalit+ásahus</t_gt>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="n">barnevern+institusjon</l>
+         <l_gt gt_pos="subst" c="2">barneverninstitusjon</l_gt>
+         <l_gt gt_pos="subst" c="1">barnevernsinstitusjon</l_gt>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="n">mánná+suodjalus+ásahus</t>
+            <t_gt gt_pos="Org" c="1" cisl="3">mánáidsuodjalusásahus</t_gt>
+            <t_gt gt_pos="Org" c="2" cisl="0">dearvvasvuođaásahus</t_gt>
+            <t_gt gt_pos="Org" c="3" cisl="0">sosiálaásahus</t_gt>
+         </tg>
+      </mg>
+    </e>
+ ==> what to do? (remember also filmarbeid/er)
 
  - sme
 6691             <t_test t_gt-counter="1"/>
