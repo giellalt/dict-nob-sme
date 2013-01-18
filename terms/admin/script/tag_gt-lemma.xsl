@@ -143,6 +143,7 @@
 		</xsl:if>
 
 		<xsl:if test="$same_lemma = '' and $s_lemma = ''">
+		  <l_test l_gt_c="{$lgtc}"/>
 		  <xsl:for-each select="./lg/l_gt">
 		    <l_gt_zzz>
 		      <xsl:copy-of select="./@*"/>
