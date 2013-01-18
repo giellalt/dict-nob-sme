@@ -49,7 +49,7 @@ src/fad_nobsme.20121130_merged_comp.xml
 Lesson learned: don't merge entries that have to be lexified!
 
 Postprocessing gt lemmata:
-- nob
+ 1. nob
 src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
      137
 src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | sort | uniq -c | sort -nr 
@@ -94,22 +94,25 @@ src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | sort | uniq -c | sort -
     </e>
  ==> what to do? (remember also filmarbeid/er)
 
- - sme
-6691             <t_test t_gt-counter="1"/>
- 978             <t_test t_gt-counter="2"/>
- 348             <t_test t_gt-counter="0"/>
- 224             <t_test t_gt-counter="3"/>
-  64             <t_test t_gt-counter="4"/>
-  20             <t_test t_gt-counter="5"/>
-  13             <t_test t_gt-counter="6"/>
-   7             <t_test t_gt-counter="7"/>
-   4             <t_test t_gt-counter="10"/>
-   2             <t_test t_gt-counter="9"/>
-   2             <t_test t_gt-counter="11"/>
-   1             <t_test t_gt-counter="8"/>
-   1             <t_test t_gt-counter="35"/>
-   1             <t_test t_gt-counter="30"/>
-   1             <t_test t_gt-counter="14"/>
-   1             <t_test t_gt-counter="12"/>
+ 2.1 sme
 
+post_proc>grep '<t_test' ___outDir___/fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
+ 595
+
+post_proc>grep '<t_test' ___outDir___/fad_nobsme.20121130_nob-c_sme-c.xml | sort | uniq -c | sort -nr 
+ 440             <t_test t_gt_c="2"/>
+ 110             <t_test t_gt_c="3"/>
+  26             <t_test t_gt_c="4"/>
+   8             <t_test t_gt_c="5"/>
+   5             <t_test t_gt_c="6"/>
+   3             <t_test t_gt_c="7"/>
+   1             <t_test t_gt_c="9"/>
+   1             <t_test t_gt_c="8"/>
+   1             <t_test t_gt_c="12"/>
+
+ 2.2 sme
+_checkout>egrep '<t_gt_count' fad_nobsme.20121130_nob-s_sme-c.xml | sort | uniq -c 
+  56       <t_gt_count t_gt_c="0"/>
+ 171       <t_gt_count t_gt_c="1"/>
+   3       <t_gt_count t_gt_c="2"/>
 
