@@ -328,9 +328,7 @@
    <e>
       <lg>
          <l pos="n">riks+teater</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">riksteaterforestilling</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">riksteateret</l_gt_zzz>
+         <l_gt gt_pos="subst">riksteater</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -546,9 +544,7 @@
    <e>
       <lg>
          <l pos="n">term+prosjekt</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">term</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">termprosjekter</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">termprosjekt</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -822,9 +818,7 @@
    <e>
       <lg>
          <l pos="n">ferie+rettighet</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">ferierettigheter</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">ferielovens</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">ferierettighet</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1231,9 +1225,7 @@
    <e>
       <lg>
          <l pos="n">kultur+utveksling+fond</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">kulturutvekslingsfondet</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">kulturutvekslingsfondets</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">kulturutvekslingsfond</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1331,10 +1323,7 @@
    <e>
       <lg>
          <l pos="n">verdi+kommisjon</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">verdikommisjonens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">verdikommisjonen</l_gt_zzz>
-         <l_gt_zzz gt_pos="fp-cmp" c="3">verdier-</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">verdikommisjon</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1396,10 +1385,7 @@
    <e>
       <lg>
          <l pos="n">rein+politi</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">reinpolitiet</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">reinpolitiets</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">reindriftsforvaltningen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">reinpoliti</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1412,8 +1398,8 @@
       <lg>
          <l pos="n">universitet+styre</l>
          <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">universitetsstyret</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">universitetstyret</l_gt_zzz>
+         <l_gt_zzz gt_pos="subst" c="1">universitetsstyre</l_gt_zzz>
+         <l_gt_zzz gt_pos="subst" c="2">universitetstyre</l_gt_zzz>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1884,9 +1870,7 @@
    <e>
       <lg>
          <l pos="n">overgang+prosjekt</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">overgang</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">overgangsprosjektet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">overgangsprosjekt</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1924,9 +1908,8 @@
       <lg>
          <l pos="n">finn+mark+undersøkelse</l>
          <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">finnmarksundersøkelsene</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">finnmarksundersøkelsen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">finnmarkundersøkelsene</l_gt_zzz>
+         <l_gt_zzz gt_pos="subst" c="2">finnmarksundersøkelse</l_gt_zzz>
+         <l_gt_zzz gt_pos="subst" c="3">finnmarkundersøkelse</l_gt_zzz>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1939,9 +1922,7 @@
    <e>
       <lg>
          <l pos="n">finn+mark+konferanse</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">finnmarkskonferanse</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">finnmarkskonferansen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">finnmarkskonferanse</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2122,9 +2103,7 @@
    <e>
       <lg>
          <l pos="n">distrikt+kommisjon</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">distriktskommisjonen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">distriktskommisjonens</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">distriktskommisjon</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2136,9 +2115,7 @@
    <e>
       <lg>
          <l pos="n">elev+organisasjon</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">elevorganisasjonen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">elev</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">elevorganisasjon</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2211,9 +2188,7 @@
    <e>
       <lg>
          <l pos="n">finn+mark+klinikk</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">finnmarksklinikken</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">finnmark</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">finnmarksklinikken</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2324,9 +2299,7 @@
    <e>
       <lg>
          <l pos="n">fylke+husflid+slag</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">fylkeshusflidslags</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fylkeshusflidslagets</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">fylkeshusflidslag</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2712,7 +2685,6 @@
          <l pos="n">råfisk+lage</l>
          <l_test l_gt_c="2"/>
          <l_gt_zzz gt_pos="subst" c="1">råfisklag</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">råfisklov</l_gt_zzz>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2724,9 +2696,7 @@
    <e>
       <lg>
          <l pos="n">same+kultur+utvalg</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">samekulturutvalgets</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">samekulturutvalget</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">samekulturutvalg</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2993,9 +2963,7 @@
    <e>
       <lg>
          <l pos="n">politi+høyskole</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">politihøgskolen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">politidirektoratet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">politihøgskole</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3166,9 +3134,7 @@
    <e>
       <lg>
          <l pos="n">nord+område+prosjekt</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">nordområdeprosjektets</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">nordområdeprosjektet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">nordområdeprosjekt</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3239,10 +3205,7 @@
    <e>
       <lg>
          <l pos="n">politi+direktorat</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">politidirektoratet</l_gt_zzz>
-         <l_gt_zzz gt_pos="fp-cmp" c="2">politi-</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">politifolk</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">politidirektorat</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4360,9 +4323,7 @@
    <e>
       <lg>
          <l pos="n">utlending+direktorat</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">utlendingsdirektoratets</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">utlendingsdirektoratet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">utlendingsdirektorat</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -6327,9 +6288,7 @@
    <e>
       <lg>
          <l pos="n">sektor+ansvar+prinsipp</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">sektoransvarsprinsipp</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">sektoransvarsprinsippet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">sektoransvarsprinsipp</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -6637,9 +6596,7 @@
    <e>
       <lg>
          <l pos="n">distrikt+plan+arbeid</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="adj" c="1">distriktsplanarbeide</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">distrikt</l_gt_zzz>
+         <l_gt gt_pos="adj" c="1">distriktsplanarbeid</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -10201,9 +10158,7 @@
    <e>
       <lg>
          <l pos="n">fisk+vare</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">fiskevare</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fisk</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">fiskevare</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -11767,9 +11722,7 @@
    <e>
       <lg>
          <l pos="n">same+parlament</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">sameparlamentet</l_gt_zzz>
-         <l_gt_zzz gt_pos="verb" c="2">samene</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">sameparlament</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -12786,9 +12739,7 @@
    <e>
       <lg>
          <l pos="n">barnehage+konsulent</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="adj" c="1">barnehagekonsulene</l_gt_zzz>
-         <l_gt_zzz gt_pos="adj" c="2">barnehageansatt</l_gt_zzz>
+         <l_gt gt_pos="subj" c="1">barnehagekonsulent</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -13073,12 +13024,10 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="???">
       <lg>
          <l pos="n">familie+drev</l>
-         <l_test l_gt_c="2"/>
          <l_gt_zzz gt_pos="adj" c="1">familiedrevet</l_gt_zzz>
-         <l_gt_zzz gt_pos="interj" c="2">familiearbeidskraften</l_gt_zzz>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -14927,9 +14876,7 @@
    <e>
       <lg>
          <l pos="n">pasient+sikkerhet+kampanje</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">pasientsikkerhetskampanje</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">pasientsikkerhet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">pasientsikkerhetskampanje</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -19959,9 +19906,7 @@
    <e>
       <lg>
          <l pos="n">skatt+opplysning</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skatteopplysning</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skatteopplysningen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skatteopplysning</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -21266,9 +21211,7 @@
    <e>
       <lg>
          <l pos="n">barmark+løype</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">barmarksløyper</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">barmarksløypene</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">barmarksløype</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -21277,7 +21220,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e note="mistakingly marked">
       <lg>
          <l pos="n">fest+spill</l>
          <l_test l_gt_c="2"/>
@@ -21294,9 +21237,7 @@
    <e>
       <lg>
          <l pos="n">fest+spill</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">festspillprofil</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">festspillene</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">festspill</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -21577,9 +21518,7 @@
    <e>
       <lg>
          <l pos="n">barn+festival</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">barnefestival</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">barn</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">barnefestival</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -22399,14 +22338,7 @@
    <e>
       <lg>
          <l pos="n">førskole+lære</l>
-         <l_test l_gt_c="7"/>
-         <l_gt_zzz gt_pos="subst" c="1">førskolelærerstudium</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">førskolelærerutdanning</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">førskolelærerstudent</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">førskolelærer</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">førskolelærerstudie</l_gt_zzz>
-         <l_gt_zzz gt_pos="fp-cmp" c="6">førskolelærer-</l_gt_zzz>
-         <l_gt_zzz gt_pos="adj" c="7">førskolelæreryrke</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">førskolelære</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -22492,9 +22424,7 @@
    <e>
       <lg>
          <l pos="n">grunn+opplæring+tilbud</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">grunnopplæringstilbud</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">grunnopplæringstilbudet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">grunnopplæringstilbud</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -24635,9 +24565,7 @@
    <e>
       <lg>
          <l pos="n">same+rett+utredning</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">samerettsutredning</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">samekonvensjon</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">samerettsutredning</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -26258,10 +26186,7 @@
          <l pos="n">finn+mark+kommisjon</l>
          <l_test l_gt_c="5"/>
          <l_gt_zzz gt_pos="subst" c="1">finnmarkskommisjon</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">finnmarkskommisjonen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">finnmarkskommisjonens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">finnmarkkommisjonen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">finnmarkseiendommen</l_gt_zzz>
+         <l_gt_zzz gt_pos="subst" c="4">finnmarkkommisjon</l_gt_zzz>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28158,9 +28083,7 @@
    <e mg_counter="2">
       <lg>
          <l pos="n">miljø+gode</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="fp-cmp" c="1">miljøgoder-</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">miljøgoder</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">miljøgode</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -29557,9 +29480,7 @@
    <e>
       <lg>
          <l pos="n">skatt+forskning</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skatteforskning</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skatteforskningsprogrammet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skatteforskning</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -30065,9 +29986,7 @@
    <e>
       <lg>
          <l pos="n">tann+pleier+utdanning</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="interj" c="1">tannpleierutdanningen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">tannlegeutdanningen</l_gt_zzz>
+         <l_gt gt_pos="interj" c="1">tannpleierutdanning</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -30977,11 +30896,7 @@
    <e>
       <lg>
          <l pos="n">fisk+industri</l>
-         <l_test l_gt_c="4"/>
-         <l_gt_zzz gt_pos="subst" c="1">fiskeindustri</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fiskeflåte</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">fiskeindustriens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">fiskeflåten</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">fiskeindustri</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -31029,9 +30944,7 @@
    <e>
       <lg>
          <l pos="n">fisk+forvaltning</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">fiskeforvaltning</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fiskeforvaltnings</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">fiskeforvaltning</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -31288,10 +31201,7 @@
    <e>
       <lg>
          <l pos="n">ferie+penge</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">feriepenger</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">ferielønnstillegg</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">feriepengekravet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">feriepenge</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -32197,12 +32107,7 @@
    <e>
       <lg>
          <l pos="n">barn+ombud</l>
-         <l_test l_gt_c="5"/>
-         <l_gt_zzz gt_pos="subst" c="1">barneombud</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">barneombudsrapport</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">barneombudet</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">barneombudets</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">barneombudenes</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">barneombud</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -32215,9 +32120,7 @@
    <e>
       <lg>
          <l pos="n">familie+etat</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="interj" c="1">familieetaten</l_gt_zzz>
-         <l_gt_zzz gt_pos="interj" c="2">familieetatens</l_gt_zzz>
+         <l_gt gt_pos="interj" c="1">familieetat</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -32843,9 +32746,7 @@
    <e>
       <lg>
          <l pos="n">valg+regle</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">valgregel</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">valgordning</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">valgregel</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -33458,10 +33359,7 @@
    <e>
       <lg>
          <l pos="n">plan+retning+linje</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">planretningslinje</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">planlegging</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">planbestemmelse</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">planretningslinje</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -34108,9 +34006,7 @@
    <e>
       <lg>
          <l pos="n">tjeneste+reis</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">tjenestereise</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">tjenestereiser</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">tjenestereise</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -34431,9 +34327,7 @@
    <e>
       <lg>
          <l pos="n">navn+konsulent+tjeneste</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">navnekonsulenttjeneste</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">navnekonsulenttjenesten</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">navnekonsulenttjeneste</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -34959,9 +34853,7 @@
    <e>
       <lg>
          <l pos="n">barn+oppdragelse</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">barneoppdragelse</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">barnehage</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">barneoppdragelse</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -35618,10 +35510,7 @@
    <e>
       <lg>
          <l pos="n">bruk+regle</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">bruksregel</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">bruksreglenes</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">bruksreglene</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">bruksregel</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -35633,10 +35522,7 @@
    <e>
       <lg>
          <l pos="n">bruk+regle</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">bruksregel</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">bruksreglene</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">bruksregler</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">bruksregel</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -36146,9 +36032,7 @@
    <e>
       <lg>
          <l pos="n">utdanning+sake</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">utdanningssak</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">utdanningssaker</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">utdanningssak</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37255,10 +37139,7 @@
    <e>
       <lg>
          <l pos="n">kultur+løft</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">kulturløfte</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">kulturløftet</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">kulturskole</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">kulturløfte</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37654,9 +37535,7 @@
    <e>
       <lg>
          <l pos="n">navn+sake</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">navnesaker</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">navn</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">navnesaker</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37668,9 +37547,7 @@
    <e>
       <lg>
          <l pos="n">navn+sake</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">navnesaker</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">navn</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">navnesaker</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37926,9 +37803,7 @@
    <e>
       <lg>
          <l pos="n">navn+opprop</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">navneopprop</l_gt_zzz>
-         <l_gt_zzz gt_pos="fp-cmp" c="2">navneopprop-</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">navneopprop</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -38367,11 +38242,7 @@
    <e>
       <lg>
          <l pos="n">kunnskap+løft</l>
-         <l_test l_gt_c="4"/>
-         <l_gt_zzz gt_pos="subst" c="1">kunnskapsløftet</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">kunnskapsløftet-samisk</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">kunnskapsmål</l_gt_zzz>
-         <l_gt_zzz gt_pos="adj" c="4">kunnskapsrik</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">kunnskapsløfte</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39063,10 +38934,7 @@
    <e>
       <lg>
          <l pos="n">fisk+styre</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="adj" c="1">fiskestyre</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fiskestyre</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">fiskestyret</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">fiskestyre</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39612,10 +39480,7 @@
    <e>
       <lg>
          <l pos="n">kulturminne+type</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">kulturminnetypus</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">kulturminne</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">kulturminnetyper</l_gt_zzz>
+         <l_gt gt_pos="subst" c="3">kulturminnetype</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -40331,14 +40196,7 @@
    <e>
       <lg>
          <l pos="n">same+radio</l>
-         <l_test l_gt_c="7"/>
-         <l_gt_zzz gt_pos="interj" c="1">sameradioen</l_gt_zzz>
-         <l_gt_zzz gt_pos="interj" c="2">sameradioene</l_gt_zzz>
-         <l_gt_zzz gt_pos="interj" c="3">sameradioens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">sameradiosjef</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">sameradioene</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="6">sameradioens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="7">sameradioen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="7">sameradio</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -40350,10 +40208,7 @@
    <e>
       <lg>
          <l pos="n">same+radio</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="interj" c="1">sameradioene</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">sameradioen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">sametinget</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">sameradio</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -40366,11 +40221,7 @@
    <e>
       <lg>
          <l pos="n">same+radio</l>
-         <l_test l_gt_c="4"/>
-         <l_gt_zzz gt_pos="interj" c="1">sameradioer</l_gt_zzz>
-         <l_gt_zzz gt_pos="interj" c="2">sameradioens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">sameradioens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">sameradioen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="4">sameradio</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -41600,9 +41451,7 @@
    <e>
       <lg>
          <l pos="n">grunn+forvaltning+organ</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">grunnforvaltningsorgan</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">grunnforvaltningsorgane</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">grunnforvaltningsorgan</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -42116,9 +41965,7 @@
    <e>
       <lg>
          <l pos="n">næring+kombinasjon</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">næringskombinasjonsvirksomhet</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">næringskombinasjons-virksomhet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">næringskombinasjon</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -42435,9 +42282,7 @@
    <e>
       <lg>
          <l pos="n">fisk+mottak</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">fiskemottak</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fiskekjøp</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">fiskemottak</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -42449,9 +42294,7 @@
    <e>
       <lg>
          <l pos="n">fisk+mottak</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">fiskemottak</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fiskekjøp</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">fiskemottak</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -43906,8 +43749,7 @@
          <l pos="n">rett+sikkerhet+pris</l>
          <l_test l_gt_c="3"/>
          <l_gt_zzz gt_pos="subst" c="1">rettsikkerhetspris</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">rettsikkerhetsprisen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">rettssikkerhetsprisen</l_gt_zzz>
+         <l_gt_zzz gt_pos="subst" c="3">rettssikkerhetspris</l_gt_zzz>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -47235,9 +47077,7 @@
    <e>
       <lg>
          <l pos="n">redaksjon+smedarbeid</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">redaksjonsmedarbeide</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">redaksjonsmedarbeider</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">redaksjonsmedarbeid</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -48484,9 +48324,7 @@
    <e>
       <lg>
          <l pos="n">eiendom+sake</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="interj" c="1">eiendomssaker</l_gt_zzz>
-         <l_gt_zzz gt_pos="interj" c="2">eiendomsforvalter</l_gt_zzz>
+         <l_gt gt_pos="interj" c="1">eiendomssaker</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -49725,9 +49563,7 @@
    <e>
       <lg>
          <l pos="n">rase+diskriminering+konvensjon</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">rasediskrimineringskonvensjon</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">rasediskrimineringskonvensjonens</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">rasediskrimineringskonvensjon</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -50015,9 +49851,7 @@
    <e>
       <lg>
          <l pos="n">skatt+fogd</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skattefogd</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skattefogden</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skattefogd</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -50079,9 +49913,7 @@
    <e>
       <lg>
          <l pos="n">skole+penge</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skolepenger</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skolemateriell</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skolepenge</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -50959,9 +50791,7 @@
    <e>
       <lg>
          <l pos="n">kulturvern+avdeling</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">kulturvernavdelingen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">kulturvernavdelingens</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">kulturvernavdeling</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -51573,9 +51403,7 @@
    <e>
       <lg>
          <l pos="n">same+komite</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">samekomiteens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">samekomiteen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">samekomite</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -52174,12 +52002,7 @@
    <e mg_counter="2">
       <lg>
          <l pos="n">grunnskole+lære</l>
-         <l_test l_gt_c="5"/>
-         <l_gt_zzz gt_pos="subst" c="1">grunnskolelærerutdanning</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">grunnskolelærer</l_gt_zzz>
-         <l_gt_zzz gt_pos="fp-cmp" c="3">grunnskolelærer-</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">grunnskolelærerutdanningene</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">grunnskolelærerutdanningen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">grunnskolelære</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53204,9 +53027,7 @@
    <e>
       <lg>
          <l pos="n">skatt+forskning+program</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skatteforskningsprogram</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skatteforskningsprogrammet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skatteforskningsprogram</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53912,9 +53733,7 @@
    <e>
       <lg>
          <l pos="n">forsøk+enhet</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">forsøksenhete</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">forsøksområde</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">forsøksenhet</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53926,9 +53745,7 @@
    <e>
       <lg>
          <l pos="n">forsøk+enhet</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">forsøksenhete</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">forsøksområde</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">forsøksenhet</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -54358,12 +54175,7 @@
    <e>
       <lg>
          <l pos="n">finn+mark+eiendom</l>
-         <l_test l_gt_c="5"/>
-         <l_gt_zzz gt_pos="subst" c="1">finnmark</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">finnmarkseiendommens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">finnmarkseiendommen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">finnmárkkuopmodat</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">finnmarksloven</l_gt_zzz>
+         <l_gt gt_pos="subst" c="3">finnmarkseiendom</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -54376,18 +54188,7 @@
    <e>
       <lg>
          <l pos="n">finn+mark+eiendom</l>
-         <l_test l_gt_c="11"/>
-         <l_gt_zzz gt_pos="interj" c="1">finnmarkseiendommen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">finnmarkseiendommen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">finnmarkseiendommens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">finnmarkeiendommen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">finnmark</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="6">finnmárkkuopmodat</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="7">finnmarksloven</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="8">finnmarkeiendommens</l_gt_zzz>
-         <l_gt_zzz gt_pos="verb" c="9">finne</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="10">finnmarkslov</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="11">finnmarkskommisjonen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">finnmarkseiendom</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -55787,9 +55588,7 @@
    <e>
       <lg>
          <l pos="n">rein+tall+situasjon</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">reintallssituasjon</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">reindrift</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">reintallssituasjon</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -56285,10 +56084,7 @@
    <e>
       <lg>
          <l pos="n">tillegg+stem</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">tilleggsstemme</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">tilleggstemme</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">tillegg</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">tilleggsstemme</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -56938,9 +56734,7 @@
    <e>
       <lg>
          <l pos="n">skole+fritid+ordning</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skolefritidsordning</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skole</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skolefritidsordning</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -57459,9 +57253,7 @@
    <e>
       <lg>
          <l pos="n">reindrift+sake</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">reindriftssak</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">reindriftssakene</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">reindriftssak</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -57583,9 +57375,7 @@
    <e>
       <lg>
          <l pos="n">skatt+system</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skattesystem</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skattesystemet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skattesystem</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -58635,16 +58425,7 @@
    <e>
       <lg>
          <l pos="n">folk+helse</l>
-         <l_test l_gt_c="9"/>
-         <l_gt_zzz gt_pos="subst" c="1">folkehelsearbeid</l_gt_zzz>
-         <l_gt_zzz gt_pos="adj" c="2">folkehelsearbeide</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">folkehelse</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">folkehelsesituasjon</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">folkehelseplanarbeide</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="6">folkehelseutfordring</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="7">folkehelsetilstand</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="8">folkehelserelevans</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="9">folkehelseplan</l_gt_zzz>
+         <l_gt gt_pos="subst" c="3">folkehelse</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -60076,9 +59857,7 @@
    <e>
       <lg>
          <l pos="n">melding+arbeid</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="adj" c="1">meldingsarbeide</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">meldingsarbeidet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">meldingsarbeid</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -62110,9 +61889,7 @@
    <e>
       <lg>
          <l pos="n">internat+styrer</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="adj" c="1">internatstyreren</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">internatstyreren</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">internatstyrer</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -62256,9 +62033,7 @@
    <e>
       <lg>
          <l pos="n">skatt+myndighet</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skattemyndighet</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skattyter</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skattemyndighet</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -64375,10 +64150,7 @@
    <e>
       <lg>
          <l pos="n">permisjon+regle</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">permisjonsregel</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">permisjonsreglement</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">permisjonsregler</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">permisjonsregel</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -67089,9 +66861,7 @@
    <e>
       <lg>
          <l pos="n">fylke+kultur+etat</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">fylkeskulturetat</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fylkeskommune</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">fylkeskulturetat</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -68269,9 +68039,7 @@
    <e>
       <lg>
          <l pos="n">finn+mark+tillegg</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">finnmarkstillegg</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">finnmarkstillegget</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">finnmarkstillegg</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -68489,9 +68257,7 @@
    <e>
       <lg>
          <l pos="n">barn+komite</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">barnekomiteens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">barnekomiteen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">barnekomite</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -68711,9 +68477,7 @@
    <e>
       <lg>
          <l pos="n">kunnskap+departement</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">kunnskapsdepartementets</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">kunnskapsdepartementet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">kunnskapsdepartement</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -70265,9 +70029,7 @@
    <e>
       <lg>
          <l pos="n">folk+helse+arbeid</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="adj" c="1">folkehelsearbeide</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">folkehelsearbeid</l_gt_zzz>
+         <l_gt gt_pos="subst">folkehelsearbeid</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -70280,10 +70042,7 @@
    <e>
       <lg>
          <l pos="n">folk+helse+arbeid</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">folkehelsearbeid</l_gt_zzz>
-         <l_gt_zzz gt_pos="adj" c="2">folkehelsearbeide</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">folkehelsearbeidet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">folkehelsearbeid</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -71407,9 +71166,7 @@
    <e>
       <lg>
          <l pos="n">tiltak+have</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">tiltakshaver</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">tiltak</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">tiltakshaver</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -72153,9 +71910,7 @@
    <e>
       <lg>
          <l pos="n">språk+forvaltning+område</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">språkforvaltningsområde</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">språksatsing</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">språkforvaltningsområde</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -72978,11 +72733,7 @@
    <e>
       <lg>
          <l pos="n">forslag+stille</l>
-         <l_test l_gt_c="4"/>
-         <l_gt_zzz gt_pos="subst" c="1">forslagsstiller</l_gt_zzz>
-         <l_gt_zzz gt_pos="adj" c="2">forslagstill</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">forslagstillernes</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">forslag</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">forslagsstiller</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -73301,9 +73052,7 @@
    <e>
       <lg>
          <l pos="n">fylke+plan+melding</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">fylkesplanmelding</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fylkesråd</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">fylkesplanmelding</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -73524,9 +73273,7 @@
    <e>
       <lg>
          <l pos="n">mann+tall+kampanje</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">manntallskampanje</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">manntallskampanjen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">manntallskampanje</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -74052,10 +73799,7 @@
    <e>
       <lg>
          <l pos="n">folk+forbund</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">folkeforbund</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">folkeforbunds-kontor</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">folkeforbundets</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">folkeforbund</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -75515,9 +75259,7 @@
    <e>
       <lg>
          <l pos="n">rase+diskriminering+komite</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">rasediskrimineringskomite</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">rasediskrimineringskomiteens</l_gt_zzz>
+         <l_gt gt_pos="subst">rasediskrimineringskomite</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -75529,9 +75271,7 @@
    <e>
       <lg>
          <l pos="n">rase+diskriminering+komite</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">rasediskrimineringskomite</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">rasediskrimineringskomiteen</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">rasediskrimineringskomite</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -76081,9 +75821,7 @@
    <e>
       <lg>
          <l pos="n">dokument+mengde</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">dokumentmengd</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">dokumentmengden</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">dokumentmengde</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -76108,9 +75846,7 @@
    <e>
       <lg>
          <l pos="n">film+arbeid</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">filmarbeider</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">filmarbeide</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">filmarbeider</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -76978,9 +76714,7 @@
    <e>
       <lg>
          <l pos="n">selv+bestemmelse+perspektiv</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">selvbestemmelsesperspektiv</l_gt_zzz>
-         <l_gt_zzz gt_pos="det" c="2">selv</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">selvbestemmelsesperspektiv</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -77661,9 +77395,7 @@
    <e>
       <lg>
          <l pos="n">resultat+styring+system</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">resultatstyringssystem</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">resultatkrav</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">resultatstyringssystem</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -78626,12 +78358,7 @@
    <e>
       <lg>
          <l pos="n">barn+konvensjon</l>
-         <l_test l_gt_c="5"/>
-         <l_gt_zzz gt_pos="subst" c="1">barnekonvensjon</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">barnekonvensjonens</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">barn</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">barnekonvensjonen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">barnekunstutstilling</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">barnekonvensjon</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -79519,12 +79246,7 @@
    <e>
       <lg>
          <l pos="n">sameting+representant</l>
-         <l_test l_gt_c="5"/>
-         <l_gt_zzz gt_pos="adj" c="1">sametingsrepresentane</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">sametingsrepresentante</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">sametingsrepresentantenes</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">sametingets</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">sametingsrepresentantene</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">sametingsrepresentant</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -81187,9 +80909,7 @@
    <e>
       <lg>
          <l pos="n">fisk+område</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">fiskeområde</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fisketid</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">fiskeområde</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -81261,10 +80981,7 @@
    <e>
       <lg>
          <l pos="n">alle+mann+rett</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">allemannsrett</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">allemannsrettighet</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">allemannsretten</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">allemannsrett</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -81349,9 +81066,7 @@
    <e>
       <lg>
          <l pos="n">utmark+slått</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="adj" c="1">utmarksslå</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">utmarksslåtte</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">utmarksslåtte</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -82427,9 +82142,7 @@
    <e>
       <lg>
          <l pos="n">barn+komité</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">barnekomité</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">barnekomités</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">barnekomité</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -83016,12 +82729,7 @@
    <e>
       <lg>
          <l pos="n">fylke+valg+styre</l>
-         <l_test l_gt_c="5"/>
-         <l_gt_zzz gt_pos="adj" c="1">fylkesvalgstyre</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fylkeskommunene</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">fylkesvalgstyr</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">fylkeskommune</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">fylkesvalgstyret</l_gt_zzz>
+         <l_gt gt_pos="adj" c="1">fylkesvalgstyre</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -84474,9 +84182,7 @@
    <e>
       <lg>
          <l pos="n">same+misjon</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">samemisjonen</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">samemisjonssamling</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">samemisjonen</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -85486,10 +85192,7 @@
    <e>
       <lg>
          <l pos="n">verdi+skapning+program</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="adj" c="1">verdiskapningsprogramme</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">verdiskapningsprogram</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">verdiskapningsprogrammet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">verdiskapningsprogram</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -85675,9 +85378,7 @@
    <e>
       <lg>
          <l pos="n">same+rett+utvalg</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">samerettsutvalg</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">samerettsutvalget</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">samerettsutvalg</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -85689,9 +85390,7 @@
    <e>
       <lg>
          <l pos="n">same+rett+utvalg</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">samerettsutvalg</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">samerettsutvalget</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">samerettsutvalg</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -85706,10 +85405,7 @@
    <e>
       <lg>
          <l pos="n">same+rett+utvalg</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">samerettsutvalg</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">samerettsutvalgets</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">samerettsutvalget</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">samerettsutvalg</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -87231,9 +86927,7 @@
    <e>
       <lg>
          <l pos="n">distrikt+kass</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">distriktskasse</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">distriktskassens</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">distriktskasse</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -87353,9 +87047,7 @@
    <e>
       <lg>
          <l pos="n">skatt+kontor</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skattekontor</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skattekontorenhet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skattekontor</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -87367,9 +87059,7 @@
    <e>
       <lg>
          <l pos="n">skatt+kontor</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">skattekontor</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">skatteyter</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">skattekontor</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -87723,9 +87413,7 @@
    <e>
       <lg>
          <l pos="n">olje+penge</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">oljepenger</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">oljepengebruk</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">oljepenger</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -87907,9 +87595,7 @@
    <e>
       <lg>
          <l pos="n">grunn+eier+organ</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="interj" c="1">grunneierorganets</l_gt_zzz>
-         <l_gt_zzz gt_pos="interj" c="2">grunneierorganet</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">grunneierorgan</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -88899,9 +88585,7 @@
    <e>
       <lg>
          <l pos="n">reindrift+organ</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">reindriftsorgane</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">reindriftsorganenes</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">reindriftsorgan</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -89408,9 +89092,7 @@
    <e>
       <lg>
          <l pos="n">fisk+turisme</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">fisketurismepakker</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">fisketurisme</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">fisketurisme</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -91922,10 +91604,7 @@
    <e>
       <lg>
          <l pos="n">språk+regle</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">språkregel</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">språk</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">språkråd</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">språkregel</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -92278,11 +91957,7 @@
    <e>
       <lg>
          <l pos="n">region+senter</l>
-         <l_test l_gt_c="4"/>
-         <l_gt_zzz gt_pos="subst" c="1">regionsenterkommune</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">regionsentrum</l_gt_zzz>
-         <l_gt_zzz gt_pos="adj" c="3">regionssentre</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">regionsentrene</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">regionsentrum</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -92702,13 +92377,7 @@
    <e>
       <lg>
          <l pos="n">navn+konsulent</l>
-         <l_test l_gt_c="6"/>
-         <l_gt_zzz gt_pos="subst" c="1">navnekonsulenttjeneste</l_gt_zzz>
-         <l_gt_zzz gt_pos="adj" c="2">navnekonsulent</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">navnekonsulent</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="4">navnekonsulentene</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="5">navnekonsulenttjenesten</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="6">navnekonsulenten</l_gt_zzz>
+         <l_gt gt_pos="subst" c="3">navnekonsulent</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -92912,9 +92581,7 @@
    <e>
       <lg>
          <l pos="n">data+kommunikasjon+forbindelse</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">datakommunikasjonsforbindelse</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">datakommunikasjonsforbindelser</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">datakommunikasjonsforbindelse</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -93871,9 +93538,7 @@
    <e>
       <lg>
          <l pos="n">barn+hjem</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">barnehjem</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">barn</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">barnehjem</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -94182,10 +93847,7 @@
    <e mg_counter="2">
       <lg>
          <l pos="n">barn+teater</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">barneteater</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">barneteater-prosjekt</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">barneteaterfestival</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">barneteater</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -95948,9 +95610,7 @@
    <e>
       <lg>
          <l pos="n">folk+gruppe</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">folkegruppe</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">folkegrupper</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">folkegruppe</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -96608,9 +96268,7 @@
    <e>
       <lg>
          <l pos="n">hjelp+pleier</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">hjelpepleierutdanning</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">hjelpepleier</l_gt_zzz>
+         <l_gt gt_pos="subst" c="2">hjelpepleier</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -96807,10 +96465,7 @@
    <e>
       <lg>
          <l pos="n">lærer+utdanning+institusjon</l>
-         <l_test l_gt_c="3"/>
-         <l_gt_zzz gt_pos="subst" c="1">lærerutdanningsinstitusjon</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">lærerutdanningsinstitusjonenes</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="3">lærerutdanningsinstitusjonene</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">lærerutdanningsinstitusjon</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -97174,9 +96829,7 @@
    <e>
       <lg>
          <l pos="n">syke+penge</l>
-         <l_test l_gt_c="2"/>
-         <l_gt_zzz gt_pos="subst" c="1">sykepenger</l_gt_zzz>
-         <l_gt_zzz gt_pos="subst" c="2">sykepengeperiode</l_gt_zzz>
+         <l_gt gt_pos="subst" c="1">sykepenger</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
