@@ -117,3 +117,34 @@ _checkout>egrep '<t_gt_count' fad_nobsme.20121130_nob-s_sme-c.xml | sort | uniq 
  171       <t_gt_count t_gt_c="1"/>     ==> ok
    3       <t_gt_count t_gt_c="2"/>     ==> todo (Berit Merete, Marja)
 
+
+further observations:
+   <e note="???">
+      <lg>   
+         <l pos="n">familie+drev</l>
+         <l_gt_zzz gt_pos="adj" c="1">familiedrevet</l_gt_zzz>
+      </lg>  
+      <mg>   
+         <tg xml:lang="sme">
+            <t pos="n">bearaš+doaibma</t>
+            <t_gt gt_pos="N">bearašdoaibma</t_gt>
+         </tg>  
+      </mg>  
+   </e>   
+
+   <e note="mistakingly marked">
+      <lg>
+         <l pos="n">fest+spill</l>
+         <l_test l_gt_c="2"/>
+         <l_gt_zzz gt_pos="subst" c="1">festspillprofil</l_gt_zzz>
+         <l_gt_zzz gt_pos="subst" c="2">festspillene</l_gt_zzz>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="n">feasta+speallu+profiila</t>
+            <t_gt gt_pos="N">feastaspealloprofiila</t_gt>
+         </tg>
+      </mg>
+   </e>
+
+
