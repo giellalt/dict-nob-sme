@@ -52,6 +52,7 @@ Postprocessing gt lemmata:
  1. nob
 src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
      137
+
 src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | sort | uniq -c | sort -nr 
   97          <l_test l_gt_c="2"/>
   23          <l_test l_gt_c="3"/>
@@ -112,7 +113,7 @@ post_proc>grep '<t_test' ___outDir___/fad_nobsme.20121130_nob-c_sme-c.xml | sort
 
  2.2 sme
 _checkout>egrep '<t_gt_count' fad_nobsme.20121130_nob-s_sme-c.xml | sort | uniq -c 
-  56       <t_gt_count t_gt_c="0"/>
- 171       <t_gt_count t_gt_c="1"/>
-   3       <t_gt_count t_gt_c="2"/>
+  56       <t_gt_count t_gt_c="0"/>     ==> todo (Berit Merete, Marja)
+ 171       <t_gt_count t_gt_c="1"/>     ==> ok
+   3       <t_gt_count t_gt_c="2"/>     ==> todo (Berit Merete, Marja)
 
