@@ -1634,7 +1634,6 @@
       </mg>
    </e>
    <e>
-      <t_gt_count t_gt_c="2"/>
       <lg>
          <l pos="n">helsevern</l>
       </lg>
@@ -1954,7 +1953,6 @@
       </mg>
    </e>
    <e>
-      <t_gt_count t_gt_c="2"/>
       <lg>
          <l pos="n">kraftverk</l>
       </lg>
@@ -2132,15 +2130,14 @@
       </mg>
    </e>
    <e>
-      <t_gt_count t_gt_c="2"/>
       <lg>
          <l pos="n">beiteområde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">guohtut+guovlu</t>
-            <t_gt gt_pos="Plc" c="1???" cisl="6">guohtunguovlu</t_gt>
-            <t_gt gt_pos="Plc" c="2" cisl="0">guohtonguovlu</t_gt>
+            <t_gt gt_pos="Plc">guohtunguovlu</t_gt>
+            <t_gt gt_pos="Plc">guohtonguovlu</t_gt>
          </tg>
       </mg>
    </e>
