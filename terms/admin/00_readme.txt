@@ -48,22 +48,15 @@ src/fad_nobsme.20121130_merged_comp.xml
 
 Lesson learned: don't merge entries that have to be lexified!
 
-Postprocessing gt lemmata:
- 1. nob
-src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
-     137
+Caveat: Lexifying =/= finding a gt_lemma pendant!!!
 
-src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | sort | uniq -c | sort -nr 
-  97          <l_test l_gt_c="2"/>
-  23          <l_test l_gt_c="3"/>
-   7          <l_test l_gt_c="5"/>
-   5          <l_test l_gt_c="4"/>
-   2          <l_test l_gt_c="7"/>
-   1          <l_test l_gt_c="9"/>
-   1          <l_test l_gt_c="6"/>
-   1          <l_test l_gt_c="11"/>
+nob-sme pairs that can not be filtered because at least one part didn't get a proper lemma:
+src>grep '<e' todo_fad_nobsme.20121130_nob-s_sme-c.xml | wc -l
+      57
+src>grep '<e' todo_fad_nobsme.20121130_nob-c_sme-c.xml | wc -l
+     546
 
-
+further observations:
    <e>
       <lg>
          <l pos="n">barnevern+institusjon</l>
@@ -95,30 +88,6 @@ src>grep '<l_test' fad_nobsme.20121130_nob-c_sme-c.xml | sort | uniq -c | sort -
     </e>
  ==> what to do? (remember also filmarbeid/er)
 
- 2.1 sme
-
-post_proc>grep '<t_test' ___outDir___/fad_nobsme.20121130_nob-c_sme-c.xml | wc -l 
- 595
-
-post_proc>grep '<t_test' ___outDir___/fad_nobsme.20121130_nob-c_sme-c.xml | sort | uniq -c | sort -nr 
- 440             <t_test t_gt_c="2"/>
- 110             <t_test t_gt_c="3"/>
-  26             <t_test t_gt_c="4"/>
-   8             <t_test t_gt_c="5"/>
-   5             <t_test t_gt_c="6"/>
-   3             <t_test t_gt_c="7"/>
-   1             <t_test t_gt_c="9"/>
-   1             <t_test t_gt_c="8"/>
-   1             <t_test t_gt_c="12"/>
-
- 2.2 sme
-_checkout>egrep '<t_gt_count' fad_nobsme.20121130_nob-s_sme-c.xml | sort | uniq -c 
-  56       <t_gt_count t_gt_c="0"/>     ==> todo (Berit Merete, Marja)
- 171       <t_gt_count t_gt_c="1"/>     ==> ok
-   3       <t_gt_count t_gt_c="2"/>     ==> todo (Berit Merete, Marja)
-
-
-further observations:
    <e note="???">
       <lg>   
          <l pos="n">familie+drev</l>
