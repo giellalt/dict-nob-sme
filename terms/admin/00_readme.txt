@@ -56,6 +56,21 @@ src>grep '<e' todo_fad_nobsme.20121130_nob-s_sme-c.xml | wc -l
 src>grep '<e' todo_fad_nobsme.20121130_nob-c_sme-c.xml | wc -l
      546
 
+In forvaltningsordbok/second_run:
+ - gt-pipeline output have been cleaned up for modal verbs and the like
+ - all nob-sme lemma pairs from ap-pipeline run that have been lexified
+   have been removed also from the gt-data
+ - the remaining lines have been distributed onto four files of
+   aprox. same size (I cut the name to the followings):
+
+second_run>wc -l gt-pl.20121213_0*
+    8939 gt-pl.20121213_01_non-ap
+    8940 gt-pl.20121213_02_non-ap
+    8940 gt-pl.20121213_03_non-ap
+    8938 gt-pl.20121213_04_non-ap
+   35757 total
+
+
 further observations:
    <e>
       <lg>
