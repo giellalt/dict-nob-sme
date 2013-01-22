@@ -5,13 +5,31 @@ acquired FAD-data with both nob and sme as simplicia:
 to a regular dict?
 2. are the rest-attribut still necessary or can be deleted?
 
+
 (1) both nob and sme are simple lemmma:
 src/fad_nobsme.20121130_merged_simp.xml
  ==> done (modulo the questions above)
 
+3 non-analysed forms among sme::
+cat src/done_fad_nobsme.20121130_nob-s_sme-s.xml |grep '<t '|tr '<' '>' | cut -d">" -f3|usme|grep '?'|l
+
+vuođđo  vuođđo  +?
+Direktoratet_for_naturforvaltning       Direktoratet_for_naturforvaltning       +?
+ovttaoaivil     ovttaoaivil     +?
+
 (2) nob simple but at least one sme complex:
 src/fad_nobsme.20121130_merged_only-sme-comp.xml
  ==> done
+ 
+TT:
+src/done_fad_nobsme.20121130_nob-s_sme-c.xml
+ 
+Note that 61 of these are not known by our usmeNorm:
+cat src/done_fad_nobsme.20121130_nob-s_sme-c.xml |grep 't_gt '|tr '<' '>' | cut -d">" -f3|usmeNorm|grep '?'|wc -l      61
+
+src/todo_fad_nobsme.20121130_nob-s_sme-c.xml 
+     TT: nob ok.
+     But the sme side is not ok.
 
 ap_lexifyIt/nobsme_sme-comps_lex.xml
  ==> todo
@@ -19,6 +37,9 @@ ap_lexifyIt/nobsme_sme-comps_lex.xml
 (3) both nob and sme are complex:
 src/fad_nobsme.20121130_merged_comp.xml
  ==> todo         
+
+TT: src/todo_fad_nobsme.20121130_nob-c_sme-c.xml
+    has been gone through on the nob side, but sme is not done.
 
 3. what about that?
 
