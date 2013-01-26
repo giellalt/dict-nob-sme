@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r id="nobsme" xml:lang="nob">
-   <e>
+<r>
+   <e mg_c="2">
       <lg>
          <l pos="v">frykte</l>
       </lg>
@@ -43,7 +43,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">forberede</l>
       </lg>
@@ -83,7 +83,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">oppfordre</l>
       </lg>
@@ -103,7 +103,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">utfordre</l>
       </lg>
@@ -133,7 +133,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="4">
       <lg>
          <l pos="v">undersøke</l>
       </lg>
@@ -169,7 +169,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">veie</l>
       </lg>
@@ -213,7 +213,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="4">
       <lg>
          <l pos="v">omfavne</l>
       </lg>
@@ -238,7 +238,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="5">
       <lg>
          <l pos="v">klemme</l>
       </lg>
@@ -311,7 +311,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">unngå</l>
       </lg>
@@ -364,7 +364,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">holde</l>
       </lg>
@@ -435,10 +435,6 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -480,7 +476,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">kline</l>
       </lg>
@@ -546,7 +542,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="4">
       <lg>
          <l pos="v">rote</l>
       </lg>
@@ -627,7 +623,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="4">
       <lg>
          <l pos="v">spørre</l>
       </lg>
@@ -654,7 +650,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="3">
       <lg>
          <l pos="v">plages</l>
       </lg>
@@ -674,7 +670,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">lykkes</l>
       </lg>
@@ -720,7 +716,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">gi</l>
       </lg>
@@ -756,7 +752,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">vantrives</l>
       </lg>
@@ -772,15 +768,10 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">utvikle seg</l>
       </lg>
-      <mg>
-         <tg re="fysisk utvikling" xml:lang="sme">
-            <t pos="v">čálgat</t>
-         </tg>
-      </mg>
       <mg>
          <tg re="øke i størrelse og vekt" xml:lang="sme">
             <t pos="v" usage="vd">ahtanuššat</t>
@@ -818,7 +809,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">publiseret</t>
             <t pos="v" src="nj" usage="vd">almmuhit</t>
             <xg>
                <x>Vokalisten har også gitt ut CDer.</x>
@@ -847,7 +837,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">deklareret</t>
             <t pos="v" src="nj" usage="vd">almmuhit</t>
          </tg>
       </mg>
@@ -872,7 +861,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">gjøre seg til</l>
       </lg>
@@ -913,7 +902,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">regne</l>
       </lg>
@@ -943,7 +932,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="3">
       <lg>
          <l pos="v">bruke</l>
       </lg>
@@ -1052,7 +1041,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">instrueret</t>
             <t pos="v" usage="vd">bagadallat</t>
          </tg>
       </mg>
@@ -1141,7 +1129,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">sentrifugeret</t>
             <t pos="v" src="nj" usage="vd">bahčit</t>
          </tg>
       </mg>
@@ -1160,11 +1147,6 @@
       <lg>
          <l pos="v">heve</l>
       </lg>
-      <mg>
-         <tg re="bli større" xml:lang="sme">
-            <t pos="v">bohtarastit</t>
-         </tg>
-      </mg>
       <mg>
          <tg re="gå opp i styrke, volum eller høyde " xml:lang="sme">
             <t pos="v" src="nj" usage="vd">bajidit</t>
@@ -1195,7 +1177,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">mistenke</l>
       </lg>
@@ -1236,7 +1218,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">bli redd</l>
       </lg>
@@ -1280,7 +1262,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">arbeide</l>
       </lg>
@@ -1358,7 +1340,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="3">
       <lg>
          <l pos="v">steike</l>
       </lg>
@@ -1422,7 +1404,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">njuohppat</t>
             <t pos="v" src="nj" usage="vd">batnit</t>
             <t pos="v" src="nj" usage="vd">botnit</t>
             <xg>
@@ -1460,7 +1441,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">krype</l>
       </lg>
@@ -1473,10 +1454,6 @@
       <mg>
          <tg re="krype inn i eller under noe" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">čákŋat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
          </tg>
       </mg>
    </e>
@@ -1534,7 +1511,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">forsvare</l>
       </lg>
@@ -1545,7 +1522,6 @@
       </mg>
       <mg>
          <tg re="noe man pleier å gjøre" xml:lang="sme">
-            <t pos="v">gádjalit</t>
             <t pos="v" usage="vd">várjalit</t>
          </tg>
       </mg>
@@ -1576,12 +1552,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">inspiseret</t>
             <t pos="v" usage="vd">bearráigeahččat</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="6">
       <lg>
          <l pos="v">miste</l>
       </lg>
@@ -1589,8 +1564,8 @@
          <tg re="unnslippe" xml:lang="sme">
             <t pos="v" src="nj" usage="vd">beasahit</t>
             <xg>
-               <x></x>
-               <xt></xt>
+               <x/>
+               <xt/>
             </xg>
          </tg>
       </mg>
@@ -1722,7 +1697,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">kollideret</t>
             <t pos="v" src="nj" usage="vd">beaškkihit</t>
             <xg>
                <x>Berit måtte svinge bilen i grøfta for at bilene ikke skulle kollidere.</x>
@@ -1731,15 +1705,10 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="3">
       <lg>
          <l pos="v">bry seg om</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">áktet</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">beroštit</t>
@@ -1816,15 +1785,10 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="4">
       <lg>
          <l pos="v">blåse</l>
       </lg>
-      <mg>
-         <tg re="blåse lenge" xml:lang="sme">
-            <t pos="v">bieggaladdat</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <re>om vind</re>
@@ -1876,7 +1840,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="3">
       <lg>
          <l pos="v">nekte</l>
       </lg>
@@ -1897,7 +1861,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">benekte</l>
       </lg>
@@ -1942,7 +1906,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">slippe</l>
       </lg>
@@ -1968,7 +1932,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">klare</l>
       </lg>
@@ -1994,7 +1958,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">pine</l>
       </lg>
@@ -2047,7 +2011,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">ironiseret</t>
             <t pos="v" src="nj" usage="vd">bilkidit</t>
          </tg>
       </mg>
@@ -2072,7 +2035,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">holde seg</l>
       </lg>
@@ -2108,7 +2071,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="3">
       <lg>
          <l pos="v">stanse</l>
       </lg>
@@ -2135,7 +2098,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="5">
       <lg>
          <l pos="v">stoppe</l>
       </lg>
@@ -2161,7 +2124,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re></re>
+            <re/>
             <t pos="v" src="nj" usage="vd">notkat</t>
          </tg>
       </mg>
@@ -2186,7 +2149,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">forbli</l>
       </lg>
@@ -2256,14 +2219,8 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">bivdáladdat</t>
-            <re>jakte sånn smått</re>
-         </tg>
-      </mg>
    </e>
-   <e>
+   <e mg_c="4">
       <lg>
          <l pos="v">be</l>
       </lg>
@@ -2330,29 +2287,24 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">skrike</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">abmet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re/>
             <t pos="v" src="nj" usage="vd">biškut</t>
-            <re></re>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re></re>
+            <re/>
             <t pos="v" src="nj" usage="vd">bárgut</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="5">
       <lg>
          <l pos="v">hyle</l>
       </lg>
@@ -2427,7 +2379,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">boagustit</t>
             <t pos="v" src="nj" usage="vd">čaibmat</t>
          </tg>
       </mg>
@@ -2443,7 +2394,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">tørke litt</l>
       </lg>
@@ -2478,7 +2429,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">plukke</l>
       </lg>
@@ -2490,8 +2441,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re/>
             <t pos="v" src="nj" usage="vd">boaibmut</t>
-            <re></re>
          </tg>
       </mg>
       <mg>
@@ -2517,7 +2468,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">sortere</l>
       </lg>
@@ -2552,13 +2503,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">brenne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re></re>
+            <re/>
             <t pos="v" src="nj" usage="vd">boaldit</t>
             <xg>
                <x>Jeg brenner gamle papirer.</x>
@@ -2568,7 +2519,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re></re>
+            <re/>
             <t pos="v" src="nj" usage="vd">buollit</t>
             <xg>
                <x>Ilden brenner.</x>
@@ -2577,7 +2528,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">svi</l>
       </lg>
@@ -2655,7 +2606,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">fosse</l>
       </lg>
@@ -2797,15 +2748,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="3">
       <lg>
          <l pos="v">fyke</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">borgaladdat</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">borgat</t>
@@ -2834,7 +2780,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">ryke</l>
       </lg>
@@ -2853,7 +2799,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">røyke</l>
       </lg>
@@ -2884,14 +2830,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re></re>
+            <re/>
             <t pos="v" src="nj" usage="vd">borjjastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>seile litt, over tid</re>
-            <t pos="v">borjjastallat</t>
          </tg>
       </mg>
    </e>
@@ -2915,7 +2855,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="6">
       <lg>
          <l pos="v">bryte</l>
       </lg>
@@ -2930,7 +2870,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re></re>
+            <re/>
             <t pos="v" src="nj" usage="vd">doadjit</t>
          </tg>
       </mg>
@@ -2948,7 +2888,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re></re>
+            <re/>
             <t pos="v" src="nj" usage="vd">heaibut</t>
          </tg>
       </mg>
@@ -2983,7 +2923,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">vri</l>
       </lg>
@@ -3013,7 +2953,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">inviteret</t>
             <t pos="v" src="nj" usage="vd">bovdet</t>
             <xg>
                <x>Sire hadde invitert stedets befolkning hjem til seg.</x>
@@ -3064,7 +3003,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">kompenseret</t>
             <t pos="v" usage="vd">buhtadit</t>
          </tg>
       </mg>
@@ -3075,7 +3013,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">refunderet</t>
             <t pos="v" usage="vd">buhtadit</t>
          </tg>
       </mg>
@@ -3158,7 +3095,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="v">dykke</l>
       </lg>
@@ -3201,12 +3138,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v">buorádahttit</t>
             <t pos="v" src="nj" usage="vd">buoridit</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="3">
       <lg>
          <l pos="v">rette på</l>
       </lg>
@@ -3310,15 +3246,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">herde</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">buoššodit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">buoššudit</t>
@@ -3345,15 +3276,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="3">
       <lg>
          <l pos="v">grave</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">lámastuhttit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">burgit</t>
@@ -3374,22 +3300,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">demontere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">demonteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">burgit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">kvele</l>
       </lg>
@@ -3404,15 +3325,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">produsere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">produseret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">buvttadit</t>
@@ -3439,7 +3355,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">smette</l>
       </lg>
@@ -3454,7 +3370,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">svulme opp</l>
       </lg>
@@ -3469,7 +3385,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">tvinge</l>
       </lg>
@@ -3484,22 +3400,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">ekspropriere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">eksproprieret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">bággolotnut</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">gå av</l>
       </lg>
@@ -3514,15 +3425,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="7">
+   <e mg_c="6">
       <lg>
          <l pos="v">sprette</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">buzzet</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">báhccat</t>
@@ -3558,7 +3464,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bli igjen</l>
       </lg>
@@ -3577,7 +3483,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bli varm</l>
       </lg>
@@ -3602,23 +3508,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">skyte</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om garn eller not</re>
-            <t pos="v">moardit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">báhčit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e mg_c="5">
       <lg>
          <l pos="v">stikke</l>
       </lg>
@@ -3673,7 +3573,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">påvirke</l>
       </lg>
@@ -3736,7 +3636,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">kaste</l>
       </lg>
@@ -3764,7 +3664,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">gjengjelde</l>
       </lg>
@@ -3789,7 +3689,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">betale</l>
       </lg>
@@ -3847,7 +3747,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">tjene</l>
       </lg>
@@ -3866,7 +3766,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">sprelle</l>
       </lg>
@@ -3906,7 +3806,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">være uheldig</l>
       </lg>
@@ -3931,7 +3831,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">gjøre ondt</l>
       </lg>
@@ -3956,7 +3856,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">forhindre</l>
       </lg>
@@ -4041,7 +3941,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">si</l>
       </lg>
@@ -4083,7 +3983,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">klare seg</l>
       </lg>
@@ -4137,7 +4037,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">gnage</l>
       </lg>
@@ -4184,7 +4084,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">skjelle ut</l>
       </lg>
@@ -4219,15 +4119,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="2">
       <lg>
          <l pos="v">barke</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">bárket</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">cihcit</t>
@@ -4257,7 +4152,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">klype</l>
       </lg>
@@ -4293,7 +4188,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">tisse</l>
       </lg>
@@ -4308,7 +4203,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">kvitre</l>
       </lg>
@@ -4361,7 +4256,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">synke</l>
       </lg>
@@ -4390,7 +4285,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">putte</l>
       </lg>
@@ -4415,7 +4310,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">påpeke</l>
       </lg>
@@ -4431,7 +4326,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">formane</l>
       </lg>
@@ -4451,7 +4346,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">advare</l>
       </lg>
@@ -4481,7 +4376,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">gjøre oppmerksom på</l>
       </lg>
@@ -4526,7 +4421,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">fnyse</l>
       </lg>
@@ -4575,22 +4470,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">makulere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">makuleret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">cábadit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="6">
+   <e mg_c="6">
       <lg>
          <l pos="v">banke</l>
       </lg>
@@ -4713,7 +4603,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">skjelve</l>
       </lg>
@@ -4738,7 +4628,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e mg_c="5">
       <lg>
          <l pos="v">riste</l>
       </lg>
@@ -4772,7 +4662,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">feste</l>
       </lg>
@@ -4825,7 +4715,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">bli fast</l>
       </lg>
@@ -4836,7 +4726,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">trykke</l>
       </lg>
@@ -4854,7 +4744,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re></re>
+            <re/>
             <t pos="v" src="nj" usage="vd">náđđut</t>
          </tg>
       </mg>
@@ -4865,7 +4755,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">glimte</l>
       </lg>
@@ -4894,7 +4784,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">glinse</l>
       </lg>
@@ -4931,7 +4821,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">møtes</l>
       </lg>
@@ -5009,15 +4899,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">poengtere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">poengteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">deattuhit</t>
@@ -5038,7 +4923,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">klaske</l>
       </lg>
@@ -5054,7 +4939,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">dekorere</l>
       </lg>
@@ -5113,45 +4998,30 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">orientere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">orienteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dieđihit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">debattere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">debatteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">digaštallat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="2">
       <lg>
          <l pos="v">diskutere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">diskuteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">diggedit</t>
@@ -5163,7 +5033,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="6">
+   <e mg_c="6">
       <lg>
          <l pos="v">krangle</l>
       </lg>
@@ -5202,7 +5072,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bestille</l>
       </lg>
@@ -5231,7 +5101,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">tillate</l>
       </lg>
@@ -5246,7 +5116,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">stelle</l>
       </lg>
@@ -5281,15 +5151,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="2">
       <lg>
          <l pos="v">reparere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">boret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <re>i lengre tid</re>
@@ -5312,7 +5177,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">gå fort</l>
       </lg>
@@ -5352,7 +5217,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">skvette</l>
       </lg>
@@ -5388,7 +5253,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">gripe</l>
       </lg>
@@ -5419,7 +5284,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">ta hensyn til</l>
       </lg>
@@ -5434,15 +5299,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">fungere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">fungeret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">doaibmat</t>
@@ -5519,22 +5379,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">eksportere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">eksporteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">doalvut</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">trave</l>
       </lg>
@@ -5549,7 +5404,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">skynde seg</l>
       </lg>
@@ -5583,7 +5438,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">forfølge</l>
       </lg>
@@ -5622,7 +5477,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">slå med flat hånd</l>
       </lg>
@@ -5674,22 +5529,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">akseptere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">aksepteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dohkkehit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bifalle</l>
       </lg>
@@ -5744,7 +5594,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">skylle</l>
       </lg>
@@ -5760,7 +5610,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">brenne bål og koke kaffe</l>
       </lg>
@@ -5775,7 +5625,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">brenne bål</l>
       </lg>
@@ -5790,7 +5640,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">fyre i ovnen</l>
       </lg>
@@ -5805,7 +5655,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bli lei</l>
       </lg>
@@ -5838,22 +5688,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">konfiskere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">konfiskeret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dollet</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">stole på</l>
       </lg>
@@ -5914,7 +5759,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">innrømme</l>
       </lg>
@@ -5949,7 +5794,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">kjennes</l>
       </lg>
@@ -5988,7 +5833,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">lage</l>
       </lg>
@@ -6047,15 +5892,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="3">
       <lg>
          <l pos="v">jevne</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">suohkudit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dulbet</t>
@@ -6092,15 +5932,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">koke opp</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">duldehit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">duldet</t>
@@ -6147,7 +5982,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">tåle</l>
       </lg>
@@ -6182,7 +6017,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">lappe</l>
       </lg>
@@ -6197,7 +6032,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">nå igjen</l>
       </lg>
@@ -6212,7 +6047,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">koke</l>
       </lg>
@@ -6255,7 +6090,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">ta imot</l>
       </lg>
@@ -6274,7 +6109,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">bekrefte</l>
       </lg>
@@ -6304,15 +6139,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">attestere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">attesteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">duođaštit</t>
@@ -6359,22 +6189,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">dempe</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">váidudit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dustet</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">granske</l>
       </lg>
@@ -6399,7 +6224,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">puffe</l>
       </lg>
@@ -6435,7 +6260,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">tumle</l>
       </lg>
@@ -6460,7 +6285,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">omkomme</l>
       </lg>
@@ -6485,15 +6310,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">annullere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">annulleret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">duššindahkat</t>
@@ -6520,7 +6340,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">tøve</l>
       </lg>
@@ -6535,7 +6355,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">tøyse</l>
       </lg>
@@ -6555,15 +6375,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">garantere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">garanteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dáhkidit</t>
@@ -6580,20 +6395,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">kausjonere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">kaušoneret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">kaušuneret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dáhkidit</t>
@@ -6620,7 +6425,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">ville</l>
       </lg>
@@ -6644,15 +6449,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">summe seg</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">dárránit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dáikkihit</t>
@@ -6699,7 +6499,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">danse</l>
       </lg>
@@ -6724,7 +6524,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">trenge</l>
       </lg>
@@ -6783,15 +6583,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">betrakte</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">dárkkuhit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dárkot</t>
@@ -6828,22 +6623,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">stabilisere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">stabiliseret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">dásset</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">svare</l>
       </lg>
@@ -6978,7 +6768,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bli sur</l>
       </lg>
@@ -7003,7 +6793,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">skilles</l>
       </lg>
@@ -7018,15 +6808,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">differensiere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">differensieret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">earuhit</t>
@@ -7043,7 +6828,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">hindre</l>
       </lg>
@@ -7072,7 +6857,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">bli sint</l>
       </lg>
@@ -7162,7 +6947,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">strekke seg</l>
       </lg>
@@ -7182,7 +6967,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">angripe</l>
       </lg>
@@ -7197,7 +6982,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">drive idrett</l>
       </lg>
@@ -7222,7 +7007,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">tøye</l>
       </lg>
@@ -7237,22 +7022,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">fantasere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">fantiseret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">fantaseret</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">vifte</l>
       </lg>
@@ -7297,15 +7077,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e mg_c="4">
       <lg>
          <l pos="v">male</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">verdnet</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">ferdnet</t>
@@ -7329,22 +7104,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">kverne</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">millet</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">ferdnet</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">oppleve</l>
       </lg>
@@ -7382,7 +7152,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">få</l>
       </lg>
@@ -7397,7 +7167,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">få tak i</l>
       </lg>
@@ -7452,7 +7222,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">frakte</l>
       </lg>
@@ -7550,7 +7320,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">jamre</l>
       </lg>
@@ -7580,7 +7350,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">sørge for</l>
       </lg>
@@ -7599,15 +7369,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">drive utukt</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">rohcošit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">furrošit</t>
@@ -7624,7 +7389,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">ta tak</l>
       </lg>
@@ -7639,7 +7404,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">passe</l>
       </lg>
@@ -7663,7 +7428,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">vokte</l>
       </lg>
@@ -7683,15 +7448,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">tilby</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">dárjut</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">fállat</t>
@@ -7708,15 +7468,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="3">
       <lg>
          <l pos="v">flytte</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">váccihit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">fárret</t>
@@ -7733,7 +7488,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">flakse</l>
       </lg>
@@ -7748,7 +7503,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">slenge</l>
       </lg>
@@ -7784,15 +7539,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="6">
+   <e mg_c="5">
       <lg>
          <l pos="v">rykke</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">raŋihit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">gaikkihit</t>
@@ -7824,7 +7574,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">rive</l>
       </lg>
@@ -7839,7 +7589,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e mg_c="5">
       <lg>
          <l pos="v">slite</l>
       </lg>
@@ -7875,7 +7625,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">revne</l>
       </lg>
@@ -7890,15 +7640,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="2">
       <lg>
          <l pos="v">glane</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">gáifat</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">gaivát</t>
@@ -7910,7 +7655,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">klatre</l>
       </lg>
@@ -7946,7 +7691,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">fryse</l>
       </lg>
@@ -7961,7 +7706,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">skulle</l>
       </lg>
@@ -7980,7 +7725,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">besøke</l>
       </lg>
@@ -8050,15 +7795,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">unnvike</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">sniehpput</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">garvilit</t>
@@ -8125,7 +7865,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">klore</l>
       </lg>
@@ -8176,7 +7916,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">lette</l>
       </lg>
@@ -8191,7 +7931,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">minske</l>
       </lg>
@@ -8276,7 +8016,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">spenne</l>
       </lg>
@@ -8301,7 +8041,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">pusse</l>
       </lg>
@@ -8321,42 +8061,27 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">polere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">poleret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">šelget</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">geallat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">repetere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">repeteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">geardduhit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">gjenta</l>
       </lg>
@@ -8371,22 +8096,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">multiplisere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">multipliseret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">geardut</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bli ferdig</l>
       </lg>
@@ -8401,7 +8121,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">tigge</l>
       </lg>
@@ -8421,7 +8141,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">kjøre</l>
       </lg>
@@ -8436,7 +8156,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">dra</l>
       </lg>
@@ -8464,15 +8184,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="3">
       <lg>
          <l pos="v">trekke</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">duorrat</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">geassit</t>
@@ -8519,7 +8234,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">heve seg</l>
       </lg>
@@ -8538,7 +8253,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e mg_c="5">
       <lg>
          <l pos="v">gå</l>
       </lg>
@@ -8606,7 +8321,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">strekke ut</l>
       </lg>
@@ -8631,7 +8346,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">skryte</l>
       </lg>
@@ -8656,22 +8371,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">kommandere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">kommanderet</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">gevret</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">ha løpetid</l>
       </lg>
@@ -8724,15 +8434,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="3">
       <lg>
          <l pos="v">surre</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">duolddadit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">giessat</t>
@@ -8769,22 +8474,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">bearbeide</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">muohkadit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">gieđahallat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">behandle</l>
       </lg>
@@ -8799,7 +8499,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">knirke</l>
       </lg>
@@ -8814,7 +8514,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">takke</l>
       </lg>
@@ -8860,7 +8560,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">lokke</l>
       </lg>
@@ -8885,7 +8585,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="6">
+   <e mg_c="6">
       <lg>
          <l pos="v">brøle</l>
       </lg>
@@ -8921,7 +8621,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">orke</l>
       </lg>
@@ -8955,15 +8655,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="2">
       <lg>
          <l pos="v">konkurrere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">konkurreret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">gilvalit</t>
@@ -9015,7 +8710,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">flimre</l>
       </lg>
@@ -9035,22 +8730,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">bremse</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">goazastit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">goahcat</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">dryppe</l>
       </lg>
@@ -9086,7 +8776,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">knakke</l>
       </lg>
@@ -9118,20 +8808,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">gratinere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">gratiidnet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">gratineret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">goardit</t>
@@ -9183,7 +8863,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">visne</l>
       </lg>
@@ -9219,7 +8899,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bekoste</l>
       </lg>
@@ -9244,7 +8924,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">drepe</l>
       </lg>
@@ -9277,7 +8957,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">kalle</l>
       </lg>
@@ -9332,7 +9012,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e mg_c="5">
       <lg>
          <l pos="v">tørke</l>
       </lg>
@@ -9412,7 +9092,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">forbruke</l>
       </lg>
@@ -9440,15 +9120,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="2">
       <lg>
          <l pos="v">fiske med drivgarn</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">bolohastit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">goldit</t>
@@ -9470,7 +9145,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">renne</l>
       </lg>
@@ -9495,7 +9170,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">reke</l>
       </lg>
@@ -9510,7 +9185,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e mg_c="5">
       <lg>
          <l pos="v">drive</l>
       </lg>
@@ -9540,7 +9215,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">svinne</l>
       </lg>
@@ -9563,7 +9238,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="4">
       <lg>
          <l pos="v">velte</l>
       </lg>
@@ -9618,7 +9293,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bukke</l>
       </lg>
@@ -9633,7 +9308,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">bøye seg</l>
       </lg>
@@ -9653,7 +9328,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">veltes</l>
       </lg>
@@ -9708,15 +9383,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">fotografere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">fotograferet</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" usage="vd">govvet</t>
@@ -9797,7 +9467,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">forstå hverandre</l>
       </lg>
@@ -9812,15 +9482,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">kommunisere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">kommuniseret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">gulahallat</t>
@@ -9957,7 +9622,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bli svidd</l>
       </lg>
@@ -10010,7 +9675,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">følge spor</l>
       </lg>
@@ -10053,7 +9718,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">berøre</l>
       </lg>
@@ -10117,35 +9782,20 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e>
       <lg>
          <l pos="v">traktere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">duohčahallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">trakteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">guossohit</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">servere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">serveret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">guossohit</t>
@@ -10222,7 +9872,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">gå i rad og rekke</l>
       </lg>
@@ -10247,7 +9897,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">gjelde</l>
       </lg>
@@ -10262,7 +9912,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">blekne</l>
       </lg>
@@ -10287,7 +9937,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">anta</l>
       </lg>
@@ -10316,7 +9966,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">koke seg kaffe</l>
       </lg>
@@ -10371,15 +10021,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="3">
       <lg>
          <l pos="v">ta vare på</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">gárbmudit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">gáhttet</t>
@@ -10426,7 +10071,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">forsvinne</l>
       </lg>
@@ -10461,30 +10106,20 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">kastrere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">kastreret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">gáldet</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="5">
+   <e mg_c="4">
       <lg>
          <l pos="v">løse</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">čoavdilit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">gálgat</t>
@@ -10506,7 +10141,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">lønne seg</l>
       </lg>
@@ -10541,7 +10176,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">vikle opp</l>
       </lg>
@@ -10566,7 +10201,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">komme til å</l>
       </lg>
@@ -10619,7 +10254,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">innskrenke</l>
       </lg>
@@ -10684,7 +10319,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">gjespe</l>
       </lg>
@@ -10710,7 +10345,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">bli oppdaget</l>
       </lg>
@@ -10735,7 +10370,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">handle</l>
       </lg>
@@ -10770,7 +10405,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">lukte</l>
       </lg>
@@ -10789,7 +10424,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">stinke</l>
       </lg>
@@ -10808,7 +10443,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="4">
+   <e mg_c="4">
       <lg>
          <l pos="v">henge</l>
       </lg>
@@ -10877,7 +10512,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">slutte</l>
       </lg>
@@ -10956,7 +10591,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">drukne</l>
       </lg>
@@ -11001,7 +10636,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">henge opp</l>
       </lg>
@@ -11016,15 +10651,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">bli svak</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">luonddahuvvat</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">hedjonit</t>
@@ -11055,15 +10685,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">vrake</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">skuvttet</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">hilgut</t>
@@ -11090,7 +10715,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">kremte</l>
       </lg>
@@ -11116,7 +10741,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">snakke</l>
       </lg>
@@ -11144,7 +10769,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">skyve</l>
       </lg>
@@ -11160,7 +10785,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">finne på</l>
       </lg>
@@ -11195,7 +10820,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">lede</l>
       </lg>
@@ -11244,7 +10869,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">rope</l>
       </lg>
@@ -11265,22 +10890,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">bygge</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">bigget</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">hukset</t>
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">prate</l>
       </lg>
@@ -11325,7 +10945,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">skaffe</l>
       </lg>
@@ -11340,15 +10960,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e>
       <lg>
          <l pos="v">rekruttere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">rekrutteret</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="v" src="nj" usage="vd">háhkat</t>
@@ -11415,7 +11030,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">snakke sammen</l>
       </lg>
@@ -11484,7 +11099,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">trene</l>
       </lg>
@@ -11543,7 +11158,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="3">
+   <e mg_c="3">
       <lg>
          <l pos="v">overnatte</l>
       </lg>
@@ -11563,7 +11178,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">vise seg</l>
       </lg>
@@ -11652,7 +11267,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">forstå</l>
       </lg>
@@ -11667,7 +11282,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">skjønne</l>
       </lg>
@@ -11732,7 +11347,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_counter="2">
+   <e mg_c="2">
       <lg>
          <l pos="v">lyde</l>
       </lg>
