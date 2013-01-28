@@ -9,7 +9,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">pasieanta+sihkkarvuohta</t>
+            <t pos="n">pasieantasihkkarvuohta</t>
          </tg>
       </mg>
    </e>
@@ -22,7 +22,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">váldi+doaimmahit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">váldedoaimmaheapmi</t>
          </tg>
       </mg>
    </e>
@@ -35,20 +35,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">vuođđo+oahpahit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <l_gt_count l_gt_c="1"/>
-      <t_gt_count t_gt_c="0"/>
-      <lg>
-         <l pos="n">grunn+opplæring</l>
-         <l_gt gt_pos="subst">grunnopplæring</l_gt>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">vuođđu+oahpahit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">vuođđooahpaheapmi</t>
          </tg>
       </mg>
    </e>
@@ -61,7 +48,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">ealáhus+boađđu</t>
+            <t pos="n">ealáhusboahtu</t>
          </tg>
       </mg>
    </e>
@@ -74,7 +61,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">skuvla+girjerádju+bargat</t>
+            <t pos="n" type="NomAg">skuvlagirjerádjobargi</t>
          </tg>
       </mg>
    </e>
@@ -87,7 +74,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">dáiddár+stipenda</t>
+            <t pos="n">dáiddárstipenda</t>
          </tg>
       </mg>
    </e>
@@ -100,7 +87,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">vealaheapmi+suorgi</t>
+            <t pos="n">váiddaásahus</t>
          </tg>
       </mg>
    </e>
@@ -113,7 +100,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">válga+bargat</t>
+            <t pos="n" type="NomAg">válgabargi</t>
          </tg>
       </mg>
    </e>
@@ -126,7 +113,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">boazu+doallat</t>
+            <t pos="n" type="NomAg">boazodoalli</t>
          </tg>
       </mg>
    </e>
@@ -152,7 +139,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/sg/loc/">politihkka+hápmet</t>
+            <t pos="n" rest="tv/der4/der_n/n/sg/loc/">politihkkahápmen</t>
          </tg>
       </mg>
    </e>
@@ -165,7 +152,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">bagadit+virgi</t>
+            <t pos="n">konsuleantavirgi</t>
          </tg>
       </mg>
    </e>
@@ -178,7 +165,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">oppalaš+fága+oahppat</t>
+            <t pos="n" type="NomAg">oppalašfágaoahppi</t>
          </tg>
       </mg>
    </e>
@@ -192,7 +179,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">doarjja+ohcat</t>
+            <t pos="n" type="NomAg">doarjjaohcci</t>
          </tg>
       </mg>
    </e>
@@ -205,7 +192,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">duopmár+gažadit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">duopmárgažadeapmi</t>
          </tg>
       </mg>
    </e>
@@ -218,7 +205,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">heargi+vuodjit</t>
+            <t pos="n" type="NomAg">heargevuoddji</t>
          </tg>
       </mg>
    </e>
@@ -231,7 +218,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/sg/nom/">alkohola+juhkat</t>
+            <t pos="n" rest="tv/der4/der_n/n/sg/nom/">alkoholajuhkan</t>
          </tg>
       </mg>
    </e>
@@ -244,7 +231,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">duottar+várri</t>
+            <t pos="n">duottarvárri</t>
          </tg>
       </mg>
    </e>
@@ -257,7 +244,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">teáhter+bargat</t>
+            <t pos="n" type="NomAg">teáhterbargi</t>
          </tg>
       </mg>
    </e>
@@ -270,7 +257,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">gieddi+veahkki+bargat</t>
+            <t pos="n" type="NomAg">gieddeveahkkebargi</t>
          </tg>
       </mg>
    </e>
@@ -283,7 +270,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">filbma+dahkat</t>
+            <t pos="n" type="NomAg">filbmadahkki</t>
          </tg>
       </mg>
    </e>
@@ -296,7 +283,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/sg/ill/">fitnodat+plánet</t>
+            <t pos="n" rest="tv/der4/der_n/n/sg/ill/">fitnodatplánen</t>
          </tg>
       </mg>
    </e>
@@ -309,7 +296,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">meieriijá+suorgi</t>
+            <t pos="n">meieriijásuorgi</t>
          </tg>
       </mg>
    </e>
@@ -322,7 +309,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">meieriijá+sektuvra</t>
+            <t pos="n">meieriijásektuvra</t>
          </tg>
       </mg>
    </e>
@@ -335,7 +322,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">poasta+doavttir+stipenda</t>
+            <t pos="n">poastadoavtterstipenda</t>
          </tg>
       </mg>
    </e>
@@ -348,7 +335,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">vuovdit+lohpi</t>
+            <t pos="n">vuovdinlohpi</t>
          </tg>
       </mg>
    </e>
@@ -361,7 +348,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">vearru+boađđu</t>
+            <t pos="n">vearroboahtu</t>
          </tg>
       </mg>
    </e>
@@ -374,7 +361,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/pl/ill/">johtolat+sihkkarastit</t>
+            <t pos="n" rest="tv/der4/der_n/n/pl/ill/">johtolatsihkkarastin</t>
          </tg>
       </mg>
    </e>
@@ -387,7 +374,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">šibitdoavttir+laboratoriija</t>
+            <t pos="n">šibitdoavtterlaboratoriija</t>
          </tg>
       </mg>
    </e>
@@ -400,7 +387,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_muš/n/pl/nom/">olmmoš+dutkat</t>
+            <t pos="n" rest="tv/der4/der_muš/n/pl/nom/">olmmošdutkamuš</t>
          </tg>
       </mg>
    </e>
@@ -413,7 +400,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">doavttir+gráda+stipenda</t>
+            <t pos="n">doavttergrádastipenda</t>
          </tg>
       </mg>
    </e>
@@ -426,7 +413,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="iv/der4/der_n/n/pl/nom/">biras+rievdat</t>
+            <t pos="n" rest="iv/der4/der_n/n/pl/nom/">birasrievdan</t>
          </tg>
       </mg>
    </e>
@@ -439,7 +426,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">biras+sihkkarvuohta</t>
+            <t pos="n">birassihkkarvuohta</t>
          </tg>
       </mg>
    </e>
@@ -452,7 +439,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">miššovdna+virgi+goddit</t>
+            <t pos="n" type="NomAg">miššonvirgegoddi</t>
          </tg>
       </mg>
    </e>
@@ -465,7 +452,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">prošeakta+kántuvra</t>
+            <t pos="n">prošeaktakántuvra</t>
          </tg>
       </mg>
    </e>
@@ -478,7 +465,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">servodat+sihkkarvuohta</t>
+            <t pos="n">servodatsihkkarvuohta</t>
          </tg>
       </mg>
    </e>
@@ -491,7 +478,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">máksu+mearri+lasihit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">máksomearrelasiheapmi</t>
          </tg>
       </mg>
    </e>
@@ -504,7 +491,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">terminologiija+ráhkadit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">terminologiijaráhkadeapmi</t>
          </tg>
       </mg>
    </e>
@@ -517,7 +504,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">terminologiija+ovddidit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">terminologiijaovddideapmi</t>
          </tg>
       </mg>
    </e>
@@ -530,7 +517,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">dutkan+lávdi+goddit</t>
+            <t pos="n">dutkanlávdegoddi</t>
          </tg>
       </mg>
    </e>
@@ -543,7 +530,20 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">bargoveahka+dárbu</t>
+            <t pos="n">bargomárkanovdáneapmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l_gt_count l_gt_c="1"/>
+      <t_gt_count t_gt_c="0"/>
+      <lg>
+         <l pos="n">arbeid+marked+utvikling</l>
+         <l_gt gt_pos="subst" c="1">arbeidsmarkedsutvikling</l_gt>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="n">bargomárkanovddideapmi</t>
          </tg>
       </mg>
    </e>
@@ -556,7 +556,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">ealáhus+doalut</t>
+            <t pos="n">ealáhusdoallu</t>
          </tg>
       </mg>
    </e>
@@ -569,7 +569,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">veahka+váldi+náššat</t>
+            <t pos="n" type="G3">veahkaváldinášši</t>
          </tg>
       </mg>
    </e>
@@ -582,7 +582,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">váldi+náššat</t>
+            <t pos="n" type="G3">roahcanášši</t>
          </tg>
       </mg>
    </e>
@@ -595,7 +595,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">ohcat+logus</t>
+            <t pos="n">ohcamušlohku</t>
          </tg>
       </mg>
    </e>
@@ -608,7 +608,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/pl/gen/">buolva+molsut</t>
+            <t pos="n" rest="tv/der4/der_n/n/pl/gen/">buolvamolsun</t>
          </tg>
       </mg>
    </e>
@@ -621,7 +621,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="iv/der2/actor/n/">ealáhus+oassálastit</t>
+            <t pos="n" type="NomAg">ealáhusoassálasti</t>
          </tg>
       </mg>
    </e>
@@ -634,7 +634,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">bušeahtta+meannudit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">bušeahttameannudeapmi</t>
          </tg>
       </mg>
    </e>
@@ -647,7 +647,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">sápmi+minister</t>
+            <t pos="n">sámeminister</t>
          </tg>
       </mg>
    </e>
@@ -660,7 +660,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="iv/der2/der_eapmi/n/">dievas+čoahkkin+čoagganit</t>
+            <t pos="n" rest="iv/der2/der_eapmi/n/">dievasčoahkkinčoagganeapmi</t>
          </tg>
       </mg>
    </e>
@@ -673,7 +673,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="iv/der4/der_n/n/sg/gen/">servodat+rievdat</t>
+            <t pos="n" rest="iv/der4/der_n/n/sg/gen/">servodatrievdan</t>
          </tg>
       </mg>
    </e>
@@ -686,7 +686,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">sosiála+sektuvra</t>
+            <t pos="n">sosiálasektuvra</t>
          </tg>
       </mg>
    </e>
@@ -695,11 +695,11 @@
       <t_gt_count t_gt_c="0"/>
       <lg>
          <l pos="n">arkiv+arbeid</l>
-         <l_gt gt_pos="subst">arkivarbeide</l_gt>
+         <l_gt gt_pos="subst">arkivarbeid</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">arkiiva+bargat</t>
+            <t pos="n">arkiivabargu</t>
          </tg>
       </mg>
    </e>
@@ -725,7 +725,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/sg/rcmpnd/">fitnodat+ovdánahttit</t>
+            <t pos="n" rest="tv/der4/der_n/n/sg/rcmpnd/">fitnodatovdánahttin</t>
          </tg>
       </mg>
    </e>
@@ -738,7 +738,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="iv/der2/der_eapmi/n/">hivvodat+lassánit</t>
+            <t pos="n" rest="iv/der2/der_eapmi/n/">hivvodatlassáneapmi</t>
          </tg>
       </mg>
    </e>
@@ -751,7 +751,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">astu+áigi+doaibma</t>
+            <t pos="n">astoáiggedoaibma</t>
          </tg>
       </mg>
    </e>
@@ -764,7 +764,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/sg/loc/">vearru+plánet</t>
+            <t pos="n" rest="tv/der4/der_n/n/sg/loc/">vearroplánen</t>
          </tg>
       </mg>
    </e>
@@ -777,7 +777,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">eana+láigohit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">eanaláigoheapmi</t>
          </tg>
       </mg>
    </e>
@@ -790,7 +790,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/sg/loc/">johtolat+sihkkarastit</t>
+            <t pos="n" rest="tv/der4/der_n/n/sg/loc/">johtolatsihkkarastin</t>
          </tg>
       </mg>
    </e>
@@ -803,7 +803,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">mielki+doalut</t>
+            <t pos="n">mielkedoallu</t>
          </tg>
       </mg>
    </e>
@@ -816,7 +816,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">filbma+bargat</t>
+            <t pos="n" type="NomAg">filbmabargi</t>
          </tg>
       </mg>
    </e>
@@ -830,8 +830,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v"
-               rest="tv/der4/der_n/n/sg/ill/;tv/der4/der_n/n/sg/loc/;tv/der4/der_n/n/sg/nom/;tv/der4/der_n/n/sg/acc/;tv/der4/der_n/n/sg/gen/;">etáhtta+stivret</t>
+            <t pos="n"
+               rest="tv/der4/der_n/n/sg/ill/;tv/der4/der_n/n/sg/loc/;tv/der4/der_n/n/sg/nom/;tv/der4/der_n/n/sg/acc/;tv/der4/der_n/n/sg/gen/;">etáhttastivren</t>
          </tg>
       </mg>
    </e>
@@ -840,11 +840,11 @@
       <t_gt_count t_gt_c="0"/>
       <lg>
          <l pos="n">formue+skatt</l>
-         <l_gt gt_pos="subst">formueskatte</l_gt>
+         <l_gt gt_pos="subst">formueskatt</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">opmodat+vearuhit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">opmodatvearuheapmi</t>
          </tg>
       </mg>
    </e>
@@ -857,7 +857,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">dálkkádat+dutkat</t>
+            <t pos="n" type="NomAg">dálkkádatdutki</t>
          </tg>
       </mg>
    </e>
@@ -870,7 +870,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">ealáhus+álggahit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">ealáhusálggaheapmi</t>
          </tg>
       </mg>
    </e>
@@ -883,7 +883,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">ealáhus+ásahit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">ealáhusásaheapmi</t>
          </tg>
       </mg>
    </e>
@@ -896,7 +896,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">oahppu+organisašuvdna</t>
+            <t pos="n">oahppoorganisašuvdna</t>
          </tg>
       </mg>
    </e>
@@ -909,7 +909,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">oahpahus+organisašuvdna</t>
+            <t pos="n">oahpahusorganisašuvdna</t>
          </tg>
       </mg>
    </e>
@@ -922,7 +922,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">diibmu+lasihit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">diibmolasiheapmi</t>
          </tg>
       </mg>
    </e>
@@ -935,7 +935,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">oahppat+suorgi</t>
+            <t pos="n">oahppansuorgi</t>
          </tg>
       </mg>
    </e>
@@ -948,7 +948,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">dutkan+minister</t>
+            <t pos="n">dutkanminister</t>
          </tg>
       </mg>
    </e>
@@ -961,7 +961,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/sg/ill/">olju+bohkat</t>
+            <t pos="n" rest="tv/der4/der_n/n/sg/ill/">oljobohkan</t>
          </tg>
       </mg>
    </e>
@@ -974,7 +974,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">teknologiija+gaskkustit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">teknologiijagaskkusteapmi</t>
          </tg>
       </mg>
    </e>
