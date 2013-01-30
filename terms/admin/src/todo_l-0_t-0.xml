@@ -4,11 +4,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">folkerett+prinsipp</l>
+         <l pos="n">folkerettsprinsipp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">riekti+prinsihppa</t>
+            <t pos="n">álbmotriekteprinsihppa</t>
          </tg>
       </mg>
    </e>
@@ -16,11 +16,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">pasient+transport</l>
+         <l pos="n">pasienttransport</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">buohcat+fievrridit</t>
+            <t pos="n" rest="tv/der2/der_eapmi/n/">buhcciidfievrrideapmi</t>
          </tg>
       </mg>
    </e>
@@ -28,11 +28,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">utvikling+arbeider</l>
+         <l pos="n">utviklingsarbeider</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">ovddidit+bargat</t>
+            <t pos="n" type="NomAg">ovddidanbargi</t>
          </tg>
       </mg>
    </e>
@@ -40,11 +40,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">sannhet+bilde</l>
+         <l pos="n">sannhetsbilde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">duohta+govva</t>
+            <t pos="n">duohtagovva</t>
          </tg>
       </mg>
    </e>
@@ -52,11 +52,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">grendehus+forening</l>
+         <l pos="n">grendehusforening</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">gilli+viessu+searvi</t>
+            <t pos="n">giliviessosearvi</t>
          </tg>
       </mg>
    </e>
@@ -64,11 +64,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">flagg+reglement</l>
+         <l pos="n">flaggreglement</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">leavga+mearrádus</t>
+            <t pos="n">leavgamearrádus</t>
          </tg>
       </mg>
    </e>
@@ -76,11 +76,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">tann+helse+personell</l>
+         <l pos="n">flaggreglement</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/actor/n/">bátni+dearvvaš+bargat</t>
+            <t pos="n">leavganjuolggadus</t>
          </tg>
       </mg>
    </e>
@@ -88,11 +88,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">drosje+næring</l>
+         <l pos="n">tannhelsepersonell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">drošše+ealáhus</t>
+            <t pos="n">bátnedearvvašvuođabargit</t>
          </tg>
       </mg>
    </e>
@@ -100,11 +100,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">institusjon+tilknytning</l>
+         <l pos="n">drosjenæring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="iv/der2/der_eapmi/n/">ásahus+čatnasit</t>
+            <t pos="n">droššeealáhus</t>
          </tg>
       </mg>
    </e>
@@ -112,11 +112,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">oppgave+løsning</l>
+         <l pos="n">institusjonstilknytning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/sg/loc/">dahkat+čoavdit</t>
+            <t pos="n" rest="iv/der2/der_eapmi/n/">ásahusčatnaseapmi</t>
          </tg>
       </mg>
    </e>
@@ -124,11 +124,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">rovdyr+spørsmål</l>
+         <l pos="n">oppgaveløsning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">boraspire+gažaldat</t>
+            <t pos="n" rest="tv/der4/der_n/n/sg/loc/">dahkamuščoavdin</t>
          </tg>
       </mg>
    </e>
@@ -136,7 +136,19 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">verdi+skapning</l>
+         <l pos="n">rovdyrspørsmål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="n">boraspiregažaldat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <l_gt_count l_gt_c="0"/>
+      <t_gt_count t_gt_c="0"/>
+      <lg>
+         <l pos="n">verdiskapning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -148,11 +160,11 @@
       <l_gt_count l_gt_c="0"/>
       <t_gt_count t_gt_c="0"/>
       <lg>
-         <l pos="n">start+fase</l>
+         <l pos="n">startfase</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der2/der_eapmi/n/">produkšuvdna+ásahit</t>
+            <t pos="n">álggahandássi</t>
          </tg>
       </mg>
    </e>
