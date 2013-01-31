@@ -122,11 +122,11 @@
       <t_gt_count t_gt_c="0"/>
       <lg>
          <l pos="n">tvang+grunnlag</l>
-         <l_gt gt_pos="subst">tvangsgrunnlag</l_gt>
+         <l_gt gt_pos="subst" exp_type="mwe" right_side="for utlegg">tvangsgrunnlag</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="v" rest="tv/der4/der_n/n/sg/gen/">bággu+bearrat</t>
+            <t pos="n" case="sg/gen/" exp_type="mwe" right_side="vuođđu">bággobearran</t>
          </tg>
       </mg>
    </e>
