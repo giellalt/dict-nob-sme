@@ -20,7 +20,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="308800">
+   <e freq="$308800">
       <lg>
          <l pos="n">kamp</l>
       </lg>
@@ -40,7 +40,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="218429">
+   <e freq="$218429">
       <lg>
          <l pos="n">person</l>
       </lg>
@@ -50,7 +50,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="215420">
+   <e freq="$215420">
       <lg>
          <l pos="n">gange</l>
       </lg>
@@ -60,7 +60,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="203897">
+   <e freq="$203897">
       <lg>
          <l pos="n">jobb</l>
       </lg>
@@ -70,7 +70,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="197031">
+   <e freq="$197031">
       <lg>
          <l pos="n">selskap</l>
       </lg>
@@ -80,18 +80,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="166690">
+   <e freq="$166690">
       <lg>
          <l pos="n">informasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">informašuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">oahpisteapmi</t>
          </tg>
       </mg>
    </e>
@@ -115,7 +110,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="152882">
+   <e freq="$152882">
       <lg>
          <l pos="n">løp</l>
       </lg>
@@ -150,7 +145,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="133287">
+   <e freq="$133287">
       <lg>
          <l pos="n">situasjon</l>
       </lg>
@@ -185,7 +180,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="127977">
+   <e mg_c="2" freq="$127977">
       <lg>
          <l pos="n">tema</l>
       </lg>
@@ -219,7 +214,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="126084">
+   <e freq="$126084">
       <lg>
          <l pos="n">type</l>
       </lg>
@@ -240,7 +235,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="124421">
+   <e freq="$124421">
       <lg>
          <l pos="n">kontakt</l>
       </lg>
@@ -250,7 +245,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="116379">
+   <e freq="$116379">
       <lg>
          <l pos="n">erfaring</l>
       </lg>
@@ -280,7 +275,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="110656">
+   <e mg_c="2" freq="$110656">
       <lg>
          <l pos="n">periode</l>
       </lg>
@@ -295,7 +290,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="108226">
+   <e freq="$108226">
       <lg>
          <l pos="n">sesong</l>
       </lg>
@@ -305,7 +300,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="100988">
+   <e freq="$100988">
       <lg>
          <l pos="n">debatt</l>
       </lg>
@@ -315,7 +310,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="100453">
+   <e freq="$100453">
       <lg>
          <l pos="n">forbindelse</l>
       </lg>
@@ -335,7 +330,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="94835">
+   <e freq="$94835">
       <lg>
          <l pos="n">tjeneste</l>
       </lg>
@@ -392,7 +387,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="92722">
+   <e freq="$92722">
       <lg>
          <l pos="n">blogg</l>
       </lg>
@@ -412,7 +407,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="92380">
+   <e freq="$92380">
       <lg>
          <l pos="n">kvalitet</l>
       </lg>
@@ -422,7 +417,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="91582">
+   <e freq="$91582">
       <lg>
          <l pos="n">video</l>
       </lg>
@@ -452,7 +447,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="89367">
+   <e freq="$89367">
       <lg>
          <l pos="n">bedrift</l>
       </lg>
@@ -462,7 +457,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="88441">
+   <e freq="$88441">
       <lg>
          <l pos="n">utgangspunkt</l>
       </lg>
@@ -472,7 +467,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="87441">
+   <e freq="$87441">
       <lg>
          <l pos="n">produkt</l>
       </lg>
@@ -482,23 +477,18 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3" freq="86347">
+   <e mg_c="2" freq="$86347">
       <lg>
          <l pos="n">behandling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">dálkkodeapmi</t>
             <t pos="n">meannudus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">dikšun</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="n">dikšu</t>
             <t pos="n">dálkkodeapmi</t>
          </tg>
       </mg>
@@ -513,7 +503,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3" freq="83387">
+   <e mg_c="2" freq="$83387">
       <lg>
          <l pos="n">kontroll</l>
       </lg>
@@ -525,11 +515,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dárkkástus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">kontrolla</t>
          </tg>
       </mg>
    </e>
@@ -567,7 +552,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="80526">
+   <e freq="$80526">
       <lg>
          <l pos="n">hånd</l>
       </lg>
@@ -577,7 +562,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="79085">
+   <e freq="$79085">
       <lg>
          <l pos="n">løsning</l>
       </lg>
@@ -602,7 +587,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="78839">
+   <e freq="$78839">
       <lg>
          <l pos="n">salg</l>
       </lg>
@@ -612,7 +597,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="78657">
+   <e freq="$78657">
       <lg>
          <l pos="n">får</l>
       </lg>
@@ -622,7 +607,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="78162">
+   <e freq="$78162">
       <lg>
          <l pos="n">oppgave</l>
       </lg>
@@ -657,7 +642,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="76679">
+   <e freq="$76679">
       <lg>
          <l pos="n">pasient</l>
       </lg>
@@ -682,7 +667,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="76636">
+   <e freq="$76636">
       <lg>
          <l pos="n">aksje</l>
       </lg>
@@ -692,7 +677,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="76167">
+   <e freq="$76167">
       <lg>
          <l pos="n">støtte</l>
       </lg>
@@ -712,7 +697,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="74674">
+   <e freq="$74674">
       <lg>
          <l pos="n">undersøkelse</l>
       </lg>
@@ -722,7 +707,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="74571">
+   <e freq="$74571">
       <lg>
          <l pos="n">grunnlag</l>
       </lg>
@@ -732,7 +717,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="71984">
+   <e freq="$71984">
       <lg>
          <l pos="n">styre</l>
       </lg>
@@ -742,7 +727,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="67224">
+   <e freq="$67224">
       <lg>
          <l pos="n">ledelse</l>
       </lg>
@@ -762,7 +747,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="64074">
+   <e freq="$64074">
       <lg>
          <l pos="n">bane</l>
       </lg>
@@ -772,7 +757,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="63968">
+   <e freq="$63968">
       <lg>
          <l pos="n">konsekvens</l>
       </lg>
@@ -783,7 +768,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="62512">
+   <e freq="$62512">
       <lg>
          <l pos="n">hensyn</l>
       </lg>
@@ -803,7 +788,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="61530">
+   <e freq="$61530">
       <lg>
          <l pos="n">diskusjon</l>
       </lg>
@@ -813,7 +798,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="60021">
+   <e freq="$60021">
       <lg>
          <l pos="n">versjon</l>
       </lg>
@@ -823,7 +808,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="59736">
+   <e freq="$59736">
       <lg>
          <l pos="n">prosess</l>
       </lg>
@@ -833,7 +818,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="57767">
+   <e freq="$57767">
       <lg>
          <l pos="n">funksjon</l>
       </lg>
@@ -863,7 +848,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="56938">
+   <e freq="$56938">
       <lg>
          <l pos="n">besøk</l>
       </lg>
@@ -873,7 +858,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="56845">
+   <e mg_c="2" freq="$56845">
       <lg>
          <l pos="n">forsøk</l>
       </lg>
@@ -888,7 +873,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="55544">
+   <e freq="$55544">
       <lg>
          <l pos="n">utvalg</l>
       </lg>
@@ -898,7 +883,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="55519">
+   <e freq="$55519">
       <lg>
          <l pos="n">syn</l>
       </lg>
@@ -908,7 +893,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="55450">
+   <e freq="$55450">
       <lg>
          <l pos="n">energi</l>
       </lg>
@@ -918,7 +903,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="55199">
+   <e freq="$55199">
       <lg>
          <l pos="n">idé</l>
       </lg>
@@ -928,7 +913,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="54705">
+   <e freq="$54705">
       <lg>
          <l pos="n">metode</l>
       </lg>
@@ -958,7 +943,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="53866">
+   <e mg_c="2" freq="$53866">
       <lg>
          <l pos="n">produksjon</l>
       </lg>
@@ -973,7 +958,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="53865">
+   <e mg_c="2" freq="$53865">
       <lg>
          <l pos="n">profil</l>
       </lg>
@@ -988,7 +973,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="53808">
+   <e mg_c="2" freq="$53808">
       <lg>
          <l pos="n">størrelse</l>
       </lg>
@@ -1003,7 +988,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="53768">
+   <e freq="$53768">
       <lg>
          <l pos="n">skjerm</l>
       </lg>
@@ -1023,7 +1008,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="52804">
+   <e freq="$52804">
       <lg>
          <l pos="n">utstyr</l>
       </lg>
@@ -1033,7 +1018,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4" freq="52772">
+   <e mg_c="4" freq="$52772">
       <lg>
          <l pos="n">risiko</l>
       </lg>
@@ -1053,13 +1038,8 @@
             <t pos="n">riska</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">vahátriska</t>
-         </tg>
-      </mg>
    </e>
-   <e freq="52766">
+   <e freq="$52766">
       <lg>
          <l pos="n">konto</l>
       </lg>
@@ -1069,7 +1049,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="52450">
+   <e freq="$52450">
       <lg>
          <l pos="n">tegn</l>
       </lg>
@@ -1079,7 +1059,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="51901">
+   <e freq="$51901">
       <lg>
          <l pos="n">faktum</l>
       </lg>
@@ -1089,7 +1069,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="51608">
+   <e freq="$51608">
       <lg>
          <l pos="n">innsats</l>
       </lg>
@@ -1099,7 +1079,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="50501">
+   <e freq="$50501">
       <lg>
          <l pos="n">kritikk</l>
       </lg>
@@ -1108,13 +1088,8 @@
             <t pos="n">kritihkka</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">veardideapmi</t>
-         </tg>
-      </mg>
    </e>
-   <e freq="50328">
+   <e freq="$50328">
       <lg>
          <l pos="n">ressurs</l>
       </lg>
@@ -1124,7 +1099,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="49633">
+   <e freq="$49633">
       <lg>
          <l pos="n">inntekt</l>
       </lg>
@@ -1134,7 +1109,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="49406">
+   <e freq="$49406">
       <lg>
          <l pos="n">teknologi</l>
       </lg>
@@ -1154,7 +1129,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="48497">
+   <e freq="$48497">
       <lg>
          <l pos="n">vedtak</l>
       </lg>
@@ -1208,7 +1183,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="47065">
+   <e freq="$47065">
       <lg>
          <l pos="n">link</l>
       </lg>
@@ -1217,17 +1192,8 @@
             <t pos="n">liŋka</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">liŋka</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
    </e>
-   <e freq="46609">
+   <e freq="$46609">
       <lg>
          <l pos="n">styrke</l>
       </lg>
@@ -1237,7 +1203,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="46594">
+   <e freq="$46594">
       <lg>
          <l pos="n">mangel</l>
       </lg>
@@ -1257,7 +1223,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="46193">
+   <e freq="$46193">
       <lg>
          <l pos="n">snakk</l>
       </lg>
@@ -1267,7 +1233,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="44869">
+   <e mg_c="2" freq="$44869">
       <lg>
          <l pos="n">sitat</l>
       </lg>
@@ -1282,18 +1248,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="44422">
+   <e freq="$44422">
       <lg>
          <l pos="n">religion</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">religiovdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">religiuvdna</t>
          </tg>
       </mg>
    </e>
@@ -1307,7 +1268,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="44008">
+   <e freq="$44008">
       <lg>
          <l pos="n">prøve</l>
       </lg>
@@ -1317,7 +1278,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="44007">
+   <e mg_c="2" freq="$44007">
       <lg>
          <l pos="n">standard</l>
       </lg>
@@ -1332,18 +1293,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="43837">
+   <e freq="$43837">
       <lg>
          <l pos="n">teori</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">teoriija</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">teoria</t>
          </tg>
       </mg>
    </e>
@@ -1357,7 +1313,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3" freq="43044">
+   <e mg_c="3" freq="$43044">
       <lg>
          <l pos="n">konflikt</l>
       </lg>
@@ -1377,7 +1333,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="42216">
+   <e freq="$42216">
       <lg>
          <l pos="n">mobil</l>
       </lg>
@@ -1387,7 +1343,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="41653">
+   <e freq="$41653">
       <lg>
          <l pos="n">runde</l>
       </lg>
@@ -1397,7 +1353,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="41588">
+   <e freq="$41588">
       <lg>
          <l pos="n">handling</l>
       </lg>
@@ -1417,7 +1373,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="40407">
+   <e freq="$40407">
       <lg>
          <l pos="n">aktør</l>
       </lg>
@@ -1427,7 +1383,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="40184">
+   <e freq="$40184">
       <lg>
          <l pos="n">angrep</l>
       </lg>
@@ -1478,7 +1434,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="38990">
+   <e freq="$38990">
       <lg>
          <l pos="n">vold</l>
       </lg>
@@ -1488,7 +1444,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="38732">
+   <e freq="$38732">
       <lg>
          <l pos="n">beskjed</l>
       </lg>
@@ -1498,7 +1454,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="38681">
+   <e freq="$38681">
       <lg>
          <l pos="n">tidspunkt</l>
       </lg>
@@ -1543,7 +1499,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="38386">
+   <e freq="$38386">
       <lg>
          <l pos="n">utland</l>
       </lg>
@@ -1553,7 +1509,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="38094">
+   <e freq="$38094">
       <lg>
          <l pos="n">bidrag</l>
       </lg>
@@ -1564,7 +1520,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="37749">
+   <e mg_c="2" freq="$37749">
       <lg>
          <l pos="n">konklusjon</l>
       </lg>
@@ -1579,7 +1535,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="37687">
+   <e freq="$37687">
       <lg>
          <l pos="n">suksess</l>
       </lg>
@@ -1589,7 +1545,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="37635">
+   <e freq="$37635">
       <lg>
          <l pos="n">anlegg</l>
       </lg>
@@ -1599,7 +1555,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="37257">
+   <e freq="$37257">
       <lg>
          <l pos="n">budsjett</l>
       </lg>
@@ -1609,7 +1565,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="37219">
+   <e freq="$37219">
       <lg>
          <l pos="n">enhet</l>
       </lg>
@@ -1619,7 +1575,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="37088">
+   <e freq="$37088">
       <lg>
          <l pos="n">posisjon</l>
       </lg>
@@ -1629,7 +1585,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="37006">
+   <e freq="$37006">
       <lg>
          <l pos="n">lønn</l>
       </lg>
@@ -1639,7 +1595,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="36997">
+   <e freq="$36997">
       <lg>
          <l pos="n">kategori</l>
       </lg>
@@ -1649,7 +1605,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="36966">
+   <e freq="$36966">
       <lg>
          <l pos="n">unntak</l>
       </lg>
@@ -1659,7 +1615,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="36750">
+   <e freq="$36750">
       <lg>
          <l pos="n">mamma</l>
       </lg>
@@ -1669,7 +1625,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="36675">
+   <e freq="$36675">
       <lg>
          <l pos="n">begrep</l>
       </lg>
@@ -1679,7 +1635,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="36296">
+   <e freq="$36296">
       <lg>
          <l pos="n">skyld</l>
       </lg>
@@ -1689,7 +1645,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="36185">
+   <e freq="$36185">
       <lg>
          <l pos="n">befolkning</l>
       </lg>
@@ -1699,7 +1655,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="36172">
+   <e freq="$36172">
       <lg>
          <l pos="n">evne</l>
       </lg>
@@ -1729,7 +1685,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="35743">
+   <e mg_c="2" freq="$35743">
       <lg>
          <l pos="n">reaksjon</l>
       </lg>
@@ -1744,7 +1700,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="35731">
+   <e mg_c="2" freq="$35731">
       <lg>
          <l pos="n">kvartal</l>
       </lg>
@@ -1759,7 +1715,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="35533">
+   <e freq="$35533">
       <lg>
          <l pos="n">utslipp</l>
       </lg>
@@ -1769,7 +1725,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="35484">
+   <e mg_c="2" freq="$35484">
       <lg>
          <l pos="n">respekt</l>
       </lg>
@@ -1784,7 +1740,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="35212">
+   <e freq="$35212">
       <lg>
          <l pos="n">dokument</l>
       </lg>
@@ -1794,7 +1750,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="35147">
+   <e freq="$35147">
       <lg>
          <l pos="n">smak</l>
       </lg>
@@ -1804,7 +1760,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="35062">
+   <e freq="$35062">
       <lg>
          <l pos="n">pause</l>
       </lg>
@@ -1814,7 +1770,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="35030">
+   <e mg_c="2" freq="$35030">
       <lg>
          <l pos="n">produsent</l>
       </lg>
@@ -1839,7 +1795,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="34752">
+   <e mg_c="2" freq="$34752">
       <lg>
          <l pos="n">stykke</l>
       </lg>
@@ -1858,7 +1814,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="34707">
+   <e freq="$34707">
       <lg>
          <l pos="n">sjekk</l>
       </lg>
@@ -1868,15 +1824,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="34593">
+   <e freq="$34593">
       <lg>
          <l pos="n">region</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">regiuvdna</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">regiovdna</t>
@@ -1897,7 +1848,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="34210">
+   <e freq="$34210">
       <lg>
          <l pos="n">oppdrag</l>
       </lg>
@@ -1907,7 +1858,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="34152">
+   <e freq="$34152">
       <lg>
          <l pos="n">sikkerhet</l>
       </lg>
@@ -1917,7 +1868,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="32984">
+   <e freq="$32984">
       <lg>
          <l pos="n">album</l>
       </lg>
@@ -1972,23 +1923,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="32264">
+   <e freq="$32264">
       <lg>
          <l pos="n">stil</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">stiila</t>
-            <t pos="n">reanta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">stiila</t>
          </tg>
       </mg>
    </e>
-   <e freq="32261">
+   <e freq="$32261">
       <lg>
          <l pos="n">fall</l>
       </lg>
@@ -2019,7 +1964,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="31999">
+   <e freq="$31999">
       <lg>
          <l pos="n">forutsetning</l>
       </lg>
@@ -2029,7 +1974,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="30899">
+   <e freq="$30899">
       <lg>
          <l pos="n">demokrati</l>
       </lg>
@@ -2039,7 +1984,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="30445">
+   <e freq="$30445">
       <lg>
          <l pos="n">opplæring</l>
       </lg>
@@ -2049,7 +1994,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="30198">
+   <e mg_c="2" freq="$30198">
       <lg>
          <l pos="n">overgang</l>
       </lg>
@@ -2064,7 +2009,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="30065">
+   <e freq="$30065">
       <lg>
          <l pos="n">dialog</l>
       </lg>
@@ -2074,7 +2019,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="30005">
+   <e freq="$30005">
       <lg>
          <l pos="n">faktor</l>
       </lg>
@@ -2085,7 +2030,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="29583">
+   <e freq="$29583">
       <lg>
          <l pos="n">signal</l>
       </lg>
@@ -2095,7 +2040,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="29293">
+   <e freq="$29293">
       <lg>
          <l pos="n">favoritt</l>
       </lg>
@@ -2105,18 +2050,17 @@
          </tg>
       </mg>
    </e>
-   <e freq="28942">
+   <e freq="$28942">
       <lg>
          <l pos="n">lokale</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">latnja</t>
-            <t pos="n">báikkálaš</t>
          </tg>
       </mg>
    </e>
-   <e freq="28753">
+   <e freq="$28753">
       <lg>
          <l pos="n">alvor</l>
       </lg>
@@ -2136,7 +2080,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="28425">
+   <e freq="$28425">
       <lg>
          <l pos="n">kombinasjon</l>
       </lg>
@@ -2146,7 +2090,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="28227">
+   <e freq="$28227">
       <lg>
          <l pos="n">spiss</l>
       </lg>
@@ -2156,7 +2100,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="28095">
+   <e mg_c="2" freq="$28095">
       <lg>
          <l pos="n">kommunikasjon</l>
       </lg>
@@ -2181,7 +2125,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="27967">
+   <e freq="$27967">
       <lg>
          <l pos="n">kanal</l>
       </lg>
@@ -2191,7 +2135,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="27936">
+   <e freq="$27936">
       <lg>
          <l pos="n">jøde</l>
       </lg>
@@ -2201,7 +2145,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="27775">
+   <e freq="&27775">
       <lg>
          <l pos="n">plassering</l>
       </lg>
@@ -2212,23 +2156,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="27613">
+   <e freq="$27613">
       <lg>
          <l pos="n">plate</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">pláhta</t>
             <t pos="n">skearru</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">pláhtta</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_c="2" freq="27556">
+   <e freq="$27556">
       <lg>
          <l pos="n">motsetning</l>
       </lg>
@@ -2237,13 +2175,8 @@
             <t pos="n">vuostálasvuohta</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">opposišuvdna</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_c="2" freq="27416">
+   <e mg_c="2" freq="$27416">
       <lg>
          <l pos="n">batteri</l>
       </lg>
@@ -2258,23 +2191,18 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="26899">
+   <e freq="$26899">
       <lg>
          <l pos="n">symptom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">symptoma</t>
             <t pos="n">dovdomearka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="n">symptoma</t>
          </tg>
       </mg>
    </e>
-   <e freq="26885">
+   <e freq="$26885">
       <lg>
          <l pos="n">meny</l>
       </lg>
@@ -2284,7 +2212,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="26851">
+   <e freq="$26851">
       <lg>
          <l pos="n">valp</l>
       </lg>
@@ -2294,7 +2222,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="26837">
+   <e freq="$26837">
       <lg>
          <l pos="n">dose</l>
       </lg>
@@ -2304,7 +2232,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="26742">
+   <e freq="$26742">
       <lg>
          <l pos="n">industri</l>
       </lg>
@@ -2334,17 +2262,17 @@
          </tg>
       </mg>
    </e>
-   <e freq="26287">
+   <e freq="$26287">
       <lg>
          <l pos="n">billett</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="n">billeahtta</t>
+            <t pos="n">bileahtta</t>
          </tg>
       </mg>
    </e>
-   <e freq="26208">
+   <e freq="$26208">
       <lg>
          <l pos="n">veiledning</l>
       </lg>
@@ -2354,7 +2282,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="25987">
+   <e freq="$25987">
       <lg>
          <l pos="n">reklame</l>
       </lg>
@@ -2364,7 +2292,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="25986">
+   <e freq="$25986">
       <lg>
          <l pos="n">avgjørelse</l>
       </lg>
@@ -2374,7 +2302,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="25690">
+   <e freq="$25690">
       <lg>
          <l pos="n">islam</l>
       </lg>
@@ -2384,7 +2312,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="25679">
+   <e freq="$25679">
       <lg>
          <l pos="n">episode</l>
       </lg>
@@ -2404,7 +2332,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="25491">
+   <e freq="$25491">
       <lg>
          <l pos="n">analyse</l>
       </lg>
@@ -2414,7 +2342,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="25460">
+   <e freq="$25460">
       <lg>
          <l pos="n">verktøy</l>
       </lg>
@@ -2424,7 +2352,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="24993">
+   <e mg_c="2" freq="$24993">
       <lg>
          <l pos="n">anbefaling</l>
       </lg>
@@ -2449,7 +2377,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="24882">
+   <e freq="$24882">
       <lg>
          <l pos="n">brann</l>
       </lg>
@@ -2459,7 +2387,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="24871">
+   <e mg_c="2" freq="$24871">
       <lg>
          <l pos="n">individ</l>
       </lg>
@@ -2474,7 +2402,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="24800">
+   <e mg_c="2" freq="$24800">
       <lg>
          <l pos="n">tendens</l>
       </lg>
@@ -2489,7 +2417,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="24798">
+   <e freq="$24798">
       <lg>
          <l pos="n">temperatur</l>
       </lg>
@@ -2499,7 +2427,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="24738">
+   <e freq="$24738">
       <lg>
          <l pos="n">teknikk</l>
       </lg>
@@ -2519,7 +2447,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="24466">
+   <e mg_c="2" freq="$24466">
       <lg>
          <l pos="n">foredrag</l>
       </lg>
@@ -2535,7 +2463,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3" freq="24417">
+   <e mg_c="3" freq="$24417">
       <lg>
          <l pos="n">initiativ</l>
       </lg>
@@ -2574,15 +2502,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3" freq="24246">
+   <e mg_c="2" freq="$24246">
       <lg>
          <l pos="n">verk</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">sátnedáiddaduodji</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">vearka</t>
@@ -2598,23 +2521,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3" freq="24240">
+   <e mg_c="3" freq="$24240">
       <lg>
          <l pos="n">aksjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">akšuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">vásedindoaibma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">ákšuvdna</t>
          </tg>
       </mg>
    </e>
@@ -2628,23 +2541,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="24088">
+   <e freq="$24088">
       <lg>
          <l pos="n">klima</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">dálkkadat</t>
-            <t pos="n">klimáhtta</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">dálkkádat</t>
          </tg>
       </mg>
    </e>
-   <e freq="23899">
+   <e freq="$23899">
       <lg>
          <l pos="n">samling</l>
       </lg>
@@ -2654,7 +2561,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="23866">
+   <e freq="$23866">
       <lg>
          <l pos="n">likhet</l>
       </lg>
@@ -2664,7 +2571,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="23598">
+   <e freq="$23598">
       <lg>
          <l pos="n">dokumentasjon</l>
       </lg>
@@ -2674,7 +2581,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="23470">
+   <e mg_c="2" freq="$23470">
       <lg>
          <l pos="n">partner</l>
       </lg>
@@ -2683,13 +2590,8 @@
             <t pos="n">guoibmi</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">bealledat</t>
-         </tg>
-      </mg>
    </e>
-   <e freq="23459">
+   <e freq="$23459">
       <lg>
          <l pos="n">figur</l>
       </lg>
@@ -2713,7 +2615,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="22915">
+   <e mg_c="2" freq="$22915">
       <lg>
          <l pos="n">service</l>
       </lg>
@@ -2723,13 +2625,8 @@
             <t pos="n">fuoladeapmi</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="n">fuoladeapmi</t>
-         </tg>
-      </mg>
    </e>
-   <e freq="22806">
+   <e freq="$22806">
       <lg>
          <l pos="n">gass</l>
       </lg>
@@ -2749,7 +2646,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="22687">
+   <e freq="$22687">
       <lg>
          <l pos="n">radio</l>
       </lg>
@@ -2759,18 +2656,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="22472">
+   <e freq="$22472">
       <lg>
          <l pos="n">fellesskap</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="n">oktavuohta</t>
-            <t pos="n">searvevuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="n">searvevuohta</t>
          </tg>
       </mg>
@@ -2810,7 +2702,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="22047">
+   <e freq="$22047">
       <lg>
          <l pos="n">læring</l>
       </lg>
@@ -2820,7 +2712,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="22007">
+   <e freq="$22007">
       <lg>
          <l pos="n">innvandrer</l>
       </lg>
@@ -2830,7 +2722,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="21963">
+   <e freq="$21963">
       <lg>
          <l pos="n">oppfatning</l>
       </lg>
@@ -2841,7 +2733,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="21927">
+   <e freq="$21927">
       <lg>
          <l pos="n">presentasjon</l>
       </lg>
@@ -2851,7 +2743,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="21854">
+   <e freq="$21854">
       <lg>
          <l pos="n">søk</l>
       </lg>
@@ -2861,7 +2753,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="21767">
+   <e mg_c="2" freq="$21767">
       <lg>
          <l pos="n">rad</l>
       </lg>
@@ -2877,7 +2769,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="21736">
+   <e mg_c="2" freq="$21736">
       <lg>
          <l pos="n">motiv</l>
       </lg>
@@ -2892,7 +2784,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="21731">
+   <e freq="$21731">
       <lg>
          <l pos="n">utgave</l>
       </lg>
@@ -2943,7 +2835,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="21568">
+   <e freq="$21568">
       <lg>
          <l pos="n">omfang</l>
       </lg>
