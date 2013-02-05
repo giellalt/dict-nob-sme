@@ -84,7 +84,7 @@
 	<xsl:copy-of select="./@*[not(./local-name() = 'merged')]"/>
 	<xsl:variable name="mgs" select="count(./mg)"/>
 	<xsl:if test="not($mgs = 1)">
-	  <xsl:attribute name="mg_counter">
+	  <xsl:attribute name="mg_c">
 	    <xsl:value-of select="$mgs"/>
 	  </xsl:attribute>
 	</xsl:if>
@@ -108,7 +108,7 @@
 	<!-- </xsl:attribute> -->
 	
 	<xsl:if test="not($mgs = 1)">
-	  <xsl:attribute name="mg_counter">
+	  <xsl:attribute name="mg_c">
 	    <xsl:value-of select="$mgs"/>
 	  </xsl:attribute>
 	</xsl:if>
