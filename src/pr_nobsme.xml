@@ -576,17 +576,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t type="expl" freq="0">illativ</t>
-            <xg>
-               <x>Tran er godt for helsa</x>
-               <xt>Guolevuodja lea buorre dearvvašvuhtii</xt>
-            </xg>
-         </tg>
-         <tg xml:lang="sme">
             <t pos="po" freq="10969">ovddas</t>
             <xg>
                <x>Han kjøper godter for 20 kroner</x>
                <xt>Son oastá njálgáid 20 ruvnnu ovddas</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="sme">
+            <t type="expl" freq="0">illativ</t>
+            <xg>
+               <x>Tran er godt for helsa</x>
+               <xt>Guolevuodja lea buorre dearvvašvuhtii</xt>
             </xg>
          </tg>
       </mg>
@@ -1245,21 +1245,21 @@
    <e>
       <lg>
          <l pos="pr">innenfor</l>
-         <l pos="pr">innafor</l>
+         <lsub pos="pr">innafor</lsub>
       </lg>
       <mg>
-         <tg xml:lang="sme">
-            <t pos="x" freq="2677">siste</t>
-            <xg>
-               <x>Flokken er innenfor gjerdet.</x>
-               <xt>Eallu lea gárddi siste.</xt>
-            </xg>
-         </tg>
          <tg xml:lang="sme" re="bak">
             <t pos="po" freq="3183">siskkobealde</t>
             <xg>
                <x>Hun står innenfor døra.</x>
                <xt>Son čuožžu uvssa siskkobealde.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="sme">
+            <t pos="x" freq="2677">siste</t>
+            <xg>
+               <x>Flokken er innenfor gjerdet.</x>
+               <xt>Eallu lea gárddi siste.</xt>
             </xg>
          </tg>
       </mg>
