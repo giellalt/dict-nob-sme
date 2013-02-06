@@ -6,19 +6,19 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="adv" usage="vd" freq="15">buorremielas</t>
+            <t pos="adv" usage="vd" freq="325">movtta</t>
             <xg>
-               <x>Elle er i godt humør.</x>
-               <xt>Elle lea buorremielas.</xt>
+               <x>Vi to er i godt humør.</x>
+               <xt>Moai letne movtta.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="adv" usage="vd" freq="325">movtta</t>
+            <t pos="adv" usage="vd" freq="15">buorremielas</t>
             <xg>
-               <x>Vi to er i godt humør.</x>
-               <xt>Moai letne movtta.</xt>
+               <x>Elle er i godt humør.</x>
+               <xt>Elle lea buorremielas.</xt>
             </xg>
          </tg>
       </mg>
@@ -286,18 +286,10 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="pr" src="nj" usage="vd" freq="386">gasku</t>
+            <t pos="pr" src="nj" usage="vd" freq="906">gaskan</t>
             <xg>
-               <x>Telefonen ringte midt under møtet.</x>
-               <xt>Telefovdna riŋgii gasku čoahkkima.</xt>
-            </xg>
-            <xg>
-               <x>Den gamle mannen malte den gule stripa som går midt på vegen.</x>
-               <xt>Áddjá málii dan fiskes sázu mii manná gasku luotta.</xt>
-            </xg>
-            <xg>
-               <x>Forhåpentligvis er Nordlys midt på tabellen når serien avsluttes på høsten.</x>
-               <xt>Doaivumis lea Nordlys gasku tabealla go čiekčamat loahpahuvvojit čakčat.</xt>
+               <x>Ho kunne begynne å se på hva som helst midt i ei setning.</x>
+               <xt>Son sáhtii gaskan dajaldaga geahččagoahtit maid nu.</xt>
             </xg>
          </tg>
       </mg>
@@ -312,10 +304,18 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="pr" src="nj" usage="vd" freq="906">gaskan</t>
+            <t pos="pr" src="nj" usage="vd" freq="386">gasku</t>
             <xg>
-               <x>Ho kunne begynne å se på hva som helst midt i ei setning.</x>
-               <xt>Son sáhtii gaskan dajaldaga geahččagoahtit maid nu.</xt>
+               <x>Telefonen ringte midt under møtet.</x>
+               <xt>Telefovdna riŋgii gasku čoahkkima.</xt>
+            </xg>
+            <xg>
+               <x>Den gamle mannen malte den gule stripa som går midt på vegen.</x>
+               <xt>Áddjá málii dan fiskes sázu mii manná gasku luotta.</xt>
+            </xg>
+            <xg>
+               <x>Forhåpentligvis er Nordlys midt på tabellen når serien avsluttes på høsten.</x>
+               <xt>Doaivumis lea Nordlys gasku tabealla go čiekčamat loahpahuvvojit čakčat.</xt>
             </xg>
          </tg>
       </mg>
@@ -441,19 +441,19 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="po" src="nj" usage="vd" freq="10">báldda</t>
+            <t pos="po" src="nj" usage="vd" freq="366">bálddas</t>
             <xg>
-               <x>Ved siden av Máze skole rant en bekk.</x>
-               <xt>Máze skuvlla báldda golggai ája.</xt>
+               <x>Barnet sover ved siden av mora.</x>
+               <xt>Mánná oađđá eatni bálddas.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="po" src="nj" usage="vd" freq="366">bálddas</t>
+            <t pos="po" src="nj" usage="vd" freq="260">guoras</t>
             <xg>
-               <x>Barnet sover ved siden av mora.</x>
-               <xt>Mánná oađđá eatni bálddas.</xt>
+               <x>Barnet sitter ved siden av mor.</x>
+               <xt>Mánná čohkká eatni guoras.</xt>
             </xg>
          </tg>
       </mg>
@@ -468,10 +468,10 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="po" src="nj" usage="vd" freq="260">guoras</t>
+            <t pos="po" src="nj" usage="vd" freq="10">báldda</t>
             <xg>
-               <x>Barnet sitter ved siden av mor.</x>
-               <xt>Mánná čohkká eatni guoras.</xt>
+               <x>Ved siden av Máze skole rant en bekk.</x>
+               <xt>Máze skuvlla báldda golggai ája.</xt>
             </xg>
          </tg>
       </mg>
@@ -1622,6 +1622,15 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="pcle" usage="vd" freq="204">almma</t>
+            <xg>
+               <x>Du husker det, ikke sant?</x>
+               <xt>Almma muittát dan?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="pcle" usage="vd" freq="199">amma</t>
             <xg>
                <x>Vi to drar til byen i morgen, ikke sant?</x>
@@ -1633,29 +1642,11 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="pcle" usage="vd" freq="204">almma</t>
-            <xg>
-               <x>Du husker det, ikke sant?</x>
-               <xt>Almma muittát dan?</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e mg_c="2">
       <lg>
          <l pos="phrase">hver av to</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="pron" src="nj" usage="vd" freq="617">goabbat</t>
-            <xg>
-               <x>De fortsetter dagens organisering med en rektor på hver av de to skolene.</x>
-               <xt>Sii doalahit dálá organiserema mas lea okta rektor goabbatge skuvllas.</xt>
-            </xg>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="pron" src="nj" usage="vd" freq="887">goappašagat</t>
@@ -1669,11 +1660,30 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="pron" src="nj" usage="vd" freq="617">goabbat</t>
+            <xg>
+               <x>De fortsetter dagens organisering med en rektor på hver av de to skolene.</x>
+               <xt>Sii doalahit dálá organiserema mas lea okta rektor goabbatge skuvllas.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e mg_c="3">
       <lg>
          <l pos="phrase">hver sin</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om flere</re>
+            <t pos="pron" src="nj" usage="vd" freq="7171">iešguhtet</t>
+            <xg>
+               <x>Der tok hver og en sin bil.</x>
+               <xt>Iešguhtet válddii doppe biillas.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="pron" src="nj" usage="vd" freq="617">goabbat</t>
@@ -1693,16 +1703,6 @@
             <xg>
                <x>Så gikk de hver sin veg.</x>
                <xt>De manne sii guhtet guovlluidasaset.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om flere</re>
-            <t pos="pron" src="nj" usage="vd" freq="7171">iešguhtet</t>
-            <xg>
-               <x>Der tok hver og en sin bil.</x>
-               <xt>Iešguhtet válddii doppe biillas.</xt>
             </xg>
          </tg>
       </mg>
@@ -1826,19 +1826,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="cs" usage="vd" freq="259">dugo</t>
-            <xg>
-               <x>Du spiser som en gris.</x>
-               <xt>Don borat dugo spiidni.</xt>
-            </xg>
-            <xg>
-               <x>Hva er rund som en ball og lang som en kirkevegg?</x>
-               <xt>Mii lea jorbbas dugo spábba ja guhkki dugo girkoseaidni?</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="cs" usage="vd" freq="7790">dego</t>
             <xg>
                <x>Du spiser som en gris.</x>
@@ -1850,24 +1837,24 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="cs" usage="vd" freq="259">dugo</t>
+            <xg>
+               <x>Du spiser som en gris.</x>
+               <xt>Don borat dugo spiidni.</xt>
+            </xg>
+            <xg>
+               <x>Hva er rund som en ball og lang som en kirkevegg?</x>
+               <xt>Mii lea jorbbas dugo spábba ja guhkki dugo girkoseaidni?</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e mg_c="3">
       <lg>
          <l pos="phrase">om så</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="cs" src="nj" usage="vd" freq="2035">vaikke</t>
-            <xg>
-               <x>Du spiser om så hvor mye.</x>
-               <xt>Don gal borat vaikke man ollu.</xt>
-            </xg>
-            <xg>
-               <x>Jeg hjelper deg, selv om du ikke trenger hjelp.</x>
-               <xt>Mun veahkehan du, vaikke it dárbbaš ge veahki.</xt>
-            </xg>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="cs" src="nj" usage="vd" freq="12498">vaikko</t>
@@ -1878,6 +1865,19 @@
             <xg>
                <x>Jeg hjelper deg, selv om du ikke trenger hjelp.</x>
                <xt>Mun veahkehan du, vaikko it dárbbaš ge veahki.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="cs" src="nj" usage="vd" freq="2035">vaikke</t>
+            <xg>
+               <x>Du spiser om så hvor mye.</x>
+               <xt>Don gal borat vaikke man ollu.</xt>
+            </xg>
+            <xg>
+               <x>Jeg hjelper deg, selv om du ikke trenger hjelp.</x>
+               <xt>Mun veahkehan du, vaikke it dárbbaš ge veahki.</xt>
             </xg>
          </tg>
       </mg>
@@ -1901,19 +1901,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="cs" src="nj" usage="vd" freq="2035">vaikke</t>
-            <xg>
-               <x>Du spiser om så hvor mye.</x>
-               <xt>Don gal borat vaikke man ollu.</xt>
-            </xg>
-            <xg>
-               <x>Jeg hjelper deg, selv om du ikke trenger hjelp.</x>
-               <xt>Mun veahkehan du, vaikke it dárbbaš ge veahki.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="cs" src="nj" usage="vd" freq="12498">vaikko</t>
             <xg>
                <x>Du spiser om så hvor mye.</x>
@@ -1922,6 +1909,19 @@
             <xg>
                <x>Jeg hjelper deg, selv om du ikke trenger hjelp.</x>
                <xt>Mun veahkehan du, vaikko it dárbbaš ge veahki.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="cs" src="nj" usage="vd" freq="2035">vaikke</t>
+            <xg>
+               <x>Du spiser om så hvor mye.</x>
+               <xt>Don gal borat vaikke man ollu.</xt>
+            </xg>
+            <xg>
+               <x>Jeg hjelper deg, selv om du ikke trenger hjelp.</x>
+               <xt>Mun veahkehan du, vaikke it dárbbaš ge veahki.</xt>
             </xg>
          </tg>
       </mg>
@@ -1945,15 +1945,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="po" src="nj" usage="vd" freq="4548">dihtii</t>
-            <xg>
-               <x>På grunn av det vedtaket fortjener formannskapet ros.</x>
-               <xt>Dien mearrádusa dihtii ánssáša ovdagoddi rámi.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="po" src="nj" usage="vd" freq="11654">dihte</t>
             <xg>
                <x>På grunn av dette må de lage en felles liste til Sametingsvalget.</x>
@@ -1971,6 +1962,15 @@
             <xg>
                <x>På grunn av økonomien er dette ikke blitt gjennomført enda.</x>
                <xt>Ruhtadili geažil dat ii leat vel ollašuvvan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="po" src="nj" usage="vd" freq="4548">dihtii</t>
+            <xg>
+               <x>På grunn av det vedtaket fortjener formannskapet ros.</x>
+               <xt>Dien mearrádusa dihtii ánssáša ovdagoddi rámi.</xt>
             </xg>
          </tg>
       </mg>
@@ -2017,16 +2017,16 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="po" src="nj" usage="vd" freq="0">guovdelas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="pr" src="nj" usage="vd" freq="702">guovdu</t>
             <xg>
                <x>Han går midt på veien.</x>
                <xt>Son vázzá guovdu luotta.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="po" src="nj" usage="vd" freq="0">guovdelas</t>
          </tg>
       </mg>
       <mg>
@@ -2072,19 +2072,19 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="pr" src="nj" usage="vd" freq="21">aisttan</t>
+            <t pos="pr" src="nj" usage="vd" freq="43">aistton</t>
             <xg>
                <x>For å si som Sámmol.</x>
-               <xt>Aisttan Sámmola.</xt>
+               <xt>Aistton Sámmola.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="pr" src="nj" usage="vd" freq="43">aistton</t>
+            <t pos="pr" src="nj" usage="vd" freq="21">aisttan</t>
             <xg>
                <x>For å si som Sámmol.</x>
-               <xt>Aistton Sámmola.</xt>
+               <xt>Aisttan Sámmola.</xt>
             </xg>
          </tg>
       </mg>
@@ -2470,7 +2470,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="pron" src="nj" usage="vd" freq="35">soamis</t>
+            <t pos="pron" src="nj" usage="vd" freq="2398">soames</t>
             <xg>
                <x>Men noen hadde helt andre interesser.</x>
                <xt>Muhto soapmásiin ledje áibbas eará beroštumit.</xt>
@@ -2483,7 +2483,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="pron" src="nj" usage="vd" freq="2398">soames</t>
+            <t pos="pron" src="nj" usage="vd" freq="35">soamis</t>
             <xg>
                <x>Men noen hadde helt andre interesser.</x>
                <xt>Muhto soapmásiin ledje áibbas eará beroštumit.</xt>
