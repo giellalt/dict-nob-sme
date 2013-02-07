@@ -91,19 +91,6 @@
          </tg>
       </mg>
    </e>
-   <e freq="170815">
-      <lg>
-         <l pos="v">la</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <xg>
-               <x>La henne bare komme!</x>
-               <xt>Anne dal boahtá!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e freq="129695">
       <lg>
          <l pos="v">re</l>
@@ -214,6 +201,18 @@
          </tg>
       </mg>
    </e>
+   <e freq="91502">
+      <lg>
+         <l pos="v">redusere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">unnidit</t>
+            <t pos="v">binnudit</t>
+            <t pos="v">reduseret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="90150">
       <lg>
          <l pos="v">forsøke</l>
@@ -221,6 +220,17 @@
       <mg>
          <tg re="" xml:lang="sme">
             <t pos="v">geahččalit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="90091">
+      <lg>
+         <l pos="v">levere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">addit</t>
+            <t pos="v">leveret</t>
          </tg>
       </mg>
    </e>
@@ -252,27 +262,6 @@
          <tg xml:lang="sme">
             <t pos="v">ceavzit</t>
             <t pos="v">nagodit</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2" freq="75769">
-      <lg>
-         <l pos="v">koste</l>
-      </lg>
-      <mg>
-         <tg re="rengjøring" xml:lang="sme">
-            <xg>
-               <x>Ta sopelimen og kost golvet!</x>
-               <xt>Váldde suohpala ja suohpalastte láhtti!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="ved kjøp" xml:lang="sme">
-            <xg>
-               <x>Hvor mye koster det?</x>
-               <xt>Man ollu dat máksá?</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -348,6 +337,32 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">oažžut</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="2" freq="63089">
+      <lg>
+         <l pos="v">etablere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">ásahit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">etableret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="63089">
+      <lg>
+         <l pos="v">etablere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">ásahit</t>
+            <t pos="v">etableret</t>
          </tg>
       </mg>
    </e>
@@ -453,6 +468,18 @@
          </tg>
       </mg>
    </e>
+   <e freq="50761">
+      <lg>
+         <l pos="v">inkludere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">fátmmastit</t>
+            <t pos="v">goallostit</t>
+            <t pos="v">inkluderet</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="49520">
       <lg>
          <l pos="v">skille</l>
@@ -481,6 +508,17 @@
          <tg xml:lang="sme">
             <t pos="v">sisabuktit</t>
             <t pos="v">sisafievrridit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="47394">
+      <lg>
+         <l pos="v">interessere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">beroštit</t>
+            <t pos="v">interesseret</t>
          </tg>
       </mg>
    </e>
@@ -533,14 +571,6 @@
          <tg xml:lang="sme">
             <t pos="v">ávdnet</t>
          </tg>
-      </mg>
-   </e>
-   <e freq="40324">
-      <lg>
-         <l pos="v">medføre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme"/>
       </mg>
    </e>
    <e freq="38824">
@@ -610,6 +640,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">juohkit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="29613">
+      <lg>
+         <l pos="v">eksistere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">eksisteret</t>
+            <t pos="v">gávdnot</t>
          </tg>
       </mg>
    </e>
@@ -778,6 +819,17 @@
          </tg>
       </mg>
    </e>
+   <e freq="21543">
+      <lg>
+         <l pos="v">sitere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">bájuhit</t>
+            <t pos="v">siteret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="20856">
       <lg>
          <l pos="v">installere</l>
@@ -786,6 +838,17 @@
          <tg xml:lang="sme">
             <t pos="v">sajáiduhttit</t>
             <t pos="v">sajálduhttit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="20751">
+      <lg>
+         <l pos="v">inspirere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">inspireret</t>
+            <t pos="v">movttidahttit</t>
          </tg>
       </mg>
    </e>
@@ -806,6 +869,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">sulastahttit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="19633">
+      <lg>
+         <l pos="v">observere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">áicat</t>
+            <t pos="v">observeret</t>
          </tg>
       </mg>
    </e>
@@ -896,6 +970,18 @@
          </tg>
       </mg>
    </e>
+   <e freq="17578">
+      <lg>
+         <l pos="v">justere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">dárkilastit</t>
+            <t pos="v">muddet</t>
+            <t pos="v">justeret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="17440">
       <lg>
          <l pos="v">forsterke</l>
@@ -923,6 +1009,18 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">dáhpáhuvvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="17161">
+      <lg>
+         <l pos="v">konsentrere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">guovdilastit</t>
+            <t pos="v">konsentreret</t>
+            <t pos="v">čoahkáidit</t>
          </tg>
       </mg>
    </e>
@@ -956,6 +1054,17 @@
          </tg>
       </mg>
    </e>
+   <e freq="15475">
+      <lg>
+         <l pos="v">dominere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">domineret</t>
+            <t pos="v">oktoráđđet</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="15333">
       <lg>
          <l pos="v">drøfte</l>
@@ -983,6 +1092,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">lađastallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="14716">
+      <lg>
+         <l pos="v">identifisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">dovddiidahttit</t>
+            <t pos="v">identifiseret</t>
          </tg>
       </mg>
    </e>
@@ -1023,6 +1143,28 @@
          </tg>
       </mg>
    </e>
+   <e freq="14230">
+      <lg>
+         <l pos="v">integrere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">integreret</t>
+            <t pos="v">ovttaiduhttit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="14228">
+      <lg>
+         <l pos="v">referere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">bájuhit</t>
+            <t pos="v">refereret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="14153">
       <lg>
          <l pos="v">kopiere</l>
@@ -1030,6 +1172,18 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">máŋget</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="13972">
+      <lg>
+         <l pos="v">annonsere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">máinnustit</t>
+            <t pos="v">almmuhit</t>
+            <t pos="v">annonseret</t>
          </tg>
       </mg>
    </e>
@@ -1071,6 +1225,18 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">almmuhit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="13401">
+      <lg>
+         <l pos="v">respektere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">respekteret</t>
+            <t pos="v">áktet</t>
+            <t pos="v">árvvusatnit</t>
          </tg>
       </mg>
    </e>
@@ -1175,6 +1341,17 @@
          </tg>
       </mg>
    </e>
+   <e freq="11769">
+      <lg>
+         <l pos="v">presisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">aiddostahttit</t>
+            <t pos="v">presiseret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="11607">
       <lg>
          <l pos="v">innlede</l>
@@ -1223,6 +1400,21 @@
          <tg xml:lang="sme">
             <re>komme i skrå stilling</re>
             <t pos="v">hállanit</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="2" freq="10469">
+      <lg>
+         <l pos="v">notere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">noteret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">čálestit</t>
          </tg>
       </mg>
    </e>
@@ -1334,6 +1526,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">hirpmástuhttit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="8385">
+      <lg>
+         <l pos="v">disponere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">háldet</t>
+            <t pos="v">disponeret</t>
          </tg>
       </mg>
    </e>
@@ -1469,14 +1672,6 @@
          </tg>
       </mg>
    </e>
-   <e freq="6454">
-      <lg>
-         <l pos="v">krype</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme"/>
-      </mg>
-   </e>
    <e freq="6356">
       <lg>
          <l pos="v">etterfølge</l>
@@ -1527,6 +1722,17 @@
          </tg>
       </mg>
    </e>
+   <e freq="5801">
+      <lg>
+         <l pos="v">okkupere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">okkuperet</t>
+            <t pos="v">vuollástit</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="5773">
       <lg>
          <l pos="v">sprette</l>
@@ -1544,6 +1750,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">buzzet</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="5573">
+      <lg>
+         <l pos="v">rangere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">maŋŋálastit</t>
+            <t pos="v">rangeret</t>
          </tg>
       </mg>
    </e>
@@ -1564,6 +1781,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">noađuhit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="5505">
+      <lg>
+         <l pos="v">frustrere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">duššástuhttit</t>
+            <t pos="v">frustreret</t>
          </tg>
       </mg>
    </e>
@@ -1624,6 +1852,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">geahppánit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="5236">
+      <lg>
+         <l pos="v">reservere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">reserveret</t>
+            <t pos="v">várret</t>
          </tg>
       </mg>
    </e>
@@ -1697,6 +1936,17 @@
          </tg>
       </mg>
    </e>
+   <e freq="4408">
+      <lg>
+         <l pos="v">klassifisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">klassifiseret</t>
+            <t pos="v">šláddjet</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="4188">
       <lg>
          <l pos="v">krenke</l>
@@ -1704,6 +1954,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">loavkidit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="4119">
+      <lg>
+         <l pos="v">abonnere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">doallat</t>
+            <t pos="v">abbonneret</t>
          </tg>
       </mg>
    </e>
@@ -1804,6 +2065,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">lahttudit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="3299">
+      <lg>
+         <l pos="v">ekskludere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">lihccut</t>
+            <t pos="v">ekskluderet</t>
          </tg>
       </mg>
    </e>
@@ -2005,6 +2277,21 @@
          </tg>
       </mg>
    </e>
+   <e mg_c="2" freq="2657">
+      <lg>
+         <l pos="v">rotere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">jorrat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">roteret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="2640">
       <lg>
          <l pos="v">krydre</l>
@@ -2032,6 +2319,22 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">giehtaguššat</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="2" freq="2500">
+      <lg>
+         <l pos="v">modifisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">modifiseret</t>
+            <t pos="v">muddet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">váidudit</t>
          </tg>
       </mg>
    </e>
@@ -2116,6 +2419,36 @@
          </tg>
       </mg>
    </e>
+   <e mg_c="2" freq="2325">
+      <lg>
+         <l pos="v">spasere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">spaseret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">váccášit</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="2" freq="2325">
+      <lg>
+         <l pos="v">spasere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">spaseret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">váccášit</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="2252">
       <lg>
          <l pos="v">tilbakeføre</l>
@@ -2144,6 +2477,17 @@
          <tg xml:lang="sme">
             <re>med fresemaskin</re>
             <t pos="v">jurssahit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="1917">
+      <lg>
+         <l pos="v">forsere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">forseret</t>
+            <t pos="v">hobehit</t>
          </tg>
       </mg>
    </e>
@@ -2214,6 +2558,29 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">vuoigatvuođavuođđudit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="1739">
+      <lg>
+         <l pos="v">summere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">submet</t>
+            <t pos="v">summeret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="1717">
+      <lg>
+         <l pos="v">filtrere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">duobussillet</t>
+            <t pos="v">filtreret</t>
+            <t pos="v">filtarastit</t>
          </tg>
       </mg>
    </e>
@@ -2419,16 +2786,6 @@
          </tg>
       </mg>
    </e>
-   <e freq="1337">
-      <lg>
-         <l pos="v">snekre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">snekkereret</t>
-         </tg>
-      </mg>
-   </e>
    <e freq="1323">
       <lg>
          <l pos="v">stake</l>
@@ -2479,6 +2836,18 @@
          </tg>
       </mg>
    </e>
+   <e freq="1223">
+      <lg>
+         <l pos="v">dimensjonere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">mihttodallat</t>
+            <t pos="v">dimenšoneret</t>
+            <t pos="v">dimenšuneret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="1218">
       <lg>
          <l pos="v">klinke</l>
@@ -2509,6 +2878,17 @@
          </tg>
       </mg>
    </e>
+   <e freq="1126">
+      <lg>
+         <l pos="v">akselerere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">lehttohit</t>
+            <t pos="v">akselereret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="1110">
       <lg>
          <l pos="v">tilte</l>
@@ -2516,6 +2896,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">tiltet</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="1061">
+      <lg>
+         <l pos="v">kvittere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">guitet</t>
+            <t pos="v">kvitteret</t>
          </tg>
       </mg>
    </e>
@@ -2569,6 +2960,28 @@
          </tg>
       </mg>
    </e>
+   <e freq="946">
+      <lg>
+         <l pos="v">agere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">láhttet</t>
+            <t pos="v">ageret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="941">
+      <lg>
+         <l pos="v">sentralisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">guovdduštit</t>
+            <t pos="v">sentraliseret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="936">
       <lg>
          <l pos="v">overlappe</l>
@@ -2576,6 +2989,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">duppalastit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="935">
+      <lg>
+         <l pos="v">maksimere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">maksimeret</t>
+            <t pos="v">stuorámustit</t>
          </tg>
       </mg>
    </e>
@@ -2626,6 +3050,36 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">lonistit</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="2" freq="833">
+      <lg>
+         <l pos="v">polere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">poleret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">šelget</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="2" freq="833">
+      <lg>
+         <l pos="v">polere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">poleret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">šelget</t>
          </tg>
       </mg>
    </e>
@@ -2721,6 +3175,29 @@
          </tg>
       </mg>
    </e>
+   <e freq="704">
+      <lg>
+         <l pos="v">drenere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">čázehuhttit</t>
+            <t pos="v">dreneret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="681">
+      <lg>
+         <l pos="v">desentralisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">desentraliseret</t>
+            <t pos="v">lávdadit</t>
+            <t pos="v">sirddáldahttit</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="619">
       <lg>
          <l pos="v">avse</l>
@@ -2752,6 +3229,17 @@
          </tg>
       </mg>
    </e>
+   <e freq="576">
+      <lg>
+         <l pos="v">rasjonalisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">merrehit</t>
+            <t pos="v">rašonaliseret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="573">
       <lg>
          <l pos="v">ankre</l>
@@ -2759,6 +3247,58 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">áŋkorastit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="536">
+      <lg>
+         <l pos="v">annektere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">vuollástit</t>
+            <t pos="v">annekteret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="534">
+      <lg>
+         <l pos="v">avertere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">almmuhit</t>
+            <t pos="v">averteret</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="2" freq="532">
+      <lg>
+         <l pos="v">traktere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">duohčahallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">trakteret</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="2" freq="532">
+      <lg>
+         <l pos="v">traktere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">duohčahallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">trakteret</t>
          </tg>
       </mg>
    </e>
@@ -2779,6 +3319,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">heavvalastit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="498">
+      <lg>
+         <l pos="v">møblere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">møbleret</t>
+            <t pos="v">bierggastit</t>
          </tg>
       </mg>
    </e>
@@ -2983,6 +3534,22 @@
          </tg>
       </mg>
    </e>
+   <e mg_c="2" freq="335">
+      <lg>
+         <l pos="v">abortere</l>
+      </lg>
+      <mg>
+         <tg re="om mennesker" xml:lang="sme">
+            <t pos="v">cuovkanit</t>
+            <t pos="v">aborteret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="om dyr" xml:lang="sme">
+            <t pos="v">reitot</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="333">
       <lg>
          <l pos="v">vispe</l>
@@ -3030,6 +3597,39 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">sniehpput</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="303">
+      <lg>
+         <l pos="v">testamentere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">testamenteret</t>
+            <t pos="v">testamentet</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="302">
+      <lg>
+         <l pos="v">deformere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">deahpanit</t>
+            <t pos="v">deformeret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="300">
+      <lg>
+         <l pos="v">prosedere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">lágastit</t>
+            <t pos="v">prosederet</t>
          </tg>
       </mg>
    </e>
@@ -3183,6 +3783,17 @@
          </tg>
       </mg>
    </e>
+   <e freq="186">
+      <lg>
+         <l pos="v">kompostere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">komposteret</t>
+            <t pos="v">kompostet</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="179">
       <lg>
          <l pos="v">mangfoldiggjøre</l>
@@ -3213,6 +3824,29 @@
          </tg>
       </mg>
    </e>
+   <e freq="153">
+      <lg>
+         <l pos="v">porsjonere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">merret</t>
+            <t pos="v">poršoneret</t>
+            <t pos="v">poršuneret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="140">
+      <lg>
+         <l pos="v">akklimatisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">vuogáidit</t>
+            <t pos="v">akklimatiseret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="140">
       <lg>
          <l pos="v">splintre</l>
@@ -3230,6 +3864,31 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">sáktet</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="4" freq="134">
+      <lg>
+         <l pos="v">koagulere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">koaguleret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="om melk" xml:lang="sme">
+            <t pos="v">čuvkuluvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="om melk og blod" xml:lang="sme">
+            <t pos="v">lohppet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="om blod" xml:lang="sme">
+            <t pos="v">giellut</t>
          </tg>
       </mg>
    </e>
@@ -3253,6 +3912,47 @@
          </tg>
       </mg>
    </e>
+   <e mg_c="2" freq="116">
+      <lg>
+         <l pos="v">gratinere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">gratiidnet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">gratineret</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="2" freq="116">
+      <lg>
+         <l pos="v">gratinere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">gratiidnet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">gratineret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="112">
+      <lg>
+         <l pos="v">preferere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">oidit</t>
+            <t pos="v">prefereret</t>
+         </tg>
+      </mg>
+   </e>
    <e freq="112">
       <lg>
          <l pos="v">mørne</l>
@@ -3260,6 +3960,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">smievrut</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="84">
+      <lg>
+         <l pos="v">retardere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">goazahit</t>
+            <t pos="v">retarderet</t>
          </tg>
       </mg>
    </e>
@@ -3325,6 +4036,17 @@
    </e>
    <e freq="56">
       <lg>
+         <l pos="v">flambere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">flamberet</t>
+            <t pos="v">šloavaldahttit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="56">
+      <lg>
          <l pos="v">forhale</l>
       </lg>
       <mg>
@@ -3340,6 +4062,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">nađđadit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="45">
+      <lg>
+         <l pos="v">frankere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">frankeret</t>
+            <t pos="v">fráŋket</t>
          </tg>
       </mg>
    </e>
@@ -3370,6 +4103,72 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="v">krommadit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="26">
+      <lg>
+         <l pos="v">ambulere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">johtit</t>
+            <t pos="v">ambuleret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="12">
+      <lg>
+         <l pos="v">arrondere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">heivehallat</t>
+            <t pos="v">arronderet</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="11">
+      <lg>
+         <l pos="v">presumere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">noahkut</t>
+            <t pos="v">presumeret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="7">
+      <lg>
+         <l pos="v">parafere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">mielvuolláičállit</t>
+            <t pos="v">paraferet</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="5">
+      <lg>
+         <l pos="v">serratere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">rihkkuhit</t>
+            <t pos="v">serrateret</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="5">
+      <lg>
+         <l pos="v">stenografere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="v">stenograferet</t>
+            <t pos="v">stenográfet</t>
          </tg>
       </mg>
    </e>
@@ -4858,16 +5657,6 @@
    </e>
    <e freq="0">
       <lg>
-         <l pos="v">nettobudjeterit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="v">nettobudjeteret</t>
-         </tg>
-      </mg>
-   </e>
-   <e freq="0">
-      <lg>
          <l pos="v">utføre grimaser</l>
       </lg>
       <mg>
@@ -6130,12 +6919,6 @@
    </e>
    <e freq="0">
       <lg>
-         <l pos="v">fiske med not</l>
-      </lg>
-      <mg/>
-   </e>
-   <e freq="0">
-      <lg>
          <l pos="v">bli dradd</l>
       </lg>
       <mg>
@@ -6221,4 +7004,3 @@
       </mg>
    </e>
 </r>
-
