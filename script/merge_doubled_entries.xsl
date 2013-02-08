@@ -81,7 +81,7 @@
     
     <xsl:if test="$lemma_freq = 1">
       <e>
-	<xsl:copy-of select="./@*[not(./local-name() = 'merged')]"/>
+	<xsl:copy-of select="./@*[not(./local-name() = 'mg_c')]"/>
 	<xsl:variable name="mgs" select="count(./mg)"/>
 	<xsl:if test="not($mgs = 1)">
 	  <xsl:attribute name="mg_c">
