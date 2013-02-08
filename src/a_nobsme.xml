@@ -2,16 +2,6 @@
 <r>
    <e>
       <lg>
-         <l pos="a">lignende</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" usage="vd" freq="106">seammasullasaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="a">global</l>
       </lg>
       <mg>
@@ -82,16 +72,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="a" usage="vd" freq="0">laktoseheapme</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">allsidig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" usage="vd" freq="669">máŋggabealat</t>
          </tg>
       </mg>
    </e>
@@ -865,30 +845,6 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
-      <lg>
-         <l pos="a">kjedelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" src="nj" usage="vd" freq="144">váigat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" src="nj" usage="vd" freq="133">ahkit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" src="nj" usage="vd" freq="132">láittas</t>
-            <xg>
-               <x>Jeg syns det er kjedelig.</x>
-               <xt>Mu mielas lea láittas.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="a">utrivelig</l>
@@ -1495,16 +1451,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="a">fremtidig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" usage="vd" freq="150">boahtteáigásaš</t>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="4">
       <lg>
          <l pos="a">rik</l>
@@ -2063,16 +2009,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="a" usage="vd" freq="136">diđolaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">tverrfaglig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" usage="vd" freq="43">doaresfágalaš</t>
          </tg>
       </mg>
    </e>
@@ -3772,16 +3708,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="a">uhyggelig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" src="nj" usage="vd" freq="17">goalus</t>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="3">
       <lg>
          <l pos="a">kjølig</l>
@@ -5333,16 +5259,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="a" src="nj" usage="vd" freq="285">luovus</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="a">rettsgyldig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" src="nj" usage="vd" freq="291">lágalaš</t>
          </tg>
       </mg>
    </e>
@@ -7938,16 +7854,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="a">klønete</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="a" src="nj" usage="vd" freq="142">čuorbi</t>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="3">
       <lg>
          <l pos="a">blank</l>
@@ -10304,7 +10210,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4" freq="$88017">
+   <e freq="$88017" mg_c="4">
       <lg>
          <l pos="a">aktiv</l>
       </lg>
@@ -10380,7 +10286,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="$53019">
+   <e freq="$53019" mg_c="2">
       <lg>
          <l pos="a">avhengig</l>
       </lg>
@@ -10496,10 +10402,15 @@
          </tg>
       </mg>
    </e>
-   <e freq="$38653">
+   <e freq="$38653" mg_c="2">
       <lg>
          <l pos="a">lignende</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" usage="vd" freq="106">seammasullasaš</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="a">sullasaš</t>
@@ -10636,10 +10547,29 @@
          </tg>
       </mg>
    </e>
-   <e freq="$31124">
+   <e freq="$31124" mg_c="4">
       <lg>
          <l pos="a">kjedelig</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" src="nj" usage="vd" freq="144">váigat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" src="nj" usage="vd" freq="133">ahkit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" src="nj" usage="vd" freq="132">láittas</t>
+            <xg>
+               <x>Jeg syns det er kjedelig.</x>
+               <xt>Mu mielas lea láittas.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="a">suivat</t>
@@ -11019,10 +10949,15 @@
          </tg>
       </mg>
    </e>
-   <e freq="$18565">
+   <e freq="$18565" mg_c="2">
       <lg>
          <l pos="a">fremtidig</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" usage="vd" freq="150">boahtteáigásaš</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="a">boahttevaš</t>
@@ -11171,7 +11106,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="$15898">
+   <e freq="$15898">
       <lg>
          <l pos="a">biologisk</l>
       </lg>
@@ -11436,7 +11371,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="$11742">
+   <e freq="$11742" mg_c="2">
       <lg>
          <l pos="a">fleksibel</l>
       </lg>
@@ -11664,10 +11599,15 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="$10137">
+   <e mg_c="3" freq="$10137">
       <lg>
          <l pos="a">tverrfaglig</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" usage="vd" freq="43">doaresfágalaš</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="a">fágaidgaskasaš</t>
@@ -11800,7 +11740,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2" freq="$9221">
+   <e freq="$9221">
       <lg>
          <l pos="a">indirekte</l>
       </lg>
@@ -12280,10 +12220,15 @@
          </tg>
       </mg>
    </e>
-   <e freq="$5477">
+   <e freq="$5477" mg_c="2">
       <lg>
          <l pos="a">allsidig</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" usage="vd" freq="669">máŋggabealat</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="a">máŋggabealálaš</t>
@@ -12963,10 +12908,15 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2499">
+   <e freq="$2499" mg_c="2">
       <lg>
          <l pos="a">uhyggelig</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" src="nj" usage="vd" freq="17">goalus</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="a">gáppus</t>
@@ -13356,20 +13306,30 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1065">
+   <e freq="$1065" mg_c="2">
       <lg>
          <l pos="a">klønete</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" src="nj" usage="vd" freq="142">čuorbi</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="a">boalbi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$36">
+   <e freq="$36" mg_c="2">
       <lg>
          <l pos="a">rettsgyldig</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="a" src="nj" usage="vd" freq="291">lágalaš</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="a">riektegustojeaddji</t>
