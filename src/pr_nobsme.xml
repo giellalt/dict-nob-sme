@@ -33,7 +33,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pr" freq="1839">almmá</t>
+            <t pos="Pr" freq="0">almmá</t>
             <xg>
                <x>uten at jeg vet</x>
                <xt>almmá mu dieđekeahttá</xt>
@@ -151,7 +151,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="0">goris</t>
+            <t pos="Po" freq="2">goris</t>
             <xg>
                <x>Den nye loven er angående dette svakere enn den gamle loven.</x>
                <xt>Ođđa láhka lea dán goris geahnoheabbo go boares láhka.</xt>
@@ -210,7 +210,7 @@
       </mg>
       <mg re="om klokka">
          <tg xml:lang="sme">
-            <t pos="Po" freq="388">váile</t>
+            <t pos="Po" freq="0">váile</t>
             <xg>
                <x>Klokka er fem på tre.</x>
                <xt>Diibmu lea vihtta váile golbma.</xt>
@@ -287,7 +287,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="4557">badjel</t>
+            <t pos="Po" freq="2026">badjel</t>
             <xg>
                <x>Jeg dro pleddet over hodet for å få sove.</x>
                <xt>Rohttejin ránu oaivvi badjel vai oaččun nahkáriid.</xt>
@@ -406,7 +406,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="1362">fárus</t>
+            <t pos="Po" freq="529">fárus</t>
             <xg>
                <x>Mor er med oss.</x>
                <xt>Eadni lea min fárus.</xt>
@@ -415,7 +415,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="1101">fárrui</t>
+            <t pos="Po" freq="314">fárrui</t>
             <xg>
                <x>Bli med oss!</x>
                <xt>Vuolgge min fárrui!</xt>
@@ -429,7 +429,7 @@
      </lg>
       <mg>
          <tg re="som har" xml:lang="sme">
-            <t t_type="expl" freq="99"/>
+            <t t_type="expl" freq="0"/>
             <xg>
                <x>en mann med skjegg</x>
                <xt>almmái geas leat skávžžat</xt>
@@ -524,7 +524,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv" freq="4304">gaskka</t>
+            <t pos="Adv" freq="221">gaskka</t>
          </tg>
       </mg>
       <mg>
@@ -543,7 +543,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="252">meattá</t>
+            <t pos="Po" freq="178">meattá</t>
             <xg>
                <x>Læreren kjørte forbi huset vårt.</x>
                <xt>Oahpaheaddji vujii min viesu meattá.</xt>
@@ -558,7 +558,7 @@
       </mg>
       <mg re="langs en strekning">
          <tg xml:lang="sme">
-            <t pos="Po" freq="3">geaže</t>
+            <t pos="Po" freq="1">geaže</t>
             <xg>
                <x>De flyttet forbi denne enden.</x>
                <xt>Dat johte dán geaže.</xt>
@@ -670,7 +670,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pr" freq="12810">ovdal</t>
+            <t pos="Pr" freq="6107">ovdal</t>
             <xg>
                <x>Bestefar kom allerede før jul.</x>
                <xt>Áddjá bođii juo ovdal juovllaid.</xt>
@@ -707,7 +707,7 @@
       </lg>
       <mg re="om tid">
          <tg xml:lang="sme">
-            <t pos="Pr" freq="5082">maŋŋel</t>
+            <t pos="Pr" freq="3845">maŋŋel</t>
             <xg>
                <x>Barna går hjem etter skolen.</x>
                <xt>Mánát vázzet ruoktot maŋŋel skuvlla.</xt>
@@ -733,20 +733,20 @@
          </tg>
       </mg>
       <mg>
-         <tg re="om sted i overført betydning" xml:lang="sme">
-            <t pos="Po" freq="194">bearrái</t>
-            <xg>
-               <x>Jeg skal se etter dette huset.</x>
-               <xt>Mun galggan geahččat dán viesu bearrái.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <t pos="Po" freq="182">maŋŋái</t>
             <xg>
                <x>Bestemor sprang av gårde etter barna.</x>
                <xt>Áhkku viehkalii mánáid maŋŋái.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="om sted i overført betydning" xml:lang="sme">
+            <t pos="Po" freq="25">bearrái</t>
+            <xg>
+               <x>Jeg skal se etter dette huset.</x>
+               <xt>Mun galggan geahččat dán viesu bearrái.</xt>
             </xg>
          </tg>
       </mg>
@@ -764,15 +764,6 @@
       <lg>
          <l pos="Pr">under</l>
       </lg>
-      <mg re="i ro">
-         <tg xml:lang="sme">
-            <t pos="x" freq="2387">vuolde</t>
-            <xg>
-               <x>Matta ligger under bordet.</x>
-               <xt>Láhtterátnu lea beavdde vuolde.</xt>
-            </xg>
-         </tg>
-      </mg>
       <mg>
          <tg re="bevegelse til" xml:lang="sme">
             <t pos="Po" freq="2117">vuollái</t>
@@ -788,6 +779,15 @@
             <xg>
                <x>Norge kom under Danmark.</x>
                <xt>Norga šattai Danmárkku vuollái.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg re="i ro">
+         <tg xml:lang="sme">
+            <t pos="x" freq="0">vuolde</t>
+            <xg>
+               <x>Matta ligger under bordet.</x>
+               <xt>Láhtterátnu lea beavdde vuolde.</xt>
             </xg>
          </tg>
       </mg>
@@ -836,7 +836,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="0">duoge</t>
+            <t pos="Po" freq="2">duoge</t>
             <xg>
                <x>Ánne kom på baksiden av huset.</x>
                <xt>Ánne bođii viesu duoge.</xt>
@@ -951,7 +951,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="20">olggul</t>
+            <t pos="Po" freq="2">olggul</t>
             <xg>
                <x>Ta pesken utpå kofta!</x>
                <xt>Cokka beaskka gávtti olggul!</xt>
@@ -965,7 +965,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="20">olggul</t>
+            <t pos="Po" freq="2">olggul</t>
             <xg>
                <x>Ta pesken utpå kofta!</x>
                <xt>Cokka beaskka gávtti olggul!</xt>
@@ -1012,7 +1012,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="993">ovddabealde</t>
+            <t pos="Po" freq="534">ovddabealde</t>
             <xg>
                <x>Stolen står foran bordet.</x>
                <xt>Stuollu lea beavddi ovddabealde.</xt>
@@ -1035,7 +1035,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="385">vuolábealde</t>
+            <t pos="Po" freq="194">vuolábealde</t>
          </tg>
       </mg>
    </e>
@@ -1045,7 +1045,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po" freq="843">bajábealde</t>
+            <t pos="Po" freq="331">bajábealde</t>
             <xg>
                <x>Huset vårt står ovenfor veien.</x>
                <xt>Min viessu lea luotta bajábealde.</xt>
@@ -1054,7 +1054,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pr" freq="358">badjelis</t>
+            <t pos="Pr" freq="66">badjelis</t>
             <xg>
                <x>De måler hvor mye hvert vann er over havnivå.</x>
                <xt>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</xt>
@@ -1192,7 +1192,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pr" freq="1839">almmá</t>
+            <t pos="Pr" freq="0">almmá</t>
             <xg>
                <x>uten at jeg vet</x>
                <xt>almmá mu dieđekeahttá</xt>
@@ -1206,7 +1206,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="x" freq="34557">mielde</t>
+            <t pos="x" freq="0">mielde</t>
             <xg>
                <x>I følge samelovens § 3-1 skal Sametingets årsmelding oversendes Kongen.</x>
                <xt>Sámelága $ 3-1 mielde, galgá Sámedikki jahkedieđáhus sáddejuvvot Gonagassii.</xt>
@@ -1252,7 +1252,7 @@
             </xg>
          </tg>
          <tg xml:lang="sme">
-            <t pos="x" freq="2677">siste</t>
+            <t pos="x" freq="0">siste</t>
             <xg>
                <x>Flokken er innenfor gjerdet.</x>
                <xt>Eallu lea gárddi siste.</xt>
@@ -1266,7 +1266,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="x" freq="46906">birra</t>
+            <t pos="x" freq="0">birra</t>
          </tg>
       </mg>
    </e>
