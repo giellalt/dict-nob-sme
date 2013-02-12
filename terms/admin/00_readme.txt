@@ -6,6 +6,9 @@ to a regular dict?
 2. are the rest-attribut still necessary or can be deleted?
 
 
+For linguistic answers, see below "Linguistic answers"
+
+
 (1) both nob and sme are simple lemmma:
 src/fad_nobsme.20121130_merged_simp.xml
  ==> done (modulo the questions above)
@@ -151,5 +154,19 @@ further observations:
          </tg>
       </mg>
    </e>
+
+
+
+Linguistic answers
+==================
+
+done_fad_nobsme.20121130_nob-s_sme-c.xml 
+nob is checked and ok
+
+done_fad_nobsme.20121130_nob-s_sme-s.xml 
+one more check to be done
+
+done_fad_nobsme.20121130_nob-c_sme-c.xml 
+Much checked, final check to be done.
 
 
