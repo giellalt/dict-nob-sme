@@ -164,7 +164,7 @@ done_fad_nobsme.20121130_nob-s_sme-c.xml
 nob is checked and ok
 
 done_fad_nobsme.20121130_nob-s_sme-s.xml 
-one more check to be done
+nob is checked and ok
 
 done_fad_nobsme.20121130_nob-c_sme-c.xml 
 Much checked, final check to be done.
