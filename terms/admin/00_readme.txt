@@ -161,13 +161,27 @@ Linguistic answers
 ==================
 
 done_fad_nobsme.20121130_nob-s_sme-c.xml 
-nob is checked and ok
+ - nob is checked and ok
+ - sme ==> TODO
 
 done_fad_nobsme.20121130_nob-s_sme-s.xml 
-nob is checked and ok
+ - nob is checked and ok
+ - sme ==> TODO
 
 done_fad_nobsme.20121130_nob-c_sme-c.xml 
-nob is checked and ok
+ - nob is checked and ok
+ - sme ==> TODO
 
+done_l-0_t-0.xml
+ - nob  ==> TODO
+ - sme ==> TODO
+
+done_l-0_t-1.xml
+ - nob  ==> TODO
+ - sme ==> TODO
+
+done_l-1_t-0.xml
+ - nob  ==> TODO
+ - sme ==> TODO
 
 
