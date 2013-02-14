@@ -1311,7 +1311,6 @@
    <e>
       <lg>
          <l pos="n">universitet+styre</l>
-         <l_test l_gt_c="2"/>
          <l_gt gt_pos="subst" c="1">universitetsstyre</l_gt>
          <l_gt gt_pos="subst" c="2">universitetstyre</l_gt>
       </lg>
@@ -1793,7 +1792,6 @@
    <e>
       <lg>
          <l pos="n">finn+mark+undersøkelse</l>
-         <l_test l_gt_c="3"/>
          <l_gt gt_pos="subst" c="2">finnmarksundersøkelse</l_gt>
          <l_gt gt_pos="subst" c="3">finnmarkundersøkelse</l_gt>
       </lg>
@@ -2493,7 +2491,6 @@
    <e>
       <lg>
          <l pos="n">råfisk+lage</l>
-         <l_test l_gt_c="2"/>
          <l_gt gt_pos="subst" c="1">råfisklag</l_gt>
       </lg>
       <mg>
@@ -19478,7 +19475,6 @@
    <e>
       <lg>
          <l pos="n">fest+spill</l>
-         <l_test l_gt_c="2"/>
          <l_gt gt_pos="subst" c="1">festspillprofil</l_gt>
          <l_gt gt_pos="subst" c="2">festspill</l_gt>
       </lg>
@@ -24113,7 +24109,6 @@
    <e>
       <lg>
          <l pos="n">finn+mark+kommisjon</l>
-         <l_test l_gt_c="5"/>
          <l_gt gt_pos="subst" c="1">finnmarkskommisjon</l_gt>
          <l_gt gt_pos="subst" c="4">finnmarkkommisjon</l_gt>
       </lg>
@@ -40427,7 +40422,6 @@
    <e>
       <lg>
          <l pos="n">rett+sikkerhet+pris</l>
-         <l_test l_gt_c="3"/>
          <l_gt gt_pos="subst" c="1">rettsikkerhetspris</l_gt>
          <l_gt gt_pos="subst" c="3">rettssikkerhetspris</l_gt>
       </lg>
@@ -94009,7 +94003,8 @@
    </e>
    <e>
       <lg>
-         <l pos="n">omslagsbilde</l>
+         <l pos="n">omslag+bilde</l>
+         <l_gt gt_pos="subst">omslagsbilde</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -94229,6 +94224,7 @@
    <e>
       <lg>
          <l pos="n">forlagsstøtteordning</l>
+         <l_gt gt_pos="subst">forlagsstøtteordning</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -94240,6 +94236,7 @@
    <e>
       <lg>
          <l pos="n">lokalradioklage</l>
+         <l_gt gt_pos="subst">lokalradioklage</l_gt>
       </lg>
       <mg>
          <tg xml:lang="sme">
