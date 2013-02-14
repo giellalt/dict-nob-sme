@@ -173,8 +173,8 @@ done_fad_nobsme.20121130_nob-c_sme-c.xml
  - sme ==> TODO
 
 done_l-0_t-0.xml
- - nob  ==> TODO
- - sme ==> TODO
+ - nob  ==> DONE
+ - sme ==> DONE
 
 done_l-0_t-1.xml
  - nob  ==> TODO
