@@ -164,6 +164,23 @@ done_fad_nobsme.20121130_nob-s_sme-c.xml
  - nob is checked and ok
  - sme ==> TODO
 
+Etter pos-normalisering: 
+ - vær ops på forhold mellom V i nob som er bare 35 og V i sme som er 132
+ - to UNKNOWN-pos i sme
+==============
+src>grep '<t ' done_fad_nobsme.20121130_nob-s_sme-c.xml | cut -d '>' -f1 | sort | uniq -c 
+   5             <t pos="A"
+1829             <t pos="N"
+   3             <t pos="N" type="NomAg"
+   2             <t pos="UNKNOWN"
+ 132             <t pos="V"
+src>grep '<l ' done_fad_nobsme.20121130_nob-s_sme-c.xml | cut -d '>' -f1 | sort | uniq -c 
+   3          <l pos="A"
+1933          <l pos="N"
+  35          <l pos="V"
+===============
+
+
 done_fad_nobsme.20121130_nob-s_sme-s.xml 
  - nob is checked and ok
  - sme ==> TODO
