@@ -177,8 +177,8 @@ done_l-0_t-0.xml
  - sme ==> DONE
 
 done_l-0_t-1.xml
- - nob  ==> TODO
- - sme ==> TODO
+ - nob  ==> DONE
+ - sme ==> DONE
 
 done_l-1_t-0.xml
  - nob  ==> TODO
