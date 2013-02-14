@@ -189,6 +189,34 @@ done_fad_nobsme.20121130_nob-c_sme-c.xml
  - nob is checked and ok
  - sme ==> TODO
 
+Etter opprydding i nob-c_sme-c:
+ - past på at det finnes lemma varianter i både nob og sme som skal
+ sjekkes og bare én skal står igjen (Trond, hva gjørde du med
+ nob-variantene når du sjektet nob?)
+
+ - i nob (l-elementet) finnes 61 slike par
+ - i sme (t-elementet) finnes 151 med 2, derav 13 med 3 og derav 3 med
+    4 varianter
+
+Bare det riktige skal bli igjen!
+
+=======================
+src>grep '<l' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
+      61
+src>grep '<l' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="2"' | wc -l
+      61
+src>grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
+     151
+src>grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="2"' | wc -l
+     151
+src>grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="3"' | wc -l
+      13
+src>grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="4"' | wc -l
+       3
+=======================
+
+
+
 done_l-0_t-0.xml
  - nob  ==> DONE
  - sme ==> DONE
