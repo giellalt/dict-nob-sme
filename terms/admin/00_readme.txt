@@ -200,6 +200,10 @@ Etter opprydding i nob-c_sme-c:
 
 Bare det riktige skal bli igjen!
 
+done_fad_nobsme.20121130_nob-s_sme-c.xml
+ - nob ==> ???
+ - BM har påbegynt (se log i Revision: 71310)
+
 =======================
 src>grep '<l' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
       61
