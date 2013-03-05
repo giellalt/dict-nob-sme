@@ -187,7 +187,7 @@ done_fad_nobsme.20121130_nob-s_sme-s.xml
 
 done_fad_nobsme.20121130_nob-c_sme-c.xml 
  - nob is checked and ok
- - sme ==> Marja jobber med filen
+ - sme ==> Marja fikk kommandoene til å fungere og har nå begynt å sjekke
 
 Etter opprydding i nob-c_sme-c:
  - past på at det finnes lemma varianter i både nob og sme som skal
