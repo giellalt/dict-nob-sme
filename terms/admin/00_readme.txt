@@ -223,7 +223,7 @@ src>grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="4"' | wc -l
 
 done_l-0_t-0.xml
  - nob  ==> DONE
- - sme ==> Ikke done likevel, Marja tar en ny sjekk
+ - sme ==> DONE
 
 done_l-0_t-1.xml
  - nob  ==> DONE
