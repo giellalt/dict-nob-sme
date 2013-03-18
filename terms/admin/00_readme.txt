@@ -54,6 +54,15 @@ src>grep '<l ' done_fad_nobsme.20121130_nob-s_sme-c.xml | cut -d '>' -f1 | sort 
 1933          <l pos="N"
   35          <l pos="V"
 ===============
+Dette er en bedre kommando siden type kan være så mangt:
+src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<t pos=...'| sort | uniq -c
+   3 <t pos="A"
+1928 <t pos="N"
+  30 <t pos="V"
+src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
+   3 <l pos="A"
+1928 <l pos="N"
+  30 <l pos="V"
 
 cat done_fad_nobsme.20121130_nob-s_sme-s.xml |sed 's/<e>/€/' |tr '\n' '£'|tr '€' '\n'|grep '"N".*"V"'|cut -d'>' -f8|cut -d"<" -f1|sed 's/$/+V+Der\/NomAct+N+Sg+Nom/'|dsmeNorm |cut -f2| sort -u| grep '+' |l
 
