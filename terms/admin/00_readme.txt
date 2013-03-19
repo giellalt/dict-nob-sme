@@ -109,3 +109,172 @@ src>grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="4"' | wc -l
    </e>
 
 
+OVERSIKT OVER done-filene 19.mars:
+
+__done_fad_nobsme.20121130_nob-c_sme-c.xml__
+
+POS ikke ok:
+nob-filen inneholder bare N
+sme-fil inneholder både A, N, PR, V:
+src$ grep '<l ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
+7814 <l pos="N"
+src$ grep '<t ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<t pos=...'| sort | uniq -c
+   4 <t pos="A"
+7732 <t pos="N"
+  19 <t pos="PR
+ 215 <t pos="V"
+
+Det finnes 144 tilfeller av minimum 2 ulike sme-varianter i t-elementet:
+src$ grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
+     144
+
+usmeNorm ikke OK
+273 ord blir ikke analysert
+4460 ord er ikke leksikalisert
+src$ cat done_fad_nobsme.20121130_nob-c_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistcc
+src$ cat smelistcc | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+     273
+src$ cat smelistcc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmacc
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 smelistcc smelemmacc | wc -l
+    4460
+
+
+
+__done_fad_nobsme.20121130_nob-s_sme-c.xml__
+
+POS OK:
+src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
+   3 <l pos="A"
+1928 <l pos="N"
+  30 <l pos="V"
+src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<t pos=...'| sort | uniq -c
+   3 <t pos="A"
+1928 <t pos="N"
+  30 <t pos="V"
+
+
+usmeNorm ikke OK
+1 ord blir ikke analysert
+857 ord er ikke leksikalisert
+src$ cat done_fad_nobsme.20121130_nob-s_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistsc
+src$ cat smelistsc | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       1
+src$ cat smelistsc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmasc
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 smelistsc smelemmasc | wc -l
+     857
+
+
+__done_fad_nobsme.20121130_nob-s_sme-s.xml__
+
+POS ikke ok:
+nob-filen inneholder flere N enn sme-fila
+sme-fila inneholder flere A og V enn nob-fila:
+src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<l pos=...'| sort | uniq -c
+ 628 <l pos="A"
+3032 <l pos="N"
+1389 <l pos="V"
+src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<t pos=...'| sort | uniq -c
+ 680 <t pos="A"
+   1 <t pos="Ad
+2548 <t pos="N"
+1820 <t pos="V"
+
+
+usmeNorm ikke OK
+1 ord blir ikke analysert
+16 ord er ikke leksikalisert
+src$ cat done_fad_nobsme.20121130_nob-s_sme-s.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistss
+src$ cat smelistss | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       1
+src$ cat smelistss | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmass
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 smelistss smelemmass | wc -l
+      16
+
+
+__done_l-0_t-0.xml__
+
+POS OK:
+Pos i nob og sme stemmer overens:
+src$ grep '<l ' done_l-0_t-0.xml | egrep -o '<l pos=...'| sort | uniq -c
+  14 <l pos="N"
+src$ grep '<t ' done_l-0_t-0.xml | egrep -o '<t pos=...'| sort | uniq -c
+  14 <t pos="N"
+
+
+usmeNorm OK:
+alle ordene blir analysert
+alle ordene er leksikalisert
+src$ cat done_l-0_t-0.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist00
+src$ cat smelist00 | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat smelist00 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma00
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 smelist00 smelemma00 | wc -l
+       0
+
+
+__done_l-0_t-1.xml__
+
+POS OK:
+Pos i nob og sme stemmer overens:
+src$ grep '<l ' done_l-0_t-1.xml | egrep -o '<l pos=...'| sort | uniq -c
+ 173 <l pos="N"
+src$ grep '<t ' done_l-0_t-1.xml | egrep -o '<t pos=...'| sort | uniq -c
+ 173 <t pos="N"
+
+usmeNorm ikke OK
+1 ord blir ikke analysert
+125 ord er ikke leksikalisert
+src$ cat done_l-0_t-1.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist01
+src$ cat smelist01 | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       1
+src$ cat smelist01 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma01
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 smelist01 smelemma01 | wc -l
+     125
+
+
+__done_l-1_t-0.xml__
+
+POS OK:
+sme har 3 <t pos flere enn nob, grunnen er at det er flere t-element under et lemma, se nedenfor
+src$ grep '<l ' done_l-1_t-0.xml | egrep -o '<l pos=...'| sort | uniq -c
+ 325 <l pos="N"
+src$ grep '<t ' done_l-1_t-0.xml | egrep -o '<t pos=...'| sort | uniq -c
+ 328 <t pos="N"
+
+         <tg xml:lang="sme">
+            <t pos="N">terminologiijaráhkadeapmi</t>
+            <t pos="N">terminologiijaovddideapmi</t>
+         </tg>
+
+         <tg xml:lang="sme">
+            <t pos="N">bargomárkanovdáneapmi</t>
+            <t pos="N">bargomárkanovddideapmi</t>
+         </tg>
+
+         <tg xml:lang="sme">
+            <t pos="N" type="G3">roahcanášši</t>
+            <t pos="N" type="G3">veahkaváldinášši</t>
+         </tg>
+
+usmeNorm ikke OK
+2 ord blir ikke analysert
+201 ord er ikke leksikalisert
+src$ cat done_l-1_t-0.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist10
+src$ cat smelist10 | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       2
+src$ cat smelist10 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma10
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 smelist10 smelemma10 | wc -l
+     201
+
