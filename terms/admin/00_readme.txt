@@ -123,8 +123,8 @@ sme-fil inneholder både A, N, PR, V:
 src$ grep '<l ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
 7814 <l pos="N"
 src$ grep '<t ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<t pos=...'| sort | uniq -c
-7792 <t pos="N"
- 176 <t pos="V"
+7833 <t pos="N"
+ 133 <t pos="V"
 
 Det finnes 144 tilfeller av minimum 2 ulike sme-varianter i t-elementet:
 src$ grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
