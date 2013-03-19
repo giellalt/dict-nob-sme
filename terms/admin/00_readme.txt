@@ -209,31 +209,6 @@ src$ comm -23 smelistss smelemmass | wc -l
 
 
 
-__done_l-0_t-1.xml__
-
-Hvor mange entry er det i fila?
-src$ cat done_l-0_t-1.xml | grep '<e>' | wc -l
-     173
-
-POS OK:
-Pos i nob og sme stemmer overens:
-src$ grep '<l ' done_l-0_t-1.xml | egrep -o '<l pos=...'| sort | uniq -c
- 173 <l pos="N"
-src$ grep '<t ' done_l-0_t-1.xml | egrep -o '<t pos=...'| sort | uniq -c
- 173 <t pos="N"
-
-usmeNorm ikke OK
-1 ord blir ikke analysert
-125 ord er ikke leksikalisert
-src$ cat done_l-0_t-1.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist01
-src$ cat smelist01 | usmeNorm | grep '?' | wc -l
-0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-       1
-src$ cat smelist01 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma01
-0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-src$ comm -23 smelist01 smelemma01 | wc -l
-     125
-
 
 __done_l-1_t-0.xml__
 
@@ -274,7 +249,34 @@ src$ cat smelist10 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma10
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelist10 smelemma10 | wc -l
      201
+     
+***
 
+__done_l-0_t-1.xml__ LEKSIKALISERING GJENSTÅR.
+
+Hvor mange entry er det i fila?
+src$ cat done_l-0_t-1.xml | grep '<e>' | wc -l
+     173
+
+POS OK:
+Pos i nob og sme stemmer overens:
+src$ grep '<l ' done_l-0_t-1.xml | egrep -o '<l pos=...'| sort | uniq -c
+ 173 <l pos="N"
+src$ grep '<t ' done_l-0_t-1.xml | egrep -o '<t pos=...'| sort | uniq -c
+ 173 <t pos="N"
+
+usmeNorm OK, leksikalisering gjenstår.
+alle ordene blir analysert.
+123 ord er ikke leksikalisert.
+Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikalisering_done_l-0_t-1
+src$ cat done_l-0_t-1.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist01
+src>cat smelist01 | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat smelist01 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma01
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src>comm -23 smelist01 smelemma01 | wc -l
+     123
 
 __done_l-0_t-0.xml__ HELT OK
 
