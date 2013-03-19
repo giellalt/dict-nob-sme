@@ -124,8 +124,7 @@ src$ grep '<l ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<l pos=...'
 7814 <l pos="N"
 src$ grep '<t ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<t pos=...'| sort | uniq -c
    4 <t pos="A"
-7732 <t pos="N"
-  19 <t pos="PR
+7750 <t pos="N"
  215 <t pos="V"
 
 Det finnes 144 tilfeller av minimum 2 ulike sme-varianter i t-elementet:
