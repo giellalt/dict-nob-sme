@@ -113,6 +113,10 @@ OVERSIKT OVER done-filene 19.mars:
 
 __done_fad_nobsme.20121130_nob-c_sme-c.xml__
 
+Hvor mange entry er det i fila?
+src$ cat done_fad_nobsme.20121130_nob-c_sme-c.xml | grep '<e>' | wc -l
+    7814
+
 POS ikke ok:
 nob-filen inneholder bare N
 sme-fil inneholder både A, N, PR, V:
@@ -144,6 +148,11 @@ src$ comm -23 smelistcc smelemmacc | wc -l
 
 __done_fad_nobsme.20121130_nob-s_sme-c.xml__
 
+Hvor mange entry er det i fila?
+src$ cat done_fad_nobsme.20121130_nob-s_sme-c.xml | grep '<e>' | wc -l
+    1961
+
+
 POS OK:
 src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
    3 <l pos="A"
@@ -169,6 +178,10 @@ src$ comm -23 smelistsc smelemmasc | wc -l
 
 
 __done_fad_nobsme.20121130_nob-s_sme-s.xml__
+
+Hvor mange entry er det i fila?
+src$ cat done_fad_nobsme.20121130_nob-s_sme-s.xml | grep '<e>' | wc -l
+    5049
 
 POS ikke ok:
 nob-filen inneholder flere N enn sme-fila
@@ -197,30 +210,12 @@ src$ comm -23 smelistss smelemmass | wc -l
       16
 
 
-__done_l-0_t-0.xml__
-
-POS OK:
-Pos i nob og sme stemmer overens:
-src$ grep '<l ' done_l-0_t-0.xml | egrep -o '<l pos=...'| sort | uniq -c
-  14 <l pos="N"
-src$ grep '<t ' done_l-0_t-0.xml | egrep -o '<t pos=...'| sort | uniq -c
-  14 <t pos="N"
-
-
-usmeNorm OK:
-alle ordene blir analysert
-alle ordene er leksikalisert
-src$ cat done_l-0_t-0.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist00
-src$ cat smelist00 | usmeNorm | grep '?' | wc -l
-0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-       0
-src$ cat smelist00 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma00
-0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-src$ comm -23 smelist00 smelemma00 | wc -l
-       0
-
 
 __done_l-0_t-1.xml__
+
+Hvor mange entry er det i fila?
+src$ cat done_l-0_t-1.xml | grep '<e>' | wc -l
+     173
 
 POS OK:
 Pos i nob og sme stemmer overens:
@@ -243,6 +238,10 @@ src$ comm -23 smelist01 smelemma01 | wc -l
 
 
 __done_l-1_t-0.xml__
+
+Hvor mange entry er det i fila?
+src$ cat done_l-1_t-0.xml | grep '<e>' | wc -l
+     325
 
 POS OK:
 sme har 3 <t pos flere enn nob, grunnen er at det er flere t-element under et lemma, se nedenfor
@@ -277,4 +276,31 @@ src$ cat smelist10 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma10
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelist10 smelemma10 | wc -l
      201
+
+
+__done_l-0_t-0.xml__ HELT OK
+
+Hvor mange entry er det i fila?
+src$ cat done_l-0_t-0.xml | grep '<e>' | wc -l
+      14
+
+POS OK:
+Pos i nob og sme stemmer overens:
+src$ grep '<l ' done_l-0_t-0.xml | egrep -o '<l pos=...'| sort | uniq -c
+  14 <l pos="N"
+src$ grep '<t ' done_l-0_t-0.xml | egrep -o '<t pos=...'| sort | uniq -c
+  14 <t pos="N"
+
+
+usmeNorm OK:
+alle ordene blir analysert
+alle ordene er leksikalisert
+src$ cat done_l-0_t-0.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist00
+src$ cat smelist00 | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat smelist00 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma00
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 smelist00 smelemma00 | wc -l
+       0
 
