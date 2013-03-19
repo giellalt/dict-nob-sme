@@ -766,7 +766,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">Morgenbladet</t>
+            <t pos="N" type="Prop">Morgenbladet</t>
          </tg>
       </mg>
    </e>
@@ -806,7 +806,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">leaibevuotna</t>
+            <t pos="N" type="Prop">Leaibevuotna</t>
          </tg>
       </mg>
    </e>
@@ -982,11 +982,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">finnmarksposten</l>
+         <l pos="N">Finnmarksposten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">finnmarksposten</t>
+            <t pos="N" type="Prop">Finnmarksposten</t>
          </tg>
       </mg>
    </e>
@@ -1106,7 +1106,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">áhkárvuotna</t>
+            <t pos="N" type="Prop">Áhkárvuotna</t>
          </tg>
       </mg>
    </e>
@@ -1162,11 +1162,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">finnmarkshall</l>
+         <l pos="N">Finnmarkshallen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">finnmárkkuhálla</t>
+            <t pos="N" type="Prop">Finnmárkkuhálla</t>
          </tg>
       </mg>
    </e>
@@ -1513,11 +1513,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">nordlandsbane</l>
+         <l pos="N">Nordlandsbanen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">nordlandsbanen</t>
+            <t pos="N" type="Prop">Nordlandsbanen</t>
          </tg>
       </mg>
    </e>
@@ -1587,7 +1587,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">ovddádusbellodat</t>
+            <t pos="N">ovddádusbellodat</t>
          </tg>
       </mg>
    </e>
@@ -1878,7 +1878,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">kvalitetsreformen</t>
+            <t pos="N">kvalitehtaođastus</t>
          </tg>
       </mg>
    </e>
@@ -1938,7 +1938,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">náivuotna</t>
+            <t pos="N" type="Prop">Náivuotna</t>
          </tg>
       </mg>
    </e>
@@ -2344,11 +2344,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">porsangerfjorden</l>
+         <l pos="N">Porsangerfjorden</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">porsáŋgguvuotna</t>
+            <t pos="N" type="Prop">Porsáŋgguvuotna</t>
          </tg>
       </mg>
    </e>
@@ -20079,11 +20079,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">finnmarkskommisjon</l>
+         <l pos="N">Finnmarkskommisjonen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">finnmárkkukommišuvdna</t>
+            <t pos="N" type="Prop" orig_string="Finnmárkkukommišuvdna">Finnmárkokommišuvdna</t>
          </tg>
       </mg>
    </e>
@@ -32186,7 +32186,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">sámekonferánsa</t>
+            <t pos="N">sámekonferánsa</t>
          </tg>
       </mg>
    </e>
@@ -41694,21 +41694,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">finnmarkseiendom</l>
+         <l pos="N">Finnmarkseiendommen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">finnmarkseiendommen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">finnmarkseiendom</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="PROP">finnmárkkuopmodat</t>
+            <t pos="N" type="Prop">Finnmárkkuopmodat</t>
          </tg>
       </mg>
    </e>
@@ -41738,7 +41728,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">oahpahusdirektoráhtta</t>
+            <t pos="N">oahpahusdirektoráhtta</t>
          </tg>
       </mg>
    </e>
@@ -42508,7 +42498,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">luonddugáhttensearvi</t>
+            <t pos="N">luonddugáhttensearvi</t>
          </tg>
       </mg>
    </e>
@@ -64735,7 +64725,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">sámemiššuvdna</t>
+            <t pos="N">sámemiššuvdna</t>
          </tg>
       </mg>
    </e>
@@ -65649,7 +65639,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">sámevuoigatvuođalávdegoddi</t>
+            <t pos="N">sámevuoigatvuođalávdegoddi</t>
          </tg>
       </mg>
    </e>
@@ -66021,7 +66011,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="PROP">dearvvašvuođadepartemeanta</t>
+            <t pos="N">dearvvašvuođadepartemeanta</t>
          </tg>
       </mg>
    </e>
