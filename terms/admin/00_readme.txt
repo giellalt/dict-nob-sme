@@ -210,7 +210,7 @@ src$ comm -23 smelistss smelemmass | wc -l
 
 
 
-__done_l-1_t-0.xml__
+__done_l-1_t-0.xml__LEKSIKALISERING GJENSTÅR.
 
 Hvor mange entry er det i fila?
 src$ cat done_l-1_t-0.xml | grep '<e>' | wc -l
@@ -238,17 +238,18 @@ src$ grep '<t ' done_l-1_t-0.xml | egrep -o '<t pos=...'| sort | uniq -c
             <t pos="N" type="G3">veahkaváldinášši</t>
          </tg>
 
-usmeNorm ikke OK
-2 ord blir ikke analysert
-201 ord er ikke leksikalisert
+usmeNorm OK, leksikalisering gjenstår.
+1 ord blir ikke analysert, fordi ordet Finnmárkku báhppa er en mwe.
+195 ord er ikke leksikalisert
+Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikaliseret_done_l-1_t-0
 src$ cat done_l-1_t-0.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist10
 src$ cat smelist10 | usmeNorm | grep '?' | wc -l
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-       2
+       1
 src$ cat smelist10 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma10
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelist10 smelemma10 | wc -l
-     201
+     195
      
 ***
 
