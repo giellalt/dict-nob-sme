@@ -118,17 +118,18 @@ src$ cat done_fad_nobsme.20121130_nob-c_sme-c.xml | grep '<e>' | wc -l
     7814
 
 POS ikke ok:
-nob-filen inneholder bare N
-sme-fil inneholder både A, N, PR, V:
+nob-del inneholder N og A
+sme-del inneholder både N og A, men har t-element enn nob har l-element:
 src$ grep '<l ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
-7814 <l pos="N"
+   1 <l pos="A"
+7811 <l pos="N"
 src$ grep '<t ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<t pos=...'| sort | uniq -c
-7868 <t pos="N"
-  96 <t pos="V"
+   1 <t pos="A"
+7960 <t pos="N"
 
-Det finnes 144 tilfeller av minimum 2 ulike sme-varianter i t-elementet:
+Det finnes 137 tilfeller av minimum 2 ulike sme-varianter i t-elementet:
 src$ grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
-     144
+     137
 
 usmeNorm ikke OK
 273 ord blir ikke analysert
@@ -136,7 +137,7 @@ usmeNorm ikke OK
 src$ cat done_fad_nobsme.20121130_nob-c_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistcc
 src$ cat smelistcc | usmeNorm | grep '?' | wc -l
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-     273
+     123
 src$ cat smelistcc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmacc
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelistcc smelemmacc | wc -l
