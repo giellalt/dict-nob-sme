@@ -243,7 +243,7 @@ src$ grep '<t ' done_l-1_t-0.xml | egrep -o '<t pos=...'| sort | uniq -c
 usmeNorm OK, leksikalisering gjenstår.
 1 ord blir ikke analysert, fordi ordet Finnmárkku báhppa er en mwe.
 195 ord er ikke leksikalisert
-Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikaliseret_done_l-1_t-0
+Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikalisering_done_l-0_t-1
 src$ cat done_l-1_t-0.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist10
 src$ cat smelist10 | usmeNorm | grep '?' | wc -l
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
