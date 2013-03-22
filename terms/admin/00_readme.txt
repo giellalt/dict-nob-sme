@@ -146,7 +146,8 @@ src$ comm -23 smelistcc smelemmacc | wc -l
     4544
 
 
-__done_fad_nobsme.20121130_nob-s_sme-c.xml__
+__done_fad_nobsme.20121130_nob-s_sme-c.xml____LEKSIKALISERING GJENSTÅR.
+
 
 Hvor mange entry er det i fila?
 src$ cat done_fad_nobsme.20121130_nob-s_sme-c.xml | grep '<e>' | wc -l
@@ -164,17 +165,16 @@ src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<t pos=...'
   30 <t pos="V"
 
 
-usmeNorm ikke OK
-1 ord blir ikke analysert
-857 ord er ikke leksikalisert
+usmeNorm OK, leksikalisering gjenstår.
+849 ord er ikke leksikalisert. Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikalisering_done_fad_nobsme.20121130_nob-s_sme-c.xml
 src$ cat done_fad_nobsme.20121130_nob-s_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistsc
 src$ cat smelistsc | usmeNorm | grep '?' | wc -l
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-       1
+       0
 src$ cat smelistsc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmasc
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-src$ comm -23 smelistsc smelemmasc | wc -l
-     857
+src$ comm -23 smelistdone00 smelemma01 | wc -l
+     849
 
 
 __done_fad_nobsme.20121130_nob-s_sme-s.xml__
