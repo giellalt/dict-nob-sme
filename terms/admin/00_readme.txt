@@ -197,13 +197,12 @@ src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<t pos=...'
 1820 <t pos="V"
 
 
-usmeNorm ikke OK
-1 ord blir ikke analysert
+usmeNorm OK
 16 ord er ikke leksikalisert
 src$ cat done_fad_nobsme.20121130_nob-s_sme-s.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistss
 src$ cat smelistss | usmeNorm | grep '?' | wc -l
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-       1
+       0
 src$ cat smelistss | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmass
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelistss smelemmass | wc -l
