@@ -13,9 +13,9 @@ sme:
 5. Sjå på heilheita
 
 nob:
-1. Ordne opp i nob-lemma: Bøygde former for grunnformer (58?)
-2. Liste over nob-lemma som skal leksikaliseres (3239?)
-3. Sjekke lemma-varianter (c="1", c="2") i nob-c_sme-c-fila, slette uriktig variant og beholde riktig variant. (61)
+1. Ordne opp i nob-lemma: Bøygde former for grunnformer (58?) - done 
+2. Liste over nob-lemma som skal leksikaliseres (3239?) - undervegs
+3. Sjekke lemma-varianter (c="1", c="2") i nob-c_sme-c-fila, slette uriktig variant og beholde riktig variant. (61) - done
 4. Sjå på heilheita
 
 
@@ -192,7 +192,7 @@ src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<l pos=...'
 1389 <l pos="V"
 src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<t pos=...'| sort | uniq -c
  680 <t pos="A"
-   1 <t pos="Ad
+   1 <t pos="Adv"
 2548 <t pos="N"
 1820 <t pos="V"
 
