@@ -34690,8 +34690,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" c="1">dásseárvoplána</t>
-            <t pos="N" c="2">dásse-árvoplána</t>
+            <t pos="N" alternative_string="dásse-árvoplána">dásseárvoplána</t>
          </tg>
       </mg>
    </e>
@@ -35131,8 +35130,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" c="1">fylkkaeanadoallostivra</t>
-            <t pos="N" c="2">fylkkaeanandoallostivra</t>
+            <t pos="N">fylkkaeanadoallostivra</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fylkeslandbruksstyre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">fylkkaeanandoallostivra</t>
          </tg>
       </mg>
    </e>
@@ -39503,8 +39511,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" c="1">máilmmemárkan</t>
-            <t pos="N" c="2">máilmmimárkan</t>
+            <t pos="N" alternative_string="máilmmemárkan">máilmmimárkan</t>
          </tg>
       </mg>
    </e>
@@ -39514,8 +39521,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" c="1">máilbmeárbeguovlu</t>
-            <t pos="N" c="2">máilmmiárbeguovlu</t>
+            <t pos="N" alternative_string="máilbmeárbeguovlu">máilmmiárbeguovlu</t>
          </tg>
       </mg>
    </e>
@@ -41415,8 +41421,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" c="1">sisdoassi</t>
-            <t pos="N" c="2">sisdoallooassi</t>
+            <t pos="N">sisdoallooassi</t>
          </tg>
       </mg>
    </e>
@@ -44058,8 +44063,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" c="1">máttasámeguovlu</t>
-            <t pos="N" c="2">máttasámiguovlu</t>
+            <t pos="N" alternative_string="máttasámiguovlu">máttasámeguovlu</t>
          </tg>
       </mg>
    </e>
@@ -46681,9 +46685,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" c="1">eanadoalloopmodat</t>
-            <t pos="N" c="2">eanadoaloopmodat</t>
-            <t pos="N" c="3">eanandoalloopmodat</t>
+            <t pos="N" alternative_string="eanadoaloopmodat">eanadoalloopmodat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">landbrukseiendom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">eanandoalloopmodat</t>
          </tg>
       </mg>
    </e>
