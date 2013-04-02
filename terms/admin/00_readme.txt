@@ -119,7 +119,7 @@ src$ cat done_fad_nobsme.20121130_nob-c_sme-c.xml | grep '<e>' | wc -l
     
 POS ikke ok:
 nob-del inneholder N og A
-sme-del inneholder både N og A, men har t-element enn nob har l-element:
+sme-del inneholder både N og A, men har flere t-element enn nob har l-element:
 src$ grep '<l ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
    1 <l pos="A"
 7814 <l pos="N"
@@ -144,37 +144,6 @@ src$ cat smelistcc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmacc
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelistcc smelemmacc | wc -l
     4544
-
-
-__done_fad_nobsme.20121130_nob-s_sme-c.xml____LEKSIKALISERING GJENSTÅR.
-
-
-Hvor mange entry er det i fila?
-src$ cat done_fad_nobsme.20121130_nob-s_sme-c.xml | grep '<e>' | wc -l
-    1961
-
-
-POS OK:
-src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
-   3 <l pos="A"
-1928 <l pos="N"
-  30 <l pos="V"
-src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<t pos=...'| sort | uniq -c
-   3 <t pos="A"
-1928 <t pos="N"
-  30 <t pos="V"
-
-
-usmeNorm OK, leksikalisering gjenstår.
-849 ord er ikke leksikalisert. Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikalisering_done_fad_nobsme.20121130_nob-s_sme-c.xml
-src$ cat done_fad_nobsme.20121130_nob-s_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistsc
-src$ cat smelistsc | usmeNorm | grep '?' | wc -l
-0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-       0
-src$ cat smelistsc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmasc
-0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-src$ comm -23 smelistdone00 smelemma01 | wc -l
-     849
 
 
 __done_fad_nobsme.20121130_nob-s_sme-s.xml__
@@ -209,6 +178,35 @@ src$ comm -23 smelistss smelemmass | wc -l
       16
 
 
+__done_fad_nobsme.20121130_nob-s_sme-c.xml____LEKSIKALISERING GJENSTÅR.
+
+
+Hvor mange entry er det i fila?
+src$ cat done_fad_nobsme.20121130_nob-s_sme-c.xml | grep '<e>' | wc -l
+    1961
+
+
+POS OK:
+src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
+   3 <l pos="A"
+1928 <l pos="N"
+  30 <l pos="V"
+src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<t pos=...'| sort | uniq -c
+   3 <t pos="A"
+1928 <t pos="N"
+  30 <t pos="V"
+
+
+usmeNorm OK, leksikalisering gjenstår.
+849 ord er ikke leksikalisert. Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikalisering_done_fad_nobsme.20121130_nob-s_sme-c.xml
+src$ cat done_fad_nobsme.20121130_nob-s_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistsc
+src$ cat smelistsc | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat smelistsc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmasc
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 smelistdone00 smelemma01 | wc -l
+     849
 
 
 __done_l-1_t-0.xml__LEKSIKALISERING GJENSTÅR.
@@ -218,7 +216,7 @@ src$ cat done_l-1_t-0.xml | grep '<e>' | wc -l
      325
 
 POS OK:
-sme har 3 <t pos flere enn nob, grunnen er at det er flere t-element under et lemma, se nedenfor
+sme har 3 <t pos flere enn nob har lemma, grunnen er at det er flere t-element under et lemma, se nedenfor
 src$ grep '<l ' done_l-1_t-0.xml | egrep -o '<l pos=...'| sort | uniq -c
  325 <l pos="N"
 src$ grep '<t ' done_l-1_t-0.xml | egrep -o '<t pos=...'| sort | uniq -c
