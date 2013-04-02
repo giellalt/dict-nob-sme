@@ -127,10 +127,10 @@ src$ grep '<t ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<t pos=...'
    1 <t pos="A"
 7907 <t pos="N"
 
-Det finnes 85 tilfeller av minimum 2 ulike sme-varianter i t-elementet:
+Det finnes 39 tilfeller av minimum 2 ulike sme-varianter i t-elementet:
 src$ grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
-      85
-
+      39
+      
 Jeg har lagt til en ny attributt, alternative_string, som betyr at i korpuset finnes også denne alternative varianten som ikke er normativ.
 
 usmeNorm ikke OK
