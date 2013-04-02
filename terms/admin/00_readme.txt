@@ -115,17 +115,17 @@ __done_fad_nobsme.20121130_nob-c_sme-c.xml__
 
 Hvor mange entry er det i fila?
 src$ cat done_fad_nobsme.20121130_nob-c_sme-c.xml | grep '<e>' | wc -l
-    7815
+    7827
     
 POS ikke ok:
 nob-del inneholder N og A
 sme-del inneholder både N og A, men har flere t-element enn nob har l-element:
 src$ grep '<l ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<l pos=...'| sort | uniq -c
    1 <l pos="A"
-7814 <l pos="N"
+7826 <l pos="N"
 src$ grep '<t ' done_fad_nobsme.20121130_nob-c_sme-c.xml | egrep -o '<t pos=...'| sort | uniq -c
    1 <t pos="A"
-7907 <t pos="N"
+7871 <t pos="N"
 
 Det finnes 39 tilfeller av minimum 2 ulike sme-varianter i t-elementet:
 src$ grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
@@ -134,12 +134,12 @@ src$ grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
 Jeg har lagt til en ny attributt, alternative_string, som betyr at i korpuset finnes også denne alternative varianten som ikke er normativ.
 
 usmeNorm ikke OK
-114 ord blir ikke analysert
+105 ord blir ikke analysert
 4544 ord er ikke leksikalisert
 src$ cat done_fad_nobsme.20121130_nob-c_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistcc
 src$ cat smelistcc | usmeNorm | grep '?' | wc -l
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-     114
+     105
 src$ cat smelistcc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmacc
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelistcc smelemmacc | wc -l
