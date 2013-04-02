@@ -1,6 +1,4 @@
 
-
-
 Fila oppdatert etter møte 18.3.2013:
 TODO:
 =====
@@ -303,4 +301,18 @@ src$ cat smelist00 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma00
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelist00 smelemma00 | wc -l
        0
+
+============================
+pos synchronization check: grep for 'crash':
+
+src>grep '<e' done_fad_nobsme.20121130_nob-s_sme-s.xml | sort | uniq -c | sort -nr 
+4520    <e>
+ 422    <e crash="N_V">
+  69    <e crash="N_A">
+  17    <e crash="A_V">
+  10    <e crash="V_A">
+   9    <e crash="A_N">
+   1    <e crash="A_Adv">
+
+============================
 
