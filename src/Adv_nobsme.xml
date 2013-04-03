@@ -151,7 +151,6 @@
          </tg>
       </mg>
    </e>
-
    <e>
       <lg>
          <l pos="Adv">bra</l>
@@ -170,9 +169,6 @@
          </tg>
       </mg>
    </e>
-
-
-
    <e>
       <lg>
          <l pos="Adv">best</l>
@@ -960,50 +956,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="7">dobbelaččas</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="3">
-      <lg>
-         <l pos="Adv">noensinne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="3583">goassege</t>
-            <xg>
-               <x>Har du noen gang vært der?</x>
-               <xt>Leat go goassege leamaš doppe?</xt>
-            </xg>
-            <xg>
-               <x>aldri</x>
-               <xt>ii goassege</xt>
-            </xg>
-            <xg>
-               <x>Jeg ville aldri ha trodd det.</x>
-               <xt>In livčče dan goassege jáhkkán.</xt>
-            </xg>
-            <xg>
-               <x>Vi to gir aldri opp.</x>
-               <xt>Moai ean vuollán goassege.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="1226">goassige</t>
-            <xg>
-               <x>Jeg ville aldri ha trodd det.</x>
-               <xt>In livčče dan goassige jáhkkán.</xt>
-            </xg>
-            <xg>
-               <x>Har du noen gang vært der?</x>
-               <xt>Leat go goassige leamaš doppe?</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="725">goasse</t>
          </tg>
       </mg>
    </e>
@@ -4503,20 +4455,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="Adv">sjelden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="742">hárve</t>
-            <xg>
-               <x>Bestemor er sjelden syk.</x>
-               <xt>Áhkku lea hárve buohcci.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="2">
       <lg>
          <l pos="Adv">meget</l>
@@ -7368,29 +7306,6 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Adv">på en eller annen måte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="phrase_adv" usage="vd" freq="0">mo nu</t>
-            <xg>
-               <x>Jeg skal på en eller annen måte dra til Karasjok i morgen.</x>
-               <xt>Mun lean mo nu vuolgimin ihttin Kárášjohkii.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="phrase_adv" usage="vd" freq="0">movt nu</t>
-            <xg>
-               <x>Jeg skal på en eller annen måte dra til Karasjok i morgen.</x>
-               <xt>Mun lean movt nu vuolgimin ihttin Kárášjohkii.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="Adv">et eller annet sted</l>
@@ -7849,10 +7764,49 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e mg_c="5">
       <lg>
          <l pos="Adv">noensinne</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd" freq="3583">goassege</t>
+            <xg>
+               <x>Har du noen gang vært der?</x>
+               <xt>Leat go goassege leamaš doppe?</xt>
+            </xg>
+            <xg>
+               <x>aldri</x>
+               <xt>ii goassege</xt>
+            </xg>
+            <xg>
+               <x>Jeg ville aldri ha trodd det.</x>
+               <xt>In livčče dan goassege jáhkkán.</xt>
+            </xg>
+            <xg>
+               <x>Vi to gir aldri opp.</x>
+               <xt>Moai ean vuollán goassege.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd" freq="1226">goassige</t>
+            <xg>
+               <x>Jeg ville aldri ha trodd det.</x>
+               <xt>In livčče dan goassige jáhkkán.</xt>
+            </xg>
+            <xg>
+               <x>Har du noen gang vært der?</x>
+               <xt>Leat go goassige leamaš doppe?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd" freq="725">goasse</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="17">agibeaivvis</t>
@@ -7893,10 +7847,28 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="3">
       <lg>
          <l pos="Adv">på en eller annen måte</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="phrase_adv" usage="vd" freq="0">mo nu</t>
+            <xg>
+               <x>Jeg skal på en eller annen måte dra til Karasjok i morgen.</x>
+               <xt>Mun lean mo nu vuolgimin ihttin Kárášjohkii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="phrase_adv" usage="vd" freq="0">movt nu</t>
+            <xg>
+               <x>Jeg skal på en eller annen måte dra til Karasjok i morgen.</x>
+               <xt>Mun lean movt nu vuolgimin ihttin Kárášjohkii.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="phrase_adv" usage="vd" freq="0">juoga ládje</t>
@@ -8075,10 +8047,19 @@
          </tg>
       </mg>
    </e>
-   <e freq="$29312">
+   <e freq="$29312" mg_c="2">
       <lg>
          <l pos="Adv">sjelden</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" src="nj" usage="vd" freq="742">hárve</t>
+            <xg>
+               <x>Bestemor er sjelden syk.</x>
+               <xt>Áhkku lea hárve buohcci.</xt>
+            </xg>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">hárve</t>

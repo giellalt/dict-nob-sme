@@ -14,34 +14,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
-      <lg>
-         <l pos="Pr">uten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po" freq="4945">haga</t>
-            <xg>
-               <x>Ikke dra uten penger!</x>
-               <xt>Ale vuolgge ruđa haga!</xt>
-            </xg>
-            <xg>
-               <x>Hun arbeider uten lønn.</x>
-               <xt>Son bargá bálkká haga.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr" freq="0">almmá</t>
-            <xg>
-               <x>uten at jeg vet</x>
-               <xt>almmá mu dieđekeahttá</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="2">
       <lg>
          <l pos="Pr">unntatt</l>
       </lg>
@@ -88,7 +61,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="3">
       <lg>
          <l pos="Pr">av</l>
       </lg>
@@ -128,7 +101,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e usage="vd" mg_c="2">
       <lg>
          <l pos="Pr">angående</l>
       </lg>
@@ -169,7 +142,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="6">
       <lg>
          <l pos="Pr">på</l>
       </lg>
@@ -232,7 +205,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="3">
       <lg>
          <l pos="Pr">fra</l>
       </lg>
@@ -264,7 +237,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="3">
       <lg>
          <l pos="Pr">over</l>
       </lg>
@@ -306,7 +279,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="5">
       <lg>
          <l pos="Pr">til</l>
       </lg>
@@ -356,7 +329,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e mg_c="7">
       <lg>
          <l pos="Pr">med</l>
       </lg>
@@ -405,11 +378,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pr">med</l>
-     </lg>
       <mg>
          <tg re="som har" xml:lang="sme">
             <t type="expl" freq="0">???</t>
@@ -437,7 +405,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e usage="vd" mg_c="6">
       <lg>
          <l pos="Pr">mellom</l>
       </lg>
@@ -492,7 +460,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="3">
       <lg>
          <l pos="Pr">blant</l>
       </lg>
@@ -520,7 +488,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="3">
       <lg>
          <l pos="Pr">forbi</l>
       </lg>
@@ -549,7 +517,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="7">
       <lg>
          <l pos="Pr">for</l>
       </lg>
@@ -628,7 +596,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="2">
       <lg>
          <l pos="Pr">langs</l>
       </lg>
@@ -647,7 +615,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="2">
       <lg>
          <l pos="Pr">før</l>
       </lg>
@@ -684,7 +652,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e usage="vd" mg_c="6">
       <lg>
          <l pos="Pr">etter</l>
       </lg>
@@ -743,7 +711,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e usage="vd" mg_c="3">
       <lg>
          <l pos="Pr">under</l>
       </lg>
@@ -775,7 +743,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e usage="vd" mg_c="6">
       <lg>
          <l pos="Pr">bak</l>
       </lg>
@@ -827,7 +795,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e usage="vd" mg_c="3">
       <lg>
          <l pos="Pr">mot</l>
       </lg>
@@ -873,7 +841,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd">
+   <e usage="vd" mg_c="3">
       <lg>
          <l pos="Pr">i</l>
       </lg>
@@ -970,7 +938,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e usage="vd" mg_c="4">
       <lg>
          <l pos="Pr">foran</l>
       </lg>
@@ -983,11 +951,6 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e usage="vd">
-      <lg>
-         <l pos="Pr">foran</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Po" freq="2194">ovdii</t>
@@ -1022,7 +985,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="2">
       <lg>
          <l pos="Pr">ovenfor</l>
       </lg>
@@ -1060,7 +1023,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="2">
       <lg>
          <l pos="Pr">om</l>
       </lg>
@@ -1133,7 +1096,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="2">
       <lg>
          <l pos="Pr">hos</l>
       </lg>
@@ -1156,7 +1119,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd">
+   <e src="nj" usage="vd" mg_c="2">
       <lg>
          <l pos="Pr">uten</l>
       </lg>
@@ -1199,7 +1162,7 @@
    </e>
    <e>
       <lg>
-        <l pos="Pr">imot</l>
+         <l pos="Pr">imot</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1245,7 +1208,7 @@
    </e>
    <e>
       <lg>
-        <l pos="Pr">omkring</l>
+         <l pos="Pr">omkring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">

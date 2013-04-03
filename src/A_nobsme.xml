@@ -581,16 +581,6 @@
    </e>
    <e>
       <lg>
-         <l pos="A">tilsølt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" usage="vd" freq="13">ruivvas</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">som er i uorden</l>
       </lg>
       <mg>
@@ -2378,10 +2368,15 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="A">tilsølt</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd" freq="13">ruivvas</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd" freq="5">durddas</t>
@@ -11560,7 +11555,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3" freq="$10137">
+   <e freq="$10137" mg_c="3">
       <lg>
          <l pos="A">tverrfaglig</l>
       </lg>
