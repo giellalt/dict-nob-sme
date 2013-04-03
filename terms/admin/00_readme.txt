@@ -313,4 +313,22 @@ src>grep '<e' done_fad_nobsme.20121130_nob-s_sme-s.xml | sort | uniq -c | sort -
    1    <e crash="A_Adv">
 
 ============================
+xml-izing the data from the gt-pipeline:
+src>grep '<e' A_gt-pl.20121213_all_candidates.xml | wc -l
+     708
+src>grep '<e' A_gt-pl.20121213_all_qm_candidates.xml | wc -l 
+      14
+src>grep '<e' N_gt-pl.20121213_all_candidates.xml | wc -l
+    5849
+src>grep '<e' N_gt-pl.20121213_all_qm_candidates.xml | wc -l 
+     106
+src>grep '<e' V_gt-pl.20121213_all_qm_candidates.xml | wc -l 
+      19
+src>grep '<e' V_gt-pl.20121213_all_candidates.xml | wc -l
+     411
+
+The _qm_-flag in the file name means "questionmarked"!
+
+============================
+
 
