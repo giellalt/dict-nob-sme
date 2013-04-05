@@ -148,7 +148,7 @@ Hvor mange entry er det i fila?
 src$ cat done_fad_nobsme.20121130_nob-s_sme-s.xml | grep '<e>' | wc -l
     5049
 
-POS ikke ok:
+POS ikke ok: Marja holder på å sjekke at POS stemmer overrens mellom filene.
 nob-filen inneholder flere N enn sme-fila
 sme-fila inneholder flere A og V enn nob-fila:
 src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<l pos=...'| sort | uniq -c
