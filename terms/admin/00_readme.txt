@@ -149,19 +149,19 @@ Hvor mange entry er det i fila?
 src$ cat done_fad_nobsme.20121130_nob-s_sme-s.xml | grep '<e>' | wc -l
     5049
 
-POS ikke ok: Marja holder på å sjekke at POS stemmer overrens mellom filene.
+POS ikke ok: Marja har sjekket at POS stemmer overrens mellom filene. Det er fortsatt noe ustabilitet i forhold til POS mellom nob og sme. Viser til informasjon nedenfor i linje 155-164.
 nob-filen inneholder flere N enn sme-fila
 sme-fila inneholder flere A og V enn nob-fila:
 src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<l pos=...'| sort | uniq -c
- 628 <l pos="A"
-3032 <l pos="N"
-1389 <l pos="V"
+618 <l pos="A"
+   1 <l pos="Ad
+2922 <l pos="N"
+1415 <l pos="V"
 src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<t pos=...'| sort | uniq -c
- 680 <t pos="A"
-   1 <t pos="Adv"
-2548 <t pos="N"
-1820 <t pos="V"
-
+619 <t pos="A"
+   1 <t pos="Ad
+2912 <t pos="N"
+1437 <t pos="V"
 
 usmeNorm OK
 16 ord er ikke leksikalisert
