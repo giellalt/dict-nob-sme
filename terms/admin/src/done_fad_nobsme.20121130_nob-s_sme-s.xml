@@ -386,7 +386,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N"alternative_string"dearvvasvuohta">dearvvašvuohta</t>
+            <t pos="N">dearvvašvuohta</t>
+            <t pos="N">dearvvasvuohta</t>
          </tg>
       </mg>
    </e>
@@ -3461,13 +3462,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">abnormitet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">eahpedábálaš</t>
+            <t pos="N">eahpedábálašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -5976,7 +5977,7 @@
          </tg>
       </mg>
    </e>
-   <e,>
+   <e>
       <lg>
          <l pos="N">flyktning</l>
       </lg>
@@ -6193,7 +6194,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">náitalkeahttá</t>
             <t pos="A">náitalkeahtes</t>
          </tg>
       </mg>
@@ -7836,8 +7836,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="S">jienasteaddji</t>
-            <t pos="S">válljejeaddji</t>
+            <t pos="N">jienasteaddji</t>
+            <t pos="N">válljejeaddji</t>
          </tg>
       </mg>
    </e>
@@ -11918,17 +11918,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" orig_string="peršuvnnalaš"láhttu">lahttu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">medlem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">lahttu</t>
+            <t pos="N" orig_string="láhttu">lahttu</t>
          </tg>
       </mg>
    </e>
@@ -12462,7 +12452,7 @@
          </tg>
       </mg>
    </e>
-   <e ="N_V">
+   <e>
       <lg>
          <l pos="N">vinner</l>
       </lg>
@@ -24744,13 +24734,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">uttrykk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">dovddahit</t>
+            <t pos="N">dovddaheapmi</t>
          </tg>
       </mg>
    </e>
@@ -27724,16 +27714,6 @@
          </tg>
       </mg>
    </e>
-   <e crash="A_N">
-      <lg>
-         <l pos="A">sosial</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="Prop">Sosiál</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="A">sosial</l>
@@ -27884,13 +27864,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">ombud</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">áittardit</t>
+            <t pos="N" type="NomAg">áittardeaddji</t>
          </tg>
       </mg>
    </e>
@@ -30960,17 +30940,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">áici</t>
+            <t pos="N" type="NomAg">áici</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">observatør</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">dárkot</t>
+            <t pos="N" type="NomAg">dárkodeaddji</t>
          </tg>
       </mg>
    </e>
@@ -33184,23 +33164,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">påtrykk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ávžžuhit</t>
+            <t pos="N" type="NomAct">ávžžuheapmi</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">påtrykk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">deattastit</t>
+            <t pos="N" type="NomAct">deattasteapmi</t>
          </tg>
       </mg>
    </e>
@@ -34874,13 +34854,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">kontinuitet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">bissovaš</t>
+            <t pos="N">bissovašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -35014,13 +34994,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">fortelling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">máinnastit</t>
+            <t pos="N">máinnas</t>
          </tg>
       </mg>
    </e>
@@ -35184,19 +35164,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
-         <l pos="N">realitet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">duođalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="A_V">
-      <lg>
-         <l pos="A">desentralisere</l>
+         <l pos="V">desentralisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -35206,7 +35176,7 @@
    </e>
    <e>
       <lg>
-         <l pos="A">desentralisere</l>
+         <l pos="A">desentralisert</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -35374,13 +35344,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">produksjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">duddjot</t>
+            <t pos="N" type="NomAct">duddjon</t>
          </tg>
       </mg>
    </e>
@@ -35390,17 +35360,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">produkšuvdna</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">produksjon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">gilvit</t>
+            <t pos="N" type="NomAg">produkšuvdna</t>
          </tg>
       </mg>
    </e>
@@ -35410,7 +35370,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">buvttadeapmi</t>
+            <t pos="N" type="NomAg" >buvttadeapmi</t>
          </tg>
       </mg>
    </e>
@@ -35481,16 +35441,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">juohkásit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="V_A">
-      <lg>
-         <l pos="V">berøre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">guoskevaš</t>
          </tg>
       </mg>
    </e>
@@ -35794,16 +35744,6 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">drift</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">doaimmahit</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">drift</l>
@@ -35834,13 +35774,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">styre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">stivret</t>
+            <t pos="N">stivra</t>
          </tg>
       </mg>
    </e>
@@ -35894,13 +35834,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">motstander</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vuosttaldit</t>
+            <t pos="N">vuostálasti</t>
          </tg>
       </mg>
    </e>
@@ -35984,13 +35924,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">frustrasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">fuolastuvvat</t>
+            <t pos="N">fuolastupmi</t>
          </tg>
       </mg>
    </e>
@@ -36044,13 +35984,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">iver</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">áŋgir</t>
+            <t pos="N">áŋgirvuohta</t>
          </tg>
       </mg>
    </e>
@@ -36194,33 +36134,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">slått</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">láddjet</t>
+            <t pos="N">ládju</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">tilnærming</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">lahkonit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">tilnærming</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">lahkanit</t>
+            <t pos="N">lahkoneapmi</t>
          </tg>
       </mg>
    </e>
@@ -36294,13 +36224,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">dansk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">dánskalaš</t>
+            <t pos="N">dánska</t>
          </tg>
       </mg>
    </e>
@@ -36364,13 +36294,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">omtanke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vuhtiiváldit</t>
+            <t pos="N" type="NomAct">vuhtiiváldin</t>
          </tg>
       </mg>
    </e>
@@ -36604,13 +36534,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">sammenslåing</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ovttastahttit</t>
+            <t pos="N" type="NomAct">ovttastahttin</t>
          </tg>
       </mg>
    </e>
@@ -36624,13 +36554,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">slit</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rahčat</t>
+            <t pos="N" type="NomAct">rahčan</t>
          </tg>
       </mg>
    </e>
@@ -36864,13 +36794,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">indikator</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">geažuhit</t>
+            <t pos="N" type="NomAct">geažuheapmi</t>
          </tg>
       </mg>
    </e>
@@ -37024,23 +36954,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">relevans</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">guoskevaš</t>
+            <t pos="N">guoskevašvuohta</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">relevans</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">čuožžovaš</t>
+            <t pos="N">čuožžovašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -37434,13 +37364,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">forbruk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">golahit</t>
+            <t pos="N" type="NomAct">golaheapmi</t>
          </tg>
       </mg>
    </e>
@@ -37634,23 +37564,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">fokus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">fokuseret</t>
+            <t pos="N" type="NomAct">fokuseren</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">fokus</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">guovdilastit</t>
+            <t pos="N" type="NomAct">guovdilastin</t>
          </tg>
       </mg>
    </e>
@@ -37744,13 +37674,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">fritak</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">luvvet</t>
+            <t pos="N" type="NomAct">luvven</t>
          </tg>
       </mg>
    </e>
@@ -37874,13 +37804,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">frihet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">friddja</t>
+            <t pos="N">friddjavuohta</t>
          </tg>
       </mg>
    </e>
@@ -38004,13 +37934,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">opplegg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bargat</t>
+            <t pos="N">bargu</t>
          </tg>
       </mg>
    </e>
@@ -38254,13 +38184,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">produsent</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">buvttadit</t>
+            <t pos="N" type="NomAg">buvttadeaddji</t>
          </tg>
       </mg>
    </e>
@@ -38324,16 +38254,6 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">valg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">válljet</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">valg</l>
@@ -38354,13 +38274,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="V_A">
+   <e>
       <lg>
          <l pos="V">skape</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">hutkái</t>
+            <t pos="N" type="NomAct">hutkan</t>
          </tg>
       </mg>
    </e>
@@ -38434,16 +38354,6 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">miljø</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">čatnat</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">miljø</l>
@@ -38511,16 +38421,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">jođiheaddji</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">drikke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">juhkat</t>
          </tg>
       </mg>
    </e>
@@ -38704,23 +38604,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="A_V">
+   <e>
       <lg>
-         <l pos="A">uventet</l>
+         <l pos="Adv">uventet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vuordit</t>
+            <t pos="Adv">roahtá</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">not</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">nuohttut</t>
+            <t pos="N">nuohtti</t>
          </tg>
       </mg>
    </e>
@@ -38744,13 +38644,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">trekk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">máksit</t>
+            <t pos="N">máksin</t>
          </tg>
       </mg>
    </e>
@@ -38764,13 +38664,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">trekk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ruvgalit</t>
+            <t pos="N" type="NomAct">ruvgaleapmi</t>
          </tg>
       </mg>
    </e>
@@ -38784,13 +38684,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">profesjonalitet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">fitnolaš</t>
+            <t pos="N">fitnolašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -38824,13 +38724,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">tips</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">cavgilit</t>
+            <t pos="N">cavgileapmi</t>
          </tg>
       </mg>
    </e>
@@ -38964,13 +38864,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">snø</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">borgat</t>
+            <t pos="N" type="NomAg">borgan</t>
          </tg>
       </mg>
    </e>
@@ -38984,13 +38884,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">varme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">liekkas</t>
+            <t pos="N">liekkas</t>
          </tg>
       </mg>
    </e>
@@ -39124,13 +39024,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">drap</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">goddit</t>
+            <t pos="N">goddin</t>
          </tg>
       </mg>
    </e>
@@ -39394,13 +39294,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">integrasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ovttaiduhttit</t>
+            <t pos="N" type="NomAct">ovttaiduhttin</t>
          </tg>
       </mg>
    </e>
@@ -39414,13 +39314,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">måltid</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">borrat</t>
+            <t pos="N" type="NomAct">borran</t>
          </tg>
       </mg>
    </e>
@@ -39474,13 +39374,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="A_V">
+   <e>
       <lg>
          <l pos="A">ukritisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">árvvoštallat</t>
+            <t pos="A">árvvoštalakeahtes</t>
          </tg>
       </mg>
    </e>
@@ -39514,13 +39414,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">overenskomst</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">šiehttat</t>
+            <t pos="N" type="NomAct">šiehttan</t>
          </tg>
       </mg>
    </e>
@@ -39564,13 +39464,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="V_A">
+   <e>
       <lg>
          <l pos="V">kvalifisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">gelbbolaš</t>
+            <t pos="V">gealbudahttit</t>
          </tg>
       </mg>
    </e>
@@ -39714,29 +39614,19 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">reise</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">čuožžilit</t>
+            <t pos="N">mátki</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">reise</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">mátkkoštit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">reise</l>
+         <l pos="V">reise</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39744,9 +39634,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">reise</l>
+         <l pos="V">reise</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39754,9 +39644,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">reise</l>
+         <l pos="V">reise</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39774,9 +39664,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">reise</l>
+         <l pos="V">reise</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39784,9 +39674,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">merke</l>
+         <l pos="V">merke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39794,9 +39684,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">merke</l>
+         <l pos="V">merke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39804,9 +39694,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">merke</l>
+         <l pos="V">merke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39814,9 +39704,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">merke</l>
+         <l pos="V">merke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39824,9 +39714,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">merke</l>
+         <l pos="V">merke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -39874,13 +39764,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">ferdsel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vánddardit</t>
+            <t  pos="N" type="NomAct">vánddardeapmi</t>
          </tg>
       </mg>
    </e>
@@ -39901,16 +39791,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">vuodjin</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">ferdsel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">johtalit</t>
          </tg>
       </mg>
    </e>
@@ -40044,23 +39924,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">forsøk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">geahččaladdat</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">forsøk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">geahččalit</t>
+            <t pos="N" type="NomAct">geahččaladdan</t>
          </tg>
       </mg>
    </e>
@@ -40104,13 +39974,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">opptak</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">báddet</t>
+            <t pos="N" type="NomAg">bádden</t>
          </tg>
       </mg>
    </e>
@@ -40174,23 +40044,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">fiske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bivdit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">fiske</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">oaggut</t>
+            <t pos="N" type="NomAct">bivdin</t>
          </tg>
       </mg>
    </e>
@@ -40200,7 +40060,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">guolásteapmi</t>
+            <t pos="N" type="NomAct">oaggun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">fiske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAct">guolásteapmi</t>
          </tg>
       </mg>
    </e>
@@ -40214,13 +40084,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">fiske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">nuohttut</t>
+            <t pos="N" type="NomAct">nuohttun</t>
          </tg>
       </mg>
    </e>
@@ -40424,13 +40294,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">lek</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">stoahkat</t>
+            <t pos="N" type="NomAct">stoahkan</t>
          </tg>
       </mg>
    </e>
@@ -40544,13 +40414,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">økning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">lasihit</t>
+            <t pos="N" type="NomAct">lassáneapmi</t>
          </tg>
       </mg>
    </e>
@@ -40564,23 +40434,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">økning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">lassánit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">økning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">stuorrudit</t>
+            <t pos="N" type="NomAct">stuorrudeapmi</t>
          </tg>
       </mg>
    </e>
@@ -40624,13 +40484,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">vurdering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">veardidit</t>
+            <t pos="N" type="NomAg">veardideapmi</t>
          </tg>
       </mg>
    </e>
@@ -40734,13 +40594,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">bevissthet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">dihtomielalaš</t>
+            <t pos="N">dihtomielalašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -40864,13 +40724,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">opphold</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">orrut</t>
+            <t pos="N" type="NomAct">orrun</t>
          </tg>
       </mg>
    </e>
@@ -40924,9 +40784,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="A_N">
+   <e>
       <lg>
-         <l pos="A">militær</l>
+         <l pos="N">militær</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -40984,23 +40844,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">finsk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">suomagiel</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_A">
-      <lg>
-         <l pos="N">finsk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">suoma</t>
+            <t pos="N">suomagiella</t>
          </tg>
       </mg>
    </e>
@@ -41010,7 +40860,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">suomagiella</t>
+            <t pos="N">suopma</t>
          </tg>
       </mg>
    </e>
@@ -41084,13 +40934,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">merknad</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">fuomášuhttit</t>
+            <t pos="N" type="NomAct">fuomášuhttin</t>
          </tg>
       </mg>
    </e>
@@ -41101,16 +40951,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">mearkkašupmi</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">merknad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">dadjat</t>
          </tg>
       </mg>
    </e>
@@ -41134,9 +40974,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">eie</l>
+         <l pos="V">eie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -41144,9 +40984,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">eie</l>
+         <l pos="V">eie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -41154,9 +40994,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">eie</l>
+         <l pos="V">eie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -41194,23 +41034,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">etablering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">cegget</t>
+            <t pos="N" type="NomAct">ceggen</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">etablering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ásahit</t>
+            <t pos="N" type="NomAct">ásaheapmi</t>
          </tg>
       </mg>
    </e>
@@ -41334,23 +41174,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">barmark</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bievlat</t>
+            <t pos="N">bievla</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">ekskursjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vánddardit</t>
+            <t pos="N" type="NomAct">vánddardeapmi</t>
          </tg>
       </mg>
    </e>
@@ -41414,13 +41254,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">selvstendighet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">iešheanalaš</t>
+            <t pos="N" type="NomAct">iešheanalašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -41924,13 +41764,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">sitat</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bájuhit</t>
+            <t pos="N">sitáhta</t>
          </tg>
       </mg>
    </e>
@@ -42054,13 +41894,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">atferd</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">láhttet</t>
+            <t pos="N">láhtten</t>
          </tg>
       </mg>
    </e>
@@ -42094,23 +41934,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">oppvarming</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">liegganit</t>
+            <t pos="N" type="NomAct">liegganeapmi</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">oppvarming</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ligget</t>
+            <t pos="N" type="NomAct">liggen</t>
          </tg>
       </mg>
    </e>
@@ -42124,13 +41964,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">takk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">giitit</t>
+            <t pos="N" type="NomAct">giitin</t>
          </tg>
       </mg>
    </e>
@@ -42194,13 +42034,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">nærhet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">lagaš</t>
+            <t pos="N">lagašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -42254,13 +42094,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">ungdom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">nuorra</t>
+            <t pos="N">nuorra</t>
          </tg>
       </mg>
    </e>
@@ -42534,43 +42374,43 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">diskriminering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vealahit</t>
+            <t pos="N" type="NomAct">vealaheapmi</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">kamp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">riidalit</t>
+            <t pos="N" type="NomAct">riidaleapmi</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">kamp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rahčat</t>
+            <t pos="N" type="NomAct">rahčan</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">kamp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">doarrut</t>
+            <t pos="N" type="NomAct">doarrun</t>
          </tg>
       </mg>
    </e>
@@ -42834,23 +42674,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">oppgave</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bargat</t>
+            <t pos="N">bargu</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">oppgave</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">doaibmat</t>
+            <t pos="N">doaibma</t>
          </tg>
       </mg>
    </e>
@@ -43004,13 +42844,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">bevilgning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">juolludit</t>
+            <t pos="N" type="NomAct">juolludeapmi</t>
          </tg>
       </mg>
    </e>
@@ -43041,16 +42881,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">cealkit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">nytte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">geavahit</t>
          </tg>
       </mg>
    </e>
@@ -43114,9 +42944,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="A_N">
+   <e>
       <lg>
-         <l pos="A">uriktig</l>
+         <l pos="N">uriktig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -43294,13 +43124,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">anmeldelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">váidit</t>
+            <t pos="N" type="NomAct">váidin</t>
          </tg>
       </mg>
    </e>
@@ -43354,27 +43184,7 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">være</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">ceavzit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">anke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">váidalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">anke</l>
       </lg>
@@ -43404,13 +43214,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">sletting</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">sihkkut</t>
+            <t pos="N">sihkkun</t>
          </tg>
       </mg>
    </e>
@@ -43484,13 +43294,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">avgrensing</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ráddjet</t>
+            <t pos="V">ráddjen</t>
          </tg>
       </mg>
    </e>
@@ -43694,13 +43504,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">intoleranse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">gierdameahttun</t>
+            <t pos="N">gierdameahttunvuohta</t>
          </tg>
       </mg>
    </e>
@@ -44014,13 +43824,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="A_V">
+   <e>
       <lg>
          <l pos="A">umistelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">massit</t>
+            <t pos="A">massekeahtes</t>
          </tg>
       </mg>
    </e>
@@ -44044,19 +43854,19 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">støtte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">juolludit</t>
+            <t pos="N">juolludus</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">støtte</l>
+         <l pos="V">støtte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -44214,13 +44024,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">likeverd</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">dássásaš</t>
+            <t pos="N">dássásašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -44231,16 +44041,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">johtolat</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">transport</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">fievrridit</t>
          </tg>
       </mg>
    </e>
@@ -44304,13 +44104,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">press</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">deaddit</t>
+            <t pos="N" type="NomAct">deaddin</t>
          </tg>
       </mg>
    </e>
@@ -44384,13 +44184,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">hensyn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vuhtiiváldit</t>
+            <t pos="N" type="NomAct">vuhtiiváldin</t>
          </tg>
       </mg>
    </e>
@@ -44471,16 +44271,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">olggosgollu</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">utgift</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">máksit</t>
          </tg>
       </mg>
    </e>
@@ -44674,13 +44464,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">dekning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">gokčat</t>
+            <t pos="N">gokčan</t>
          </tg>
       </mg>
    </e>
@@ -44724,9 +44514,9 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
-         <l pos="N">sentral</l>
+         <l pos="A">sentral</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -44874,13 +44664,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">presentasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ovdanbuktit</t>
+            <t pos="N" type="NomAct">ovdanbuktin</t>
          </tg>
       </mg>
    </e>
@@ -44934,13 +44724,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">tilslutning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">mieđihit</t>
+            <t pos="N">mieđiheapmi</t>
          </tg>
       </mg>
    </e>
@@ -44951,16 +44741,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">guorraseapmi</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="A_N">
-      <lg>
-         <l pos="A">glad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">illu</t>
          </tg>
       </mg>
    </e>
@@ -44994,33 +44774,33 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">bosetning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ásaiduvvat</t>
+            <t pos="N">suovat</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">publikum</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">geahččat</t>
+            <t pos="N" type="NomAct">geahččit</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">tillit</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">luohttevaš</t>
+            <t pos="N">luohttevašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -45044,13 +44824,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">flytting</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">fárret</t>
+            <t pos="N">fárren</t>
          </tg>
       </mg>
    </e>
@@ -45061,26 +44841,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">johtin</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">flytting</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">johttát</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">flytting</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">fárrehit</t>
          </tg>
       </mg>
    </e>
@@ -45214,13 +44974,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">pålegg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bágget</t>
+            <t pos="N">bággen</t>
          </tg>
       </mg>
    </e>
@@ -45304,16 +45064,6 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">lærer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">oahpahit</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">lærer</l>
@@ -45344,33 +45094,33 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">bruk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">atnit</t>
+            <t pos="N">atnin</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">bruk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">geavahit</t>
+            <t pos="N">geavaheapmi</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
-         <l pos="N">premiere</l>
+         <l pos="V">premiere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bálkkašit</t>
+            <t pos="V">bálkkahit</t>
          </tg>
       </mg>
    </e>
@@ -45494,13 +45244,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">oversettelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">jorgalit</t>
+            <t pos="N">jorgalus</t>
          </tg>
       </mg>
    </e>
@@ -45524,23 +45274,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">risiko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">váruhit</t>
+            <t pos="N">váruhus</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">risiko</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">váralaš</t>
+            <t pos="N">váralašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -45604,33 +45354,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">tilhenger</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">jorrat</t>
+            <t pos="N">jorri</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">varehandel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">gávppašit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">forskning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">dutkat</t>
+            <t pos="N">gávpejorri</t>
          </tg>
       </mg>
    </e>
@@ -45744,13 +45484,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">omsetning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">gávppašit</t>
+            <t pos="N">gávppašeapmi</t>
          </tg>
       </mg>
    </e>
@@ -45844,13 +45584,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">hogst</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">murret</t>
+            <t pos="N">murren</t>
          </tg>
       </mg>
    </e>
@@ -45961,16 +45701,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">šaddu</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">arbeidsinnsats</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bargat</t>
          </tg>
       </mg>
    </e>
@@ -46144,13 +45874,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">sikring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">sihkkarastit</t>
+            <t pos="N">sihkkarastin</t>
          </tg>
       </mg>
    </e>
@@ -46214,16 +45944,6 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">tegn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">gohččut</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">tegn</l>
@@ -46231,16 +45951,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">čálamearka</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">tegn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">cuoigut</t>
          </tg>
       </mg>
    </e>
@@ -46284,33 +45994,33 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">respekt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vuhtiiváldit</t>
+            <t pos="N">vuhtiiváldin</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">respekt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">gudnejahttit</t>
+            <t pos="N">gudnejahttin</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">respekt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">doahttalit</t>
+            <t pos="N">doahttaleapmi</t>
          </tg>
       </mg>
    </e>
@@ -46324,13 +46034,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">anerkjennelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">dohkkehit</t>
+            <t pos="V">dohkkeheapmi</t>
          </tg>
       </mg>
    </e>
@@ -46364,13 +46074,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">snitt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">čuohppat</t>
+            <t pos="N">čuohppan</t>
          </tg>
       </mg>
    </e>
@@ -46484,13 +46194,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">rettighet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">vuoigat</t>
+            <t pos="N">vuoigatvuohta</t>
          </tg>
       </mg>
    </e>
@@ -46784,13 +46494,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">fangst</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bivdit</t>
+            <t pos="N">bivdin</t>
          </tg>
       </mg>
    </e>
@@ -46814,13 +46524,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">nyskapning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">hutkat</t>
+            <t pos="N">hutkan</t>
          </tg>
       </mg>
    </e>
@@ -46831,16 +46541,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">rehketdoallodárkkisteaddji</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">tilsyn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bearráigeahččat</t>
          </tg>
       </mg>
    </e>
@@ -46864,13 +46564,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">engasjement</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">áŋgiruššat</t>
+            <t pos="N">áŋgiruššan</t>
          </tg>
       </mg>
    </e>
@@ -47004,13 +46704,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">språkkunnskap</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">giellamáhtolaš</t>
+            <t pos="N">giellamáhttu</t>
          </tg>
       </mg>
    </e>
@@ -47024,13 +46724,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">representasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ovddastit</t>
+            <t pos="N">ovddasteapmi</t>
          </tg>
       </mg>
    </e>
@@ -47084,16 +46784,6 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">utkast</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bálkestit</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="N">utkast</l>
@@ -47101,16 +46791,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">álgočálus</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">utkast</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bálkut</t>
          </tg>
       </mg>
    </e>
@@ -47264,13 +46944,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">framstilling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ovdanbuktit</t>
+            <t pos="N">ovdanbuktin</t>
          </tg>
       </mg>
    </e>
@@ -47281,16 +46961,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">muorra</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_A">
-      <lg>
-         <l pos="N">nordsamisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">davvisámegiel</t>
          </tg>
       </mg>
    </e>
@@ -47334,23 +47004,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">sammenlikning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">buohtastahttit</t>
+            <t pos="N">buohtastahttin</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">matlaging</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">málestit</t>
+            <t pos="N">málesteapmi</t>
          </tg>
       </mg>
    </e>
@@ -47444,23 +47114,23 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">studium</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">dutkat</t>
+            <t pos="N">dutkamuš</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">oppdatering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ođasmahttit</t>
+            <t pos="N">ođasmahttin</t>
          </tg>
       </mg>
    </e>
@@ -47534,39 +47204,29 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">enighet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">soahpat</t>
+            <t pos="N">soabalašvuohta</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">enighet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">ovttamielalaš</t>
+            <t pos="N">ovttamielalašvuohta</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
-         <l pos="N">enighet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">soabalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">sambo</l>
+         <l pos="V">sambo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -47664,13 +47324,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">opplag</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">deaddilit</t>
+            <t pos="N">deaddileapmi</t>
          </tg>
       </mg>
    </e>
@@ -47694,43 +47354,43 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">tilgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">oažžut</t>
+            <t pos="V">oažžun</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">tilgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">dábuhit</t>
+            <t pos="N">dábuhuheapmi</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">tilgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">beassat</t>
+            <t pos="N">beassan</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">tilgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">fidnet</t>
+            <t pos="N">fidnen</t>
          </tg>
       </mg>
    </e>
@@ -47751,16 +47411,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">geavahus</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">praksis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bargat</t>
          </tg>
       </mg>
    </e>
@@ -47824,23 +47474,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">sysselsetting</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">barggahit</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">sysselsetting</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bargat</t>
+            <t pos="N">barggaheapmi</t>
          </tg>
       </mg>
    </e>
@@ -47881,16 +47521,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">giliskuvla</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">perspektiv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">geahčastit</t>
          </tg>
       </mg>
    </e>
@@ -48034,13 +47664,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">rådgiver</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rávvet</t>
+            <t pos="N" type="NomAg">rávvejeaddji</t>
          </tg>
       </mg>
    </e>
@@ -48064,13 +47694,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">uenighet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">sierramielalaš</t>
+            <t pos="N">sierramielalašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -48081,16 +47711,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">geavahanguovlu</t>
-         </tg>
-      </mg>
-   </e>
-   <e crash="N_V">
-      <lg>
-         <l pos="N">oversikt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">válddahallat</t>
          </tg>
       </mg>
    </e>
@@ -48144,13 +47764,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">avslag</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">biehttalit</t>
+            <t pos="N">biehttaleapmi</t>
          </tg>
       </mg>
    </e>
@@ -48214,43 +47834,43 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">innsats</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rahčat</t>
+            <t pos="N">rahčan</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">innsats</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">áŋgiruššat</t>
+            <t pos="N">áŋgiruššan</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">innsats</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">árjjalaš</t>
+            <t pos="N">árjjalašvuohta</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">planlegging</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">plánet</t>
+            <t pos="N">plánen</t>
          </tg>
       </mg>
    </e>
@@ -48314,33 +47934,33 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">nyvinning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ilbmat</t>
+            <t pos="N">ilbman</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">deltakelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">oasálastit</t>
+            <t pos="N">oasálastin</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">deltakelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">oassálastit</t>
+            <t pos="N">oassálastin</t>
          </tg>
       </mg>
    </e>
@@ -48384,13 +48004,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">satsing</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">áŋgiruššat</t>
+            <t pos="N">áŋgiruššan</t>
          </tg>
       </mg>
    </e>
@@ -48404,13 +48024,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">satsing</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rahčat</t>
+            <t pos="N">rahčan</t>
          </tg>
       </mg>
    </e>
@@ -48524,13 +48144,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">utmarksnæring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">meahcástit</t>
+            <t pos="N">meahcásteapmi</t>
          </tg>
       </mg>
    </e>
@@ -48554,13 +48174,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">overgrep</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rihkkut</t>
+            <t pos="N">rihkkun</t>
          </tg>
       </mg>
    </e>
@@ -48594,19 +48214,19 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">samisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">sámegielalaš</t>
+            <t pos="N">sámegiella</t>
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
-         <l pos="N">samisk</l>
+         <l pos="A">samisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -48614,13 +48234,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
-         <l pos="N">samisk</l>
+         <l pos="A">samisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">sámegiel</t>
+            <t pos="A">sámegielat</t>
          </tg>
       </mg>
    </e>
@@ -48684,13 +48304,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">rettssak</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">lágastit</t>
+            <t pos="N">lágasteapmi</t>
          </tg>
       </mg>
    </e>
@@ -48724,13 +48344,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">predikant</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">sárdnidit</t>
+            <t pos="N">sárdnideaddji</t>
          </tg>
       </mg>
    </e>
@@ -48764,13 +48384,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">dialog</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">gulahallat</t>
+            <t pos="N">gulahallan</t>
          </tg>
       </mg>
    </e>
@@ -48924,13 +48544,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">spesifikasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">spesifiseret</t>
+            <t pos="N">spesifiseren</t>
          </tg>
       </mg>
    </e>
@@ -49004,13 +48624,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">part</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">šiehtadallat</t>
+            <t pos="N">šiehtadalli</t>
          </tg>
       </mg>
    </e>
@@ -49094,13 +48714,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_A">
+   <e>
       <lg>
          <l pos="N">trygghet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">dorvvolaš</t>
+            <t pos="N">dorvvolašvuohta</t>
          </tg>
       </mg>
    </e>
@@ -49124,13 +48744,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">utvinning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ohcat</t>
+            <t pos="N">ohcan</t>
          </tg>
       </mg>
    </e>
@@ -49144,13 +48764,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">utvinning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bohkat</t>
+            <t pos="N">bohkan</t>
          </tg>
       </mg>
    </e>
@@ -49174,13 +48794,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">avskjed</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">heaitit</t>
+            <t pos="N">heaitin</t>
          </tg>
       </mg>
    </e>
@@ -49324,13 +48944,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">overgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">molsut</t>
+            <t pos="N">molsun</t>
          </tg>
       </mg>
    </e>
@@ -49344,13 +48964,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">forberedelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ráhkkanit</t>
+            <t pos="N">ráhkkaneapmi</t>
          </tg>
       </mg>
    </e>
@@ -49514,13 +49134,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">organisering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">organiseret</t>
+            <t pos="N">organiseren</t>
          </tg>
       </mg>
    </e>
@@ -49754,13 +49374,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">oppgjør</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rehkenastit</t>
+            <t pos="V">rehkenastin</t>
          </tg>
       </mg>
    </e>
@@ -49904,13 +49524,13 @@
          </tg>
       </mg>
    </e>
-   <e crash="N_V">
+   <e>
       <lg>
          <l pos="N">oppstart</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">álggahit</t>
+            <t pos="N">álggaheapmi</t>
          </tg>
       </mg>
    </e>
