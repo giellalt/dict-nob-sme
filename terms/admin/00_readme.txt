@@ -109,6 +109,24 @@ src>grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="4"' | wc -l
 
 OVERSIKT OVER done-filene 9. april:
 
+done-filene er virkelig DONE - 9 april 2013
+
+5581 ord må leksikaliseres, baklengssortert liste over ordene finnes her:
+$GTHOME/words/dicts/nobsme/terms/admin/src/ap_leksikalisering
+
+Lista er laget på følgende måte:
+plassering: $GTHOME/words/dicts/nobsme/terms/admin/src/
+src$ cat done_* | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist
+src$ cat smelist | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 smelist smelemma | wc -l
+    5581
+src$ comm -23 smelist smelemma > ap_done_leksikalisering
+src$ cat ap_done_leksikalisering | rev| sort | rev > ap_leksikalisering
+
+
+
+
 __done_fad_nobsme.20121130_nob-c_sme-c.xml__
 
 Hvor mange entry er det i fila?
