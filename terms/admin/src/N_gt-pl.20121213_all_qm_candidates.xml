@@ -62,17 +62,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">rett</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">oahpporiekti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">retningslinje</l>
+         <l pos="N">retningslinje for stipend</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -82,7 +72,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">resultat</l>
+         <l pos="N">resultat av møte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -92,7 +82,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">ressurs</l>
+         <l pos="N">menneskelig ressurs</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -102,7 +92,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">resolusjon</l>
+         <l pos="N">kronprinsregentens resolusjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -116,7 +106,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">ovddastanjugus</t>
+            <t pos="N">ovddastanjuogus</t>
          </tg>
       </mg>
    </e>
@@ -126,23 +116,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">boazodoalloboađđu</t>
+            <t pos="N">boazodoalloboađus</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">reindriftlovkonsultasjon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">boazodoallokonsultašuvdna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">redskap</l>
+         <l pos="N">grunnleggende redskap</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -156,7 +136,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">reidu</t>
+            <t pos="N">reaidu</t>
          </tg>
       </mg>
    </e>
@@ -172,11 +152,21 @@
    </e>
    <e>
       <lg>
+         <l pos="N">realvekst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">duohtalassáneapmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">reallinje</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">realfágasuorggis</t>
+            <t pos="N">realsuorgi</t>
          </tg>
       </mg>
    </e>
@@ -186,7 +176,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">sisaloggenlohku</t>
+            <t pos="N">sisaloggen</t>
          </tg>
       </mg>
    </e>
@@ -206,27 +196,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">gieres</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">pressområde</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">olmmošvallji</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">predikativ</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">predikatiivahápmi</t>
+            <t pos="N" alternative_string="gieres">geres</t>
          </tg>
       </mg>
    </e>
@@ -236,17 +206,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">poasttarukto</t>
+            <t pos="N">vuodjit poasttaruvttu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">poll</l>
+         <l pos="N">pollen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">šattogavja</t>
+            <t pos="N" alternative_string="šattogavja">šaddogavja</t>
          </tg>
       </mg>
    </e>
@@ -266,7 +236,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">divasčoahkkin</t>
+            <t pos="N" alternative_string="divasčoahkkin">dievasčoahkkin</t>
          </tg>
       </mg>
    </e>
@@ -280,7 +250,7 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e?>
       <lg>
          <l pos="N">organisasjon</l>
       </lg>
@@ -306,7 +276,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">ceahkes</t>
+            <t pos="N">dássi</t>
          </tg>
       </mg>
    </e>
@@ -316,7 +286,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">oalgabuvtta</t>
+            <t pos="N" alternative_string="oalgabuvtta">oalgebuvtta</t>
          </tg>
       </mg>
    </e>
@@ -326,7 +296,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">neahtalohkki</t>
+            <t pos="N" alternative_string="neahtalohkki">neahttalohkki</t>
          </tg>
       </mg>
    </e>
@@ -336,7 +306,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">álbmotmeahccedoaibma</t>
+            <t pos="N">álbmotmeahcci</t>
          </tg>
       </mg>
    </e>
@@ -346,13 +316,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">álbmotbeaivedoallu</t>
+            <t pos="N">álbmotbeaivi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">møblering</l>
+         <l pos="N">møbel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -366,17 +336,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">bázzi</t>
+            <t pos="N">monumentála bázzi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">moloutbygging</l>
+         <l pos="N">liste over fremtidige moloutbygginger</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">bárrobuođđohuksenlista</t>
+            <t pos="N">boahtteáiggi bárrobuođđohuksenlista</t>
          </tg>
       </mg>
    </e>
@@ -386,7 +356,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">4-4-málle</t>
+            <t pos="N">málle</t>
          </tg>
       </mg>
    </e>
@@ -396,13 +366,23 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">momsadivatlogus</t>
+            <t pos="N">momsadivatlohku</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">lassled</l>
+         <l pos="N">merverdiavgiftsmanntall</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">lasseárvodivatlohku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">lasslede</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -412,21 +392,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">kupong</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">bábirkupoŋŋa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kulturutsending</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">kultursáttatolbmoortnet</t>
+            <t pos="N" alternative_string="kultursáttatolbmoortnet" >kultursáttatolmmoš</t>
          </tg>
       </mg>
    </e>
@@ -436,7 +406,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">kulturráddi</t>
+            <t pos="N" alternative_string="kulturráddi">kulturráđđi</t>
          </tg>
       </mg>
    </e>
@@ -446,7 +416,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">kulturmuitoráddi</t>
+            <t pos="N" alternative_string="kulturmuitoráddi">kulturmuitoráđđi</t>
          </tg>
       </mg>
    </e>
@@ -456,7 +426,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">kulturmuitodávvir</t>
+            <t pos="N">kulturdávvir</t>
          </tg>
       </mg>
    </e>
@@ -466,13 +436,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">kulturáddejupmedárbu</t>
+            <t pos="N">kulturáddejupmi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">kulkturminneverdi</l>
+         <l pos="N">kulturminneverdi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -486,7 +456,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">deaddoeaktu</t>
+            <t pos="N">eaktu</t>
          </tg>
       </mg>
    </e>
@@ -496,7 +466,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">sođđi</t>
+            <t pos="N">soahti</t>
          </tg>
       </mg>
    </e>
@@ -506,7 +476,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">birri</t>
+            <t pos="N">biire</t>
          </tg>
       </mg>
    </e>
@@ -526,7 +496,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">ruoššareabbábivdu</t>
+            <t pos="N">ruoššareabbá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">kongekrabbe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">gonagasreabbá</t>
          </tg>
       </mg>
    </e>
@@ -536,7 +516,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">gieldda</t>
+            <t pos="N">gielda</t>
          </tg>
       </mg>
    </e>
@@ -546,7 +526,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">mearrádusváidda</t>
+            <t pos="N">váidda</t>
          </tg>
       </mg>
    </e>
@@ -556,7 +536,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">gáiccačivganávetprošeakta</t>
+            <t pos="N" alternative_string="gáiccačivganávetprošeakta">gihccenávetprošeakta</t>
          </tg>
       </mg>
    </e>
@@ -566,7 +546,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">internáhtajođiheaddjivirgi</t>
+            <t pos="N">internáhttahoavda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">internatstyrer</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">internáhttajođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -596,7 +586,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">allaskuvlasystema</t>
+            <t pos="N" alternative_string="allaskuvlasystema">allaskuvlavuogadat</t>
          </tg>
       </mg>
    </e>
@@ -606,7 +596,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">dikšonálli</t>
+            <t pos="N">diksu</t>
          </tg>
       </mg>
    </e>
@@ -616,7 +606,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">čuođis</t>
+            <t pos="N">čuođi</t>
          </tg>
       </mg>
    </e>
@@ -626,7 +616,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">varrasuotnaiskkadeapmi</t>
+            <t pos="N">váibmo- ja varrasuotnaiskkadeapmi</t>
          </tg>
       </mg>
    </e>
@@ -636,11 +626,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">gielddaruhtadoallevirgi</t>
+            <t pos="N" alternative_string="gielddaruhtadoallevirgi">gielddaruhtadoalli</t>
          </tg>
       </mg>
    </e>
-   <e>
+   <e?>
       <lg>
          <l pos="N">helkroppsmåling</l>
       </lg>
@@ -656,7 +646,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">beallegeardu</t>
+            <t pos="N" alternative_string="beallegeardu">beallegierdu</t>
          </tg>
       </mg>
    </e>
