@@ -107,7 +107,7 @@ src>grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="4"' | wc -l
    </e>
 
 
-OVERSIKT OVER done-filene 19.mars:
+OVERSIKT OVER done-filene 9. april:
 
 __done_fad_nobsme.20121130_nob-c_sme-c.xml__
 
@@ -131,40 +131,37 @@ src$ grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
 Jeg har lagt til en ny attributt, alternative_string, som betyr at i korpuset finnes også denne alternative varianten som ikke er normativ.
 
 usmeNorm ikke OK
-16 ord blir ikke analysert
+0 ord blir ikke analysert
 4362 ord er ikke leksikalisert
 src$ cat done_fad_nobsme.20121130_nob-c_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistcc
-src$ cat smelistcc | usmeNorm | grep '?' | wc -l
-0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-      16
+src$ cat smelistcc | usmeNorm | grep '?' | wc -l0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
 src$ cat smelistcc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmacc
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelistcc smelemmacc | wc -l
-    4362 
+    4355 
 
 
 __done_fad_nobsme.20121130_nob-s_sme-s.xml__
 
 Hvor mange entry er det i fila?
 src$ cat done_fad_nobsme.20121130_nob-s_sme-s.xml | grep '<e>' | wc -l
-    5049
+    4940
 
-POS ikke ok: Marja har sjekket at POS stemmer overrens mellom filene. Det er fortsatt noe ustabilitet i forhold til POS mellom nob og sme. Viser til informasjon nedenfor i linje 155-164.
-nob-filen inneholder flere N enn sme-fila
-sme-fila inneholder flere A og V enn nob-fila:
+POS OK: sme-fila inneholder noen flere t-pos N-element siden der er flere tg som har to eller flere t-element.
 src$ grep '<l ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<l pos=...'| sort | uniq -c
-618 <l pos="A"
+ 610 <l pos="A"
    1 <l pos="Ad
-2922 <l pos="N"
-1415 <l pos="V"
+2915 <l pos="N"
+1414 <l pos="V"
 src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-s.xml | egrep -o '<t pos=...'| sort | uniq -c
-619 <t pos="A"
+ 610 <t pos="A"
    1 <t pos="Ad
-2912 <t pos="N"
-1437 <t pos="V"
+2930 <t pos="N"
+1414 <t pos="V"
 
 usmeNorm OK
-16 ord er ikke leksikalisert
+187 ord er ikke leksikalisert
 src$ cat done_fad_nobsme.20121130_nob-s_sme-s.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistss
 src$ cat smelistss | usmeNorm | grep '?' | wc -l
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
@@ -172,7 +169,7 @@ src$ cat smelistss | usmeNorm | grep '?' | wc -l
 src$ cat smelistss | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmass
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelistss smelemmass | wc -l
-      16
+     187
 
 
 __done_fad_nobsme.20121130_nob-s_sme-c.xml____LEKSIKALISERING GJENSTÅR.
@@ -195,15 +192,15 @@ src$ grep '<t ' done_fad_nobsme.20121130_nob-s_sme-c.xml | egrep -o '<t pos=...'
 
 
 usmeNorm OK, leksikalisering gjenstår.
-849 ord er ikke leksikalisert. Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikalisering_done_fad_nobsme.20121130_nob-s_sme-c.xml
+801 ord er ikke leksikalisert. Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikalisering_done_fad_nobsme.20121130_nob-s_sme-c.xml
 src$ cat done_fad_nobsme.20121130_nob-s_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistsc
 src$ cat smelistsc | usmeNorm | grep '?' | wc -l
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
        0
 src$ cat smelistsc | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemmasc
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
-src$ comm -23 smelistdone00 smelemma01 | wc -l
-     849
+src$ comm -23 smelistsc smelemmasc | wc -l
+     801
 
 
 __done_l-1_t-0.xml__LEKSIKALISERING GJENSTÅR.
@@ -236,7 +233,7 @@ src$ grep '<t ' done_l-1_t-0.xml | egrep -o '<t pos=...'| sort | uniq -c
 
 usmeNorm OK, leksikalisering gjenstår.
 1 ord blir ikke analysert, fordi ordet Finnmárkku báhppa er en mwe.
-195 ord er ikke leksikalisert
+188 ord er ikke leksikalisert
 Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikalisering_done_l-0_t-1
 src$ cat done_l-1_t-0.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist10
 src$ cat smelist10 | usmeNorm | grep '?' | wc -l
@@ -245,7 +242,7 @@ src$ cat smelist10 | usmeNorm | grep '?' | wc -l
 src$ cat smelist10 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma10
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 smelist10 smelemma10 | wc -l
-     195
+     188
      
 ***
 
@@ -264,7 +261,7 @@ src$ grep '<t ' done_l-0_t-1.xml | egrep -o '<t pos=...'| sort | uniq -c
 
 usmeNorm OK, leksikalisering gjenstår.
 alle ordene blir analysert.
-123 ord er ikke leksikalisert.
+119 ord er ikke leksikalisert.
 Har laget en fil med oversikt over lemmaer som skal leksikaliseres: leksikalisering_done_l-0_t-1
 src$ cat done_l-0_t-1.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelist01
 src>cat smelist01 | usmeNorm | grep '?' | wc -l
@@ -273,7 +270,7 @@ src>cat smelist01 | usmeNorm | grep '?' | wc -l
 src$ cat smelist01 | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > smelemma01
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src>comm -23 smelist01 smelemma01 | wc -l
-     123
+     119
 
 __done_l-0_t-0.xml__ HELT OK
 
