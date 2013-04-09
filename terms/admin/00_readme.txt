@@ -130,8 +130,7 @@ src$ grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="1"' | wc -l
       
 Jeg har lagt til en ny attributt, alternative_string, som betyr at i korpuset finnes også denne alternative varianten som ikke er normativ.
 
-usmeNorm ikke OK
-0 ord blir ikke analysert
+usmeNorm OK
 4362 ord er ikke leksikalisert
 src$ cat done_fad_nobsme.20121130_nob-c_sme-c.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > smelistcc
 src$ cat smelistcc | usmeNorm | grep '?' | wc -l0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
