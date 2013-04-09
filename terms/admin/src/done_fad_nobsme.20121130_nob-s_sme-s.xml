@@ -5470,27 +5470,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" orig_string="telefon">telefovdna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">telefon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" orig_string="telefuvdna">telefovdna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">telefon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">telefovdna</t>
+            <t pos="N" alternative_string="telefon" alternative_string2="telefuvdna">telefovdna</t>
          </tg>
       </mg>
    </e>
@@ -10988,7 +10968,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" orig_string="guovllulaš">guvllolaš</t>
+            <t pos="A" orig_string="guovllulaš" alternative_string="guovlulaš">guvllolaš</t>
          </tg>
       </mg>
    </e>
@@ -10998,27 +10978,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">regionálalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">regional</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" orig_string="regionálaš">regionálalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">regional</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" orig_string="guovlulaš">guvllolaš</t>
+            <t pos="A" alternative_string="regionálaš">regionálalaš</t>
          </tg>
       </mg>
    </e>
@@ -11889,17 +11849,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" orig_string="persuvnnalaš">persovnnalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">personlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" orig_string="peršuvnnalaš">persovnnalaš</t>
+            <t pos="A" alternative_string="persuvnnalaš" alternative_string2="peršuvnnalaš">persovnnalaš</t>
          </tg>
       </mg>
    </e>
@@ -13089,27 +13039,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" orig_string="politihkálaš">politihkalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">politisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" orig_string="politihkkalaš">politihkalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">politisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">politihkalaš</t>
+            <t pos="A" alternative_string="politihkálaš" alternative_string2="politihkkalaš">politihkalaš</t>
          </tg>
       </mg>
    </e>
@@ -14019,7 +13949,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" orig_string="nášuvnnalaš">našuvnnalaš</t>
+            <t pos="A" alternative_string="nášuvnnalaš">našuvnnalaš</t>
          </tg>
       </mg>
    </e>
@@ -14039,27 +13969,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" orig_string="nášunálalaš">nationálalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">nasjonal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" orig_string="našunálalaš">nationálalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">nasjonal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">našuvnnalaš</t>
+            <t pos="A" alternative_string="nášunálalaš" orig_string="našunálalaš">nationálalaš</t>
          </tg>
       </mg>
    </e>
@@ -14970,16 +14880,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">dieđihit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rapportere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">raporteret</t>
          </tg>
       </mg>
    </e>
@@ -26941,17 +26841,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" orig_string="sektuvra">sektor</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">sektor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" orig_string="sektovra">sektor</t>
+            <t pos="N" orig_string="sektuvra" alternative_string="sektovra">sektor</t>
          </tg>
       </mg>
    </e>
@@ -40621,27 +40511,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" orig_string="organisatovrralaš">organisatuvrralaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">organisatorisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">organisatuvrralaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">organisatorisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" orig_string="organisatoralaš">organisatuvrralaš</t>
+            <t pos="A" orig_string="organisatovrralaš" alternative_string="organisatoralaš">organisatuvrralaš</t>
          </tg>
       </mg>
    </e>
@@ -46791,17 +46661,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" orig_string="pearmišuvdna">permišuvdna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">permisjon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">permišuvdna</t>
+            <t pos="N" alternative_string="pearmišuvdna" alternative_string2="pearbmišuvdna">permišuvdna</t>
          </tg>
       </mg>
    </e>
@@ -46812,16 +46672,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">virgelohpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">permisjon</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" orig_string="pearbmišuvdna">permišuvdna</t>
          </tg>
       </mg>
    </e>
