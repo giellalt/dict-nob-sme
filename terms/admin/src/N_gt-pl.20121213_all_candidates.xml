@@ -476,17 +476,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">fidnofágaoahpaheaddjioahppu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">yrkesfaglærerutdanning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">fidnofágaoahpaheaddjeoahpaheaddjeoahppu</t>
+            <t pos="N" alternative_string="fidnofágaoahpaheaddjioahppu">fidnofágaoahpaheaddjeoahppu</t>
          </tg>
       </mg>
    </e>
@@ -10656,27 +10646,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">guovlodepartementa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">regionaldepartement</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">guovlodepartemeanta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">regionaldepartement</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">guovlludepartemeanta</t>
+            <t pos="N" alternative_string="guovlodepartementa; guovlludepartemeanta">guovlodepartemeanta</t>
          </tg>
       </mg>
    </e>
@@ -22596,7 +22566,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">eatnadatsuodjaleapmi</t>
+            <t pos="N" alternative_string="eatnadatsuodjaleapmi">eanadatsuodjaleapmi</t>
          </tg>
       </mg>
    </e>
@@ -22606,7 +22576,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">eatnadatbiras</t>
+            <t pos="N" alternative_string="eatnadatbiras">eanadatbiras</t>
          </tg>
       </mg>
    </e>
@@ -37176,7 +37146,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">generalplána</t>
+            <t pos="N" alternative_string="generalplána">generálaplána</t>
          </tg>
       </mg>
    </e>
@@ -37192,7 +37162,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">generalkonferanse</l>
+         <l pos="N" alternative_string="general-konferanse">generalkonferanse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -37206,7 +37176,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">váldo-čoahkkin</t>
+            <t pos="N" alternative_string="váldo-čoahkkin">váldočoahkkin</t>
          </tg>
       </mg>
    </e>
@@ -37216,17 +37186,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">generálčoahkkin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">general-konferanse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">váldokonferánsa</t>
+            <t pos="N" alternative_string="generálčoahkkin">generálačoahkkin</t>
          </tg>
       </mg>
    </e>
@@ -41542,31 +41502,21 @@
    </e>
    <e>
       <lg>
-         <l pos="N">finnmarkslovsprosess</l>
+         <l pos="N">Finnmarkslovsprosess</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">finnmárkkuláhkaproseassa</t>
+            <t pos="N" alternative_string="finnmárkkuláhkaproseassa; finnmárkoláhkaproseassa">Finnmárkolága proseassa</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">finnmarkslov</l>
+         <l pos="N">Finnmarksloven</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">finnmárkoláhka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">finnmarkslov</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">finnmárkkuláhka</t>
+            <t pos="N" alternative_string="finnmárkkuláhka">Finnmárkoláhka</t>
          </tg>
       </mg>
    </e>
@@ -42296,7 +42246,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">boasttodikšu</t>
+            <t pos="N" alternative_string="boasttodikšu">boasttudikšu</t>
          </tg>
       </mg>
    </e>
@@ -42666,7 +42616,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">faktadiehtu</t>
+            <t pos="N" alternative_string="faktadiehtu">fáktádiehtu</t>
          </tg>
       </mg>
    </e>
@@ -42846,7 +42796,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">eváhkko</t>
+            <t pos="N" alternative_string="eváhkko">eváhkku</t>
          </tg>
       </mg>
    </e>
@@ -43796,7 +43746,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">energigálvu</t>
+            <t pos="N" alternative_string="energigálvu">energiijagálvu</t>
          </tg>
       </mg>
    </e>
@@ -43806,7 +43756,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">energimassin</t>
+            <t pos="N" alternative_string="energimassin">energiijamassin</t>
          </tg>
       </mg>
    </e>
@@ -43996,7 +43946,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">elitemielki</t>
+            <t pos="N" alternative_string="elitemielki">elihtamielki</t>
          </tg>
       </mg>
    </e>
@@ -45716,7 +45666,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">doavttirdutkamuš</t>
+            <t pos="N" alternative_string="doavttirdutkamuš">doavtterdutkamuš</t>
          </tg>
       </mg>
    </e>
@@ -46486,7 +46436,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">demensaheivehus</t>
+            <t pos="N" alternative_string="demensaheivehus">demeansaheivehus</t>
          </tg>
       </mg>
    </e>
@@ -46926,7 +46876,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">digáštallanfáddá</t>
+            <t pos="N" alternative_string="digáštallanfáddá">digaštallanfáddá</t>
          </tg>
       </mg>
    </e>
@@ -47366,7 +47316,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">ceavcinnákca</t>
+            <t pos="N" alternative_string="ceavcinnákca">ceavzinnákca</t>
          </tg>
       </mg>
    </e>
@@ -50666,7 +50616,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">dábálášoahpaheaddjeoahpaheaddjeoahppu</t>
+            <t pos="N">dábálašoahpaheaddjeoahppu</t>
          </tg>
       </mg>
    </e>
@@ -57162,16 +57112,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">Finnmarkslovsprosess</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">finnmárkoláhkaproseassa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">Finanstilsynet</l>
       </lg>
       <mg>
@@ -57922,7 +57862,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">Bryllupsbilde</l>
+         <l pos="N">bryllupsbilde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -57932,17 +57872,17 @@
    </e>
    <e>
       <lg>
-         <l pos="N">Brukerundersøkelser</l>
+         <l pos="N">brukerundersøkelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">geavaheaddjiidiskkadallan</t>
+            <t pos="N" alternative_string="geavaheaddjiidiskkadallan">geavaheddjiidiskkadallan</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">Brukerundersøkelser</l>
+         <l pos="N">brukerundersøkelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -57952,7 +57892,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">Boliginvesteringer</l>
+         <l pos="N">boliginvestering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -57962,7 +57902,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">Bokavtalens</l>
+         <l pos="N">bokavtale</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -57982,7 +57922,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">Bibliotekutredning</l>
+         <l pos="N">bibliotekutredning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -57992,7 +57932,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">Bibliotekreform</l>
+         <l pos="N">bibliotekreform</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -58002,7 +57942,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">Bevilgningsreglementets</l>
+         <l pos="N">bevilgningsreglement</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -58012,7 +57952,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">Betalingsformidling</l>
+         <l pos="N">betalingsformidling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
