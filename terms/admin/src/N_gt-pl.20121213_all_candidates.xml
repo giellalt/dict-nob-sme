@@ -12322,16 +12322,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">philos</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">philos</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">petroleumsøkonomi</l>
       </lg>
       <mg>
@@ -13926,7 +13916,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">Organišuvdna</t>
+            <t pos="N" alternative_string="">organisašuvdna</t>
          </tg>
       </mg>
    </e>
@@ -50256,7 +50246,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">bargosisfárren</t>
+            <t pos="N" alternative_string="bargosisfárren">bargosisafárren</t>
          </tg>
       </mg>
    </e>
@@ -51486,7 +51476,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">Romssa-guorahallan</t>
+            <t pos="N" type="Prop" alternative_string="Romssa-guorahallan">Romssaguorahallamat</t>
          </tg>
       </mg>
    </e>
@@ -51786,7 +51776,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">Deanu-akšuvdna</t>
+            <t pos="N" alternative_string="Deanu-akšuvdna">Deanu akšuvdna</t>
          </tg>
       </mg>
    </e>
@@ -56386,7 +56376,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">ILOkonvenšuvdna</t>
+            <t pos="N" alternative_string="ILOkonvenšuvdna">ILO-konvenšuvdna</t>
          </tg>
       </mg>
    </e>
@@ -57626,7 +57616,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">EUdokumeanta</t>
+            <t pos="N" alternative_string="EU-dokumeanta">EUdokumeanta</t>
          </tg>
       </mg>
    </e>
@@ -58466,7 +58456,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">aetáhtta</t>
+            <t pos="N" type="Prop">Aetáhtta</t>
          </tg>
       </mg>
    </e>
