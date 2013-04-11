@@ -101,7 +101,7 @@ src>grep '<t' done_fad_nobsme.20121130_nob-c_sme-c.xml | grep 'c="4"' | wc -l
          <tg xml:lang="sme">
             <t pos="n">suodjalit+ásahus</t>
             <t_gt gt_pos="Org" c="1" cisl="0">mánáidsuodjalanásahus</t_gt>
-            <t_gt gt_pos="" c="2" cisl="0">| mánná+suodjalit+ásahus</t_gt>
+            <t_gt gt_pos="" c="2" cisl="0">mánná+suodjalit+ásahus</t_gt>
          </tg>
       </mg>
    </e>
