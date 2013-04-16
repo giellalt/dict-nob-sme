@@ -329,19 +329,153 @@ src>grep '<e' done_fad_nobsme.20121130_nob-s_sme-s.xml | sort | uniq -c | sort -
    1    <e crash="A_Adv">
 
 ============================
-xml-izing the data from the gt-pipeline:
+gt-pipeline-filene:
+
+__A_gt-pl.20121213_all_candidates.xml__
+
+Hvor mange entry er det i fila?
 src>grep '<e' A_gt-pl.20121213_all_candidates.xml | wc -l
      708
+
+POS:
+src$ grep '<l ' A_gt-pl.20121213_all_candidates.xml | egrep -o '<l pos=...'| sort | uniq -c
+ 708 <l pos="A"
+ 
+src$ grep '<t ' A_gt-pl.20121213_all_candidates.xml | egrep -o '<t pos=...'| sort | uniq -c
+ 707 <t pos="A"
+   1 <t pos="N"
+
+usmeNorm:
+alle ordene blir analysert
+10 ord er ikke leksikalisert
+src$ cat A_gt-pl.20121213_all_candidates.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > A_list
+src$ cat A_list | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat A_list | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > A_lemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 A_list A_lemma | wc -l
+      10 
+
+__A_gt-pl.20121213_all_qm_candidates.xml__
+
+Hvor mange entry er det i fila?
 src>grep '<e' A_gt-pl.20121213_all_qm_candidates.xml | wc -l 
-      14
-src>grep '<e' N_gt-pl.20121213_all_candidates.xml | wc -l
-    5849
-src>grep '<e' N_gt-pl.20121213_all_qm_candidates.xml | wc -l 
-     106
-src>grep '<e' V_gt-pl.20121213_all_qm_candidates.xml | wc -l 
-      19
-src>grep '<e' V_gt-pl.20121213_all_candidates.xml | wc -l
-     411
+      12
+
+POS:
+src$ grep '<l ' A_gt-pl.20121213_all_qm_candidates.xml | egrep -o '<l pos=...'| sort | uniq -c
+  12 <l pos="A"
+ 
+src$ grep '<t ' A_gt-pl.20121213_all_qm_candidates.xml | egrep -o '<t pos=...'| sort | uniq -c
+  12 <t pos="A"
+
+usmeNorm:
+alle ordene blir analysert
+2 ord er ikke leksikalisert
+src$ cat A_gt-pl.20121213_all_qm_candidates.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > A_qm_list
+src$ cat A_qm_list |usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat A_qm_list |usmeNorm |cut -f2 | cut -d '+' -f1 | sort -u > A_qm_lemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 A_qm_list A_qm_lemma  | wc -l
+       2
+
+
+__N_gt-pl.20121213_all_candidates.xml__
+Hvor mange entry er det i fila?
+src$ grep '<e' N_gt-pl.20121213_all_candidates.xml | wc -l
+    5826
+
+src$ grep '<l ' N_gt-pl.20121213_all_candidates.xml | egrep -o '<l pos=...'| sort | uniq -c
+5826 <l pos="N"
+src$ grep '<t ' N_gt-pl.20121213_all_candidates.xml | egrep -o '<t pos=...'| sort | uniq -c
+5826 <t pos="N"
+
+usmeNorm:
+3 ord blir ikke analysert
+2861 ord er ikke leksikalisert
+src$ cat N_gt-pl.20121213_all_candidates.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > N_list
+src$ cat N_list | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       3
+src$ cat N_list | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > N_lemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 N_list N_lemma | wc -l
+    2861
+
+
+__N_gt-pl.20121213_all_qm_candidates.xml__
+Hvor mange entry er det i fila?
+src$ grep '<e' N_gt-pl.20121213_all_qm_candidates.xml | wc -l 
+     121
+
+POS OK:
+src$ grep '<l ' N_gt-pl.20121213_all_qm_candidates.xml | egrep -o '<l pos=...'| sort | uniq -c
+   1 <l pos="A"
+ 120 <l pos="N"
+src$ grep '<t ' N_gt-pl.20121213_all_qm_candidates.xml | egrep -o '<t pos=...'| sort | uniq -c
+   1 <t pos="A"
+ 121 <t pos="N"
+
+usmeNorm:
+alle ordene blir analysert
+46 ord er ikke leksikalisert
+src$ cat N_gt-pl.20121213_all_qm_candidates.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > N_qm_list
+src$ cat N_qm_list | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat N_qm_list | usmeNorm |  cut -f2 | cut -d '+' -f1 | sort -u > N_qm_lemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 N_qm_list N_qm_lemma | wc -l
+      46
+
+
+
+__V_gt-pl.20121213_all_candidates.xml__
+Hvor mange entry er det i fila?
+src$ grep '<e' V_gt-pl.20121213_all_candidates.xml | wc -l
+     412
+
+POS OK:
+src$ grep '<l ' V_gt-pl.20121213_all_candidates.xml | egrep -o '<l pos=...'| sort | uniq -c
+ 412 <l pos="V"
+src$ grep '<t ' V_gt-pl.20121213_all_candidates.xml | egrep -o '<t pos=...'| sort | uniq -c
+ 412 <t pos="V"
+
+
+usmeNorm OK:
+src$ cat V_gt-pl.20121213_all_candidates.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > V_list
+src$ cat V_list | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat V_list | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > V_lemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 V_list V_lemma | wc -l
+       0
+
+__V_gt-pl.20121213_all_qm_candidates.xml__
+Hvor mange entry er det i fila?
+src$ grep '<e' V_gt-pl.20121213_all_qm_candidates.xml | wc -l 
+      18
+
+POS OK:
+src$ grep '<l ' V_gt-pl.20121213_all_qm_candidates.xml | egrep -o '<l pos=...'| sort | uniq -c
+  18 <l pos="V"
+src$ grep '<t ' V_gt-pl.20121213_all_qm_candidates.xml | egrep -o '<t pos=...'| sort | uniq -c
+  18 <t pos="V"
+  
+usmeNorm OK:
+src$ cat V_gt-pl.20121213_all_qm_candidates.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > V_qm_list
+src$ cat V_qm_list | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat V_qm_list | usmeNorm |  cut -f2 | cut -d '+' -f1 | sort -u > V_qm_lemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 V_qm_list V_qm_lemma | wc -l
+       0
+
 
 The _qm_-flag in the file name means "questionmarked"!
 
