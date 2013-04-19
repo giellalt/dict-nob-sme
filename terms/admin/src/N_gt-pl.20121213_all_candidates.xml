@@ -4886,7 +4886,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">stállerávda</t>
+            <t pos="N" alternative_string="stállerávda">stálleravda</t>
          </tg>
       </mg>
    </e>
@@ -6426,7 +6426,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">láhttodávda</t>
+            <t pos="N" alternative_string="láhttodávda">lahttodávda</t>
          </tg>
       </mg>
    </e>
@@ -17666,7 +17666,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">millijárda</t>
+            <t pos="Num" alternative_string="millijárda">miljárda</t>
          </tg>
       </mg>
    </e>
@@ -20652,11 +20652,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">lokalvalg</l>
+         <l pos="N">kommunevalg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">suohkanstivraválga</t>
+            <t pos="N" alternative_string="suohkanstivraválga">suohkanstivrraválga</t>
          </tg>
       </mg>
    </e>
@@ -27966,7 +27966,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">gieldakomitea</t>
+            <t pos="N" alternative_string="gielddakomitea">gieldakomitea</t>
          </tg>
       </mg>
    </e>
@@ -27976,17 +27976,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">gielddakomitea</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kommunalkomite</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">gieldakomitea</t>
+            <t pos="N" alternative_string="gielddakomitea">gieldakomitea</t>
          </tg>
       </mg>
    </e>
@@ -37636,7 +37626,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">fylkkadikkiválga</t>
+            <t pos="N" alternative_string="fylkkadikkiválga">fylkkadiggeválga</t>
          </tg>
       </mg>
    </e>
@@ -54376,7 +54366,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" alternative_string="davviguovlostipeandaortnet">davviguovlostipeanda</t>
+            <t pos="N" alternative_string="davviguovlostipeandaortnet">davviguovllustipeanda</t>
          </tg>
       </mg>
    </e>
