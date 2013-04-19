@@ -40,14 +40,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">høy</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="679">suoidni</t>
-            <t pos="N" usage="vd" freq="19">goikesuoidni</t>
          </tg>
       </mg>
    </e>
@@ -85,7 +84,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="N">grunn</l>
       </lg>
@@ -105,7 +104,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">dyr</l>
       </lg>
@@ -120,13 +119,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">dyp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="165">fávli</t>
+            <xg>
+               <x>Vi rodde båten ut på dypet?</x>
+               <xt>Mii sugaimet fatnasiin fávlái?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -193,47 +196,59 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">rett</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="6191">riekti</t>
+            <xg>
+               <x>Barnet har rett til gode levevilkår.</x>
+               <xt>Mánás lea riekti buriid eallineavttuide.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="4067">diggi</t>
+            <xg>
+               <x>Jeg går om så til retten med denne saken.</x>
+               <xt>Dáinna áššiin manan vaikko diggái.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">bein</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="1528">juolgi</t>
+            <xg>
+               <x>Det er brudd på venstre bein.</x>
+               <xt>Gurut juolgi lea dodjon.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="332">dákti</t>
+            <xg>
+               <x>Ferskvannsfisk har mange bein.</x>
+               <xt>Jávreguliin leat ollu dávttit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">kort</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="321">goarta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="235">koarta</t>
          </tg>
       </mg>
@@ -296,21 +311,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e">
       <lg>
          <l pos="N">dagens</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" freq="2247">otná</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" usage="vd" freq="684">otnáš</t>
             <xg>
                <x>Har du dagens avis?</x>
-               <xt>Leago dus otnáš áviisa?</xt>
+               <xt>Leago dus otná/otnáš áviisa?</xt>
             </xg>
          </tg>
       </mg>
@@ -325,13 +336,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="7">
+   <e>
       <lg>
          <l pos="N">feil</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="866">boasttuvuohta</t>
+            <t pos="N" usage="vd" freq="29">feaila</t>
          </tg>
       </mg>
       <mg>
@@ -342,6 +354,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="239">meattáhus</t>
+            <t pos="N" usage="vd" freq="16">meaddádus</t>
          </tg>
       </mg>
       <mg>
@@ -352,20 +365,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="94">vearri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd" freq="29">feaila</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd" freq="16">meaddádus</t>
          </tg>
       </mg>
    </e>
@@ -399,28 +398,19 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">morgendagens</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" freq="24">ihttáš</t>
+            <t pos="A" usage="vd" freq="19">ihtáš</t>
             <xg>
                <x>Morgendagens avis har alt kommet.</x>
                <xt>Ihttáš áviisa lea juo boahtán.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" usage="vd" freq="19">ihtáš</t>
-            <xg>
-               <x>Morgendagens avis har alt kommet.</x>
-               <xt>Ihtáš áviisa lea juo boahtán.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -459,6 +449,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="7511">vuohki</t>
+            <xg>
+               <x>På denne måten blir vi fort ferdig.</x>
+               <xt>Dáinna vugiin geargat jođánit.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -473,13 +467,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Po" usage="vd" freq="2308">láhkai</t>
+            <t pos="Adv" usage="vd" freq="0">ládje</t>
             <xg>
                <x>Slik kan det gå.</x>
                <xt>Dán láhkai sáhttá mannat.</xt>
             </xg>
             <xg>
                <x>Gutten var lik sin far.</x>
-               <xt>Bárdni lei áhčis láhkai.</xt>
+               <xt>Bárdni lei áhčis ládje.</xt>
             </xg>
             <xg>
                <x>Jeg har redd opp sengen ferdig til å sove i.</x>
@@ -487,51 +482,33 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="0">láhkai</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="0">ládje</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">skilt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="542">galba</t>
+            <t pos="N" usage="vd" freq="159">šilta</t>
             <xg>
                <x>veiskilt</x>
                <xt>geaidnogalba</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd" freq="159">šilta</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">bak</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="207">bahta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="2">čurti</t>
             <xg>
                <x>Mamma, kom og tørk meg bak!</x>
-               <xt>Eadni, boađe sihkkut čurtti!</xt>
+               <xt>Eadni, boađe sihkkut mu bađa/čurtti!</xt>
             </xg>
          </tg>
       </mg>
@@ -610,7 +587,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="N">barnevakt</l>
       </lg>
@@ -618,15 +595,7 @@
          <tg xml:lang="sme">
             <re>kvinnelig</re>
             <t pos="N" usage="vd" freq="55">mánnabiigá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="30">mánnageahčči</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="2">mánnáoaidni</t>
          </tg>
       </mg>
@@ -665,17 +634,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">sauebonde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="101">sávzaboanda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="99">sávzadoalli</t>
          </tg>
       </mg>
@@ -862,17 +827,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">statssekretær</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="1174">stáhtačálli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="230">stádačálli</t>
          </tg>
       </mg>
@@ -897,7 +858,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">instruktør</l>
       </lg>
@@ -922,22 +883,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="N">deltaker</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="1672">oasseváldi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="1206">oassálasti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="826">oasálaš</t>
          </tg>
       </mg>
@@ -992,22 +945,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
-         <l pos="N">forbryter</l>
+         <l pos="N"></l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="201">vearredahkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="126">bahádahkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="32">vearrodahkki</t>
          </tg>
       </mg>
@@ -1022,22 +967,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="N">vaktmester</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="84">viessohoaiddár</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="31">viessohoiddár</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="20">viessobearráigeahčči</t>
          </tg>
       </mg>
@@ -1062,18 +999,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">redaktør</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="1264">doaimmaheaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg" usage="vd" freq="185">oaivedoaimmaheaddji</t>
          </tg>
       </mg>
    </e>
@@ -1147,17 +1079,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">slakter</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="77">njuovvi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="4">bievvá</t>
          </tg>
       </mg>
@@ -1172,17 +1100,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">fisker</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="1663">guolásteaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="628">guollebivdi</t>
          </tg>
       </mg>
@@ -1207,17 +1131,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">fotballspiller</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="2816">čiekči</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="615">spábbačiekči</t>
          </tg>
       </mg>
@@ -1340,17 +1260,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">språkmedarbeider</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="244">giellabargi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="68">giellamielbargi</t>
          </tg>
       </mg>
@@ -1409,13 +1325,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">selger</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" src="nj" usage="vd" freq="3723">vuovdi</t>
+            <t pos="N" type="NomAg" src="nj" usage="vd" freq="18">vuovdaleaddji</t>
             <xg>
                <x>Mange selgere var kommet til markedet.</x>
                <xt>Máŋga vuovdi ledje boahtán márkanii.</xt>
@@ -1426,28 +1343,15 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg" src="nj" usage="vd" freq="18">vuovdaleaddji</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="N">leder</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" src="nj" usage="vd" freq="17777">jođiheaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="2289">hoavda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="2164">ovdaolmmoš</t>
          </tg>
       </mg>
@@ -1472,17 +1376,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">ordfører</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="5242">sátnejođiheaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="308">ságajođiheaddji</t>
          </tg>
       </mg>
@@ -1537,17 +1437,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">butikkansatt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="6">gávpebargi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="3">rámburbargi</t>
          </tg>
       </mg>
@@ -1582,17 +1478,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">forfatter</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="2414">čálli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="2027">girječálli</t>
          </tg>
       </mg>
@@ -1677,17 +1569,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">gjeter</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" src="nj" usage="vd" freq="141">guođoheaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="48">báimman</t>
          </tg>
       </mg>
@@ -1702,37 +1590,25 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="N">lik</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" src="nj" usage="vd" freq="414">jábmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="201">liika</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="74">jámet</t>
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">disippel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" src="nj" usage="vd" freq="650">máhttájeaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" src="nj" usage="vd" freq="1">máhtajeaddji</t>
          </tg>
       </mg>
@@ -1787,32 +1663,24 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">flyktning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="335">báhtareaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="7">báđar</t>
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">skytter</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="344">báhčči</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="2">bissoalmmái</t>
          </tg>
       </mg>
@@ -1977,17 +1845,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">eier</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="2893">eaiggát</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="427">oamasteaddji</t>
          </tg>
       </mg>
@@ -2052,17 +1916,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">ordstyrer</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="757">ságadoalli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="308">ságajođiheaddji</t>
          </tg>
       </mg>
@@ -2132,32 +1992,16 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="5">
+   <e>
       <lg>
          <l pos="N">samboer</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="862">guoibmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="259">ovttasássi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="62">ovttasorru</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="35">elošteaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="9">ássanguoibmi</t>
          </tg>
       </mg>
@@ -2262,22 +2106,14 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="N">innehaver</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="398">doalli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="34">háldejeaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="1">doaibmadoalli</t>
          </tg>
       </mg>
@@ -2372,15 +2208,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">dirigent</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg" usage="vd" freq="437">čoahkkinjođiheaddji</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="285">láidesteaddji</t>
@@ -2477,17 +2308,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">avdelingsleder</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="230">ossodatjođiheaddji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="162">ossodathoavda</t>
          </tg>
       </mg>
