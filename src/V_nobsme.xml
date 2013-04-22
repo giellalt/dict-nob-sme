@@ -23,7 +23,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">motløs</l>
+         <l pos="V">bli motløs</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -33,7 +33,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skitten</l>
+         <l pos="V">bli skitten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -53,7 +53,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">øm</l>
+         <l pos="V">være øm</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -63,7 +63,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vrien</l>
+         <l pos="V">være vrien</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -9170,7 +9170,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gretten</l>
+         <l pos="V">bli gretten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -9719,7 +9719,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hor</l>
+         <l pos="V">hore</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -10719,7 +10719,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">oppskrudd</l>
+         <l pos="V">rase</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -13259,7 +13259,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">harm</l>
+         <l pos="V">bli harm</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -14052,7 +14052,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">at det er nok til overs</l>
+         <l pos="V">bli nok</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -17229,6 +17229,31 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="V" usage="vd" freq="0">leat</t>
+            <xg>
+               <x>Søstera mi er sametingsrepresentant.</x>
+               <xt>Mu oabbá lea sámediggeáirras.</xt>
+            </xg>
+            <xg>
+               <x>Det ville jeg også ha gjort!</x>
+               <xt>Dan gal livččen mun ge!</xt>
+            </xg>
+            <xg>
+               <x>Jeg vet ikke om det bare er meg som klager for ingenting...</x>
+               <xt>In dieđe leaččan go dušše mun gii duššiid váidalan...</xt>
+            </xg>
+            <xg>
+               <x>Den lille stalloen var fullstendig andpusten og svett da de endelig kom fram.</x>
+               <xt>Uhcastáloš lei buot šieđđaluvvan ja bivastuvvan go viimmat jovde dohko.</xt>
+            </xg>
+            <xg>
+               <x>Han var redaktør for Nuorttanaste i 32 år.</x>
+               <xt>Son lei Nuorttanaste doaimmaheaddji 32 jagi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="20096">orrut</t>
          </tg>
       </mg>
@@ -17249,6 +17274,37 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="20096">orrut</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="$799261" mg_c="2">
+      <lg>
+         <l pos="V">le</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" freq="632">boagustit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd" freq="212">čaibmat</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="$306903" mg_c="2">
+      <lg>
+         <l pos="V">spille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>spill</re>
+            <t pos="V" src="nj" usage="vd" freq="382">speallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" freq="189">neavttašit</t>
          </tg>
       </mg>
    </e>
@@ -19518,7 +19574,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forminsk</l>
+         <l pos="V">forminske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -21641,7 +21697,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hviner</l>
+         <l pos="V">hvine</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -24304,92 +24360,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd" freq="85">šávihit</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="4">
-      <lg>
-         <l pos="V">er</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd" freq="0">lea</t>
-            <xg>
-               <x>Søstera mi er sametingsrepresentant.</x>
-               <xt>Mu oabbá lea sámediggeáirras.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd" freq="0">lehkon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd" freq="0">livččen</t>
-            <xg>
-               <x>Det ville jeg også ha gjort!</x>
-               <xt>Dan gal livččen mun ge!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd" freq="0">leaččan</t>
-            <xg>
-               <x>Jeg vet ikke om det bare er meg som klager for ingenting...</x>
-               <xt>In dieđe leaččan go dušše mun gii duššiid váidalan...</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">var</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd" freq="0">lei</t>
-            <xg>
-               <x>Den lille stalloen var fullstendig andpusten og svett da de endelig kom fram.</x>
-               <xt>Uhcastáloš lei buot šieđđaluvvan ja bivastuvvan go viimmat jovde dohko.</xt>
-            </xg>
-            <xg>
-               <x>Han var redaktør for Nuorttanaste i 32 år.</x>
-               <xt>Son lei Nuorttanaste doaimmaheaddji 32 jagi.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e freq="$799261" mg_c="2">
-      <lg>
-         <l pos="V">le</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="632">boagustit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd" freq="212">čaibmat</t>
-         </tg>
-      </mg>
-   </e>
-   <e freq="$306903" mg_c="2">
-      <lg>
-         <l pos="V">spille</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>spill</re>
-            <t pos="V" src="nj" usage="vd" freq="382">speallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" freq="189">neavttašit</t>
          </tg>
       </mg>
    </e>
@@ -29737,16 +29707,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">čuolbmalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e freq="$0">
-      <lg>
-         <l pos="V">vis</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">čájet</t>
          </tg>
       </mg>
    </e>
