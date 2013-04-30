@@ -216,7 +216,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ollismáhttit</t>
+            <t pos="V" alternative_string="ollismáhttit">ollismahttit</t>
          </tg>
       </mg>
    </e>
@@ -226,7 +226,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">dievasmáhttit</t>
+            <t pos="V" alternative_string="dievasmáhttit">dievasmahttit</t>
          </tg>
       </mg>
    </e>
@@ -15686,17 +15686,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">fágamáhttu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">fagkunnskap</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">fágamáhtu</t>
+            <t pos="N" alternative="fágamáhtu">fágamáhttu</t>
          </tg>
       </mg>
    </e>
@@ -18482,17 +18472,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">kunnskap</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">árbemáhtu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kunnskap</l>
+         <l pos="N">tradisjonskunnskap</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -18502,7 +18482,17 @@
    </e>
    <e>
       <lg>
-         <l pos="N">kunnskap</l>
+         <l pos="N">tradisjonell kunnskap</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">árbemáhttu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">tradisjonell kunnskap</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
