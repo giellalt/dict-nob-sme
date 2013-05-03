@@ -47569,7 +47569,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">simle</l>
       </lg>
@@ -47577,11 +47577,6 @@
          <tg xml:lang="sme">
             <re></re>
             <t pos="N" src="nj" usage="vd" freq="402">áldu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re></re>
             <t pos="N" src="nj" usage="vd" freq="1">váža</t>
          </tg>
       </mg>
@@ -48200,17 +48195,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">hverdag</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="954">árgabeaivi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="34">árga</t>
          </tg>
       </mg>
@@ -49050,17 +49041,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">lillefinger</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="5">čelččen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="0">čeŋkkeš</t>
          </tg>
       </mg>
@@ -52137,17 +52124,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">tretopp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="10">muorragiera</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="8">muorrageahči</t>
          </tg>
       </mg>
@@ -55722,17 +55705,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="N">enerom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="13">oktolatnja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="0">ovttaolbmolatnja</t>
          </tg>
       </mg>
@@ -61523,47 +61502,42 @@
          </tg>
       </mg>
    </e>
-   <e freq="$197031" mg_c="3">
+   <e freq="$197031">
       <lg>
          <l pos="N">selskap</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>selskap</re>
             <t pos="N" src="nj" usage="vd" freq="13891">searvi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>sammenkomst, feiring</re>
             <t pos="N" nr="Pl" src="nj" usage="vd" freq="5201">doalut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>økonomisk foretak</re>
             <t pos="N" freq="14">gávpevuođđudus</t>
          </tg>
       </mg>
    </e>
-   <e freq="$166690" mg_c="3">
+   <e freq="$166690">
       <lg>
          <l pos="N">informasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="21688">diehtu</t>
+            <t pos="N" usage="vd" freq="2520">diehtojuohkin</t>
+            <t pos="N" usage="vd" freq="2520">diehtojuohkin</t>
             <xg>
                <x>Jeg leter etter informasjon om Sametinget.</x>
                <xt>Mun ozan dieđuid Sámedikki birra.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd" freq="2520">diehtojuohkin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="189">informašuvdna</t>
          </tg>
       </mg>
    </e>
@@ -61587,22 +61561,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$127977" mg_c="3">
+   <e freq="$127977">
       <lg>
          <l pos="N">tema</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="4532">fáddá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="4532">fáddá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="299">temá</t>
          </tg>
       </mg>
@@ -61618,47 +61583,53 @@
          </tg>
       </mg>
    </e>
-   <e freq="$124421" mg_c="2">
+   <e freq="$124421">
       <lg>
          <l pos="N">kontakt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>forbindelse</re>
             <t pos="N" usage="vd" freq="33047">oktavuohta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>berøring</re>
             <t pos="N" freq="3">el-čuggestat</t>
          </tg>
       </mg>
    </e>
-   <e freq="$116379" mg_c="2">
+   <e freq="$116379">
       <lg>
          <l pos="N">erfaring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>innsikt</re>
             <t pos="N" src="nj" usage="vd" freq="2255">dovdu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>hendelse</re>
             <t pos="N" freq="877">vásihus</t>
          </tg>
       </mg>
    </e>
-   <e freq="$110656" mg_c="2">
+   <e freq="$110656">
       <lg>
          <l pos="N">periode</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>avgrenset tidsrom</re>
             <t pos="N" freq="7825">áigodat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>omløpstid</re>
             <t pos="N" freq="7">birrajohtu</t>
          </tg>
       </mg>
@@ -61688,37 +61659,29 @@
          </tg>
       </mg>
    </e>
-   <e freq="$100453" mg_c="2">
+   <e freq="$100453">
       <lg>
          <l pos="N">forbindelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="33047">oktavuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="276">ovttastus</t>
          </tg>
       </mg>
    </e>
-   <e freq="$94835" mg_c="2">
+   <e freq="$94835">
       <lg>
          <l pos="N">tjeneste</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="4252">bálvalus</t>
+            <t pos="N" freq="83">bálvaleapmi</t>
             <xg>
                <x>gudstjeneste</x>
                <xt>ipmilbálvalus</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="83">bálvaleapmi</t>
          </tg>
       </mg>
    </e>
@@ -61772,7 +61735,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$87441" mg_c="2">
+   <e freq="$87441>
       <lg>
          <l pos="N">produkt</l>
       </lg>
@@ -61781,13 +61744,8 @@
             <t pos="N" usage="vd" freq="1363">buvtta</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="1363">buvtta</t>
-         </tg>
-      </mg>
    </e>
-   <e freq="$86347" mg_c="2">
+   <e freq="$86347">
       <lg>
          <l pos="N">behandling</l>
       </lg>
@@ -61803,17 +61761,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$83387" mg_c="2">
+   <e freq="$83387">
       <lg>
          <l pos="N">kontroll</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="83">dárkkástus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="48">dárkkistus</t>
          </tg>
       </mg>
@@ -61828,32 +61782,24 @@
          </tg>
       </mg>
    </e>
-   <e freq="$79085" mg_c="2">
+   <e freq="$79085">
       <lg>
          <l pos="N">løsning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="4566">čoavddus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="5">čovdojupmi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$78839" mg_c="2">
+   <e freq="$78839">
       <lg>
          <l pos="N">salg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1876">vuovdin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">vuovdaleapmi</t>
          </tg>
       </mg>
@@ -61878,17 +61824,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$76679" mg_c="2">
+   <e freq="$76679">
       <lg>
          <l pos="N">pasient</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" src="nj" usage="vd" freq="1390">buohcci</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="604">pasieanta</t>
          </tg>
       </mg>
@@ -61903,47 +61845,33 @@
          </tg>
       </mg>
    </e>
-   <e freq="$76167" mg_c="4">
+   <e freq="$76167">
       <lg>
          <l pos="N">støtte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>mental eller økonomisk støtte</re>
             <t pos="N" src="nj" usage="vd" freq="21419">doarjja</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>fysisk støtte</re>
             <t pos="N" src="nj" usage="vd" freq="132">bázzi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="128">caggi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="37">duvdda</t>
          </tg>
       </mg>
    </e>
-   <e freq="$74674" mg_c="3">
+   <e freq="$74674">
       <lg>
          <l pos="N">undersøkelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="6622">dutkan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="2560">iskkadeapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="83">dárkkástus</t>
          </tg>
       </mg>
@@ -61958,18 +61886,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$71984" mg_c="2">
+   <e freq="$71984">
       <lg>
          <l pos="N">styre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="7198">stivra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="7198">stivra</t>
          </tg>
       </mg>
    </e>
@@ -62079,82 +62002,56 @@
          </tg>
       </mg>
    </e>
-   <e freq="$56845" mg_c="2">
+   <e freq="$56845">
       <lg>
          <l pos="N">forsøk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="168">viggamuš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="56">iskkadallan</t>
          </tg>
       </mg>
    </e>
-   <e freq="$55544" mg_c="3">
+   <e freq="$55544">
       <lg>
          <l pos="N">utvalg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="11856">lávdegoddi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="3472">bargojoavku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="81">válljenmunni</t>
          </tg>
       </mg>
    </e>
-   <e freq="$55519" mg_c="3">
+   <e freq="$55519">
       <lg>
          <l pos="N">syn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="7912">oaidnu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="3138">áddejupmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="12">oidnolat</t>
          </tg>
       </mg>
    </e>
-   <e freq="$55450" mg_c="4">
+   <e freq="$55450">
       <lg>
          <l pos="N">energi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>elektriskm mekanisk og menneskelig evne til utførelse</re>
             <t pos="N" freq="604">energiija</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>innsatsvilje, handlekraft</re>
             <t pos="N" src="nj" usage="vd" freq="479">árja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="14">arva</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="13">alva</t>
          </tg>
       </mg>
@@ -62184,57 +62081,37 @@
          </tg>
       </mg>
    </e>
-   <e freq="$53866" mg_c="3">
+   <e freq="$53866">
       <lg>
          <l pos="N">produksjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="2152">buvttadeapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="329">buvttadus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="57">produkšuvdna</t>
          </tg>
       </mg>
    </e>
-   <e freq="$53865" mg_c="3">
+   <e freq="$53865">
       <lg>
          <l pos="N">profil</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="319">profiila</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="83">hámádat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="5">olgogovva</t>
          </tg>
       </mg>
    </e>
-   <e freq="$53808" mg_c="2">
+   <e freq="$53808">
       <lg>
          <l pos="N">størrelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1203">sturrodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="165">mahtodat</t>
          </tg>
       </mg>
@@ -62259,7 +62136,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$52772" mg_c="3">
+   <e freq="$52772">
       <lg>
          <l pos="N">risiko</l>
       </lg>
@@ -62267,15 +62144,7 @@
          <tg xml:lang="sme">
             <t pos="N" freq="531">várra</t>
             <t pos="N" freq="38">uhkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="234">riska</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="27">risiko</t>
          </tg>
       </mg>
@@ -62315,67 +62184,58 @@
          </tg>
       </mg>
    </e>
-   <e freq="$51608" mg_c="2">
+   <e freq="$51608">
       <lg>
          <l pos="N">innsats</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="479">árja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="27">bijus</t>
          </tg>
       </mg>
    </e>
-   <e freq="$50501" mg_c="3">
+   <e freq="$50501">
       <lg>
          <l pos="N">kritikk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>kunstandmeldelse</re>
             <t pos="N" usage="vd" freq="4631">árvvoštallan</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>negativ tilbakemelding</re>
             <t pos="N" usage="vd" freq="301">cuiggodeapmi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>tilbakemelding, enten negativ eller positiv</re>
             <t pos="N" freq="266">kritihkka</t>
          </tg>
       </mg>
    </e>
-   <e freq="$50328" mg_c="2">
+   <e freq="$50328">
       <lg>
          <l pos="N">ressurs</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="5468">resursa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="54">veahkkevárri</t>
          </tg>
       </mg>
    </e>
-   <e freq="$49633" mg_c="2">
+   <e freq="$49633">
       <lg>
          <l pos="N">inntekt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1264">sisaboahtu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="1264">sisaboahtu</t>
          </tg>
       </mg>
@@ -62410,52 +62270,49 @@
          </tg>
       </mg>
    </e>
-   <e freq="$46609" mg_c="4">
+   <e freq="$46609">
       <lg>
          <l pos="N">styrke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>m</re>
             <t pos="N" src="nj" usage="vd" freq="5259">fápmu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>fysisk eller mental utholdenhet</re>
             <t pos="N" src="nj" usage="vd" freq="429">vuoibmi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>organisert gruppe av mennesker</re>
             <t pos="N" src="nj" usage="vd" freq="202">veahka</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>det å være sterk</re>
             <t pos="N" freq="142">givrodat</t>
          </tg>
       </mg>
    </e>
-   <e freq="$46594" mg_c="4">
+   <e freq="$46594">
       <lg>
          <l pos="N">mangel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="439">váilevašvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="194">vátni</t>
+            <t pos="N" src="nj" usage="vd" freq="144">váili</t>
+            <t pos="N" src="nj" usage="vd" freq="13">vádjit</t>
             <xg>
                <x>Der er det er lite mat.</x>
                <xt>Doppe lea vátni borramuš.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd" freq="144">váili</t>
             <xg>
                <x>I krigsårene var det matmangel.</x>
                <xt>Soahtejagiid lei borramušváili.</xt>
@@ -62470,11 +62327,6 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd" freq="13">vádjit</t>
-         </tg>
-      </mg>
    </e>
    <e freq="$46193">
       <lg>
@@ -62486,72 +62338,48 @@
          </tg>
       </mg>
    </e>
-   <e freq="$44869" mg_c="2">
+   <e freq="$44869">
       <lg>
          <l pos="N">sitat</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="29">sitáhtta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="1">sátneviđásteapmi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$44422" mg_c="2">
+   <e freq="$44422">
       <lg>
          <l pos="N">religion</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="1895">osku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="136">religiovdna</t>
          </tg>
       </mg>
    </e>
-   <e freq="$44008" mg_c="4">
+   <e freq="$44008">
       <lg>
          <l pos="N">prøve</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="959">geahččaleapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="907">hárjehallan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="536">iskkus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="528">iskan</t>
          </tg>
       </mg>
    </e>
-   <e freq="$44007" mg_c="2">
+   <e freq="$44007">
       <lg>
          <l pos="N">standard</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="465">standárda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">dábálaš</t>
          </tg>
       </mg>
@@ -62566,22 +62394,14 @@
          </tg>
       </mg>
    </e>
-   <e freq="$43044" mg_c="3">
+   <e freq="$43044">
       <lg>
          <l pos="N">konflikt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="386">vuostálasvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="62">konflikta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="47">soahpatmeahttunvuohta</t>
          </tg>
       </mg>
@@ -62636,17 +62456,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$38990" mg_c="2">
+   <e freq="$38990">
       <lg>
          <l pos="N">vold</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="527">veahkaváldi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="399">veahkaválddálašvuohta</t>
          </tg>
       </mg>
@@ -62692,39 +62508,32 @@
          </tg>
       </mg>
    </e>
-   <e freq="$37749" mg_c="2">
+   <e freq="$37749">
       <lg>
          <l pos="N">konklusjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="695">konklušuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="47">jurddaboađus</t>
          </tg>
       </mg>
    </e>
-   <e freq="$37687" mg_c="2">
+   <e freq="$37687">
       <lg>
          <l pos="N">suksess</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="84">menestus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="4">lihkostupmi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$37635" mg_c="2">
+   <e freq="$37635">
       <lg>
          <l pos="N">anlegg</l>
+            <t pos="N" freq="161">ráhkadus</t>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -62741,17 +62550,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$37257" mg_c="2">
+   <e freq="$37257"
       <lg>
          <l pos="N">budsjett</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="7464">bušeahtta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="64">budjeahtta</t>
          </tg>
       </mg>
@@ -62766,17 +62571,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$37088" mg_c="2">
+   <e freq="$37088">
       <lg>
          <l pos="N">posisjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="10882">sadji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="688">posišuvdna</t>
          </tg>
       </mg>
@@ -62831,17 +62632,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$36296" mg_c="2">
+   <e freq="$36296">
       <lg>
          <l pos="N">skyld</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="89">sudja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="23">sivalašvuohta</t>
          </tg>
       </mg>
@@ -62856,52 +62653,36 @@
          </tg>
       </mg>
    </e>
-   <e freq="$36172" mg_c="3">
+   <e freq="$36172">
       <lg>
          <l pos="N">evne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="2680">nákca</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="42">cuogga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="36">veadju</t>
          </tg>
       </mg>
    </e>
-   <e freq="$35743" mg_c="2">
+   <e freq="$35743">
       <lg>
          <l pos="N">reaksjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="239">reakšuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">dávisteapmi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$35731" mg_c="2">
+   <e freq="$35731">
       <lg>
          <l pos="N">kvartal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="54">kvartála</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="20">njealjádasjahki</t>
          </tg>
       </mg>
@@ -62916,17 +62697,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$35484" mg_c="2">
+   <e freq="$35484">
       <lg>
          <l pos="N">respekt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="28">respeakta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="20">áktejupmi</t>
          </tg>
       </mg>
@@ -62941,32 +62718,24 @@
          </tg>
       </mg>
    </e>
-   <e freq="$35147" mg_c="2">
+   <e freq="$35147">
       <lg>
          <l pos="N">smak</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="89">smáhkka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="48">máistu</t>
          </tg>
       </mg>
    </e>
-   <e freq="$35062" mg_c="2">
+   <e freq="$35062">
       <lg>
          <l pos="N">pause</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="828">boddu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="23">boatka</t>
          </tg>
       </mg>
@@ -63058,22 +62827,14 @@
          </tg>
       </mg>
    </e>
-   <e freq="$34152" mg_c="3">
+   <e freq="$34152">
       <lg>
          <l pos="N">sikkerhet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="841">sihkarvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="191">dorvu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">dárkka</t>
          </tg>
       </mg>
@@ -63139,32 +62900,24 @@
          </tg>
       </mg>
    </e>
-   <e freq="$30198" mg_c="2">
+   <e freq="$30198">
       <lg>
          <l pos="N">overgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1">badjelmanahat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">rasttideapmi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$30065" mg_c="2">
+   <e freq="$30065">
       <lg>
          <l pos="N">dialog</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1937">ságastallan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="363">dialoga</t>
          </tg>
       </mg>
@@ -63180,17 +62933,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$29583" mg_c="2">
+   <e freq="$29583">
       <lg>
          <l pos="N">signal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="2293">mearka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="738">signála</t>
          </tg>
       </mg>
@@ -63236,37 +62985,31 @@
          </tg>
       </mg>
    </e>
-   <e freq="$28227" mg_c="3">
+   <e freq="$28227">
       <lg>
          <l pos="N">spiss</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>i fotball</re>
             <t pos="N" type="NomAg" usage="vd" freq="63">njunuščiekči</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>skarp ende på noe</re>
             <t pos="N" freq="11">nibba</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1">cuipi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$28095" mg_c="2">
+   <e freq="$28095">
       <lg>
          <l pos="N">kommunikasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="127">kommunikašuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">gulahallan</t>
          </tg>
       </mg>
@@ -63322,22 +63065,18 @@
          </tg>
       </mg>
    </e>
-   <e freq="$27416" mg_c="2">
+   <e freq="$27416">
       <lg>
          <l pos="N">batteri</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="33">báhtter</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="28">batteriija</t>
          </tg>
       </mg>
    </e>
-   <e freq="$26899" mg_c="2">
+   <e freq="$26899">
       <lg>
          <l pos="N">symptom</l>
       </lg>
@@ -63363,18 +63102,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$26851" mg_c="2">
+   <e freq="$26851">
       <lg>
          <l pos="N">valp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="163">vielppis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="163">vielppis</t>
          </tg>
       </mg>
    </e>
@@ -63398,52 +63132,35 @@
          </tg>
       </mg>
    </e>
-   <e freq="$26287" mg_c="3">
+   <e freq="$26287">
       <lg>
          <l pos="N">billett</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="647">bileahtta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="647">bileahtta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="2">mátkelihppu</t>
          </tg>
       </mg>
    </e>
-   <e freq="$26208" mg_c="2">
+   <e freq="$26208">
       <lg>
          <l pos="N">veiledning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="504">bagadallan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="10">oaivádus</t>
          </tg>
       </mg>
    </e>
-   <e freq="$25987" mg_c="2">
+   <e freq="$25987">
       <lg>
          <l pos="N">reklame</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="111">máinnus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="79">rekláma</t>
          </tg>
       </mg>
@@ -63478,57 +63195,37 @@
          </tg>
       </mg>
    </e>
-   <e freq="$25491" mg_c="2">
+   <e freq="$25491">
       <lg>
          <l pos="N">analyse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1952">guorahallan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="29">lađastallan</t>
          </tg>
       </mg>
    </e>
-   <e freq="$25460" mg_c="3">
+   <e freq="$25460">
       <lg>
          <l pos="N">verktøy</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="853">reaidu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="307">neavvu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="205">bargoneavvu</t>
          </tg>
       </mg>
    </e>
-   <e freq="$24993" mg_c="3">
+   <e freq="$24993">
       <lg>
          <l pos="N">anbefaling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="935">ávžžuhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="2">neava</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">rávven</t>
          </tg>
       </mg>
@@ -63543,7 +63240,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$24871" mg_c="2">
+   <e freq="$24871">
       <lg>
          <l pos="N">individ</l>
       </lg>
@@ -63558,17 +63255,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$24800" mg_c="2">
+   <e freq="$24800">
       <lg>
          <l pos="N">tendens</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="152">tendeansa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="105">sodju</t>
          </tg>
       </mg>
@@ -63593,7 +63286,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$24466" mg_c="2">
+   <e freq="$24466">
       <lg>
          <l pos="N">foredrag</l>
       </lg>
@@ -63609,27 +63302,19 @@
          </tg>
       </mg>
    </e>
-   <e freq="$24417" mg_c="3">
+   <e freq="$24417">
       <lg>
          <l pos="N">initiativ</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1859">álgga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="170">initiatiiva</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">vuolggaheapmi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$24246" mg_c="3">
+   <e freq="$24246">
       <lg>
          <l pos="N">verk</l>
       </lg>
@@ -63677,17 +63362,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$23899" mg_c="2">
+   <e freq="$23899">
       <lg>
          <l pos="N">samling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="502">čoakkáldat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="20">čohkkehus</t>
          </tg>
       </mg>
@@ -63702,17 +63383,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$23598" mg_c="2">
+   <e freq="$23598">
       <lg>
          <l pos="N">dokumentasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="1976">duođaštus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="171">dokumentašuvdna</t>
          </tg>
       </mg>
@@ -63727,17 +63404,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$23459" mg_c="2">
+   <e freq="$23459">
       <lg>
          <l pos="N">figur</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="702">govus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="286">figuvra</t>
          </tg>
       </mg>
@@ -63753,7 +63426,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$22806" mg_c="2">
+   <e freq="$22806">
       <lg>
          <l pos="N">gass</l>
       </lg>
@@ -63770,23 +63443,14 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="525">gássa</t>
-         </tg>
-      </mg>
    </e>
-   <e freq="$22687" mg_c="2">
+   <e freq="$22687">
       <lg>
          <l pos="N">radio</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1630">rádio</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="1630">rádio</t>
          </tg>
       </mg>
@@ -63833,17 +63497,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$21927" mg_c="2">
+   <e freq="$21927">
       <lg>
          <l pos="N">presentasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="723">ovdanbuktin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="16">presentašuvdna</t>
          </tg>
       </mg>
@@ -63858,7 +63518,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$21767" mg_c="2">
+   <e freq="$21767">
       <lg>
          <l pos="N">rad</l>
       </lg>
@@ -63868,28 +63528,15 @@
             <t pos="N" freq="6">gurgadus</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="6">gurgadus</t>
-         </tg>
-      </mg>
    </e>
-   <e freq="$21736" mg_c="3">
+   <e freq="$21736">
       <lg>
          <l pos="N">motiv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="4532">fáddá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="158">motiiva</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="42">cuohkki</t>
          </tg>
       </mg>
@@ -63935,17 +63582,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$21483" mg_c="2">
+   <e freq="$21483">
       <lg>
          <l pos="N">kapasitet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="423">kapasitehta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="49">kapasiteahtta</t>
          </tg>
       </mg>
@@ -63960,17 +63603,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$21363" mg_c="2">
+   <e freq="$21363">
       <lg>
          <l pos="N">trend</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="32">trenda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="27">treanda</t>
          </tg>
       </mg>
@@ -63985,47 +63624,34 @@
          </tg>
       </mg>
    </e>
-   <e freq="$21265" mg_c="2">
+   <e freq="$21265">
       <lg>
          <l pos="N">format</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1203">sturrodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="29">formáhtta</t>
          </tg>
       </mg>
    </e>
-   <e freq="$21226" mg_c="2">
+   <e freq="$21226">
       <lg>
          <l pos="N">vert</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd" freq="325">verdde</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1">doalloisit</t>
          </tg>
       </mg>
    </e>
-   <e freq="$21100" mg_c="2">
+   <e freq="$21100">
       <lg>
          <l pos="N">overgrep</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="527">veahkaváldi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="399">veahkaválddálašvuohta</t>
          </tg>
       </mg>
@@ -64053,14 +63679,7 @@
    <e freq="$20733" mg_c="2">
       <lg>
          <l pos="N">trinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="469">ceahkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="469">ceahkki</t>
          </tg>
       </mg>
@@ -64086,22 +63705,14 @@
          </tg>
       </mg>
    </e>
-   <e freq="$20145" mg_c="3">
+   <e freq="$20145">
       <lg>
          <l pos="N">nasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="368">našuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="368">našuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="135">olmmoščearda</t>
          </tg>
       </mg>
@@ -64127,17 +63738,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$19565" mg_c="2">
+   <e freq="$19565">
       <lg>
          <l pos="N">kilometer</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1077">kilomehter</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="1077">kilomehter</t>
             <t pos="N" freq="19">gilomehter</t>
          </tg>
@@ -64163,17 +63770,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$19419" mg_c="2">
+   <e freq="$19419">
       <lg>
          <l pos="N">mangfold</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="397">girjáivuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="97">valljivuohta</t>
          </tg>
       </mg>
@@ -64188,7 +63791,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$19223" mg_c="2">
+   <e freq="$19223">
       <lg>
          <l pos="N">opphold</l>
       </lg>
@@ -64202,47 +63805,35 @@
          <tg xml:lang="sme"/>
       </mg>
    </e>
-   <e freq="$19207" mg_c="2">
+   <e freq="$19207">
       <lg>
          <l pos="N">statsbudsjett</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1932">stáhtabušeahtta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="269">stádabušeahtta</t>
          </tg>
       </mg>
    </e>
-   <e freq="$19190" mg_c="2">
+   <e freq="$19190">
       <lg>
          <l pos="N">kopi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="385">kopiija</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="188">máŋggus</t>
          </tg>
       </mg>
    </e>
-   <e freq="$19084" mg_c="2">
+   <e freq="$19084">
       <lg>
          <l pos="N">oppløsning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="21">luvvi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">čuokkisčoahkku</t>
          </tg>
       </mg>
@@ -64270,17 +63861,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$18936" mg_c="2">
+   <e freq="$18936">
       <lg>
          <l pos="N">operasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="58">operašuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="7">čuohpaheapmi</t>
          </tg>
       </mg>
@@ -64405,17 +63992,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$17943" mg_c="2">
+   <e freq="$17943">
       <lg>
          <l pos="N">støy</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="33">šlápma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="2">gadja</t>
          </tg>
       </mg>
@@ -64451,17 +64034,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$17767" mg_c="2">
+   <e freq="$17767">
       <lg>
          <l pos="N">forbud</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1613">gieldda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="668">gielddus</t>
          </tg>
       </mg>
@@ -64477,7 +64056,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$17382" mg_c="3">
+   <e freq="$17382">
       <lg>
          <l pos="N">areal</l>
       </lg>
@@ -64544,62 +64123,38 @@
          </tg>
       </mg>
    </e>
-   <e freq="$17031" mg_c="4">
+   <e freq="$17031">
       <lg>
          <l pos="N">hals</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="192">čeabet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="140">čotta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="21">čeabát</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">čeabetgođa</t>
          </tg>
       </mg>
    </e>
-   <e freq="$16918" mg_c="3">
+   <e freq="$16918">
       <lg>
          <l pos="N">relasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1261">gaskavuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="134">gorri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="34">relašuvdna</t>
          </tg>
       </mg>
    </e>
-   <e freq="$16906" mg_c="2">
+   <e freq="$16906">
       <lg>
          <l pos="N">sal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="182">sálla</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="69">sále</t>
          </tg>
       </mg>
@@ -64625,22 +64180,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$16848" mg_c="3">
+   <e freq="$16848">
       <lg>
          <l pos="N">ring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="202">riekkis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="202">riekkis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="59">gierdu</t>
          </tg>
       </mg>
@@ -64675,22 +64221,14 @@
          </tg>
       </mg>
    </e>
-   <e freq="$15849" mg_c="3">
+   <e freq="$15849">
       <lg>
          <l pos="N">tegning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="371">tevnnet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="118">sárggus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="11">tennjet</t>
          </tg>
       </mg>
@@ -64725,17 +64263,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$15628" mg_c="2">
+   <e freq="$15628">
       <lg>
          <l pos="N">måling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="152">mihtádus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">mihtideapmi</t>
          </tg>
       </mg>
@@ -64772,17 +64306,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$15109" mg_c="2">
+   <e freq="$15109">
       <lg>
          <l pos="N">pensjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="313">penšuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="284">ealáhat</t>
          </tg>
       </mg>
@@ -64797,32 +64327,24 @@
          </tg>
       </mg>
    </e>
-   <e freq="$15022" mg_c="2">
+   <e freq="$15022">
       <lg>
          <l pos="N">beskyttelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="2307">suodjalus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="139">suddjen</t>
          </tg>
       </mg>
    </e>
-   <e freq="$14987" mg_c="2">
+   <e freq="$14987">
       <lg>
          <l pos="N">forbedring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="44">buorádus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">buorideapmi</t>
          </tg>
       </mg>
@@ -64858,7 +64380,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$14453" mg_c="2">
+   <e freq="$14453">
       <lg>
          <l pos="N">tilhenger</l>
       </lg>
@@ -64866,11 +64388,6 @@
          <tg xml:lang="sme">
             <t pos="N" freq="38">gálvojorri</t>
             <t pos="N" freq="25">goallosvovdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>for transport</re>
             <t pos="N" usage="vd" freq="25">goallosvovdna</t>
          </tg>
       </mg>
@@ -64945,18 +64462,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$13349" mg_c="2">
+   <e freq="$13349">
       <lg>
          <l pos="N">fange</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="560">fáŋga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="560">fáŋga</t>
          </tg>
       </mg>
    </e>
@@ -64970,22 +64482,14 @@
          </tg>
       </mg>
    </e>
-   <e freq="$13104" mg_c="4">
+   <e freq="$13104">
       <lg>
          <l pos="N">underskudd</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="431">vuolláibáza</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="146">vuollebáza</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="144">váili</t>
             <xg>
                <x>I krigsårene var det matmangel.</x>
@@ -65037,63 +64541,46 @@
          </tg>
       </mg>
    </e>
-   <e freq="$12663" mg_c="2">
+   <e freq="$12663">
       <lg>
          <l pos="N">landsmøte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1202">riikkačoahkkin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="1202">riikkačoahkkin</t>
          </tg>
       </mg>
    </e>
-   <e freq="$12407" mg_c="2">
+   <e freq="$12407">
       <lg>
          <l pos="N">underholdning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="3">áiggeájanas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">guoimmuheapmi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$12372" mg_c="2">
+   <e freq="$12372">
       <lg>
          <l pos="N">omsetning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="109">gálvojohtu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="24">gávpejorru</t>
          </tg>
       </mg>
    </e>
-   <e freq="$12312" mg_c="2">
+   <e freq="$12312">
       <lg>
          <l pos="N">herre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="1135">hearrá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="1135">hearrá</t>
          </tg>
       </mg>
    </e>
@@ -65117,48 +64604,35 @@
          </tg>
       </mg>
    </e>
-   <e freq="$11905" mg_c="2">
+   <e freq="$11905">
       <lg>
          <l pos="N">observasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="13">dárkun</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">áican</t>
          </tg>
       </mg>
    </e>
-   <e freq="$11828" mg_c="2">
+   <e freq="$11828">
       <lg>
          <l pos="N">sammenligning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="226">veardádus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">buohtastahttin</t>
          </tg>
       </mg>
    </e>
-   <e freq="$11802" mg_c="2">
+   <e freq="$11802">
       <lg>
          <l pos="N">kreft</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="366">borasdávda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="366">borasdávda</t>
          </tg>
       </mg>
    </e>
@@ -65202,37 +64676,25 @@
          </tg>
       </mg>
    </e>
-   <e freq="$11362" mg_c="3">
+   <e freq="$11362">
       <lg>
          <l pos="N">hjelpemiddel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="853">reaidu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="673">veahkkeneavvu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="10">veahkkegaskaoapmi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$11340" mg_c="2">
+   <e freq="$11340">
       <lg>
          <l pos="N">etablering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="0">ásaheapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">álggaheapmi</t>
          </tg>
       </mg>
@@ -65309,7 +64771,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$10854" mg_c="2">
+   <e freq="$10854">
       <lg>
          <l pos="N">bevissthet</l>
       </lg>
@@ -65317,10 +64779,6 @@
          <tg xml:lang="sme">
             <t pos="N" freq="204">dihtomielalašvuohta</t>
             <t pos="N" freq="135">diđolašvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="62">dihtomiella</t>
          </tg>
       </mg>
@@ -65446,7 +64904,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$10193" mg_c="2">
+   <e freq="$10193">
       <lg>
          <l pos="N">løper</l>
       </lg>
@@ -65455,20 +64913,14 @@
             <t pos="N" type="NomAg" usage="vd" freq="55">viehkki</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="55">viehkki</t>
-         </tg>
-      </mg>
    </e>
-   <e freq="$10138" mg_c="2">
+   <e freq="$10138">
       <lg>
          <l pos="N">avgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="414">vuolgga</t>
-            <t pos="N" freq="0">heaitin</t>
          </tg>
       </mg>
       <mg>
@@ -65477,17 +64929,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$10135" mg_c="2">
+   <e freq="$10135">
       <lg>
          <l pos="N">hjemland</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="104">ruovtturiika</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="41">ruovttueana</t>
          </tg>
       </mg>
@@ -65603,17 +65051,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$9250" mg_c="2">
+   <e freq="$9250">
       <lg>
          <l pos="N">orientering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="2520">diehtojuohkin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="9">meahccedádjadeapmi</t>
          </tg>
       </mg>
@@ -65681,37 +65125,29 @@
          </tg>
       </mg>
    </e>
-   <e freq="$8871" mg_c="2">
+   <e freq="$8871">
       <lg>
          <l pos="N">bestilling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="75">diŋgojupmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">diŋgon</t>
          </tg>
       </mg>
    </e>
-   <e freq="$8822" mg_c="2">
+   <e freq="$8822">
       <lg>
          <l pos="N">avvik</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="567">spiehkastat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">gáidu</t>
          </tg>
       </mg>
    </e>
-   <e freq="$8814" mg_c="2">
+   <e freq="$8814">
       <lg>
          <l pos="N">ordre</l>
       </lg>
@@ -65727,17 +65163,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$8767" mg_c="3">
+   <e freq="$8767">
       <lg>
          <l pos="N">påvirkning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="5255">váikkuhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="329">váikkuheapmi</t>
          </tg>
       </mg>
@@ -65797,7 +65229,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$8308" mg_c="3">
+   <e freq="$8308">
       <lg>
          <l pos="N">søsken</l>
       </lg>
@@ -65817,11 +65249,6 @@
                <x>De to er søsken.</x>
                <xt>Soai leaba oappážagat.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" nr="Pl" freq="7">oarbinat</t>
          </tg>
       </mg>
    </e>
@@ -65845,18 +65272,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$8210" mg_c="2">
+   <e freq="$8210">
       <lg>
          <l pos="N">bystyre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="49">gávpotstivra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="49">gávpotstivra</t>
          </tg>
       </mg>
    </e>
@@ -65880,18 +65302,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$8077" mg_c="2">
+   <e freq="$8077">
       <lg>
          <l pos="N">stipend</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="2236">stipeanda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="2236">stipeanda</t>
          </tg>
       </mg>
    </e>
@@ -65926,17 +65343,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$7949" mg_c="2">
+   <e freq="$7949">
       <lg>
          <l pos="N">opprinnelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="414">vuolgga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="6">álgovuolgga</t>
          </tg>
       </mg>
@@ -65951,7 +65364,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$7937" mg_c="2">
+   <e freq="$7937">
       <lg>
          <l pos="N">jernbane</l>
       </lg>
@@ -65960,10 +65373,6 @@
             <t pos="N" freq="177">ruovdemáđii</t>
             <t pos="N" freq="8">ruovdegeaidnu</t>
             <t pos="N" freq="2">ruovdeluodda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="13">ruovderaŧŧi</t>
          </tg>
       </mg>
@@ -66079,17 +65488,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$7392" mg_c="2">
+   <e freq="$7392">
       <lg>
          <l pos="N">konsulent</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd" freq="602">bagadalli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="409">konsuleanta</t>
          </tg>
       </mg>
@@ -66100,21 +65505,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>befaling</re>
             <t pos="N" freq="148">geasku</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="10">láibesuvli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="2">bajuš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="1">láibebajoš</t>
          </tg>
       </mg>
@@ -66210,17 +65608,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$6784" mg_c="2">
+   <e freq="$6784">
       <lg>
          <l pos="N">doktorgrad</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="259">doavttergráda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="259">doavttergráda</t>
             <t pos="N" freq="0">doavttirgráda</t>
          </tg>
@@ -66246,17 +65640,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$6681" mg_c="2">
+   <e freq="$6681">
       <lg>
          <l pos="N">oppfordring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="935">ávžžuhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">ávžžuheapmi</t>
          </tg>
       </mg>
@@ -66311,17 +65701,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$6400" mg_c="2">
+   <e freq="$6400">
       <lg>
          <l pos="N">fullmakt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="2928">váldi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="12">doaimmahanváldi</t>
          </tg>
       </mg>
@@ -66346,17 +65732,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$6205" mg_c="2">
+   <e freq="$6205">
       <lg>
          <l pos="N">flytting</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1791">sirdin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="472">johtin</t>
          </tg>
       </mg>
@@ -66411,17 +65793,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$6061" mg_c="2">
+   <e freq="$6061">
       <lg>
          <l pos="N">biografi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="99">biografiija</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="99">biografiija</t>
          </tg>
       </mg>
@@ -66506,17 +65884,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$5794" mg_c="2">
+   <e freq="$5794">
       <lg>
          <l pos="N">stortingsvalg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="272">stuorradiggeválga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="272">stuorradiggeválga</t>
          </tg>
       </mg>
@@ -66541,17 +65915,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$5756" mg_c="2">
+   <e freq="$5756">
       <lg>
          <l pos="N">lederskap</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="227">jođihangoddi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">jođiheapmi</t>
          </tg>
       </mg>
@@ -66586,7 +65956,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$5509" mg_c="2">
+   <e freq="$5509">
       <lg>
          <l pos="N">hjelm</l>
       </lg>
@@ -66594,10 +65964,6 @@
          <tg xml:lang="sme">
             <t pos="N" freq="51">suodjegahpir</t>
             <t pos="N" freq="26">jealbma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="29">oaivesuodji</t>
          </tg>
       </mg>
@@ -66632,21 +65998,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$5445" mg_c="2">
+   <e freq="$5445">
       <lg>
          <l pos="N">spørsmålstegn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="66">gažaldatmearka</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="5">jearaldatmearka</t>
          </tg>
       </mg>
@@ -66716,17 +66074,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$5273" mg_c="2">
+   <e freq="$5273">
       <lg>
          <l pos="N">læremiddel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="6721">oahpponeavvu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="91">oahppaneavvu</t>
          </tg>
       </mg>
@@ -66742,17 +66096,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$5203" mg_c="2">
+   <e freq="$5203">
       <lg>
          <l pos="N">spøk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="253">leaika</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="30">spivka</t>
             <xg>
                <x/>
@@ -66771,17 +66121,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$5189" mg_c="2">
+   <e freq="$5189">
       <lg>
          <l pos="N">utenrikspolitikk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="92">olgoriikkapolitihkka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="92">olgoriikkapolitihkka</t>
          </tg>
       </mg>
@@ -66836,7 +66182,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$5096" mg_c="2">
+   <e freq="$5096">
       <lg>
          <l pos="N">kjennetegn</l>
       </lg>
@@ -66849,23 +66195,14 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="707">dovdomearka</t>
-         </tg>
-      </mg>
    </e>
-   <e freq="$5094" mg_c="2">
+   <e freq="$5094">
       <lg>
          <l pos="N">innspilling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="0">filbmen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">bádden</t>
          </tg>
       </mg>
@@ -66930,17 +66267,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$4812" mg_c="2">
+   <e freq="$4812">
       <lg>
          <l pos="N">stråling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1">suotnjarastin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">suonjardahttin</t>
          </tg>
       </mg>
@@ -66985,17 +66318,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$4735" mg_c="2">
+   <e freq="$4735">
       <lg>
          <l pos="N">bryter</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="8">botkkon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">el-botkkon</t>
          </tg>
       </mg>
@@ -67133,7 +66462,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$4433" mg_c="2">
+   <e freq="$4433">
       <lg>
          <l pos="N">forsterkning</l>
       </lg>
@@ -67141,10 +66470,6 @@
          <tg xml:lang="sme">
             <t pos="N" freq="31">nannejupmi</t>
             <t pos="N" freq="0">nanosmahttin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">gievrudus</t>
          </tg>
       </mg>
@@ -67189,17 +66514,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$4346" mg_c="2">
+   <e freq="$4346">
       <lg>
          <l pos="N">sosiologi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="33">sosiologiija</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="33">sosiologiija</t>
          </tg>
       </mg>
@@ -67255,17 +66576,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$4270" mg_c="2">
+   <e freq="$4270">
       <lg>
          <l pos="N">samarbeidsprosjekt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="324">ovttasbargoprošeakta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="324">ovttasbargoprošeakta</t>
          </tg>
       </mg>
@@ -67396,22 +66713,14 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3996" mg_c="3">
+   <e freq="$3996">
       <lg>
          <l pos="N">husstand</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="17584">joavku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="491">dállodoallu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="72">bearatgoddi</t>
          </tg>
       </mg>
@@ -67466,22 +66775,14 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3851" mg_c="3">
+   <e freq="$3851">
       <lg>
          <l pos="N">mirakel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="1157">imaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="130">oavdudahku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="9">oavdu</t>
             <xg>
                <x>Ikke rart at Elle dro.</x>
@@ -67612,22 +66913,14 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3612" mg_c="3">
+   <e freq="$3612">
       <lg>
          <l pos="N">liter</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="169">lihtter</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="88">lihter</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="87">lihtar</t>
          </tg>
       </mg>
@@ -67652,17 +66945,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3537" mg_c="2">
+   <e freq="$3537">
       <lg>
          <l pos="N">bruksområde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="169">geavahanguovlu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="169">geavahanguovlu</t>
          </tg>
       </mg>
@@ -67687,17 +66976,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3476" mg_c="2">
+   <e freq="$3476">
       <lg>
          <l pos="N">urt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="369">rássi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="85">urttas</t>
          </tg>
       </mg>
@@ -67732,17 +67017,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3430" mg_c="2">
+   <e freq="$3430">
       <lg>
          <l pos="N">kolonne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="1054">ráidu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">ceakkočuolda</t>
          </tg>
       </mg>
@@ -67787,17 +67068,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3373" mg_c="2">
+   <e freq="$3373">
       <lg>
          <l pos="N">vitnemål</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="2">oahppaduođaštus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">vihtanuššan</t>
          </tg>
       </mg>
@@ -67822,17 +67099,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3315" mg_c="2">
+   <e freq="$3315">
       <lg>
          <l pos="N">straffelov</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="155">ráŋggáštusláhka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="155">ráŋggáštusláhka</t>
          </tg>
       </mg>
@@ -67847,18 +67120,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3273" mg_c="2">
+   <e freq="$3273">
       <lg>
          <l pos="N">mastergrad</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="75">mastergráda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="75">mastergráda</t>
          </tg>
       </mg>
    </e>
@@ -67902,17 +67170,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3173" mg_c="2">
+   <e freq="$3173">
       <lg>
          <l pos="N">støvel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="25">stevvel</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="1">sáppat</t>
          </tg>
       </mg>
@@ -67977,17 +67241,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$3070" mg_c="2">
+   <e freq="$3070">
       <lg>
          <l pos="N">økosystem</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="155">ekovuogádat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="155">ekovuogádat</t>
          </tg>
       </mg>
@@ -68043,17 +67303,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2984" mg_c="2">
+   <e freq="$2984">
       <lg>
          <l pos="N">honning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="234">miehta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="61">honnet</t>
          </tg>
       </mg>
@@ -68092,32 +67348,24 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2843" mg_c="2">
+   <e freq="$2843">
       <lg>
          <l pos="N">pute</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="73">guoddá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">boalsttar</t>
          </tg>
       </mg>
    </e>
-   <e freq="$2805" mg_c="2">
+   <e freq="$2805">
       <lg>
          <l pos="N">badekar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="5">lávgungárri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="5">lávgungárri</t>
             <t pos="N" freq="5">lávggodangárri</t>
          </tg>
@@ -68143,17 +67391,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2727" mg_c="2">
+   <e freq="$2727">
       <lg>
          <l pos="N">tilslutning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="24">guorraseapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">goallostus</t>
          </tg>
       </mg>
@@ -68188,32 +67432,24 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2618" mg_c="2">
+   <e freq="$2618">
       <lg>
          <l pos="N">årstall</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="90">vuođđolohku</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="19">jahkelohku</t>
          </tg>
       </mg>
    </e>
-   <e freq="$2604" mg_c="2">
+   <e freq="$2604">
       <lg>
          <l pos="N">riksvei</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="209">riikkageaidnu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="209">riikkageaidnu</t>
          </tg>
       </mg>
@@ -68309,17 +67545,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2448" mg_c="2">
+   <e freq="$2448">
       <lg>
          <l pos="N">timeplan</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="103">diibmoplána</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="103">diibmoplána</t>
          </tg>
       </mg>
@@ -68374,17 +67606,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2382" mg_c="2">
+   <e freq="$2382">
       <lg>
          <l pos="N">marg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="85">ađa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="4">siidoravda</t>
          </tg>
       </mg>
@@ -68399,22 +67627,14 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2371" mg_c="3">
+   <e freq="$2371">
       <lg>
          <l pos="N">bobil</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="10">orrunbiila</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="8">ássanbiila</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="6">viessobiila</t>
          </tg>
       </mg>
@@ -68569,22 +67789,18 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2138" mg_c="2">
+   <e freq="$2138">
       <lg>
          <l pos="N">trekant</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="9">golmmačiegat</t>
+            <t pos="N" freq="2">golbmačiehka</t>
             <xg>
                <x>De skulle tegne sirkler og trekanter.</x>
                <xt>Sii galge sárgut rieggáid ja golmmačiegagiid.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="2">golbmačiehka</t>
          </tg>
       </mg>
    </e>
@@ -68668,17 +67884,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2018" mg_c="2">
+   <e freq="$2018">
       <lg>
          <l pos="N">sosialkontor</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="72">sosiálakantuvra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="72">sosiálakantuvra</t>
          </tg>
       </mg>
@@ -68703,7 +67915,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$2007" mg_c="2">
+   <e freq="$2007">
       <lg>
          <l pos="N">rundkjøring</l>
       </lg>
@@ -68711,25 +67923,17 @@
          <tg xml:lang="sme">
             <t pos="N" freq="15">birravuodjin</t>
             <t pos="N" freq="2">johtolatriekkis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="2">johtolatriekkis</t>
          </tg>
       </mg>
    </e>
-   <e freq="$1973" mg_c="2">
+   <e freq="$1973">
       <lg>
          <l pos="N">bomull</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="0">bupmol</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">bumbol</t>
          </tg>
       </mg>
@@ -68764,17 +67968,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1942" mg_c="2">
+   <e freq="$1942">
       <lg>
          <l pos="N">kjetting</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="14">kihtet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" nr="Pl" usage="vd" freq="1">gehtegat</t>
          </tg>
       </mg>
@@ -68934,17 +68134,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1810" mg_c="2">
+   <e freq="$1810">
       <lg>
          <l pos="N">førstehjelp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="220">heahteveahkki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="18">álgoveahkki</t>
          </tg>
       </mg>
@@ -69145,11 +68341,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>mannlig</re>
             <t pos="N" freq="248">vilbealle</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>kvinnelig</re>
             <t pos="N" freq="99">oambealle</t>
          </tg>
       </mg>
@@ -69256,18 +68454,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1647" mg_c="2">
+   <e freq="$1647">
       <lg>
          <l pos="N">stefar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="26">áhččebealle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="26">áhččebealle</t>
          </tg>
       </mg>
    </e>
@@ -69331,17 +68524,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1604" mg_c="2">
+   <e freq="$1604">
       <lg>
          <l pos="N">karosseri</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="96">goavdi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">biilagoavdi</t>
             <t pos="N" freq="0">karosseriija</t>
          </tg>
@@ -69377,17 +68566,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1542" mg_c="2">
+   <e freq="$1542">
       <lg>
          <l pos="N">dobbeltrom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="17">duppallatnja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">guovtteolbmolatnja</t>
          </tg>
       </mg>
@@ -69442,22 +68627,18 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1504" mg_c="2">
+   <e freq="$1504">
       <lg>
          <l pos="N">firkant</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="19">njealječiegat</t>
+            <t pos="N" freq="8">njeallječiehka</t>
             <xg>
                <x>I matematikktimen tegner vi firkanter.</x>
                <xt>Matematihkkadiimmus mii sárgut njealječiegagiid.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="8">njeallječiehka</t>
          </tg>
       </mg>
    </e>
@@ -69531,17 +68712,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1442" mg_c="2">
+   <e freq="$1442">
       <lg>
          <l pos="N">sameie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="14">searveopmodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="9">ovttaseaiggáduššan</t>
          </tg>
       </mg>
@@ -69590,17 +68767,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1386" mg_c="2">
+   <e freq="$1386">
       <lg>
          <l pos="N">trafikksikkerhet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="155">johtolatsihkarvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="12">johtolatdorvvolašvuohta</t>
          </tg>
       </mg>
@@ -69756,17 +68929,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1298" mg_c="2">
+   <e freq="$1298">
       <lg>
          <l pos="N">røykvarsler</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="18">suovvanjurggon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="1">buollinbiškkon</t>
          </tg>
       </mg>
@@ -69791,47 +68960,27 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1295" mg_c="5">
+   <e freq="$1295">
       <lg>
          <l pos="N">idrettshall</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="G3" usage="vd" freq="164">valáštallanhálla</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="105">valáštallanvisti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="57">valáštallanviessu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" type="G3" usage="vd" freq="4">valástallanhálla</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="4">faláštallanhálla</t>
          </tg>
       </mg>
    </e>
-   <e freq="$1279" mg_c="2">
+   <e freq="$1279">
       <lg>
          <l pos="N">landbrukspolitikk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="204">eanadoallopolitihkka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="106">eanandoallopolitihkka</t>
          </tg>
       </mg>
@@ -69967,17 +69116,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1214" mg_c="2">
+   <e freq="$1214">
       <lg>
          <l pos="N">driftsutgift</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1087">doaibmagollu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="10">doaibmaolggosgollu</t>
          </tg>
       </mg>
@@ -70072,17 +69217,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1186" mg_c="2">
+   <e freq="$1186">
       <lg>
          <l pos="N">stikk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="4">čuggestat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">stihkka</t>
          </tg>
       </mg>
@@ -70157,17 +69298,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1153" mg_c="2">
+   <e freq="$1153">
       <lg>
          <l pos="N">verneutstyr</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" nr="Pl" freq="4">suodjalanávdnasat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="1">suddjenneavvu</t>
          </tg>
       </mg>
@@ -70182,17 +69319,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1141" mg_c="2">
+   <e freq="$1141">
       <lg>
          <l pos="N">grunnvann</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="17">vuođđočáhci</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">eanančáhci</t>
          </tg>
       </mg>
@@ -70347,32 +69480,16 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1095" mg_c="5">
+   <e freq="$1095">
       <lg>
          <l pos="N">handelsmann</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="314">boalvvir</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="293">gávpeolmmái</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="111">gávpejas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="54">gávppálaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">boalvár</t>
          </tg>
       </mg>
@@ -70438,17 +69555,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1063" mg_c="2">
+   <e freq="$1063">
       <lg>
          <l pos="N">slakting</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="640">njuovvan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="30">njuovadeapmi</t>
          </tg>
       </mg>
@@ -70467,17 +69580,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$1050" mg_c="2">
+   <e freq="$1050">
       <lg>
          <l pos="N">badeplass</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="2">vuojadansadji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="0">bádenbáiki</t>
          </tg>
       </mg>
@@ -70574,17 +69683,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$993" mg_c="2">
+   <e freq="$993">
       <lg>
          <l pos="N">distriktskontor</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="274">guovllukantuvra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="274">guovllukantuvra</t>
          </tg>
       </mg>
@@ -70629,17 +69734,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$967" mg_c="2">
+   <e freq="$967">
       <lg>
          <l pos="N">forurensningslov</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="43">nuoskkidanláhka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="43">nuoskkidanláhka</t>
          </tg>
       </mg>
@@ -70654,17 +69755,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$962" mg_c="2">
+   <e freq="$962">
       <lg>
          <l pos="N">fiskeplass</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="117">bivdosadji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="12">guolástansadji</t>
          </tg>
       </mg>
@@ -70903,7 +70000,7 @@
          </tg>
       </mg>
    </e>
-   <e freq="$909" mg_c="2">
+   <e freq="$909">
       <lg>
          <l pos="N">kommunelege</l>
       </lg>
@@ -70911,10 +70008,6 @@
          <tg xml:lang="sme">
             <t pos="N" freq="117">suohkandoavttir</t>
             <t pos="N" freq="97">gielddadoavttir</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="97">gielddadoavttir</t>
          </tg>
       </mg>
@@ -70999,32 +70092,24 @@
          </tg>
       </mg>
    </e>
-   <e freq="$880" mg_c="2">
+   <e freq="$880">
       <lg>
          <l pos="N">fosterbarn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="32">biebmománná</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="32">biebmománná</t>
          </tg>
       </mg>
    </e>
-   <e freq="$877" mg_c="2">
+   <e freq="$877">
       <lg>
          <l pos="N">klippfisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="81">goikeguolli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="7">ráktoguolli</t>
          </tg>
       </mg>
@@ -71332,17 +70417,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$793" mg_c="2">
+   <e freq="$793">
       <lg>
          <l pos="N">underbukse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" nr="Pl" usage="vd" freq="37">sisbuvssat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" nr="Pl" usage="vd" freq="2">vuolildusbuvssat</t>
          </tg>
       </mg>
@@ -71457,17 +70538,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$772" mg_c="2">
+   <e freq="$772">
       <lg>
          <l pos="N">mørketid</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="406">skábma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="16">sevdnjesáigi</t>
          </tg>
       </mg>
@@ -71583,17 +70660,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$735" mg_c="2">
+   <e freq="$735">
       <lg>
          <l pos="N">åpningstale</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="93">rahpansárdni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="5">álggahansárdni</t>
          </tg>
       </mg>
@@ -71745,17 +70818,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$702" mg_c="2">
+   <e freq="$702">
       <lg>
          <l pos="N">bremsekloss</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="1">goahcanbircu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">goazanlohti</t>
          </tg>
       </mg>
@@ -71975,23 +71044,19 @@
          </tg>
       </mg>
    </e>
-   <e freq="$667" mg_c="2">
+   <e freq="$667">
       <lg>
          <l pos="N">blinklys</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="83">šleđggon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="0">šleađggočuovga</t>
             <t pos="N" freq="0">ravkečuovga</t>
          </tg>
       </mg>
    </e>
-   <e freq="$666" mg_c="2">
+   <e freq="$666"
       <lg>
          <l pos="N">børste</l>
       </lg>
@@ -71999,10 +71064,6 @@
          <tg xml:lang="sme">
             <t pos="N" freq="3">guštá</t>
             <t pos="N" freq="3">gusta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="1">borsta</t>
          </tg>
       </mg>
@@ -72037,32 +71098,24 @@
          </tg>
       </mg>
    </e>
-   <e freq="$661" mg_c="2">
+   <e freq="$661">
       <lg>
          <l pos="N">byttehandel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="26">lonuhusgávpi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="4">lonuhangávpi</t>
          </tg>
       </mg>
    </e>
-   <e freq="$661" mg_c="2">
+   <e freq="$661">
       <lg>
          <l pos="N">matavfall</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="0">biebmobázahus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" nr="Pl" freq="0">biebmomoalut</t>
          </tg>
       </mg>
@@ -72179,17 +71232,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$631" mg_c="2">
+   <e freq="$631">
       <lg>
          <l pos="N">niese</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="70">neahpi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" freq="25">muoŧŧal</t>
          </tg>
       </mg>
@@ -72278,17 +71327,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$614" mg_c="2">
+   <e freq="$614">
       <lg>
          <l pos="N">oppslagstavle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="34">diehtojuohkintávval</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="0">almmuhantávval</t>
          </tg>
       </mg>
@@ -72323,17 +71368,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$609" mg_c="2">
+   <e freq="$609">
       <lg>
          <l pos="N">kaviar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1">meađđenmeastu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">meađđennjuvddus</t>
          </tg>
       </mg>
@@ -72458,17 +71499,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$586" mg_c="2">
+   <e freq="$586">
       <lg>
          <l pos="N">undervisningsrom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">oahpahanlatnja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">oahpahuslatnja</t>
          </tg>
       </mg>
@@ -72493,17 +71530,19 @@
          </tg>
       </mg>
    </e>
-   <e freq="$583" mg_c="2">
+   <e freq="$583">
       <lg>
          <l pos="N">stebarn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>gutt</re>
             <t pos="N">bárdnebealle</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>jente</re>
             <t pos="N">nieidabealle</t>
          </tg>
       </mg>
@@ -72518,38 +71557,25 @@
          </tg>
       </mg>
    </e>
-   <e freq="$582" mg_c="3">
+   <e freq="$582">
       <lg>
          <l pos="N">gryn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="4">rievdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="0">surbmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">rievdni</t>
-            <t pos="N">rievdna</t>
          </tg>
       </mg>
    </e>
-   <e freq="$580" mg_c="2">
+   <e freq="$580">
       <lg>
          <l pos="N">kafeteria</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="4">gáffadat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">gáfedat</t>
          </tg>
       </mg>
@@ -72714,17 +71740,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$558" mg_c="2">
+   <e freq="$558">
       <lg>
          <l pos="N">jordlov</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="144">eanaláhka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">eananláhka</t>
             <xg>
                <x/>
@@ -72733,17 +71755,13 @@
          </tg>
       </mg>
    </e>
-   <e freq="$557" mg_c="2">
+   <e freq="$557">
       <lg>
          <l pos="N">deleier</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="826">oasálaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">oasseeaiggát</t>
          </tg>
       </mg>
@@ -72878,17 +71896,10 @@
          </tg>
       </mg>
    </e>
-   <e freq="$544" mg_c="2">
+   <e freq="$544">
       <lg>
          <l pos="N">forbrenningsmotor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">boaldinmohtor</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N">boaldomohtor</t>
          </tg>
       </mg>
