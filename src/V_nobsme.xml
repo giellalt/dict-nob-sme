@@ -28,6 +28,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="25">šlundát</t>
+            <t pos="V" src="nj" usage="vd" freq="98">šlundut</t>
          </tg>
       </mg>
    </e>
@@ -884,13 +885,18 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="V">rase</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="0">njirrat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd" freq="2">gievvudit</t>
          </tg>
       </mg>
    </e>
@@ -8589,13 +8595,18 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e mg_c="2">
       <lg>
          <l pos="V">bli gretten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="12">duskkástuvvat</t>
+         </tg>
+      </mg>
+            <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd" freq="5">eardut</t>
          </tg>
       </mg>
    </e>
@@ -9157,16 +9168,6 @@
             <t pos="V" src="nj" usage="vd" freq="47">suvrut</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd" freq="5">eardut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bli gretten</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="5">eardut</t>
@@ -10705,16 +10706,6 @@
    <e>
       <lg>
          <l pos="V">være vilter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd" freq="2">gievvudit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rase</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -19563,17 +19554,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd" freq="92">uhcidit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">forminske</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd" freq="2084">unnidit</t>
+            <t pos="V" src="nj" usage="vd" freq="92" dial="east">uhcidit</t>
+            <t pos="V" src="nj" usage="vd" freq="2084" dial="west">unnidit</t>
          </tg>
       </mg>
    </e>
@@ -21647,16 +21629,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd" freq="8">šluhttet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bli motløs</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd" freq="98">šlundut</t>
          </tg>
       </mg>
    </e>
