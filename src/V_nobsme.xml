@@ -168,7 +168,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">drikke</l>
       </lg>
@@ -191,7 +191,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="V">løfte</l>
       </lg>
@@ -201,7 +201,7 @@
          </tg>
       </mg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="heve" xml:lang="sme">
             <t pos="V" usage="vd" freq="861">bajidit</t>
             <xg>
                <x>Bestefar må løfte opp lavvoduken.</x>
@@ -220,7 +220,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">klage</l>
       </lg>
@@ -278,7 +278,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">føde</l>
       </lg>
@@ -303,7 +303,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">pipe</l>
       </lg>
@@ -318,7 +318,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="om mus" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="2">cihraidit</t>
             <xg>
                <x>Musa piper i låven.</x>
@@ -327,17 +327,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">svette</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="74">golggahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="26">bivastuvvat</t>
          </tg>
       </mg>
@@ -352,11 +348,10 @@
             <t pos="V" src="nj" usage="vd" freq="1568">ollit</t>
             <t pos="V" src="nj" usage="vd" freq="336">háhppehit</t>
             <t pos="V" src="nj" usage="vd" freq="247">buvttihit</t>
-            <t pos="V" src="nj" usage="vd" freq="1">noddet</t>
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">varme</l>
       </lg>
@@ -376,7 +371,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">klippe</l>
       </lg>
@@ -402,7 +397,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">pleie</l>
       </lg>
@@ -417,7 +412,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">flå</l>
       </lg>
@@ -444,7 +439,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">hoppe</l>
       </lg>
@@ -454,7 +449,7 @@
          </tg>
       </mg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="gjentakelser" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="148">njuikut</t>
          </tg>
       </mg>
@@ -549,7 +544,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">hoste</l>
       </lg>
@@ -635,7 +630,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="V">tro</l>
       </lg>
@@ -752,22 +747,22 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">leie</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="betaling for tjeneste" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="529">bálkáhit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="holden i hånden" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="201">láidet</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="betaling for f.eks hus" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="0">láiguhit</t>
          </tg>
       </mg>
@@ -804,7 +799,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">merke</l>
       </lg>
@@ -899,7 +894,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">lære</l>
       </lg>
@@ -958,7 +953,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">greie</l>
       </lg>
@@ -966,6 +961,10 @@
          <tg re="om fysiske eller mentale forutsetninger" xml:lang="sme">
             <t pos="V" usage="vd" freq="1155">nákcet</t>
             <t pos="V" usage="vd" freq="301">nagadit</t>
+            <xg>
+               <x>Greier jeg å jobbe med eksamen?</x>
+               <xt>Nagodan go mun eksámeniin bargat?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -987,21 +986,21 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">stige</l>
       </lg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="bevege seg opp" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="760">badjánit</t>
             <xg>
-               <x/>
-               <xt/>
+               <x>Vi drakk morgenkaffe mens vi så sola stige opp.</x>
+               <x>Mii jugadeimmet gáfe, ja geahčaimet go beaivváš badjánii..</x>
             </xg>
          </tg>
       </mg>
       <mg>
-         <tg re="stige opp" xml:lang="sme">
+         <tg re="klatre opp" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="504">goargŋut</t>
          </tg>
       </mg>
@@ -1026,7 +1025,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">skjære</l>
       </lg>
@@ -1051,7 +1050,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="11">
+   <e>
       <lg>
          <l pos="V">slå</l>
       </lg>
@@ -1072,7 +1071,7 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
+         <tg re="banke" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="121">cábmit</t>
             <xg>
                <x>Vi må slå sennagresset mot spikerfjøl, for å myke de opp.</x>
@@ -1269,7 +1268,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">presse</l>
       </lg>
@@ -1312,22 +1311,22 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">se</l>
       </lg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="oppfatte med øyet" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="24384">oaidnit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="rette blikket mot, kikke" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="12280">geahččat</t>
          </tg>
       </mg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="Få øye på" xml:lang="sme">
             <t pos="i" src="nj" usage="vd" freq="0">gea</t>
             <xg>
                <x>Se, hunden halter!</x>
@@ -1561,33 +1560,33 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">svømme</l>
       </lg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="komme seg framover i vann" xml:lang="sme">
             <t pos="V" usage="vd" freq="867">vuodjat</t>
          </tg>
       </mg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="bade" xml:lang="sme">
             <t pos="V" usage="vd" freq="192">vuojadit</t>
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">bade</l>
       </lg>
       <mg>
-         <tg re="r" xml:lang="sme">
+         <tg re="i basseng eller større vann " xml:lang="sme">
             <t pos="V" usage="vd" freq="192">vuojadit</t>
             <t pos="V" usage="vd" freq="60">gálašit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="i badekar" xml:lang="sme">
             <t pos="V" usage="vd" freq="25">lávggodit</t>
             <t pos="V" usage="vd" freq="5">lávgut</t>
             <xg>
@@ -1731,7 +1730,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">vinke</l>
       </lg>
@@ -1778,7 +1777,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">oppdage</l>
       </lg>
@@ -1919,17 +1918,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">sveve</l>
       </lg>
       <mg>
          <tg re="lande" xml:lang="sme">
             <t pos="V" usage="vd" freq="257">seaivut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="" xml:lang="sme">
             <t pos="V" usage="vd" freq="13">skirvehallat</t>
             <t pos="V" usage="vd" freq="0">sattáhaddat</t>
          </tg>
@@ -1945,7 +1940,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">hviske</l>
       </lg>
@@ -2010,7 +2005,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="5">
+   <e>
       <lg>
          <l pos="V">åpne</l>
       </lg>
@@ -2041,7 +2036,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="V">lukke opp</l>
       </lg>
