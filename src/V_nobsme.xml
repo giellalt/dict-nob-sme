@@ -2399,7 +2399,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">tråkke</l>
       </lg>
@@ -2415,7 +2415,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">trø</l>
       </lg>
@@ -4781,6 +4781,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>anmodning</re>
             <t pos="V" src="nj" usage="vd" freq="10790">bivdit</t>
             <xg>
                <x>Jeg ber deg dra nå.</x>
@@ -4842,7 +4843,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="5">
+   <e>
       <lg>
          <l pos="V">hyle</l>
       </lg>
@@ -4922,7 +4923,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">tørke litt</l>
       </lg>
@@ -4957,7 +4958,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="V">plukke</l>
       </lg>
@@ -4975,7 +4976,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re/>
+            <re>nappe, pille</re>
             <t pos="V" src="nj" usage="vd" freq="7">boaibmut</t>
          </tg>
       </mg>
@@ -5031,13 +5032,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">brenne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re/>
+            <re>være i brann</re>
             <t pos="V" src="nj" usage="vd" freq="1059">buollit</t>
             <xg>
                <x>Ilden brenner.</x>
@@ -5047,7 +5048,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re/>
+            <re>brenne noe</re>
             <t pos="V" src="nj" usage="vd" freq="465">boaldit</t>
             <xg>
                <x>Jeg brenner gamle papirer.</x>
@@ -5056,7 +5057,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">svi</l>
       </lg>
@@ -5134,22 +5135,18 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">fosse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="15">boršut</t>
+            <t pos="V" src="nj" usage="vd" freq="1">bohraidit</t>
             <xg>
                <x>De to begynte å bli redde da vannet begynte å fosse over framenden.</x>
                <xt>Soai ballagođiiga go čáhci boršugođii ovdageaži badjel.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd" freq="1">bohraidit</t>
          </tg>
       </mg>
    </e>
@@ -5276,17 +5273,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">ryke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="56">suovastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="50">borggistit</t>
             <xg>
                <x>Det bare røyk fra soten og asken, men det var ikke lenger så hett.</x>
@@ -5295,7 +5288,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">røyke</l>
       </lg>
@@ -5340,7 +5333,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="6">
+   <e>
       <lg>
          <l pos="V">bryte</l>
       </lg>
@@ -5352,6 +5345,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bryte kommunikasjon</re>
             <t pos="V" src="nj" usage="vd" freq="438">botket</t>
             <xg>
                <x>Foreninga vil bryte kontakten med fylkespartiet sitt.</x>
@@ -5361,13 +5355,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re/>
+            <re>knekke</re>
             <t pos="V" src="nj" usage="vd" freq="166">doadjit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re/>
+            <re>få noe til å stanse</re>
             <t pos="V" src="nj" usage="vd" freq="144">heaibut</t>
          </tg>
       </mg>
@@ -5408,12 +5402,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">vri</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>flere ganger</re>
             <t pos="V" src="nj" usage="vd" freq="241">botnjat</t>
             <xg>
                <x>Hvorfor er det da behov for å vri på komiteens forslag.</x>
@@ -5580,7 +5575,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">dykke</l>
       </lg>
@@ -5617,7 +5612,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
          <l pos="V">rette på</l>
       </lg>
@@ -5775,17 +5770,19 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">kvele</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>slokke, dempe</re>
             <t pos="V" src="nj" usage="vd" freq="85">hávkadit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>drepe ve å stanse lufttilførsel til lungene</re>
             <t pos="V" src="nj" usage="vd" freq="27">buvihit</t>
          </tg>
       </mg>
@@ -5835,17 +5832,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="V">svulme opp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="27">báddat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="8">báisat</t>
          </tg>
       </mg>
