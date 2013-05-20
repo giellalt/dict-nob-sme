@@ -26,7 +26,8 @@
   <xsl:variable name="nl" select="'&#xa;'"/>
   <xsl:variable name="tb" select="'&#9;'"/>
 
-  <!-- input file, extention of the output file -->
+  <!-- input files: 1.lexc=base forms; 2.lexc=continuation classes; fad_usmeNorm_double_lemma=list of 
+       lemmata marked for deletion -->
   <xsl:param name="inFile" select="'1.lexc'"/>
   <xsl:param name="fcFile" select="'2.lexc'"/>
   <xsl:param name="filterFile" select="'fad_usmeNorm_double_lemma'"/>
