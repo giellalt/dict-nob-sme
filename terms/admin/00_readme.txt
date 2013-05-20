@@ -481,4 +481,67 @@ The _qm_-flag in the file name means "questionmarked"!
 
 ============================
 
+@cip: before deleting the doubled entries according to the file fad_usmeNorm_double_lemma
+I checked both lexc files for internal doubled entries.
+Following lines have been detected and for each pair the second line in each lexc-file
+deleted:
+
+1683:pasieantasihkarvuohta
+1692:pasieantasihkarvuohta
+1683:pasieanta#sihkarvuoh'ta LUONDU ;
+1692:pasieanta#sihkarvuoh'ta LUONDU ;
+
+3150:oahppogalledeapmi
+3151:oahppogalledeapmi
+3150:oahppo#galled EAPMI ;
+3151:oahppo#galled EAPMI ;
+
+1687:máksinsihkarvuohta
+1693:máksinsihkarvuohta
+1687:máksin#sihkarvuoh'ta LUONDU ;
+1693:máksin#sihkarvuoh'ta LUONDU ;
+
+429:guovttegielatvuođapedagogihkka
+432:guovttegielatvuođapedagogihkka
+429:guovttegielatvuođa#pedagogihkka GOAHTI-A ;
+432:guovttegielatvuođa#pedagogihkka GOAHTI-A ;
+
+3369:guovllusuodjaleapmi
+3371:guovllusuodjaleapmi
+3369:guovllu#suodjal EAPMI ;
+3371:guovllu#suodjal EAPMI ;
+
+6198:dokumeantahivvodat
+6199:dokumeantahivvodat
+6198:dokumeanta#hivvodah'k JOHTOLAT ;
+6199:dokumeanta#hivvodah'k JOHTOLAT ;
+
+3331:bušeahttalasiheapmi
+3332:bušeahttalasiheapmi
+3331:bušeahtta#lasih EAPMI ;
+3332:bušeahtta#lasih EAPMI ;
+
+4066:asttuáiggeulbmil
+4067:asttuáiggeulbmil
+4066:asttuáigge#ulbmil GAHPIRLONG ;
+4067:asttuáigge#ulbmil GAHPIRLONG ;
+
+src>sort 1.lexc | uniq -c | sort -nr | less
+   1 šállošanágga
+   1 šákšabivdu
+   1 šákšabivddus
+
+src>sort 2.lexc | uniq -c | sort -nr | less
+   2 kultur#kalean'dar MALIS ;
+   1 šállošan#ágga GOAHTI-A ;
+   1 šákša#biv'dus MALISLONG ;
+
+ 
+... but:
+
+src>grep kulturkalean 1.lexc 
+kulturkaleanddar
+kulturkaleandar
+
+ ==> ergo: no deletion of this apparently doubled continuation class!
 
