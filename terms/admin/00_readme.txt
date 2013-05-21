@@ -545,3 +545,29 @@ kulturkaleandar
 
  ==> ergo: no deletion of this apparently doubled continuation class!
 
+==============
+
+Tests before the unification step in the fad-data:
+
+src>grep -h '<l pos' *.xml | sort | uniq -c | sort -nr | wc -l 
+   15371
+src>grep -h '<l pos' *.xml | sort | uniq -c | sort -nr | grep "^ *1 " | wc -l 
+   11099
+src>grep -h '<l pos' *.xml | sort | uniq -c | sort -nr | grep -v "^ *1 " | wc -l 
+    4272
+
+  15          <l pos="V">svekke</l>
+  13          <l pos="V">redusere</l>
+  12          <l pos="N">endring</l>
+  11          <l pos="V">snakke</l>
+  11          <l pos="V">registrere</l>
+  11          <l pos="N">mangfold</l>
+  10          <l pos="N">utgangspunkt</l>
+  10          <l pos="N">utdanning</l>
+  10          <l pos="N">part</l>
+  10          <l pos="N">oversikt</l>
+  10          <l pos="N">kulturuttrykk</l>
+  10          <l pos="N">forvaltningsoppgave</l>
+  10          <l pos="N">eiendomsrett</l>
+
+
