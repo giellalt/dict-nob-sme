@@ -581,6 +581,7 @@ Attributtlista er redusert til:
 @pos
 @alternative_string
 @type
+@nr
 </t>
 
 
