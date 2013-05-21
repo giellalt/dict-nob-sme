@@ -145,7 +145,7 @@ Cip's next todo issues:
  - merge entries into the src files 
  ==> DONE
 
-NB: The tag 'merged' has been replaced by the tag 'mg_counter'!
+NB: The tag 'merged' has been replaced by the tag 'mg_c'!
 
 
 =====
@@ -156,4 +156,31 @@ cat $GTBIG/st/nob/nowac/nowac-1-1.1.lemmas.freq | sed 's/^ *//g;' \
     | cut -d" " -f2 | cut -f1 | grep -v '[A-ZÆØÅ0-9$.,:;/_-]' | grep '[a-z]' \
     | lookup $GTHOME/words/dicts/nobsme/bin/nobdict.fst | grep '?' | cut -f1 \
     > $GTHOME/words/dicts/nobsme/inc/nylangliste
+
+=======
+
+Checking source data after the manual unification:
+
+src>grep '/>' * | wc -l 
+     204
+src>grep '><' * | wc -l 
+      48
+
+N_nobsme.xml:         <l pos="N"></l>
+N_nobsme.xml:            <re></re>
+N_nobsme.xml:            <re></re>
+N_nobsme.xml:            <re></re>
+
+
+
+N_nobsme.xml:               <x/>
+N_nobsme.xml:               <xt/>
+N_nobsme.xml:         <tg xml:lang="sme"/>
+N_nobsme.xml:               <x/>
+N_nobsme.xml:               <xt/>
+
+Observation:
+the mg_c attributes on the e-element are still there, I tought
+Marja wanted to delete them in order to mark the entries that
+have been done.
 
