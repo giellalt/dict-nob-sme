@@ -30,14 +30,15 @@
        lemmata marked for deletion -->
   <xsl:param name="inFile" select="'1.lexc'"/>
   <xsl:param name="fcFile" select="'2.lexc'"/>
-  <xsl:param name="filterFile" select="'fad_usmeNorm_double_lemma'"/>
+  <xsl:param name="filterFile" select="'fad_dobbel_lemma2'"/>
 
   <xsl:param name="inDir" select="'_xxx_'"/>
   <xsl:param name="outDir" select="'_out-filtered_'"/>
   <xsl:variable name="current_file" select="(tokenize($inFile, '/'))[last()]"/>
   <xsl:variable name="current_dir" select="substring-before($inFile, $current_file)"/>
   <xsl:variable name="current_location" select="concat($inDir, substring-after($current_dir, $inDir))"/>
-  
+  <xsl:variable name="current_fc_file" select="(tokenize($fcFile, '/'))[last()]"/>  
+
   <xsl:template match="/" name="main">
     
     <xsl:choose>
@@ -84,13 +85,13 @@
 	  </xsl:for-each>
 	</xsl:variable>
 	
-	<xsl:result-document href="{$outDir}/{$current_file}_1lexc.{$e}" format="{$of}">
+	<xsl:result-document href="{$outDir}/{$current_file}.{$e}" format="{$of}">
 	  <xsl:for-each select="$out_stuff/*">
 	    <xsl:value-of select="concat(substring-before(., '_'), $nl)"/>
 	  </xsl:for-each>
 	</xsl:result-document>
 
-	<xsl:result-document href="{$outDir}/{$current_file}_2lexc.{$e}" format="{$of}">
+	<xsl:result-document href="{$outDir}/{$current_fc_file}.{$e}" format="{$of}">
 	  <xsl:for-each select="$out_stuff/*">
 	    <xsl:variable name="cPos" select="number(substring-after(., '_'))"/>
 	    <xsl:value-of select="concat($fc_file_lines[$cPos], $nl)"/>
