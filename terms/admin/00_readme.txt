@@ -570,4 +570,17 @@ src>grep -h '<l pos' *.xml | sort | uniq -c | sort -nr | grep -v "^ *1 " | wc -l
   10          <l pos="N">forvaltningsoppgave</l>
   10          <l pos="N">eiendomsrett</l>
 
+Attributtlista er redusert til:
+<l>
+@pos
+@alternative_string
+@type
+</l>
+
+<t>
+@pos
+@alternative_string
+@type
+</t>
+
 
