@@ -267,7 +267,7 @@
    </e>
    <e mg_c="6">
       <lg>
-         <l pos="Pron" type="Dem">den</l>
+         <l pos="Pron" type="Pers">den</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -808,39 +808,44 @@
    </e>
    <e mg_c="4">
       <lg>
-         <l pos="Pron" type="Dem">det</l>
+         <l pos="Pron" type="Pers">det</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t nr="Sg" pos="Pron" type="Pers" freq="289043">dat</t>
             <xg>
-               <x>Hunden går seg ikke vill, den kommer hjem.</x>
-               <xt>Beana ii láhppo, dat gal boahtá ruoktot.</xt>
+               <x>Føllet går seg ikke vill, det kommer hjem.</x>
+               <xt>Vársá ii láhppo, dat gal boahtá ruoktot.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem" freq="0">dien</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem" freq="0">dien</t>
+            <re>det der</re>
+            <t nr="Sg" pos="Pron" type="Pers" freq="289043">diet</t>
             <xg>
-               <x>De har nok ikke tenkt så mye på det.</x>
-               <xt>Sii eai gal leat dien birra jurddašan nu olu.</xt>
+               <x>Det der kan ikke brukes til noe.</x>
+               <xt>Diet ii sáhte masage geavahuvvot.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Pers" freq="0">dan</t>
+            <re>det der borte</re>
+            <t nr="Sg" pos="Pron" type="Pers" freq="289043">duot</t>
             <xg>
-               <x>Jeg gjør det gjerne, sier mor.</x>
-               <xt>Mun dagan dan áinnas, lohká eadni.</xt>
+               <x>Det der kan ikke brukes til noe.</x>
+               <xt>Duot ii sáhte masage geavahuvvot.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>det der lengst bort</re>
+            <t nr="Sg" pos="Pron" type="Pers" freq="289043">dot</t>
+            <xg>
+               <x>Det der som er lengst borte kan ikke brukes til noe.</x>
+               <xt>Dot ii sáhte masage geavahuvvot.</xt>
             </xg>
          </tg>
       </mg>
