@@ -584,4 +584,23 @@ Attributtlista er redusert til:
 @nr
 </t>
 
+======================
+
+fad-data unification results:
+unify_all>grep '<e' united_entries_of_fad.xml | sort | uniq -c | sort -nr 
+11532    <e>
+2539    <e mg_c="2">
+ 785    <e mg_c="3">
+ 275    <e mg_c="4">
+ 116    <e mg_c="5">
+  44    <e mg_c="6">
+  29    <e mg_c="7">
+  13    <e mg_c="8">
+   8    <e mg_c="9">
+   4    <e mg_c="10">
+   1    <e mg_c="15">
+   1    <e mg_c="13">
+   1    <e mg_c="11">
+
+
 
