@@ -423,7 +423,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">stille</l>
       </lg>
@@ -434,11 +434,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>uten snakk</re>
             <t pos="Adv" usage="vd" freq="140">jávohaga</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>listing</re>
             <t pos="Adv" usage="vd" freq="48">siivvožit</t>
             <xg>
                <x>Elle listet seg stille ut slik at de andre i huset ikke våknet.</x>
@@ -1089,7 +1091,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">veldig</l>
       </lg>
@@ -1288,36 +1290,24 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">alltid</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="4947">álo</t>
+            <t pos="Adv" usage="vd" freq="664">álohii</t>
+            <t pos="Adv" usage="vd" freq="715">čađat</t>
+            <t pos="Adv" usage="vd" freq="3">áli</t>
             <xg>
                <x>Du er alltid i dårlig humør.</x>
                <xt>Don leat álo heajos mielas.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="715">čađat</t>
             <xg>
                <x>Han har lurt deg hele tiden.</x>
                <xt>Son lea čađat dájuhan du.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="664">álohii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="3">áli</t>
             <xg>
                <x>Du er alltid i dårlig humør.</x>
                <xt>Don leat áli heajos mielas.</xt>
@@ -1325,12 +1315,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">mer</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>mer igjen</re>
             <t pos="Adv" usage="vd" freq="10004">šat</t>
             <xg>
                <x>Er det mer?</x>
@@ -1348,21 +1339,14 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>mer</re>
             <t pos="Adv" usage="vd" freq="9017">eambbo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd" freq="0">eambo</t>
             <t pos="Adv" usage="vd" freq="8523">eanet</t>
             <xg>
                <x>Du finner mer informasjon om det på side 10.</x>
                <xt>Dan birra gávnnat eanet dieđuid 10. siiddus.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="0">eambo</t>
          </tg>
       </mg>
    </e>
@@ -1854,32 +1838,20 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">just</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="3397">juste</t>
+            <t pos="Adv" src="nj" usage="vd" freq="2019">aiddo</t>
+            <t pos="Adv" src="nj" usage="vd" freq="1449">justa</t>
+            <t pos="Adv" src="nj" usage="vd" freq="1027">jur</t>
             <xg>
                <x>Fortell akkurat hvordan det var!</x>
                <xt>Muital juste movt dat lei!</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="2019">aiddo</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="1449">justa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="1027">jur</t>
          </tg>
       </mg>
    </e>
@@ -2470,30 +2442,24 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="2179">áinnas</t>
+            <t pos="Adv" usage="vd" freq="4130">oktii</t>
+            <t pos="Adv" usage="vd" freq="7939">ovttas</t>
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">sammen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re></re>
             <t pos="Adv" usage="vd" freq="7939">ovttas</t>
+            <t pos="Adv" usage="vd" freq="525">fárrolaga</t>
             <xg>
                <x>arbeide sammen</x>
                <xt>ovttas bargat</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="4130">oktii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="525">fárrolaga</t>
             <xg>
                <x>Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</x>
                <xt>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</xt>
@@ -2502,22 +2468,22 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re></re>
+            <t pos="Adv" usage="vd" freq="4130">oktii</t>
             <t pos="Adv" usage="vd" freq="31">aktii</t>
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">en gang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="4130">oktii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd" freq="306">okte</t>
             <t pos="Adv" usage="vd" freq="1594">geardde</t>
+            <t pos="Adv" usage="vd" freq="31">aktii</t>
             <xg>
                <x>Det var en gang slik.</x>
                <xt>Dat lei geardde nu.</xt>
@@ -2526,20 +2492,10 @@
                <x>All den stund Issát mener det er slik, da er det vel slik.</x>
                <xt>Jos juo geardde Issáha mielas orru nu, de lea várra nu.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="306">okte</t>
             <xg>
                <x>Jeg har bare vært en gang i fjøset.</x>
                <xt>Mun lean dušše okte leamaš návehis.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="31">aktii</t>
          </tg>
       </mg>
    </e>
@@ -3009,7 +2965,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">her</l>
       </lg>
@@ -3115,36 +3071,24 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">nå</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="55800">dál</t>
+            <t pos="Adv" src="nj" usage="vd" freq="2569">dal</t>
+            <t pos="Pcle" src="nj" usage="vd" freq="2381">na</t>
+            <t pos="Pcle" src="nj" usage="vd" freq="366">ba</t>
             <xg>
                <x>Jeg drar nå.</x>
                <xt>Mun vuolggán dál.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="2569">dal</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pcle" src="nj" usage="vd" freq="2381">na</t>
             <xg>
                <x>Publiseres boka på samisk, nei, det vet ingen.</x>
                <xt>Almmuhuvvo go girji sámegillii, na dan ii dieđe oktage.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pcle" src="nj" usage="vd" freq="366">ba</t>
             <xg>
                <x>Hvordan skal man gjøre det da?</x>
                <xt>Mo ba dan galgá dahkat?</xt>
@@ -3831,32 +3775,20 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">av og til</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="987">muhtumin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="815">muhtomin</t>
+            <t pos="Adv" src="nj" usage="vd" freq="267">gaskkohagaid</t>
+            <t pos="phrase_adv" src="nj" usage="vd" freq="0">duollet dálle</t>
             <xg>
                <x>Noen ganger forstår jeg ikke hva Ánne sier.</x>
                <xt>Muhtomin in ipmir maid Ánne dadjá.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="267">gaskkohagaid</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="phrase_adv" src="nj" usage="vd" freq="0">duollet dálle</t>
             <xg>
                <x>Elle bruker av og til å besøke meg.</x>
                <xt>Elle láve duollet dálle fitnat mu guossis.</xt>
@@ -5792,27 +5724,15 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
+   <e>
       <lg>
          <l pos="Adv">først og fremst</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="135">ovddemus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="104">ovddemusat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="42">ovddemusas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="41">ovddemussii</t>
          </tg>
       </mg>
