@@ -285,7 +285,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">det indre</l>
+         <l pos="N">innmat</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -536,7 +536,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">de to brødrene</l>
+         <l pos="N">brødrepar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -546,7 +546,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">begge foreldrene</l>
+         <l pos="N">foreldrepar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -556,17 +556,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">de to guttene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="phrase_n" usage="vd" freq="0">luntta guovttos</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">mor og en person til</l>
+         <l pos="N">mor med følge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -613,16 +603,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">en som bor her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg" usage="vd" freq="0">dáppeorru</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">drivgarnsfisker</l>
       </lg>
       <mg>
@@ -633,15 +613,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">person som deltar i brudefølge</l>
+         <l pos="N">brudefølge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="NomAg" usage="vd" freq="20">mielvázzi</t>
-            <xg>
-               <x>brudefølge</x>
-               <xt>mielvázzit</xt>
-            </xg>
+            <t pos="N" nr="Pl" type="NomAg" usage="vd" freq="20">mielvázzit</t>
          </tg>
       </mg>
    </e>
@@ -682,7 +658,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">en som hører</l>
+         <l pos="N">hørende</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1646,7 +1622,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">smittsom sykdom</l>
+         <l pos="N">smittesykdom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3312,16 +3288,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">vilt dyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg" usage="vd" freq="229">meahciealli</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">lovkyndig</l>
       </lg>
       <mg>
@@ -3843,7 +3809,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">buskete hale</l>
+         <l pos="N">buskehale</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4285,7 +4251,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">personlige pronomen</l>
+         <l pos="N">personlig pronomen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4854,16 +4820,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">det å regne sammen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd" freq="163">rehkenastin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">veske</l>
       </lg>
       <mg>
@@ -4901,7 +4857,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">person fra Krotia</l>
+         <l pos="N">kroat</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5013,16 +4969,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">plassen ved siden av døra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd" freq="19">uksabealis</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">rådslåing</l>
       </lg>
       <mg>
@@ -5095,16 +5041,6 @@
          <tg xml:lang="sme">
             <re></re>
             <t pos="N" usage="vd" freq="89">hipmu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">mørkhudet person</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd" freq="2">čáhppesolmmoš</t>
          </tg>
       </mg>
    </e>
@@ -5837,7 +5773,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">norsk språk</l>
+         <l pos="N">norsk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -10930,17 +10866,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">gammel tid</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd" freq="168">dološáigi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gamle dager</l>
+         <l pos="N">gamledager</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -11096,7 +11022,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">økonomisk hjelp</l>
+         <l pos="N">pengehjelp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -12446,7 +12372,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">språklig utvikling</l>
+         <l pos="N">språkutvikling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -13892,7 +13818,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">noe å si</l>
+         <l pos="N">utsagn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -14073,7 +13999,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">øvre del</l>
+         <l pos="N">overdel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -15032,7 +14958,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">øvre kant</l>
+         <l pos="N">overkant</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -15112,7 +15038,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">dyt med stor vom</l>
+         <l pos="N">dyr med stor vom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -15211,7 +15137,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">den onde</l>
+         <l pos="N">djevelen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -17630,7 +17556,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">smørbrød med kjøtt</l>
+         <l pos="N">kjøttsmørbrød</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -19109,7 +19035,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">noe som er til latter</l>
+         <l pos="N">noe lattervekkende</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -21092,30 +21018,12 @@
    </e>
    <e>
       <lg>
-         <l pos="N">ukokt te</l>
+         <l pos="N">teblad</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" nr="Pl" src="nj" usage="vd" freq="8">deajat</t>
             <t pos="N" nr="Pl" src="nj" usage="vd" freq="2">teajat</t>
-            <xg>
-               <x>Jeg tilsetter te til vannet.</x>
-               <xt>Mun lasihan deajaid čáhcái.</xt>
-            </xg>
-            <xg>
-               <x>Jeg tilsetter te til vannet.</x>
-               <xt>Mun lasihan teajaid čáhcái.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">teblad</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd" freq="8">deajat</t>
             <xg>
                <x>Jeg tilsetter te til vannet.</x>
                <xt>Mun lasihan deajaid čáhcái.</xt>
@@ -21193,31 +21101,11 @@
             <t pos="N" src="nj" usage="vd" freq="7">geamádat</t>
             <t pos="N" src="nj" usage="vd" freq="0">deamádat</t>
             <xg>
-               <x>Det er dis på vinteren.</x>
+               <x>Det er dis om vinteren.</x>
                <xt>Geamádat lea dálvet.</xt>
             </xg>
             <xg>
-               <x>Det er dis på vinteren.</x>
-               <xt>Deamádat lea dálvet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">disig luft</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd" freq="7">geamádat</t>
-            <t pos="N" src="nj" usage="vd" freq="0">deamádat</t>
-            <xg>
-               <x>Det er dis på vinteren.</x>
-               <xt>Geamádat lea dálvet.</xt>
-            </xg>
-            <t pos="N" src="nj" usage="vd" freq="0">deamádat</t>
-            <xg>
-               <x>Det er dis på vinteren.</x>
+               <x>Det er dis om vinteren.</x>
                <xt>Deamádat lea dálvet.</xt>
             </xg>
          </tg>
@@ -44400,6 +44288,11 @@
             <t pos="N" src="nj" usage="vd" freq="78">spire</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg" usage="vd" freq="229">meahciealli</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -52830,6 +52723,11 @@
       <lg>
          <l pos="N">addisjon</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" usage="vd" freq="163">rehkenastin</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="0">addišuvdna</t>
