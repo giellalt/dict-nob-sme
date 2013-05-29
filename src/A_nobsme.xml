@@ -3419,6 +3419,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="A" src="nj" usage="vd" freq="1678">ártet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd" freq="0">gummá</t>
             <xg>
                <x>Det var rart at han/hun ikke kom.</x>
@@ -5264,18 +5269,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Det">all</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" src="nj" usage="vd" freq="31425">buot</t>
-            <t pos="A" src="nj" usage="vd" freq="1662">oppa</t>
-            <t pos="A" src="nj" usage="vd" freq="1276">visot</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">generell</l>
       </lg>
       <mg>
@@ -6756,16 +6749,6 @@
    </e>
    <e>
       <lg>
-         <l pos="A">rar</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd" freq="1678">ártet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">brysom</l>
       </lg>
       <mg>
@@ -7225,8 +7208,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="A" usage="vd" freq="222">boastut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>som førsteledd i sammensetninger</re>
-            <t pos="A" usage="vd" freq="0">boasttu-</t>
+            <t pos="A" usage="vd" freq="2222">boasttu-</t>
             <xg>
                <x>feilaktig oppfatning</x>
                <xt>boasttuipmárdus</xt>
@@ -8392,16 +8380,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" freq="854">formálalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kautokeinoværing</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd" freq="979">guovdageaidnulaš</t>
          </tg>
       </mg>
    </e>
@@ -10964,16 +10942,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" freq="124">eahpedábálaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e freq="$6515">
-      <lg>
-         <l pos="A">feilaktig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="2465">boastut</t>
          </tg>
       </mg>
    </e>
