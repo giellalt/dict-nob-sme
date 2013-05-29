@@ -243,6 +243,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="1496">oalát</t>
+            <t pos="Adv" src="nj" usage="vd" freq="1444">ollislaččat</t>
+            <t pos="Adv" src="nj" usage="vd" freq="252">oppalohkái</t>
             <xg>
                <x>Det har jeg fullstendig glemt.</x>
                <xt>Dan gal lean oalát vajálduhttán.</xt>
@@ -251,33 +253,9 @@
                <x>En rettslig uenighet om slike spørsmål kan låse prosessen fullstendig.</x>
                <xt>Rievttálaš soabatmeahttunvuohta sáhttá oalát bissehit proseassa.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="1444">ollislaččat</t>
             <xg>
                <x>Alternativene var en fullføring av igangsatte utbedringer eller en mer fullstendig oppgradering.</x>
                <xt>Molssaeavttut ledje gárvvistit álggahuvvon divodemiid dahje juo ollislaččat ođasmahttit.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="252">oppalohkái</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="159">álfárot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="61">ihána</t>
-            <xg>
-               <x>et fullstendig øde sted</x>
-               <xt>ihána ávdin báiki</xt>
             </xg>
          </tg>
       </mg>
@@ -1153,39 +1131,23 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="5">
+   <e>
       <lg>
          <l pos="Adv">nesten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="3367">measta</t>
+            <t pos="Adv" usage="vd" freq="957">masá</t>
+            <t pos="Adv" usage="vd" freq="300">goasii</t>
+            <t pos="Adv" usage="vd" freq="196">bálljo</t>
             <xg>
                <x>Vi to er på nippet til å dra dit.</x>
                <xt>Moai measta vulge dohko.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="957">masá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="300">goasii</t>
             <xg>
                <x>Vi to mistet nesten bussen.</x>
                <xt>Moai goasii báziime busses.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="196">bálljo</t>
-            <xg>
-               <x>Jeg kunne nærmest ikke få sove.</x>
-               <xt>Mus eai bálljo boahtán nahkárat.</xt>
             </xg>
          </tg>
       </mg>
@@ -1357,10 +1319,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="9295">ollu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="5368">olu</t>
             <xg>
                <x>Dere to har da arbeidet mye.</x>
@@ -1980,45 +1938,24 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="5">
+   <e>
       <lg>
          <l pos="Adv">ganske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="8610">áibbas</t>
-            <xg>
-               <x>Er du helt dum?</x>
-               <xt>Leat go áibbas gáigi?</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="6169">oalle</t>
+            <t pos="Adv" src="nj" usage="vd" freq="1789">viehka</t>
+            <t pos="Adv" src="nj" usage="vd" freq="875">aivve</t>
+            <t pos="Adv" src="nj" usage="vd" freq="318">beanta</t>
             <xg>
                <x>Mor er ganske trøtt.</x>
                <xt>Eadni lea oalle váibbas.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="1789">viehka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="875">aivve</t>
             <xg>
                <x>Du tolker alt bare i negativ retning.</x>
                <xt>Don dulkot buot aivve bahá guvlui.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="318">beanta</t>
          </tg>
       </mg>
    </e>
@@ -2701,18 +2638,17 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="5">
+   <e>
       <lg>
          <l pos="Adv">altfor</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="5947">beare</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="3235">menddo</t>
+            <t pos="Adv" src="nj" usage="vd" freq="408">bearehaga</t>
+            <t pos="Adv" src="nj" usage="vd" freq="171">ilá</t>
+            <t pos="Adv" src="nj" usage="vd" freq="44">ila</t>
             <xg>
                <x>altfor langt borte</x>
                <xt>menddo guhkkin</xt>
@@ -2722,22 +2658,6 @@
                <xt>Eadni lea menddo váibbas.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="408">bearehaga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="171">ilá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="44">ila</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -3699,41 +3619,19 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="5">
+   <e>
       <lg>
          <l pos="Adv">nok</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="6239">doarvái</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Num" src="nj" usage="vd" freq="1472">galle</t>
+            <t pos="Adv" src="nj" usage="vd" freq="31">gallás</t>
             <xg>
                <x>Og ikke nok med det - i butikken er det også et spesielt tilbud til alle kundene.</x>
                <xt>Ja ii ge das galle - rámbuvrris lea maid erenoamáš fálaldat buot kundariidda.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="182">suige</t>
-            <xg>
-               <x>trolig ikke</x>
-               <xt>ii suige</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="54">galle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd" freq="31">gallás</t>
          </tg>
       </mg>
    </e>
@@ -7033,6 +6931,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd" freq="3583">goassege</t>
+            <t pos="Adv" usage="vd" freq="725">goasse</t>
+            <t pos="Adv" usage="vd" freq="17">agibeaivvis</t>
+            <t pos="Adv" usage="vd" freq="13">agibeaivves</t>
             <xg>
                <x>Har du noen gang vært der?</x>
                <xt>Leat go goassege leamaš doppe?</xt>
@@ -7062,21 +6963,6 @@
                <x>Har du noen gang vært der?</x>
                <xt>Leat go goassige leamaš doppe?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="725">goasse</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="17">agibeaivvis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd" freq="13">agibeaivves</t>
          </tg>
       </mg>
    </e>
