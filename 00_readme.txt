@@ -184,3 +184,24 @@ the mg_c attributes on the e-element are still there, I tought
 Marja wanted to delete them in order to mark the entries that
 have been done.
 
+================
+
+global check of doublings after the many corrections done by Trond:
+
+   2          <l pos="V">være</l>
+   2          <l pos="CS">som</l>
+   2          <l pos="CS">for at han eller hun ikke</l>
+   2          <l pos="Adv">og (heller) ikke</l>
+   2          <l pos="Adv">ikke</l>
+   2          <l pos="A">østligere</l>
+   2          <l pos="A">vestligere</l>
+   2          <l pos="A">sørligere</l>
+   2          <l pos="A">nordligere</l>
+   2          <l pos="A">midterste</l>
+   2          <l pos="A">dypere</l>
+
+ ==> please take care of them!
+
+
+
+
