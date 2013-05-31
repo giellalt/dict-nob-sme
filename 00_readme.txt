@@ -192,32 +192,19 @@ global check of patterns:
          <l pos="V">være uheldig</l>
          <l pos="V">være uheldig å</l>
 
-2. and that?
-         <l pos="V">komme til å</l>
-         <l pos="V">tilfeldigvis komme til å</l>
-
-3. this are at best two synonyms: why not in separate entries?
-
-src>grep -h '<l ' V_nobsme.xml | grep ',' 
-         <l pos="V">binde, knytte</l>
-         <l pos="V">rikle, slarke</l>
-         <l pos="V">sette ut garn, line, not</l>
-         <l pos="V">bli posete, ujevn</l>
-         <l pos="V">bli tynn, tynntrådet</l>
-         <l pos="V">sette ut, kaste drivgarn</l>
-         <l pos="V">stake, holde på med å</l>
-         <l pos="V">stake av sted, stake litt</l>
-         <l pos="V">knytte, knytte fort</l>
 
 4. what to do with such pair?
          <l pos="V">vri</l>
          <l pos="V">vri seg</l>
 
+=> Different transitivity.
+
 5. and with that?
          <l pos="V">vokse</l>
          <l pos="V">vokse opp</l>
 
- ==> please take care of them!
+=> These must await a solution for particle verbs.
+
 
 cip-TODO:
  - systematic check of any separator in the l-element such as ',', '/', etc.
@@ -265,6 +252,9 @@ tv-program</l
 liten jord- eller snøskavl som henger utover</l
 jord- eller snøskavl som henger utover</l
 
+=> both should be under "snøskavl" and "jordskavl", respectively
+
+
    - why not eighter all-letter strings or all-digit strings? 
 tjue-tretti</l
 14-19000</l
@@ -272,8 +262,11 @@ tjue-tretti</l
 2-3000</l
 tolv-tretten</l
 
-   - naja, no comment!
-gå på alle fire - på hender og føtter</l
+=> Because it reflects actual usage.
+   But arabic numbers should be excluded.
+
+ 
+ 
 
 Simple check of doublings ignoring pos and other information:
 src>grep -h '<l ' *_nobsme.xml | cut -d '>' -f2 | cut -d '<' -f1 | sort | uniq -c | sort -nr | grep -v '1' | wc -l 
