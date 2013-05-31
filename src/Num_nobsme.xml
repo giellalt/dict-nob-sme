@@ -165,22 +165,18 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="Num">tolv-tretten</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Num" src="nj" usage="vd" freq="258">nuppelohkái</t>
+            <t pos="Num" usage="vd" freq="27">moaddenuppelohkái</t>
             <xg>
                <x>I Alta var det tolv-tretten innbrudd sist helg.</x>
                <xt>Álttás ledje nuppelohkái sisagaikuma mannan vahkkoloahpa.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Num" usage="vd" freq="27">moaddenuppelohkái</t>
          </tg>
       </mg>
    </e>
@@ -214,7 +210,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="Num">nitti</l>
       </lg>
@@ -234,7 +230,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="Num">to</l>
       </lg>
@@ -245,6 +241,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bare to</re>
             <t pos="Adv" src="nj" usage="vd" freq="122">guovttá</t>
             <xg>
                <x>Vi er bare to.</x>
@@ -287,15 +284,10 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="Num">elleve</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Num" src="nj" usage="vd" freq="258">nuppelohkái</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Num" usage="vd" freq="96">oktanuppelohkái</t>
@@ -652,7 +644,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
+   <e>
       <lg>
          <l pos="Num">sytti</l>
       </lg>
