@@ -245,7 +245,9 @@ avd.
 på ... navn
 nærmere mot ... siden
 
-
+   - ? (check also t-elements)
+nobsme>grep '<t ' src/*xml | grep '?' 
+src/Pr_nobsme.xml:            <t type="expl" freq="0">???</t>
 
 Simple check of doublings ignoring pos and other information:
 src>grep -h '<l ' *_nobsme.xml | cut -d '>' -f2 | cut -d '<' -f1 | sort | uniq -c | sort -nr | grep -v '1' | wc -l 
