@@ -186,22 +186,21 @@ have been done.
 
 ================
 
-global check of doublings after the many corrections done by Trond:
+global check of patterns:
 
-   2          <l pos="V">være</l>
-   2          <l pos="CS">som</l>
-   2          <l pos="CS">for at han eller hun ikke</l>
-   2          <l pos="Adv">og (heller) ikke</l>
-   2          <l pos="Adv">ikke</l>
-   2          <l pos="A">østligere</l>
-   2          <l pos="A">vestligere</l>
-   2          <l pos="A">sørligere</l>
-   2          <l pos="A">nordligere</l>
-   2          <l pos="A">midterste</l>
-   2          <l pos="A">dypere</l>
+1. doubled entry or not?
+         <l pos="V">være uheldig</l>
+         <l pos="V">være uheldig å</l>
+
+2. and that?
+         <l pos="V">komme til å</l>
+         <l pos="V">tilfeldigvis komme til å</l>
+
+3. this are at best two synonyms: why not in separate entries?
+         <l pos="V">stake, holde på med å</l>
 
  ==> please take care of them!
 
-
-
+cip-TODO:
+ - systematic check of any separator in the l-element such as ',', '/', etc.
 
