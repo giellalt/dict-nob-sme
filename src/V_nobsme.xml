@@ -4956,6 +4956,24 @@
             <t pos="V" src="nj" usage="vd" freq="47846">boahtit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd" freq="43861">šaddat</t>
+            <xg>
+               <x>Jeg kommer til å dra.</x>
+               <xt>Mun šattan vuolgit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd" freq="6544">soaitit</t>
+            <xg>
+               <x>Jeg kommer tilfeldigvis til å dra.</x>
+               <xt>Mun soaitán vuolgit.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -11062,7 +11080,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">binde, knytte</l>
+         <l pos="V">binde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd" freq="270">gođđit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">knytte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -11731,25 +11759,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="5">gárget</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">komme til å</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd" freq="43861">šaddat</t>
-            <t pos="V" src="nj" usage="vd" freq="3240">gártat</t>
-            <xg>
-               <x>Jeg kommer til å dra.</x>
-               <xt>Mun šattan vuolgit.</xt>
-            </xg>
-            <xg>
-               <x>Det ble slik.</x>
-               <xt>Gárttai nu.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -12963,7 +12972,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rikle, slarke</l>
+         <l pos="V">rikle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd" freq="273">johtalit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">slarke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -16414,6 +16433,10 @@
                <x>Det ble godt vær.</x>
                <xt>Šattai buorre dálki.</xt>
             </xg>
+            <xg>
+               <x>Det ble slik.</x>
+               <xt>Gárttai nu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -18073,16 +18096,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tilfeldigvis komme til å</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd" freq="6544">soaitit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">pirke tennene</l>
       </lg>
       <mg>
@@ -18417,7 +18430,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette ut garn, line, not</l>
+         <l pos="V">sette ut bruk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -27416,7 +27429,7 @@
    </e>
    <e freq="$0">
       <lg>
-         <l pos="V">bli posete, ujevn</l>
+         <l pos="V">bli ujevn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -27766,7 +27779,7 @@
    </e>
    <e freq="$0">
       <lg>
-         <l pos="V">bli tynn, tynntrådet</l>
+         <l pos="V">bli tynn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28173,7 +28186,7 @@
    </e>
    <e freq="$0">
       <lg>
-         <l pos="V">sette ut, kaste drivgarn</l>
+         <l pos="V">sette ut drivgarn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28394,7 +28407,7 @@
    </e>
    <e freq="$0">
       <lg>
-         <l pos="V">stake, holde på med å</l>
+         <l pos="V">stake</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28404,7 +28417,17 @@
    </e>
    <e freq="$0">
       <lg>
-         <l pos="V">stake av sted, stake litt</l>
+         <l pos="V">holde på med å</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">čuoibmuladdat</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="$0">
+      <lg>
+         <l pos="V">stake av sted</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28414,7 +28437,17 @@
    </e>
    <e freq="$0">
       <lg>
-         <l pos="V">knytte, knytte fort</l>
+         <l pos="V">stake litt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">čuoibmulit</t>
+         </tg>
+      </mg>
+   </e>
+   <e freq="$0">
+      <lg>
+         <l pos="V">knytte fort</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
