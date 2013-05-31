@@ -199,6 +199,14 @@ global check of patterns:
 3. this are at best two synonyms: why not in separate entries?
          <l pos="V">stake, holde på med å</l>
 
+4. what to do with such pair?
+         <l pos="V">vri</l>
+         <l pos="V">vri seg</l>
+
+5. and with that?
+         <l pos="V">vokse</l>
+         <l pos="V">vokse opp</l>
+
  ==> please take care of them!
 
 cip-TODO:
