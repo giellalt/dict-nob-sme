@@ -134,7 +134,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd" mg_c="6">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="Pr">på</l>
       </lg>
@@ -271,7 +271,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd" mg_c="5">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="Pr">til</l>
       </lg>
@@ -293,7 +293,7 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="hjem til">
          <tg xml:lang="sme">
             <t pos="Po" freq="130">geahčai</t>
             <xg>
@@ -321,7 +321,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="7">
+   <e>
       <lg>
          <l pos="Pr">med</l>
       </lg>
@@ -334,7 +334,7 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="med dette">
          <tg xml:lang="sme">
             <t pos="Po" freq="17535">bokte</t>
             <xg>
@@ -352,7 +352,7 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="med på reise">
          <tg xml:lang="sme">
             <t pos="Po" freq="529">fárus</t>
             <xg>
@@ -361,7 +361,7 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="med på reise">
          <tg xml:lang="sme">
             <t pos="Po" freq="314">fárrui</t>
             <xg>
@@ -397,7 +397,7 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd" mg_c="6">
+   <e usage="vd">
       <lg>
          <l pos="Pr">mellom</l>
       </lg>
@@ -501,7 +501,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd" mg_c="7">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="Pr">for</l>
       </lg>
@@ -627,22 +627,18 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd" mg_c="6">
+   <e usage="vd">
       <lg>
          <l pos="Pr">etter</l>
       </lg>
       <mg re="om tid">
          <tg xml:lang="sme">
             <t pos="Pr" freq="3845">maŋŋel</t>
+            <t pos="Pr" freq="2533">maŋŋá</t>
             <xg>
                <x>Barna går hjem etter skolen.</x>
                <xt>Mánát vázzet ruoktot maŋŋel skuvlla.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr" freq="2533">maŋŋá</t>
             <xg>
                <x>Gjestene ble syke etter festlighetene.</x>
                <xt>Guossit buohccájedje maŋŋá doaluid.</xt>
@@ -718,11 +714,11 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd" mg_c="6">
+   <e usage="vd">
       <lg>
          <l pos="Pr">bak</l>
       </lg>
-      <mg>
+      <mg re="er plassert">
          <tg xml:lang="sme">
             <t pos="Po" reg="west" freq="2508">duohken</t>
             <t pos="Po" reg="east" freq="85">duohkin</t>
@@ -732,17 +728,13 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="plasseres til">
          <tg xml:lang="sme">
             <t pos="Po" freq="313">duohkái</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="Po" freq="197">duohkai</t>
          </tg>
       </mg>
-      <mg>
+      <mg re="bak fra">
          <tg xml:lang="sme">
             <t pos="Po" freq="29">maŋil</t>
             <xg>
@@ -751,7 +743,7 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="">
          <tg xml:lang="sme">
             <t pos="Po" freq="5">duogi</t>
             <xg>
@@ -760,7 +752,7 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+      <mg re="kom via">
          <tg xml:lang="sme">
             <t pos="Po" freq="2">duoge</t>
             <xg>
@@ -913,11 +905,11 @@
          </tg>
       </mg>
    </e>
-   <e usage="vd" mg_c="4">
+   <e usage="vd">
       <lg>
          <l pos="Pr">foran</l>
       </lg>
-      <mg>
+      <mg re="">
          <tg xml:lang="sme">
             <t pos="Po" freq="10969">ovddas</t>
             <xg>
@@ -931,7 +923,7 @@
             <t pos="Po" freq="2194">ovdii</t>
          </tg>
       </mg>
-      <mg>
+      <mg re="">
          <tg xml:lang="sme">
             <t pos="Po" freq="534">ovddabealde</t>
             <xg>
@@ -960,7 +952,7 @@
          </tg>
       </mg>
    </e>
-   <e src="nj" usage="vd" mg_c="2">
+   <e src="nj" usage="vd">
       <lg>
          <l pos="Pr">ovenfor</l>
       </lg>
