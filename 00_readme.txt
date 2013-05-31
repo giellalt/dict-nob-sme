@@ -221,6 +221,8 @@ src>grep -h '<l ' V_nobsme.xml | grep ','
 
 cip-TODO:
  - systematic check of any separator in the l-element such as ',', '/', etc.
+  ==> DONE
+
    - for ',', see above
    - '/'
 src>grep 'i/av hva slags' *.xml
