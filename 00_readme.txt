@@ -197,7 +197,17 @@ global check of patterns:
          <l pos="V">tilfeldigvis komme til å</l>
 
 3. this are at best two synonyms: why not in separate entries?
+
+src>grep -h '<l ' V_nobsme.xml | grep ',' 
+         <l pos="V">binde, knytte</l>
+         <l pos="V">rikle, slarke</l>
+         <l pos="V">sette ut garn, line, not</l>
+         <l pos="V">bli posete, ujevn</l>
+         <l pos="V">bli tynn, tynntrådet</l>
+         <l pos="V">sette ut, kaste drivgarn</l>
          <l pos="V">stake, holde på med å</l>
+         <l pos="V">stake av sted, stake litt</l>
+         <l pos="V">knytte, knytte fort</l>
 
 4. what to do with such pair?
          <l pos="V">vri</l>
@@ -211,4 +221,44 @@ global check of patterns:
 
 cip-TODO:
  - systematic check of any separator in the l-element such as ',', '/', etc.
+
+
+
+Simple check of doublings ignoring pos and other information:
+src>grep -h '<l ' *_nobsme.xml | cut -d '>' -f2 | cut -d '<' -f1 | sort | uniq -c | sort -nr | grep -v '1' | wc -l 
+     279
+here the top N of them
+   3 velkommen
+   3 sånn her
+   3 så
+   3 rett
+   3 nær
+   3 hva slags
+   3 før
+   3 for
+   3 ende
+   3 det der borte
+   3 de to
+   3 de fleste
+   3 bak
+   2 øverst
+   2 ønske
+   2 ære
+   2 årlig
+   2 ytre
+   2 vår egen
+   2 vår
+   2 voksenopplæringslov
+   2 vogge
+   2 vis
+   2 virkelig
+   2 vifte
+   2 vi to
+
+... og hva er "i veien med dem"?
+
+src>grep 'i veien' *.xml | grep '<l ' 
+Adv_nobsme.xml:         <l pos="Adv">i veien</l>
+phrase_nobsme.xml:         <l pos="phrase">i veien</l>
+
 
