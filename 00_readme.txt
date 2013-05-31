@@ -221,6 +221,29 @@ src>grep -h '<l ' V_nobsme.xml | grep ','
 
 cip-TODO:
  - systematic check of any separator in the l-element such as ',', '/', etc.
+   - for comma, see above
+   - /
+src>grep 'i/av hva slags' *.xml
+Pron_static_nobsme.xml:         <l pos="Pron">i/av hva slags</l>
+
+   - ()
+grep -h '<l ' *_nobsme.xml | cut -d '>' -f2 | cut -d '<' -f1 | grep '('
+og (heller) ikke
+slik (har)
+en sånn her (har)
+en slik en (har)
+slike (har)
+.......
+
+   - .
+50.
+60.
+70.
+f.eks.
+St. Hans
+avd.
+på ... navn
+nærmere mot ... siden
 
 
 
