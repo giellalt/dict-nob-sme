@@ -221,12 +221,12 @@ src>grep -h '<l ' V_nobsme.xml | grep ','
 
 cip-TODO:
  - systematic check of any separator in the l-element such as ',', '/', etc.
-   - for comma, see above
-   - /
+   - for ',', see above
+   - '/'
 src>grep 'i/av hva slags' *.xml
 Pron_static_nobsme.xml:         <l pos="Pron">i/av hva slags</l>
 
-   - ()
+   - '()'
 grep -h '<l ' *_nobsme.xml | cut -d '>' -f2 | cut -d '<' -f1 | grep '('
 og (heller) ikke
 slik (har)
@@ -235,7 +235,7 @@ en slik en (har)
 slike (har)
 .......
 
-   - .
+   - '.'
 50.
 60.
 70.
@@ -245,9 +245,33 @@ avd.
 på ... navn
 nærmere mot ... siden
 
-   - ? (check also t-elements)
+   - '?' (check also t-elements)
 nobsme>grep '<t ' src/*xml | grep '?' 
 src/Pr_nobsme.xml:            <t type="expl" freq="0">???</t>
+
+   - '-'
+berg-folk</l ==> why not just 'bergfolk'?
+te-kjøkken</l ==> dito
+dusj-krakk</l ==> dito
+
+   - tv vs. TV
+barne-tv</l
+TV-program</l
+tv-program</l
+
+   - doublings or not?
+liten jord- eller snøskavl som henger utover</l
+jord- eller snøskavl som henger utover</l
+
+   - why not eighter all-letter strings or all-digit strings? 
+tjue-tretti</l
+14-19000</l
+14-19</l
+2-3000</l
+tolv-tretten</l
+
+   - naja, no comment!
+gå på alle fire - på hender og føtter</l
 
 Simple check of doublings ignoring pos and other information:
 src>grep -h '<l ' *_nobsme.xml | cut -d '>' -f2 | cut -d '<' -f1 | sort | uniq -c | sort -nr | grep -v '1' | wc -l 
