@@ -210,7 +210,12 @@ cip-TODO:
  - systematic check of any separator in the l-element such as ',', '/', etc.
   ==> DONE
 
-   - for ',', see above
+   - ','
+src>grep '<l ' *.xml | grep ','
+N_nobsme.xml:         <l pos="N">trestokk til å henge, ta av og ordne kaffekjelen over ilden med</l>
+N_nobsme.xml:         <l pos="N">frodig, ruvende person</l>
+N_nobsme.xml:         <l pos="N">vilt dyr, også hund og katt</l>
+
    - '/'
 src>grep 'i/av hva slags' *.xml
 Pron_static_nobsme.xml:         <l pos="Pron">i/av hva slags</l>
