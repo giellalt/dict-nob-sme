@@ -338,16 +338,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">årets</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" usage="vd" freq="2891">jagáš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">feil</l>
       </lg>
       <mg>
@@ -23603,6 +23593,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="25">eanasoassi</t>
+            <t pos="Adv" src="nj" usage="vd" freq="25">eanas</t>
          </tg>
       </mg>
    </e>
@@ -25524,6 +25515,11 @@
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="3737">loahppa</t>
             <t pos="N" src="nj" usage="vd" freq="275">geahči</t>
+            <t pos="Po" src="nj" usage="vd" freq="769">geahčen</t>
+            <xg>
+               <x>Skuteren ble stjålet i andre enden av bygda.</x>
+               <xt>Skohter suoláduvvui nuppe geahčen márkangili.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26680,6 +26676,15 @@
             <t pos="N" src="nj" usage="vd" freq="12354">siidu</t>
             <t pos="N" src="nj" usage="vd" freq="49">gilga</t>
             <t pos="N" src="nj" usage="vd" freq="0">gilggabealli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po" src="nj" usage="vd" freq="3299">bealde</t>
+            <xg>
+               <x>La oss gå på denne sida av brua.</x>
+               <xt>Vázzu dán bealde šaldi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -60899,21 +60904,7 @@
          <tg xml:lang="sme">
             <t pos="Pron" src="nj" usage="vd" freq="686">iežá</t>
             <xg>
-               <x>Jeg kan ikke ta andre med dit.</x>
-               <xt>In sáhte iežáid váldit mielde dohko.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">annet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" src="nj" usage="vd" freq="686">iežá</t>
-            <xg>
-               <x>Jeg kan ikke ta andre med dit.</x>
+               <x>Jeg kan ikke ta andre med dit. TROND hit</x>
                <xt>In sáhte iežáid váldit mielde dohko.</xt>
             </xg>
          </tg>
@@ -61733,6 +61724,20 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="N">tull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd" freq="118">duššiid</t>
+            <xg>
+               <x>Du snakker tull!</x>
+               <xt>Don hálat duššiid!</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e freq="$46594">
       <lg>
          <l pos="N">mangel</l>
@@ -61744,7 +61749,7 @@
             <t pos="N" src="nj" usage="vd" freq="144">váili</t>
             <t pos="N" src="nj" usage="vd" freq="13">vádjit</t>
             <xg>
-               <x>Der er det er lite mat.</x>
+               <x>Der er det er mangel på mat.</x>
                <xt>Doppe lea vátni borramuš.</xt>
             </xg>
             <xg>
@@ -61752,11 +61757,7 @@
                <xt>Soahtejagiid lei borramušváili.</xt>
             </xg>
             <xg>
-               <x>Bedriften mangler kapital.</x>
-               <xt>Fitnodagas lea ruhtaváili.</xt>
-            </xg>
-            <xg>
-               <x>Fraværet av ungdom var iøynefallende.</x>
+               <x>Mangelen på ungdom var iøynefallende.</x>
                <xt>Nuorat buolvva váili čuozai jođánit čalbmái.</xt>
             </xg>
          </tg>
@@ -63908,16 +63909,8 @@
             <t pos="N" freq="146">vuollebáza</t>
             <t pos="N" src="nj" usage="vd" freq="144">váili</t>
             <xg>
-               <x>I krigsårene var det matmangel.</x>
-               <xt>Soahtejagiid lei borramušváili.</xt>
-            </xg>
-            <xg>
-               <x>Bedriften mangler kapital.</x>
-               <xt>Fitnodagas lea ruhtaváili.</xt>
-            </xg>
-            <xg>
-               <x>Fraværet av ungdom var iøynefallende.</x>
-               <xt>Nuorat buolvva váili čuozai jođánit čalbmái.</xt>
+               <x>Bedriften har et underskudd.</x>
+               <xt>Fitnodagas lea vuollebáza.</xt>
             </xg>
          </tg>
       </mg>
@@ -64820,16 +64813,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="84">veajuiduhttin</t>
-         </tg>
-      </mg>
-   </e>
-   <e freq="$7577">
-      <lg>
-         <l pos="N">avd.</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" freq="0">osd.</t>
          </tg>
       </mg>
    </e>
@@ -89869,6 +89852,20 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">evttohanáigemearri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" src="nj" usage="vd" freq="0">lágan</t>
+            <xg>
+               <x>Vi skal heller ikke glemme at de også har et slags objektivt grunnlag.</x>
+               <xt>Mii eat galgga vajálduhttit ahte sis lea maiddái muhtin lágan objektiivvalaš vuođđu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
