@@ -19161,11 +19161,11 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <redynge</re>
+            <re>dynge</re>
             <t pos="N" src="nj" usage="vd" freq="47">látna</t>
             <xg>
-               <x>Girjjit ledje látnan láhttis.</x>
-               <xt>Bøkene lå i en haug på golvet.</xt>
+               <x>Bøkene lå i en haug på golvet.</x>
+               <xt>Girjjit ledje látnan láhttis.</xt>
             </xg>
          </tg>
       </mg>
@@ -19175,7 +19175,7 @@
             <t pos="N" src="nj" usage="vd" freq="28">čorru</t>
             <xg>
                <x>Han forsvant over haugen på ski.</x>
-               <xt>Son čuoigalii dievá badjel.</xt>
+               <xt>Son čuoigalii čoru badjel.</xt>
             </xg>
          </tg>
       </mg>
@@ -23336,6 +23336,7 @@
          <tg xml:lang="sme">
             <re>reinflokk</re>
             <t pos="N" src="nj" usage="vd" freq="3154">eallu</t>
+         </tg>
       </mg>
    </e>
    <e>
@@ -33577,6 +33578,7 @@
             <t pos="N" src="nj" usage="vd" freq="2640">johka</t>
          </tg>
       </mg>
+      <mg>
          <tg xml:lang="sme">
             <re>lita stille elv</re>
             <t pos="N" src="nj" usage="vd" freq="11">fielbmá</t>
@@ -37351,7 +37353,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="746">ministtar</t>
-            <t pos="N" usage="vd" freq="131">minister</t>
          </tg>
       </mg>
    </e>
@@ -65231,7 +65232,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="0">fála</t>
+            <t pos="N" freq="0">fálaldat</t>
          </tg>
       </mg>
    </e>
@@ -66476,8 +66477,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="2">oahppaduođaštus</t>
+            <re>vitneutsagn</re>
             <t pos="N" freq="0">vihtanuššan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>eksamensvitnemål</re>
+            <t pos="N" freq="2">oahppoduođaštus</t>
          </tg>
       </mg>
    </e>
@@ -66881,6 +66888,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="N" freq="0">bulljaras</t>
             <t pos="N" freq="0">buoja</t>
          </tg>
       </mg>
@@ -71721,7 +71729,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">boblejáhkka</t>
             <t pos="N">buojageavla</t>
          </tg>
       </mg>
