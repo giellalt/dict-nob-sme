@@ -50,16 +50,6 @@
          </tg>
       </mg>
    </e>
-   <e freq="$47">
-      <lg>
-         <l pos="A">dobbel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">guovttegeardán</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="A">global</l>
@@ -454,13 +444,13 @@
          </tg>
       </mg>
    </e>
-   <e>
+   <e freq="$496585">
       <lg>
          <l pos="A">første</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" freq="14884">vuosttaš</t>
+            <t pos="A" freq="14884">vuosttaš</t>
             <t pos="A" usage="vd" freq="5125">vuosttas</t>
             <t pos="A" usage="vd" freq="467">vuosttamuš</t>
             <t pos="A" usage="vd" freq="250">ovddemus</t>
@@ -3601,6 +3591,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd" freq="26">guovttegeardásaš</t>
+            <t pos="A">guovttegeardán</t>
          </tg>
       </mg>
    </e>
@@ -8976,16 +8967,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" freq="0">badjelgeahčči</t>
-         </tg>
-      </mg>
-   </e>
-   <e freq="$496585">
-      <lg>
-         <l pos="A">første</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" freq="14884">vuosttaš</t>
          </tg>
       </mg>
    </e>
