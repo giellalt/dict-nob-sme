@@ -58887,7 +58887,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" freq="1630">rádio</t>
             <t pos="N" src="nj" usage="vd" freq="1630">rádio</t>
          </tg>
       </mg>
@@ -59120,7 +59119,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="469">ceahkki</t>
-            <t pos="N" freq="469">ceahkki</t>
          </tg>
       </mg>
    </e>
@@ -59152,7 +59150,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="368">našuvdna</t>
-            <t pos="N" freq="368">našuvdna</t>
             <t pos="N" src="nj" usage="vd" freq="135">olmmoščearda</t>
          </tg>
       </mg>
@@ -59185,7 +59182,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1077">kilomehter</t>
-            <t pos="N" freq="1077">kilomehter</t>
             <t pos="N" freq="19">gilomehter</t>
          </tg>
       </mg>
@@ -59562,9 +59558,20 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>utvendig</re>
             <t pos="N" src="nj" usage="vd" freq="192">čeabet</t>
-            <t pos="N" src="nj" usage="vd" freq="140">čotta</t>
             <t pos="N" src="nj" usage="vd" freq="21">čeabát</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>innvendig</re>
+            <t pos="N" src="nj" usage="vd" freq="140">čotta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>klesplagg</re>
             <t pos="N" freq="0">čeabetgođa</t>
          </tg>
       </mg>
@@ -59820,7 +59827,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" freq="38">gálvojorri</t>
-            <t pos="N" freq="25">goallosvovdna</t>
             <t pos="N" usage="vd" freq="25">goallosvovdna</t>
          </tg>
       </mg>
@@ -59973,7 +59979,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="1202">riikkačoahkkin</t>
-            <t pos="N" freq="1202">riikkačoahkkin</t>
          </tg>
       </mg>
    </e>
