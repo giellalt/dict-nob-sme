@@ -24481,6 +24481,10 @@
                <x>Skuteren ble stjålet i andre enden av bygda.</x>
                <xt>Skohter suoláduvvui nuppe geahčen márkangili.</xt>
             </xg>
+            <xg>
+               <x>Enden på historien var god.</x>
+               <xt>Muitalusa loahppa lei buorre.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25594,13 +25598,20 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>arkflate</re>
             <t pos="N" src="nj" usage="vd" freq="12354">siidu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>kroppsdel</re>
             <t pos="N" src="nj" usage="vd" freq="49">gilga</t>
             <t pos="N" src="nj" usage="vd" freq="0">gilggabealli</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>p</re>
             <t pos="Po" src="nj" usage="vd" freq="3299">bealde</t>
             <xg>
                <x>La oss gå på denne sida av brua.</x>
@@ -56930,6 +56941,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" src="nj" usage="vd" freq="686">iežá</t>
+            <t pos="Pron" usage="vd" freq="686">eará</t>
             <xg>
                <x>Jeg kan ikke ta andre med dit. TROND hit</x>
                <xt>In sáhte iežáid váldit mielde dohko.</xt>
