@@ -463,3 +463,9 @@ Deadlines missing:
 2. Når er filene i nobsme/terms/admin/src_interim ferdig til unifikasjon med nobsme/src-dataen?
    ==> unifikasjon av sme-mgs (spørsmål til Berit Merete)
 
+
+cip-TODO:
+ - extract proper nouns from the FAD-data
+ - unify other-mwe with the specific mwe-data
+
+
