@@ -491,8 +491,12 @@
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="7511">vuohki</t>
             <xg>
-               <x>På denne måten blir vi fort ferdig.</x>
-               <xt>Dáinna vugiin geargat jođánit.</xt>
+               <x>Det er ingen annen måte å gjøre dette på.</x>
+               <xt>Ii leat eará vuohki mo dán dahkat.</xt>
+            </xg>
+            <xg>
+               <x>uttrykksmåte</x>
+               <xt>dadjanvuohki</xt>
             </xg>
          </tg>
       </mg>
@@ -500,26 +504,8 @@
          <tg xml:lang="sme">
             <t pos="N" usage="vd" freq="3617">láhki</t>
             <xg>
-               <x>på denne måten</x>
-               <xt>dán láhkái</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po" usage="vd" freq="2308">láhkai</t>
-            <t pos="Adv" usage="vd" freq="0">ládje</t>
-            <xg>
-               <x>Slik kan det gå.</x>
-               <xt>Dán láhkai sáhttá mannat.</xt>
-            </xg>
-            <xg>
-               <x>Gutten var lik sin far.</x>
-               <xt>Bárdni lei áhčis ládje.</xt>
-            </xg>
-            <xg>
-               <x>Jeg har redd opp sengen ferdig til å sove i.</x>
-               <xt>Mun lea láhčán seaŋgga oađđin láhkai.</xt>
+               <x>På denne måten blir vi fort ferdig.</x>
+               <xt>Dáinna lágiin geargat jođánit.</xt>
             </xg>
          </tg>
       </mg>
@@ -56939,7 +56925,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">annen</l>
+         <l pos="Det">annen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -62231,10 +62217,10 @@
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd" freq="1157">imaš</t>
             <t pos="N" freq="130">oavdudahku</t>
-            <t pos="Adv" src="nj" usage="vd" freq="9">oavdu</t>
+            <t pos="N" usage="vd" freq="9">oavdu</t>
             <xg>
-               <x>Ikke rart at Elle dro.</x>
-               <xt>Oavdu Elle manai.</xt>
+               <x>Han har utført mirakler!</x>
+               <xt>Son lea dahkan oavdudaguid!</xt>
             </xg>
          </tg>
       </mg>
@@ -68752,7 +68738,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">dásseárvoáittardeaddji</t>
+            <t pos="N" type="NomAg">dásseárvoáittardeaddji</t>
          </tg>
       </mg>
    </e>
@@ -69145,7 +69131,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">hálddašeaddji</t>
+            <t pos="N" type="NomAg">hálddašeaddji</t>
             <t pos="N">eanaháldejaš</t>
          </tg>
       </mg>
@@ -69439,7 +69425,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">digaštallanjođiheaddji</t>
+            <t pos="N" type="NomAg">digaštallanjođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -69617,7 +69603,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">lávdehábmejeaddji</t>
+            <t pos="N" type="NomAg">lávdehábmejeaddji</t>
          </tg>
       </mg>
    </e>
@@ -70074,7 +70060,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">riikkasoabaheaddji</t>
+            <t pos="N" type="NomAg">riikkasoabaheaddji</t>
          </tg>
       </mg>
    </e>
@@ -70084,7 +70070,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">suhkki</t>
+            <t pos="N" type="NomAg">suhkki</t>
          </tg>
       </mg>
    </e>
@@ -70225,7 +70211,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">panelaoasseváldi</t>
+            <t pos="N" type="NomAg">panelaoasseváldi</t>
          </tg>
       </mg>
    </e>
@@ -70595,7 +70581,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">dieđiheaddji</t>
+            <t pos="N" type="NomAg">dieđiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -70993,7 +70979,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">mun-muitaleaddji</t>
+            <t pos="N" type="NomAg">mun-muitaleaddji</t>
          </tg>
       </mg>
    </e>
@@ -71003,8 +70989,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">opmodatsoabaheaddji</t>
-            <t pos="NomAg">opmodatsoabadalli</t>
+            <t pos="N" type="NomAg">opmodatsoabaheaddji</t>
+            <t pos="N" type="NomAg">opmodatsoabadalli</t>
          </tg>
       </mg>
    </e>
@@ -71919,7 +71905,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">fievrredanbargi</t>
+            <t pos="N" type="NomAg">fievrredanbargi</t>
          </tg>
       </mg>
    </e>
@@ -71949,7 +71935,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">ossodatbuhcciiddikšu</t>
+            <t pos="N" type="NomAg">ossodatbuhcciiddikšu</t>
             <t pos="N">ossodatbuohccedivššár</t>
          </tg>
       </mg>
@@ -71960,7 +71946,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">vuosttasjienasteaddji</t>
+            <t pos="N" type="NomAg">vuosttasjienasteaddji</t>
          </tg>
       </mg>
    </e>
@@ -72326,7 +72312,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">oahpahusgoziheaddji</t>
+            <t pos="N" type="NomAg">oahpahusgoziheaddji</t>
          </tg>
       </mg>
    </e>
@@ -72904,7 +72890,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">eretfárrejeaddji</t>
+            <t pos="N" type="NomAg">eretfárrejeaddji</t>
          </tg>
       </mg>
    </e>
@@ -73660,7 +73646,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">ovdajuvladoaibmi</t>
+            <t pos="N" type="NomAg">ovdajuvladoaibmi</t>
          </tg>
       </mg>
    </e>
@@ -73710,7 +73696,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">sáttagoddejođiheaddji</t>
+            <t pos="N" type="NomAg">sáttagoddejođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -73994,7 +73980,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">birasgáhttenjođiheaddji</t>
+            <t pos="N" type="NomAg">birasgáhttenjođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -74280,7 +74266,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">kánttorjođiheaddji</t>
+            <t pos="N" type="NomAg">kánttorjođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -74817,7 +74803,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">johttivuovdaleaddji</t>
+            <t pos="N" type="NomAg">johttivuovdaleaddji</t>
          </tg>
       </mg>
    </e>
@@ -75038,7 +75024,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">doaibmalobidoalli</t>
+            <t pos="N" type="NomAg">doaibmalobidoalli</t>
          </tg>
       </mg>
    </e>
@@ -76060,7 +76046,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">evttoheaddji</t>
+            <t pos="N" type="NomAg">evttoheaddji</t>
          </tg>
       </mg>
    </e>
@@ -76831,7 +76817,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">astoáiggejođiheaddji</t>
+            <t pos="N" type="NomAg">astoáiggejođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -77012,7 +76998,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">boazogoahkka</t>
-            <t pos="NomAg">guođoheaddji</t>
+            <t pos="N" type="NomAg">guođoheaddji</t>
          </tg>
       </mg>
    </e>
@@ -77639,7 +77625,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">mánáidsuodjalusjođiheaddji</t>
+            <t pos="N" type="NomAg">mánáidsuodjalusjođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -77960,7 +77946,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">skeŋkejeaddji</t>
+            <t pos="N" type="NomAg">skeŋkejeaddji</t>
          </tg>
       </mg>
    </e>
@@ -78081,7 +78067,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">doaibmajođiheaddji</t>
+            <t pos="N" type="NomAg">doaibmajođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -78656,7 +78642,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">geađgejorgu</t>
+            <t pos="N" type="NomAg">geađgejorgu</t>
          </tg>
       </mg>
    </e>
@@ -78809,7 +78795,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">vuostedigaštalli</t>
+            <t pos="N" type="NomAg">vuostedigaštalli</t>
          </tg>
       </mg>
    </e>
@@ -78819,7 +78805,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">váldobuohccedikšu</t>
+            <t pos="N" type="NomAg">váldobuohccedikšu</t>
          </tg>
       </mg>
    </e>
@@ -78981,7 +78967,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">kánttordoaimmaheaddji</t>
+            <t pos="N" type="NomAg">kánttordoaimmaheaddji</t>
          </tg>
       </mg>
    </e>
@@ -78991,7 +78977,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">dálloruhtadoalli</t>
+            <t pos="N" type="NomAg">dálloruhtadoalli</t>
          </tg>
       </mg>
    </e>
@@ -79191,7 +79177,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">fidnobagadeaddji</t>
+            <t pos="N" type="NomAg">fidnobagadeaddji</t>
          </tg>
       </mg>
    </e>
@@ -79201,7 +79187,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">kuvllasuhppejeaddji</t>
+            <t pos="N" type="NomAg">kuvllasuhppejeaddji</t>
          </tg>
       </mg>
    </e>
@@ -79486,7 +79472,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">lávdedávvirháhkki</t>
+            <t pos="N" type="NomAg">lávdedávvirháhkki</t>
          </tg>
       </mg>
    </e>
@@ -79892,7 +79878,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">golloguoddi</t>
+            <t pos="N" type="NomAg">golloguoddi</t>
          </tg>
       </mg>
    </e>
@@ -80691,7 +80677,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">bággolonisteaddji</t>
+            <t pos="N" type="NomAg">bággolonisteaddji</t>
          </tg>
       </mg>
    </e>
@@ -81343,7 +81329,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">riektehistorjádutki</t>
+            <t pos="N" type="NomAg">riektehistorjádutki</t>
          </tg>
       </mg>
    </e>
@@ -82207,7 +82193,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">dohkkeheaddji</t>
+            <t pos="N" type="NomAg">dohkkeheaddji</t>
          </tg>
       </mg>
    </e>
@@ -82217,7 +82203,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">luoddadoalli</t>
+            <t pos="N" type="NomAg">luoddadoalli</t>
          </tg>
       </mg>
    </e>
@@ -82998,7 +82984,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">kantiidnajođiheaddji</t>
+            <t pos="N" type="NomAg">kantiidnajođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -83419,7 +83405,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">panelajođiheaddji</t>
+            <t pos="N" type="NomAg">panelajođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -84498,7 +84484,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">diggeoasseváldi</t>
+            <t pos="N" type="NomAg">diggeoasseváldi</t>
          </tg>
       </mg>
    </e>
@@ -84768,7 +84754,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">bearašmánáidgárdejođiheaddji</t>
+            <t pos="N" type="NomAg">bearašmánáidgárdejođiheaddji</t>
          </tg>
       </mg>
    </e>
@@ -84778,7 +84764,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">gávpehálddašeaddji</t>
+            <t pos="N" type="NomAg">gávpehálddašeaddji</t>
          </tg>
       </mg>
    </e>
@@ -84788,7 +84774,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">ovttagálvobuvttadeaddji</t>
+            <t pos="N" type="NomAg">ovttagálvobuvttadeaddji</t>
          </tg>
       </mg>
    </e>
@@ -84798,7 +84784,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">fálesbivdohistorjádutki</t>
+            <t pos="N" type="NomAg">fálesbivdohistorjádutki</t>
          </tg>
       </mg>
    </e>
@@ -84808,7 +84794,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">meaddelvuoddji</t>
+            <t pos="N" type="NomAg">meaddelvuoddji</t>
          </tg>
       </mg>
    </e>
@@ -84818,7 +84804,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">vuoigatvuođaguoddi</t>
+            <t pos="N" type="NomAg">vuoigatvuođaguoddi</t>
          </tg>
       </mg>
    </e>
@@ -84828,7 +84814,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">áigodatguollebivdi</t>
+            <t pos="N" type="NomAg">áigodatguollebivdi</t>
          </tg>
       </mg>
    </e>
@@ -84838,7 +84824,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="NomAg">álbmotriekteáššedovdi</t>
+            <t pos="N" type="NomAg">álbmotriekteáššedovdi</t>
          </tg>
       </mg>
    </e>
@@ -85898,8 +85884,8 @@
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd" freq="0">lágan</t>
             <xg>
-               <x>Vi skal heller ikke glemme at de også har et slags objektivt grunnlag.</x>
-               <xt>Mii eat galgga vajálduhttit ahte sis lea maiddái muhtin lágan objektiivvalaš vuođđu.</xt>
+               <x>Jeg liker all slags musikk.</x>
+               <xt>Mun liikon juohke lágan musihkkii.</xt>
             </xg>
          </tg>
       </mg>
