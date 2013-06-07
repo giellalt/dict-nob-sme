@@ -453,3 +453,13 @@ namuhan veara   namuheapmi+N+Sg+Gen+veara+Po
 
 golbmaloginubbi golbma#logi#nubbi+A+Ord+Sg+Nom
 golbmaloginubbi golbma#logi#nubbi+A+Ord+Attr
+
+Deadlines missing:
+
+1. Når er filene i nobsme/src ferdig til unifikasjon med FAD-dataen?
+   ==> nob-lemmaen (spørsmål til Trond)
+   ==> sme-lemmaen (spørsmål til Berit Merete)
+
+2. Når er filene i nobsme/terms/admin/src_interim ferdig til unifikasjon med nobsme/src-dataen?
+   ==> unifikasjon av sme-mgs (spørsmål til Berit Merete)
+
