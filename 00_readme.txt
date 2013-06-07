@@ -310,4 +310,146 @@ src>grep 'i veien' *.xml | grep '<l '
 Adv_nobsme.xml:         <l pos="Adv">i veien</l>
 phrase_nobsme.xml:         <l pos="phrase">i veien</l>
 
+Oversikt over N, A og V i nobsme/src:
 
+__N_nobsme.xml__
+Hvor mange entry er det i fila?
+src$ cat N_nobsme.xml | grep 'l pos' | wc -l
+    8450
+
+Hvor mange translations er det i fila?
+src$ cat N_nobsme.xml | grep 't pos' | wc -l
+   10065
+
+POS:
+NOB-lemma:
+src$ grep '<l ' N_nobsme.xml | egrep -o '<l pos=...'| sort | uniq -c
+   1 <l pos="De
+8449 <l pos="N"
+SME-translation:
+src$ grep '<t ' N_nobsme.xml | egrep -o '<t pos=...'| sort | uniq -c
+   7 <t pos="A"
+   3 <t pos="Ad
+10048 <t pos="N"
+   3 <t pos="Po
+   2 <t pos="Pr
+   2 <t pos="ph
+
+
+usmeNorm OK:
+src$ cat N_nobsme.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > N_list
+src$ cat N_list | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat N_list | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > N_lemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 N_list N_lemma | wc -l
+       2
+src$ comm -23 N_list N_lemma |l
+dássenmandáhtta
+saláhtta
+
+
+__V_nobsme.xml__
+Hvor mange entry er det i fila?
+src$ cat V_nobsme.xml | grep 'l pos' | wc -l
+    2362
+
+Hvor mange translations er det i fila?
+src$ cat V_nobsme.xml | grep 't pos' | wc -l
+    3342
+
+POS:
+NOB-lemma:
+src$ grep '<l ' V_nobsme.xml | egrep -o '<l pos=...'| sort | uniq -c
+2362 <l pos="V"
+SME-translation:
+src$ grep '<t ' V_nobsme.xml | egrep -o '<t pos=...'| sort | uniq -c
+3341 <t pos="V"
+   1 <t pos="i"
+
+usmeNorm OK:
+src$ cat V_nobsme.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > V_list
+src$ cat V_list | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       1
+src$ cat V_list | usmeNorm | grep '?' | lesssávvat lihku    sávvat lihku    +?
+src$ cat V_list | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > V_lemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 V_list V_lemma | wc -l
+       0
+
+
+__A_nobsme.xml__
+Hvor mange entry er det i fila?
+src$ cat A_nobsme.xml | grep 'l pos' | wc -l
+    1035
+
+Hvor mange translations er det i fila?
+src$ cat A_nobsme.xml | grep 't pos' | wc -l
+    1421
+
+POS:
+NOB-lemma:
+src$ grep '<l ' A_nobsme.xml | egrep -o '<l pos=...'| sort | uniq -c
+1034 <l pos="A"
+   1 <l pos="Ad
+SME-translation:
+src$ grep '<t ' A_nobsme.xml | egrep -o '<t pos=...'| sort | uniq -c
+1376 <t pos="A"
+  17 <t pos="Ad
+  11 <t pos="N"
+  14 <t pos="Po
+   2 <t pos="Pr
+   1 <t pos="ph
+
+usmeNorm OK:
+src$ cat A_nobsme.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > A_list
+src$ cat A_list | usmeNorm | grep '?' | wc -l
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+       0
+src$ cat A_list | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > A_lemma
+0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
+src$ comm -23 A_list A_lemma | wc -l
+      31
+
+src$ comm -23 A_list A_lemma | rev|sort|rev|l
+goansta-
+oarje-
+gávpe-
+sálte-
+boasttu-
+bođu-
+dárogiela-islánddagiela
+namuhan veara
+golbmaloginubbi
+guokteloginubbi
+golbmalogičihččet
+guoktelogičihččet
+golbmalogiovccát
+guoktelogiovccát
+golbmalogigávccát
+guoktelogigávccát
+golbmalogát
+vihttalogát
+guhttalogát
+čiežalogát
+njealljelogát
+golbmaloginjealját
+guokteloginjealját
+golbmalogigoalmmát
+guoktelogigoalmmát
+golbmalogiviđát
+guoktelogiviđát
+golbmalogiguđát
+guoktelogiguđát
+golbmalogivuosttaš
+guoktelogivuosttaš
+
+
+goansta-        goansta+N+SgNomCmp+RCmpnd
+
+namuhan veara   namuheapmi+N+Sg+Gen+veara+Po
+
+golbmaloginubbi golbma#logi#nubbi+A+Ord+Sg+Nom
+golbmaloginubbi golbma#logi#nubbi+A+Ord+Attr
