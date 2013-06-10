@@ -442,11 +442,12 @@ guoktelogivuosttaš
 Deadlines missing:
 
 1. Når er filene i nobsme/src ferdig til unifikasjon med FAD-dataen?
-   ==> nob-lemmaen (spørsmål til Trond)
-   ==> sme-lemmaen (10.6.13 er filene ferdig til unifisering)
+   ==> nob-lemmaen TODO: (spørsmål til Trond)
+   
+   ==> sme-lemmaen DONE (10.6.13 er filene ferdig til unifisering)
 
 2. Når er filene i nobsme/terms/admin/src_interim ferdig til unifikasjon med nobsme/src-dataen?
-   ==> unifikasjon av sme-mgs (spørsmål til Berit Merete)
+   ==> unifikasjon av sme-mgs TODO: (spørsmål til Berit Merete)
 
 
 cip-TODO:
