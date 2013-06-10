@@ -344,10 +344,7 @@ src$ cat N_list | usmeNorm | grep '?' | wc -l
 src$ cat N_list | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > N_lemma
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 N_list N_lemma | wc -l
-       2
-src$ comm -23 N_list N_lemma |l
-dássenmandáhtta
-saláhtta
+       0
 
 
 __V_nobsme.xml__
@@ -359,7 +356,7 @@ Hvor mange translations er det i fila?
 src$ cat V_nobsme.xml | grep 't pos' | wc -l
     3342
 
-POS:
+POS OK:
 NOB-lemma:
 src$ grep '<l ' V_nobsme.xml | egrep -o '<l pos=...'| sort | uniq -c
 2362 <l pos="V"
@@ -383,26 +380,26 @@ src$ comm -23 V_list V_lemma | wc -l
 __A_nobsme.xml__
 Hvor mange entry er det i fila?
 src$ cat A_nobsme.xml | grep 'l pos' | wc -l
-    1035
+    1030
 
 Hvor mange translations er det i fila?
 src$ cat A_nobsme.xml | grep 't pos' | wc -l
-    1421
+    1417
 
 POS:
 NOB-lemma:
 src$ grep '<l ' A_nobsme.xml | egrep -o '<l pos=...'| sort | uniq -c
-1034 <l pos="A"
-   1 <l pos="Ad
+src$ grep '<l ' A_nobsme.xml | egrep -o '<l pos=...'| sort | uniq -c
+1030 <l pos="A"
 SME-translation:
 src$ grep '<t ' A_nobsme.xml | egrep -o '<t pos=...'| sort | uniq -c
-1376 <t pos="A"
+1372 <t pos="A"
   17 <t pos="Ad
   11 <t pos="N"
   14 <t pos="Po
    2 <t pos="Pr
    1 <t pos="ph
-
+   
 usmeNorm OK:
 src$ cat A_nobsme.xml | grep '<t pos' | tr '>' '<' | cut -d '<' -f3 | sort -u > A_list
 src$ cat A_list | usmeNorm | grep '?' | wc -l
@@ -411,54 +408,42 @@ src$ cat A_list | usmeNorm | grep '?' | wc -l
 src$ cat A_list | usmeNorm | cut -f2 | cut -d '+' -f1 | sort -u > A_lemma
 0%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>100%
 src$ comm -23 A_list A_lemma | wc -l
-      31
-
+      25
 src$ comm -23 A_list A_lemma | rev|sort|rev|l
+Lista inneholder 18 dynamisk sammensatte ordenstall, 6 ord som brukes som førsteledd i sammensetninger + namuhan veara. Alle disse får analyse i Neahttadigisánit.
+
 goansta-
 oarje-
 gávpe-
 sálte-
 boasttu-
 bođu-
-dárogiela-islánddagiela
 namuhan veara
 golbmaloginubbi
 guokteloginubbi
-golbmalogičihččet
 guoktelogičihččet
-golbmalogiovccát
 guoktelogiovccát
-golbmalogigávccát
 guoktelogigávccát
 golbmalogát
 vihttalogát
 guhttalogát
 čiežalogát
 njealljelogát
-golbmaloginjealját
+ovccilogát
+gávccilogát
 guokteloginjealját
-golbmalogigoalmmát
 guoktelogigoalmmát
-golbmalogiviđát
 guoktelogiviđát
-golbmalogiguđát
 guoktelogiguđát
 golbmalogivuosttaš
 guoktelogivuosttaš
 
 
-goansta-        goansta+N+SgNomCmp+RCmpnd
-
-namuhan veara   namuheapmi+N+Sg+Gen+veara+Po
-
-golbmaloginubbi golbma#logi#nubbi+A+Ord+Sg+Nom
-golbmaloginubbi golbma#logi#nubbi+A+Ord+Attr
-
 Deadlines missing:
 
 1. Når er filene i nobsme/src ferdig til unifikasjon med FAD-dataen?
    ==> nob-lemmaen (spørsmål til Trond)
-   ==> sme-lemmaen (spørsmål til Berit Merete)
+   ==> sme-lemmaen (10.6.13 er filene ferdig til unifisering)
 
 2. Når er filene i nobsme/terms/admin/src_interim ferdig til unifikasjon med nobsme/src-dataen?
    ==> unifikasjon av sme-mgs (spørsmål til Berit Merete)
