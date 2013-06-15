@@ -583,8 +583,8 @@
                <xt>Mus lea evttohus, ustit, biila.</xt>
             </xg>
             <xg>
-               <x>Mun oamastan viesu.</x>
-               <xt>Jeg eier et hus.</xt>
+               <x>Jeg eier et hus.</x>
+               <xt>Mun oamastan viesu.</xt>
             </xg>
          </tg>
       </mg>
@@ -663,7 +663,7 @@
             <t pos="V" src="nj" usage="vd" freq="2823">bistit</t>
             <t pos="V" src="nj" usage="vd" freq="6">bindit</t>
             <xg>
-               <x>Arrangementet begynner kl 12 og vare til halv fem.</x>
+               <x>Arrangementet begynner kl. 12 og varer til halv fem.</x>
                <xt>Doalut álget guoktenuppelogis ja bistet beal viđa rádjái.</xt>
             </xg>
          </tg>
@@ -990,7 +990,7 @@
             <t pos="V" src="nj" usage="vd" freq="760">badjánit</t>
             <xg>
                <x>Vi drakk morgenkaffe mens vi så sola stige opp.</x>
-               <x>Mii jugadeimmet gáfe, ja geahčaimet go beaivváš badjánii..</x>
+               <xt>Mii jugadeimmet gáfe, ja geahčaimet go beaivváš badjánii..</xt>
             </xg>
          </tg>
       </mg>
@@ -1733,7 +1733,7 @@
          <tg re="hilse" xml:lang="sme">
             <t pos="V" usage="vd" freq="83">seavvit</t>
             <xg>
-               <x>Jeg vinker hadet til barna.</x>
+               <x>Jeg vinker ha det til barna.</x>
                <xt>Mun seaván mánáide ovdal vuolggán.</xt>
             </xg>
          </tg>
@@ -4190,7 +4190,7 @@
          <tg re="tap" xml:lang="sme">
             <t pos="V" src="nj" usage="vd" freq="4214">massit</t>
             <xg>
-               <x>Bondene i området mister mye sau til rovdyr.</x>
+               <x>Bøndene i området mister mye sau til rovdyr.</x>
                <xt>Boanddat báikkážis masset olle sávzzaid boraspiriide.</xt>
             </xg>
          </tg>
@@ -10769,12 +10769,17 @@
             </xg>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">fordrive</l>
+      </lg>
       <mg>
          <tg xml:lang="sme">
             <re>om tid</re>
             <t pos="V" src="nj" usage="vd" freq="14">golahallat</t>
             <xg>
-               <x>Etter måltidet lette Biret etter et spill man kunne ddrive tiden med.</x>
+               <x>Etter måltidet lette Biret etter et spill man kunne fordrive tiden med.</x>
                <xt>Maŋŋel borrama ozai Biret spealu mainna golahalaiga áiggi.</xt>
             </xg>
          </tg>
