@@ -463,7 +463,6 @@ statistics:
 2. fad-nobsme non-common entries:
 
 2.1 fad-only data (for Berit Merete to start with):
-    ==> please don't start with the nouns!!!
 
 10604 N_nobsme.xml
 _checkout_fadWOTsrc>grep 'mg_c' N_nobsme.xml | wc -l 
@@ -508,11 +507,6 @@ _checkout_fadWOTsrc>grep 'mg_c' V_nobsme.xml | sort | uniq -c | sort -nr
 1744 V_nobsme.xml
  572 A_nobsme.xml
 
-
-
- - extract proper nouns from the FAD-data
-       ==> TODO
- 
  - unify other-mwe with the specific mwe-data
       ==> TODO
 
