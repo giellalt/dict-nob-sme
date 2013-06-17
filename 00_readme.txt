@@ -450,8 +450,72 @@ Deadlines missing:
    ==> unifikasjon av sme-mgs TODO: (spørsmål til Berit Merete)
 
 
-cip-TODO:
- - extract proper nouns from the FAD-data
- - unify other-mwe with the specific mwe-data
+cip's tasks:
+ - split A,N, and V on both sides (FAD-data and nobsme-data)
+   common entries vs. non-common entries ==> DONE
 
+statistics:
+1. fad-nobsme common entries
+	2848 N_nobsme.xml
+ 	 619 V_nobsme.xml
+ 	 458 A_nobsme.xml
+
+2. fad-nobsme non-common entries:
+
+2.1 fad-only data (for Berit Merete to start with):
+    ==> please don't start with the nouns!!!
+
+10604 N_nobsme.xml
+_checkout_fadWOTsrc>grep 'mg_c' N_nobsme.xml | wc -l 
+    2004
+_checkout_fadWOTsrc>grep 'mg_c' N_nobsme.xml | sort | uniq -c | sort -nr 
+1470    <e src="fad" mg_c="2">
+ 357    <e src="fad" mg_c="3">
+ 106    <e src="fad" mg_c="4">
+  38    <e src="fad" mg_c="5">
+  18    <e src="fad" mg_c="6">
+   9    <e src="fad" mg_c="7">
+   4    <e src="fad" mg_c="8">
+   1    <e src="fad" mg_c="9">
+   1    <e src="fad" mg_c="10">
+
+ 418 A_nobsme.xml
+_checkout_fadWOTsrc>grep 'mg_c' A_nobsme.xml | wc -l 
+      89
+_checkout_fadWOTsrc>grep 'mg_c' A_nobsme.xml | sort | uniq -c | sort -nr 
+  58    <e src="fad" mg_c="2">
+  22    <e src="fad" mg_c="3">
+   5    <e src="fad" mg_c="5">
+   2    <e src="fad" mg_c="4">
+   1    <e src="fad" mg_c="7">
+   1    <e src="fad" mg_c="6">
+
+ 400 V_nobsme.xml
+_checkout_fadWOTsrc>grep 'mg_c' V_nobsme.xml | wc -l 
+     110
+_checkout_fadWOTsrc>grep 'mg_c' V_nobsme.xml | sort | uniq -c | sort -nr 
+  70    <e src="fad" mg_c="2">
+  25    <e src="fad" mg_c="3">
+   9    <e src="fad" mg_c="4">
+   3    <e src="fad" mg_c="5">
+   1    <e src="fad" mg_c="8">
+   1    <e src="fad" mg_c="6">
+   1    <e src="fad" mg_c="15">
+
+2.2 nobsme-only data:
+
+5598 N_nobsme.xml
+1744 V_nobsme.xml
+ 572 A_nobsme.xml
+
+
+
+ - extract proper nouns from the FAD-data
+       ==> TODO
+ 
+ - unify other-mwe with the specific mwe-data
+      ==> TODO
+
+ - automatic merge of mgs in the FAD-data based on the nobsme-data
+      ==> TODO
 
