@@ -1309,7 +1309,7 @@
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="A">mye</l>
       </lg>
@@ -1318,19 +1318,24 @@
             <t pos="A">olu</t>
             <t pos="A">ollu</t>
             <xg>
-               <x>mye mer</x>
-               <xt>olu eanet</xt>
+               <x>Jeg har mye arbeid.</x>
+               <xt>Mus lea ollu bargu.</xt>
             </xg>
          </tg>
       </mg>
+   </e>
+   <e src="fad">
+      <lg>
+         <l pos="A">mer</l>
+      </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">eanet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">eambbo</t>
+            <xg>
+               <x>Vi har behov for mer informasjon om klimaendringene.</x>
+               <xt>Mii dárbbašit eanet dieđuid dálkkádatrievdamiid birra.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2625,17 +2630,13 @@
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="2">
+   <e src="fad">
       <lg>
          <l pos="A">ekspansiv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">álššalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="A">viidáneaddji</t>
             <t pos="A">ekspansiiva</t>
          </tg>
       </mg>
@@ -3714,33 +3715,21 @@
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="5">
+   <e src="fad">
       <lg>
          <l pos="A">lik</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="A">ovttalágan</t>
+            <t pos="A">seammalágan</t>
             <t pos="A">seammadásat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>lik i størrelse</re>
             <t pos="A">ovttasturrosaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">ovttalágan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">dássásaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">seammalágan</t>
          </tg>
       </mg>
    </e>
@@ -3754,17 +3743,13 @@
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="A">dynamisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">soddjil</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" alt_str="dynamalaš">dynámalaš</t>
          </tg>
       </mg>
@@ -3931,23 +3916,15 @@
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="A">omfattende</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">goatnjit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">goatnjet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A">viiddis</t>
+            <t pos="A">goatnjit</t>
+            <t pos="A">goatnjet</t>
          </tg>
       </mg>
    </e>
