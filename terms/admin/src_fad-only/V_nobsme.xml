@@ -1675,17 +1675,19 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="2">
+   <e src="fad"    >
       <lg>
          <l pos="V">overskride</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>om bestemmelser</re>
             <t pos="V">rihkkut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>krysse, gå over</re>
             <t pos="V">rasttildit</t>
          </tg>
       </mg>
@@ -1700,33 +1702,45 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="2">
+   <e src="fad">
       <lg>
          <l pos="V">bosette</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">ásaiduvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">ássat</t>
+            <xg>
+               <x>Flere unge velger å bosette seg i byer og tettsteder.</x>
+               <xt>Eanet nuorat válljejit ásaiduvvat gávpogiidda ja čoahkkebáikkiide.</xt>
+            </xg>
+            <xg>
+               <x>Myndighetene må utvikle faktorer som gjør det mulig for kvinner å bosette seg i utkantsstrøk.</x>
+               <xt>Eiseválddit fertejit oažžut áigái beliid mat dagašedje vejolažžan nissoniidda ássat boaittobealguovlluin.
+</xt>
+            </xg>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="2">
+   <e src="fad">
       <lg>
          <l pos="V">konstituere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>organisere, tre sammen</re>
+            <t pos="V">vuođđudit</t>
             <t pos="V">konstitueret</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>tilsette midlertidlig</re>
             <t pos="V">virgáibidjat</t>
+            <xg>
+               <x>Jeg var konstituert lærer fra januar og ut skoleåret.</x>
+               <xt>Mun ledjen gaskaáigásaččat virgáibiddjon oahpaheaddjin ođđajagemánus gitta dan skuvlajagi lohppii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1908,28 +1922,31 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="4">
+   <e src="fad">
       <lg>
          <l pos="V">felle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bivdit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">hehttet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>drepe</re>
+            <t pos="V">goddit</t>
             <t pos="V">báhčit</t>
+            <xg>
+               <x>felle en elg</x>
+               <xt>báhčit ealgga</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>få til å falle</re>
             <t pos="V">njeaidit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>avsi, kunngjøre</re>
+            <t pos="V">cealkit</t>
          </tg>
       </mg>
    </e>
@@ -1999,23 +2016,14 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">overføre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">sirdit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">fievrridit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">sirddihit</t>
          </tg>
       </mg>
    </e>
@@ -3406,18 +3414,21 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="2">
+   <e src="fad">
       <lg>
          <l pos="V">opparbeide</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rábidit</t>
+            <re>skaffe (seg)</re>
+            <t pos="V">háhkat</t>
+            <t pos="V">gártadit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">gártadit</t>
+            <re>om rettigheter</re>
+            <t pos="V">rábidit</t>
          </tg>
       </mg>
    </e>
@@ -3640,18 +3651,22 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="2">
+   <e src="fad">
       <lg>
          <l pos="V">kuppe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">válddástallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">rihpat</t>
+            <xg>
+               <x>Har møteleder kuppet plenum?</x>
+               <xt>Leago čoahkkinjođiheaddji válddástallan dievasčoahkkimis?</xt>
+            </xg>
+            <xg>
+               <x>Foreninger kan kuppes ved at en gruppe møter opp med samordnet stemmegivning på årsmøte.</x>
+               <xt>Servviid sáhttet joavkkut rihpat alcceseaset fámuin go jienastit oktasaččat jahkečoahkkimis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3794,18 +3809,13 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="2">
+   <e src="fad">
       <lg>
          <l pos="V">jf.</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">vrd</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">gč</t>
          </tg>
       </mg>
    </e>
@@ -4390,18 +4400,32 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="2">
+   <e src="fad">
       <lg>
          <l pos="V">bekjempe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vuosttildit</t>
+            <t pos="V">vuostálastit</t>
+            <t pos="V">vuosttaldit</t>
+            <xg>
+               <x>Regjeringen vil bekjempe alle former for diskriminering.</x>
+               <xt>Ráđđehus áigu vuostálastit juohkelágan vealaheami.</xt>
+            </xg>
+            <xg>
+               <x>Vi skal bekjempe piratvirkomhet uten for kysten av Afrika.</x>
+               <xt>Mii vuosttaldit mearrarievvárdoaimma Afrihká rittu ol
+ggobealde.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">dáistalit</t>
+            <xg>
+               <x>Regjeringen vil bekjempe all diskriminering.</x>
+               <xt>Ráđđehus áigu dáistalit buot vealaheami vuostá.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
