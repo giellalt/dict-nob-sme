@@ -508,8 +508,8 @@ _checkout_fadWOTsrc>grep 'mg_c' V_nobsme.xml | sort | uniq -c | sort -nr
  572 A_nobsme.xml
 
  - unify other-mwe with the specific mwe-data
-      ==> TODO
+      ==> TODO (this is not relevant for Enare presentation)
 
  - automatic merge of mgs in the FAD-data based on the nobsme-data
-      ==> TODO
+      ==> DONE (along with the gt-fad-merging task on 28.06.2013)
 
