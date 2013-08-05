@@ -2189,38 +2189,25 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="6">
+   <e src="fad">
       <lg>
          <l pos="V">videreføre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ovdánahttit</t>
+            <t pos="V">joatkit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>ofte sammen med viidáset eller illativ</re>
             <t pos="V">fievrridit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bisuhit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>bli videreført</re>
             <t pos="V">joatkašuvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">joatkkašit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">joatkit</t>
          </tg>
       </mg>
    </e>
@@ -2244,22 +2231,14 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">overholde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">doahttalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">čuovvut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">doallat</t>
          </tg>
       </mg>
@@ -2291,22 +2270,14 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">skissere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">sárgut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">čilget</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">govvidit</t>
          </tg>
       </mg>
@@ -2377,23 +2348,20 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">signalisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">dovddahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">geažidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">signaliseret</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>antyde</re>
+            <t pos="V">geažidit</t>
          </tg>
       </mg>
    </e>
@@ -2417,27 +2385,20 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="4">
+   <e src="fad">
       <lg>
          <l pos="V">overlevere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>gi, levere fra seg</re>
             <t pos="V">buktit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">geiget</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">seailut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>gå fra slektsledd til slektsledd</re>
             <t pos="V">gaskkustit</t>
          </tg>
       </mg>
@@ -2535,22 +2496,14 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">veilede</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">bagadallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">bagadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">oaivadit</t>
          </tg>
       </mg>
@@ -2595,23 +2548,28 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">sprenge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">njeaidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>få til å eksplodere</re>
             <t pos="V">bávkalit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">cuvket</t>
+            <t pos="V">njeaidit</t>
+            <xg>
+               <x>sprenge grenser</x>
+               <xt>njeaidit rájiid</xt>
+            </xg>
+            <xg>
+               <x>sprenge grenser</x>
+               <xt>cuvket rájiid</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2796,23 +2754,21 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">balansere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>holde i likevekt</re>
             <t pos="V">dássádallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bisuhit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">dásset</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>gå i balansegang</re>
+            <t pos="V">bisohallat</t>
          </tg>
       </mg>
    </e>
@@ -2991,60 +2947,34 @@ utvalg, styrer og råd.</x>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">billistit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">suoládit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">heajudit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bli svekket</re>
             <t pos="V">hedjonit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">láivudit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">soidadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">raššut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">raššudit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">návccahuvvat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>utvanne</re>
+            <t pos="V">láivudit</t>
+            <t pos="V">soidadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli utvannet</re>
             <t pos="V">láivut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="V">raššudit</t>
             <t pos="V">hedjonahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">heajosmahttit</t>
          </tg>
       </mg>
@@ -3463,48 +3393,44 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="8">
+   <e src="fad">
       <lg>
          <l pos="V">møte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">čoahkkimastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">deaivvadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">gávnnadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">duostut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">deaividit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">dustet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>treffe noe</re>
             <t pos="V">deaivat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">deaivvahit</t>
+            <re>treffe noen</re>
+            <t pos="V">deaivvadit</t>
+            <t pos="V">gávnnadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>delta på møte</re>
+            <t pos="V">čoahkkimastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>motstå</re>
+            <t pos="V">duostut</t>
+            <t pos="V">dustet</t>
+            <xg>
+               <x>møte utfordringer</x>
+               <xt>duostut hástalusaid</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>tilfeldigvis</re>
+            <t pos="V">deaividit</t>
          </tg>
       </mg>
    </e>
@@ -3869,32 +3795,15 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="5">
+   <e src="fad">
       <lg>
          <l pos="V">implementere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">implementeret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">heivehit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">sisagođđit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">sajustit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">doibmiibidjat</t>
          </tg>
       </mg>
@@ -4007,32 +3916,32 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="5">
+   <e src="fad">
       <lg>
          <l pos="V">føre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>frakte, bringe</re>
             <t pos="V">fievrridit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>drive, stå i spissen for</re>
             <t pos="V">jođihit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>skrive</re>
             <t pos="V">girjet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>få til følge</re>
             <t pos="V">dagahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">buvttihit</t>
          </tg>
       </mg>
@@ -4183,22 +4092,19 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">forankre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">sajáiduhttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">ruohtastuhttit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>forankre i noe</re>
             <t pos="V">fakkastit</t>
          </tg>
       </mg>
@@ -4368,22 +4274,14 @@ utvalg, styrer og råd.</x>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">bemerke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">mearkkašit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">mearkkašuhttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">mearkkašahttit</t>
          </tg>
       </mg>
@@ -4466,33 +4364,20 @@ ggobealde.</xt>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="5">
+   <e src="fad">
       <lg>
          <l pos="V">avklare</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="V">čielggadit</t>
             <t pos="V">čilget</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">čielggadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>bli avklart</re>
             <t pos="V">čielgat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">mearridit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">čilgehit</t>
          </tg>
       </mg>
    </e>
@@ -4586,23 +4471,20 @@ ggobealde.</xt>
          </tg>
       </mg>
    </e>
-   <e src="fad" mg_c="3">
+   <e src="fad">
       <lg>
          <l pos="V">bli drept</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">sorbmašuvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V">gottáhallat</t>
+            <t pos="V">goddot</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">goddot</t>
+            <re>omkomme</re>
+            <t pos="V">sorbmašuvvat</t>
          </tg>
       </mg>
    </e>
