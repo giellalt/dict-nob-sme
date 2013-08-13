@@ -513,3 +513,23 @@ _checkout_fadWOTsrc>grep 'mg_c' V_nobsme.xml | sort | uniq -c | sort -nr
  - automatic merge of mgs in the FAD-data based on the nobsme-data
       ==> DONE (along with the gt-fad-merging task on 28.06.2013)
 
+ - put flag on entries from src_gt-fad_merged for manual unification/checking
+      ==> TODO (cip)
+
+FAD4INARI - last tasks:
+ - putting flags on entries in src_gt-fad_merged for manual unification/checking (see right above)
+    ==> TODO (cip)
+
+ - manual unification/checking of the data in src_gt-fad_merged
+    ==> TODO (berit merete/marja?)
+ - adding frequencies (global and fad) to all data
+   ==> DONE for src_gt-only (cip)
+   ==> TODO for src_gt-fad_merged (dip)
+   ==> TODO for src_fad-only (cip)
+
+ - evaluation based on all pieces of information gathered
+    ==> TODO (cip, trond, berit merete, marja)
+
+ - prepare presentation/article 
+    ==> TODO (cip, trond, berit merete, marja)
+
