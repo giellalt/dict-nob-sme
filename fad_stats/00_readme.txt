@@ -47,3 +47,33 @@ Cheching GT_data (= cleaned main/words/lists/sme/20130124_sme_lemma.freq):
 
 For nob-sme pairs:
 
+
+=====================
+Still TODO:
+1. in fad-only:
+
+src_fad-only>grep '<e' *xml | grep 'mg_c' | wc -l 
+     441
+
+src_fad-only>grep '<e' *xml | grep 'mg_c' | sort | uniq -c | sort -nr 
+ 151 N_nobsme.xml:   <e src="fad" mg_c="2">
+ 118 N_nobsme.xml:   <e src="fad" mg_c="3">
+ 103 N_nobsme.xml:   <e src="fad" mg_c="4">
+  37 N_nobsme.xml:   <e src="fad" mg_c="5">
+  17 N_nobsme.xml:   <e src="fad" mg_c="6">
+   9 N_nobsme.xml:   <e src="fad" mg_c="7">
+   4 N_nobsme.xml:   <e src="fad" mg_c="8">
+   1 N_nobsme.xml:   <e src="fad" mg_c="9">
+   1 N_nobsme.xml:   <e src="fad" mg_c="10">
+
+2. in gt-fad_merged:
+
+src_gt-fad_merged>grep '<e ' *xml | wc -l 
+    1868
+src_gt-fad_merged>grep '<e ' A_nobsme.xml | wc -l 
+     212
+src_gt-fad_merged>grep '<e ' V_nobsme.xml | wc -l 
+     380
+src_gt-fad_merged>grep '<e ' N_nobsme.xml | wc -l 
+    1276
+
