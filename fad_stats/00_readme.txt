@@ -17,10 +17,30 @@ sme: gf ==> (cleaned) main/words/lists/sme/20130124_sme_lemma.freq
      ff ==> (cleaned) FAD
 
 For individual lemmata:
-gf="0" ff="0"
-gf="T" ff="0"
-gf="0" ff="T"
-gf="T" ff="T"
+1. gf="0" ff="0"
+
+2. gf="T" ff="0"
+
+3. gf="0" ff="T" ==> sme: This is weird!
+
+FAD-data should have been a part of all GT_data!
+
+   <e>
+      <lg>
+         <l pos="A" gf="0.000006030102381861363" ff="0.00000274677608601804">østlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" gf="0" ff="0.0000005457109">nuorta</t>
+         </tg>
+      </mg>
+   </e>
+
+
+
+
+
+4. gf="T" ff="T"
 
 For nob-sme pairs:
 
