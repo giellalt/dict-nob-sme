@@ -24,6 +24,9 @@ For individual lemmata:
 3. gf="0" ff="T" ==> sme: This is weird!
 
 FAD-data should have been a part of all GT_data!
+Cheching GT_data (= cleaned main/words/lists/sme/20130124_sme_lemma.freq):
+482 nuorta N
+22 nuorta N
 
    <e>
       <lg>
