@@ -9,3 +9,18 @@ short_nowac-1.1.lemmas.freq.xml ==> output of the all_freq2xml-script on the fil
  - rel and abs freqs for domain within FAD (news, law, admin, etc.? - waiting
    for Trond's decision) ==> TODO
 
+
+Evaluation: What does each frequency patter mean?
+nob: gf ==> (cleaned) nowac
+     ff ==> (cleaned) FAD
+sme: gf ==> (cleaned) main/words/lists/sme/20130124_sme_lemma.freq
+     ff ==> (cleaned) FAD
+
+For individual lemmata:
+gf="0" ff="0"
+gf="T" ff="0"
+gf="0" ff="T"
+gf="T" ff="T"
+
+For nob-sme pairs:
+
