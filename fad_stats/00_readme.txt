@@ -52,19 +52,19 @@ For nob-sme pairs:
 Still TODO:
 1. in fad-only:
 
-src_fad-only>grep '<e' *xml | grep 'mg_c' | wc -l 
-     441
+src_fad-only>grep '<e' N_nobsme.xml | grep 'mg_c' | wc -l 
+     202
 
-src_fad-only>grep '<e' *xml | grep 'mg_c' | sort | uniq -c | sort -nr 
- 151 N_nobsme.xml:   <e src="fad" mg_c="2">
- 118 N_nobsme.xml:   <e src="fad" mg_c="3">
- 103 N_nobsme.xml:   <e src="fad" mg_c="4">
-  37 N_nobsme.xml:   <e src="fad" mg_c="5">
-  17 N_nobsme.xml:   <e src="fad" mg_c="6">
-   9 N_nobsme.xml:   <e src="fad" mg_c="7">
-   4 N_nobsme.xml:   <e src="fad" mg_c="8">
-   1 N_nobsme.xml:   <e src="fad" mg_c="9">
-   1 N_nobsme.xml:   <e src="fad" mg_c="10">
+src_fad-only>grep '<e' N_nobsme.xml | grep 'mg_c' | sort | uniq -c | sort -nr 
+ 105    <e src="fad" mg_c="2">
+  41    <e src="fad" mg_c="3">
+  21    <e src="fad" mg_c="4">
+  19    <e src="fad" mg_c="5">
+   6    <e src="fad" mg_c="7">
+   4    <e src="fad" mg_c="8">
+   4    <e src="fad" mg_c="6">
+   1    <e src="fad" mg_c="9">
+   1    <e src="fad" mg_c="10">
 
 2. in gt-fad_merged:
 
