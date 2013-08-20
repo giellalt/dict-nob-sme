@@ -534,4 +534,6 @@ FAD4INARI - last tasks:
 
  - prepare presentation/article 
     ==> TODO (cip, trond, berit merete, marja)
+ - update the freq-lists for both GT-all and FAD according to the new analysis
+   ==> TODO (cip)
 
