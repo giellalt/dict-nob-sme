@@ -53,10 +53,9 @@ Still TODO:
 1. in fad-only:
 
 src_fad-only>grep '<e' N_nobsme.xml | grep 'mg_c' | wc -l 
-     195
-
+     175
 src_fad-only>grep '<e' N_nobsme.xml | grep 'mg_c' | sort | uniq -c | sort -nr 
-  98    <e src="fad" mg_c="2">
+  78    <e src="fad" mg_c="2">
   41    <e src="fad" mg_c="3">
   21    <e src="fad" mg_c="4">
   19    <e src="fad" mg_c="5">
