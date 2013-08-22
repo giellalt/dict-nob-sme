@@ -65,7 +65,7 @@ src_fad-only>grep '<e' N_nobsme.xml | grep 'mg_c' | sort | uniq -c | sort -nr
    1    <e src="fad" mg_c="10">
 
 2012.08.22:
-manual unification progress in src_fad-only  ==>  175-138=37
+manual unification progress in src_fad-only  ==>  175-37=138
 
 2. in gt-fad_merged:
 
