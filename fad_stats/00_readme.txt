@@ -53,20 +53,19 @@ Still TODO:
 1. in fad-only:
 
 src_fad-only>grep '<e' N_nobsme.xml | grep 'mg_c' | wc -l 
-     175
+      37
+
 src_fad-only>grep '<e' N_nobsme.xml | grep 'mg_c' | sort | uniq -c | sort -nr 
-  78    <e src="fad" mg_c="2">
-  41    <e src="fad" mg_c="3">
-  21    <e src="fad" mg_c="4">
   19    <e src="fad" mg_c="5">
    6    <e src="fad" mg_c="7">
    4    <e src="fad" mg_c="8">
    4    <e src="fad" mg_c="6">
+   2    <e src="fad" mg_c="4">
    1    <e src="fad" mg_c="9">
    1    <e src="fad" mg_c="10">
 
 2012.08.22:
-manual unification progress in src_fad-only ==> 175-175=0
+manual unification progress in src_fad-only  ==>  175-37=138
 
 2. in gt-fad_merged:
 
@@ -80,5 +79,5 @@ src_gt-fad_merged>grep '<e ' N_nobsme.xml | wc -l
     1276
 
 2012.08.22:
-manual unification progress in src_gt-fad-merged ==> 1868-1868=0
+manual unification progress in src_gt-fad-merged  ==>  1868-1868=0
 
