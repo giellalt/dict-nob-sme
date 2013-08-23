@@ -101,7 +101,7 @@
 	      <lemma>
 		<xsl:copy-of select="./@abs_f"/>
 		<xsl:attribute name="rel_f">
-		  <xsl:value-of select="local:remove-scientific-notation(string(number(./@abs_f) div number($sum)))"/>
+		  <xsl:value-of select="substring(local:remove-scientific-notation(string((number(./@abs_f) * 100) div number($sum))), 1, 10)"/>
 		</xsl:attribute>
 		<xsl:copy-of select="./@value"/>
 	      </lemma>
