@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r id="nobsme" xml:lang="nob">
+<r>
    <e>
       <lg>
-         <l pos="V">like</l>
+         <l pos="V" gf="0.02664498" ff="0.00521887" gf-ff="0.02142610">like</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">liikot</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01551741"
+               ff="0.00326021"
+               gf-ff="0.01225720">liikot</t>
             <xg>
                <x>Jeg liker det.</x>
                <xt>Mun liikon dasa.</xt>
@@ -24,26 +29,40 @@
    </e>
    <e>
       <lg>
-         <l pos="V">så</l>
+         <l pos="V" gf="0.00131283" ff="0.00082403" gf-ff="0.00048880">så</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gilvit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00416304"
+               ff="0.00320495"
+               gf-ff="0.00095809">gilvit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">løfte</l>
+         <l pos="V" gf="0.00480691" ff="0.00517309" gf-ff="-0.0003661">løfte</l>
       </lg>
       <mg>
          <tg re="en gang" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">loktet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00992416"
+               ff="0.00712826"
+               gf-ff="0.00279589">loktet</t>
          </tg>
       </mg>
       <mg>
          <tg re="heve" xml:lang="sme">
-            <t pos="V" usage="vd">bajidit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00509637"
+               ff="0.00475217"
+               gf-ff="0.00034420">bajidit</t>
             <xg>
                <x>Bestefar må løfte opp lavvoduken.</x>
                <xt>Áddjá ferte bajidit loavdaga.</xt>
@@ -52,92 +71,165 @@
       </mg>
       <mg>
          <tg re="plutselig" xml:lang="sme">
-            <t pos="V" usage="vd">loktestit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00032230"
+               ff="0.00016577"
+               gf-ff="0.00015652">loktestit</t>
          </tg>
       </mg>
       <mg>
          <tg re="gjenta løfting" xml:lang="sme">
-            <t pos="V" usage="vd">lovttohallat</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00013429"
+               ff="0"
+               gf-ff="0.00013429">lovttohallat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">klage</l>
+         <l pos="V" gf="0.00521616" ff="0.00576822" gf-ff="-0.0005520">klage</l>
       </lg>
       <mg>
          <tg re="formelt" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">váidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00925941"
+               ff="0.00408908"
+               gf-ff="0.00517032">váidit</t>
          </tg>
       </mg>
       <mg>
          <tg re="uformelt" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">váidalit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00525080"
+               ff="0.00265237"
+               gf-ff="0.00259843">váidalit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fiske</l>
+         <l pos="V" gf="0.00355090" ff="0.03245773" gf-ff="-0.0289068">fiske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">bivdit</t>
-            <t pos="V" src="nj" usage="vd">oaggut</t>
-            <t pos="V" usage="vd" src="nj;fad">guolástit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.05802747"
+               ff="0.05144507"
+               gf-ff="0.00658239">bivdit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00337743"
+               ff="0.00071835"
+               gf-ff="0.00265908">oaggut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00371988"
+               ff="0.00364701"
+               gf-ff="0.00007287">guolástit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">beite</l>
+         <l pos="V" gf="0.00032435" ff="0.00146494" gf-ff="-0.0011405">beite</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">guohtut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00429733"
+               ff="0.00348124"
+               gf-ff="0.00081609">guohtut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ønske</l>
+         <l pos="V" gf="0.05696891" ff="0.07077526" gf-ff="-0.0138063">ønske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">sávvat</t>
-            <t pos="V" src="nj" usage="vd">sihtat</t>
-            <t pos="V" usage="vd" src="nj;fad">dáhttut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.02474997"
+               ff="0.01547220"
+               gf-ff="0.00927777">sávvat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00815822"
+               ff="0.00221031"
+               gf-ff="0.00594791">sihtat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.03906547"
+               ff="0.03696751"
+               gf-ff="0.00209795">dáhttut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">dekke</l>
+         <l pos="V" gf="0.01149514" ff="0.02710152" gf-ff="-0.0156063">dekke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gokčat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01483923"
+               ff="0.01630107"
+               gf-ff="-0.0014618">gokčat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">melke</l>
+         <l pos="V" gf="0.00032695" ff="0.00009155" gf-ff="0.0002354">melke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">bahčit</t>
-            <t pos="V" usage="vd" src="nj;fad">bohčit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00020143"
+               ff="0.00011051"
+               gf-ff="0.00009092">bahčit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00044316"
+               ff="0.00016577"
+               gf-ff="0.00027738">bohčit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tro</l>
+         <l pos="V" gf="0.08981178" ff="0.00805720" gf-ff="0.08175458">tro</l>
       </lg>
       <mg>
          <tg re="knyttet til en konkret sak" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">jáhkkit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.04663952"
+               ff="0.01171466"
+               gf-ff="0.03492485">jáhkkit</t>
             <xg>
                <x>Jeg tror ikke på de ryktene.</x>
                <xt>Mun in jáhke dáidda ságaide.</xt>
@@ -146,18 +238,38 @@
       </mg>
       <mg>
          <tg re="" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">doaivut</t>
-            <t pos="V" usage="vd" src="nj;fad">gáddit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.01751836"
+               ff="0.00480743"
+               gf-ff="0.01271093">doaivut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00303499"
+               ff="0.00082886"
+               gf-ff="0.00220613">gáddit</t>
          </tg>
       </mg>
       <mg>
          <tg re="en fornmemmelse" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">navdit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00956828"
+               ff="0.00276289"
+               gf-ff="0.00680539">navdit</t>
          </tg>
       </mg>
       <mg>
          <tg re="religiøst" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">oskut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00314914"
+               ff="0.00049732"
+               gf-ff="0.00265182">oskut</t>
             <xg>
                <x>Jeg tror på Gud.</x>
                <xt>Mun oskkun Ipmilii.</xt>
@@ -167,12 +279,22 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vare</l>
+         <l pos="V" gf="0.00777339" ff="0.00865234" gf-ff="-0.0008789">vare</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">bindit</t>
-            <t pos="V" usage="vd" src="nj;fad">bistit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00004028"
+               ff="0"
+               gf-ff="0.00004028">bindit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01296586"
+               ff="0.00967012"
+               gf-ff="0.00329573">bistit</t>
             <xg>
                <x>Arrangementet begynner kl. 12 og varer til halv fem.</x>
                <xt>Doalut álget guoktenuppelogis ja bistet beal viđa rádjái.</xt>
@@ -182,217 +304,370 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stemme</l>
+         <l pos="V" gf="0.01347366" ff="0.00558511" gf-ff="0.00788855">stemme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">jienastit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01360375"
+               ff="0.01917448"
+               gf-ff="-0.0055707">jienastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">leie</l>
+         <l pos="V" gf="0.00402479" ff="0.00169384" gf-ff="0.00233095">leie</l>
       </lg>
       <mg>
          <tg re="betaling for tjeneste" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">bálkáhit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00265897"
+               ff="0.00071835"
+               gf-ff="0.00194062">bálkáhit</t>
          </tg>
       </mg>
       <mg>
          <tg re="holden i hånden" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">láidet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00100047"
+               ff="0.00016577"
+               gf-ff="0.00083470">láidet</t>
          </tg>
       </mg>
       <mg>
          <tg re="betaling for f.eks hus" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">láigohit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00508965"
+               ff="0.00281815"
+               gf-ff="0.0022715">láigohit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">rømme</l>
+         <l pos="V" gf="0.00136481" ff="0.00151072" gf-ff="-0.0001459">rømme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">báhtarit</t>
-            <t pos="V" usage="vd" src="nj;fad">gárgidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00408918"
+               ff="0.00232083"
+               gf-ff="0.00176835">báhtarit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00064460"
+               ff="0.00060783"
+               gf-ff="0.00003676">gárgidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tømme</l>
+         <l pos="V" gf="0.00168743" ff="0.00036623" gf-ff="0.0013212">tømme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">sálket</t>
-            <t pos="V" usage="vd" src="nj;fad">gurret</t>
+            <t pos="V" src="nj" usage="vd" gf="0" ff="0" gf-ff="0">sálket</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00157121"
+               ff="0.00033154"
+               gf-ff="0.00123967">gurret</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">olje</l>
+         <l pos="V" gf="0.00038724" ff="0.00004577" gf-ff="0.00034147">olje</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">oljet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00011414"
+               ff="0.00011051"
+               gf-ff="0.00000363">oljet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">hvile</l>
+         <l pos="V" gf="0.00191666" ff="0.00073247" gf-ff="0.00118419">hvile</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">vuoiŋŋastit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00258511"
+               ff="0.00016577"
+               gf-ff="0.00241934">vuoiŋŋastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">svømme</l>
+         <l pos="V" gf="0.00125184" ff="0.00009155" gf-ff="0.00116029">svømme</l>
       </lg>
       <mg>
          <tg re="komme seg framover i vann" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">vuodjat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00227624"
+               ff="0.00011051"
+               gf-ff="0.00216573">vuodjat</t>
          </tg>
       </mg>
       <mg>
          <tg re="bade" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">vuojadit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00073189"
+               ff="0.00005525"
+               gf-ff="0.00067664">vuojadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">oppdage</l>
+         <l pos="V" gf="0.00825923" ff="0.00183118" gf-ff="0.00642804">oppdage</l>
       </lg>
       <mg>
          <tg re="komme på" xml:lang="sme">
-            <t pos="V" usage="vd">fuobmát</t>
-            <t pos="V" usage="vd" src="gt;fad">fuomášit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.01103206"
+               ff="0.00143670"
+               gf-ff="0.00959536">fuobmát</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01187139"
+               ff="0.00497320"
+               gf-ff="0.00689819">fuomášit</t>
          </tg>
       </mg>
       <mg>
          <tg re="synlig oppdagelse" xml:lang="sme">
-            <t pos="V" usage="vd">áicát</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00016786"
+               ff="0"
+               gf-ff="0.00016786">áicát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">glitre</l>
+         <l pos="V" gf="0.00019215" ff="0.00013733" gf-ff="0.00005482">glitre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">šearrát</t>
-            <t pos="V" usage="vd" src="gt;fad">šealgut</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00009400"
+               ff="0.00005525"
+               gf-ff="0.00003874">šearrát</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00019472"
+               ff="0.00011051"
+               gf-ff="0.00008421">šealgut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">forstyrre</l>
+         <l pos="V" gf="0.00121164" ff="0.00045779" gf-ff="0.00075384">forstyrre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">muosehuhttit</t>
-            <t pos="V" usage="vd" src="gt;fad">ráfehuhttit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00153092"
+               ff="0.00027628"
+               gf-ff="0.00125464">muosehuhttit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00072517"
+               ff="0.00027628"
+               gf-ff="0.00044889">ráfehuhttit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">forandre</l>
+         <l pos="V" gf="0.00635070" ff="0.00151072" gf-ff="0.00483998">forandre</l>
       </lg>
       <mg>
          <tg re="fort" xml:lang="sme">
-            <t pos="V" usage="vd">rievdadit</t>
-            <t pos="V" usage="vd">muhttit</t>
-            <t pos="V" usage="vd">muktit</t>
-            <t pos="V" usage="vd" src="gt;fad">nuppástuhttit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.02733508"
+               ff="0.03431513"
+               gf-ff="-0.0069800">rievdadit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00152421"
+               ff="0.00011051"
+               gf-ff="0.0014137">muhttit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00009400"
+               ff="0.00011051"
+               gf-ff="-0.0000165">muktit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00353187"
+               ff="0.00326021"
+               gf-ff="0.00027165">nuppástuhttit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">mase</l>
+         <l pos="V" gf="0.00097565" ff="0.00009155" gf-ff="0.0008841">mase</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">hoavridit</t>
-            <t pos="V" usage="vd">hoavrristit</t>
-            <t pos="V" usage="vd" src="gt;fad">hoavrrestit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00010071"
+               ff="0"
+               gf-ff="0.00010071">hoavridit</t>
+            <t pos="V" usage="vd" gf="0" ff="0" gf-ff="0">hoavrristit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00009400"
+               ff="0.00005525"
+               gf-ff="0.00003874">hoavrrestit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bli forledet</l>
+         <l pos="V" gf="0" ff="0" gf-ff="0">bli forledet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">fillehallat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00028201"
+               ff="0.00011051"
+               gf-ff="0.00017150">fillehallat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tråkke</l>
+         <l pos="V" gf="0.00114338" ff="0.00027467" gf-ff="0.00086871">tråkke</l>
       </lg>
       <mg>
          <tg re="" xml:lang="sme">
-            <t pos="V" usage="vd">duolbmut</t>
-            <t pos="V" usage="vd" src="gt;fad">duolbmat</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00065802"
+               ff="0.00005525"
+               gf-ff="0.00060277">duolbmut</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00102733"
+               ff="0.00005525"
+               gf-ff="0.00097208">duolbmat</t>
          </tg>
       </mg>
       <mg>
          <tg re="etterlate seg spor i snøen" xml:lang="sme">
-            <t pos="V" usage="vd">šulšet</t>
+            <t pos="V" usage="vd" gf="0" ff="0" gf-ff="0">šulšet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skinne</l>
+         <l pos="V" gf="0.00122637" ff="0.00032045" gf-ff="0.00090592">skinne</l>
       </lg>
       <mg>
          <tg re="om lys" xml:lang="sme">
-            <t pos="V" usage="vd">čuovgat</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00120191"
+               ff="0.00033154"
+               gf-ff="0.00087037">čuovgat</t>
          </tg>
       </mg>
       <mg>
          <tg re="om sol" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">báitit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00139663"
+               ff="0.00005525"
+               gf-ff="0.00134138">báitit</t>
          </tg>
       </mg>
       <mg>
          <tg re="om sølv eller gull" xml:lang="sme">
-            <t pos="V" usage="vd">šealgát</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00015443"
+               ff="0"
+               gf-ff="0.00015443">šealgát</t>
          </tg>
       </mg>
       <mg>
          <tg re="glitrende" xml:lang="sme">
-            <t pos="V" usage="vd">šearrát</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00009400"
+               ff="0.00005525"
+               gf-ff="0.00003874">šearrát</t>
          </tg>
       </mg>
       <mg>
          <tg re="så smått over lenger tid" xml:lang="sme">
-            <t pos="V" usage="vd">báittašit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00004028"
+               ff="0"
+               gf-ff="0.00004028">báittašit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">spise</l>
+         <l pos="V" gf="0.01814629" ff="0.00187696" gf-ff="0.01626933">spise</l>
       </lg>
       <mg>
          <tg re="" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">borrat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01171024"
+               ff="0.00287340"
+               gf-ff="0.00883684">borrat</t>
             <xg>
                <x>Jeg har ikke enda spist slike pølser.</x>
                <xt>In vel leat borran dakkár márffiid.</xt>
@@ -401,22 +676,32 @@
       </mg>
       <mg>
          <tg re="lenger måltid" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">boradit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00288727"
+               ff="0.00055257"
+               gf-ff="0.0023347">boradit</t>
          </tg>
       </mg>
       <mg>
          <tg re="raskt måltid" xml:lang="sme">
-            <t pos="V" usage="vd">borastit</t>
+            <t pos="V" usage="vd" gf="0.00009400" ff="0" gf-ff="0.000094">borastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">frykte</l>
+         <l pos="V" gf="0.00568536" ff="0.00141916" gf-ff="0.0042662">frykte</l>
       </lg>
       <mg>
          <tg re="" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">ballat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.02448138"
+               ff="0.00580207"
+               gf-ff="0.01867931">ballat</t>
             <xg>
                <x>NVE informerer også om at de nærmeste dagene trenger man ikke frykte flom i Finnmark.</x>
                <xt>NVE dieđiha maid, ahte dáid lagamus beivviid eat dárbbaš Finnmárkkus ballat dulvvis.</xt>
@@ -429,93 +714,151 @@
       </mg>
       <mg>
          <tg re="over lenger tid" xml:lang="sme">
-            <t pos="V" usage="vd">baladit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00008057"
+               ff="0"
+               gf-ff="0.00008057">baladit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fordype</l>
+         <l pos="V" gf="0.00037356" ff="0.00027467" gf-ff="0.00009888">fordype</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">čiekŋudit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00134291"
+               ff="0.00149196"
+               gf-ff="-0.0001490">čiekŋudit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kartlegge</l>
+         <l pos="V" gf="0.00210448" ff="0.00755363" gf-ff="-0.0054491">kartlegge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">kártet</t>
-            <t pos="V" usage="vd" src="gt;fad">gártet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00671458"
+               ff="0.01132786"
+               gf-ff="-0.0046132">kártet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00116833"
+               ff="0.00060783"
+               gf-ff="0.0005605">gártet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">omfavne</l>
+         <l pos="V" gf="0.00046209" ff="0.00013733" gf-ff="0.00032476">omfavne</l>
       </lg>
       <mg>
          <tg re="tar en del av" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">fátmmastit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00523737"
+               ff="0.00884125"
+               gf-ff="-0.0036038">fátmmastit</t>
          </tg>
       </mg>
       <mg>
          <tg re="gi en klem" xml:lang="sme">
-            <t pos="V" usage="vd">buorrestit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00007386"
+               ff="0"
+               gf-ff="0.00007386">buorrestit</t>
          </tg>
       </mg>
       <mg>
          <tg re="holde rundt hverandre, en gang" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">salastit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00010743"
+               ff="0.00005525"
+               gf-ff="0.00005218">salastit</t>
          </tg>
       </mg>
       <mg>
          <tg re="holde rundt hverandre, lenge" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">sallut</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00006043"
+               ff="0.00005525"
+               gf-ff="0.00000518">sallut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kommentere</l>
+         <l pos="V" gf="0.00702055" ff="0.00581400" gf-ff="0.00120655">kommentere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">kommenteret</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00457263"
+               ff="0.00132618"
+               gf-ff="0.00324645">kommenteret</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vokse opp</l>
+         <l pos="V" gf="0" ff="0" gf-ff="0">vokse opp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">bajásšaddat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00497550"
+               ff="0.00447588"
+               gf-ff="0.00049962">bajásšaddat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">planlegge</l>
+         <l pos="V" gf="0.00900895" ff="0.01634331" gf-ff="-0.0073343">planlegge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">plánet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01182438"
+               ff="0.01121734"
+               gf-ff="0.00060704">plánet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">samarbeide</l>
+         <l pos="V" gf="0.00521893" ff="0.01208581" gf-ff="-0.0068668">samarbeide</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">ovttasbargat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01406706"
+               ff="0.01679839"
+               gf-ff="-0.0027313">ovttasbargat</t>
             <xg>
                <x>Hvem vil Samefolkets parti samarbeide med?</x>
                <xt>Geaiguin áigu Sámeálbmot bellodat ovttasbargat?</xt>
@@ -525,95 +868,181 @@
    </e>
    <e>
       <lg>
-         <l pos="V">undervise</l>
+         <l pos="V" gf="0.00180023" ff="0.00791987" gf-ff="-0.0061196">undervise</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">oahpahit</t>
-            <t pos="V" usage="vd" src="gt;fad">skuvlet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01793466"
+               ff="0.01701942"
+               gf-ff="0.00091524">oahpahit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00238367"
+               ff="0.00281815"
+               gf-ff="-0.0004344">skuvlet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">intervjue</l>
+         <l pos="V" gf="0.00248913" ff="0.00183118" gf-ff="0.00065795">intervjue</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">jearahit</t>
-            <t pos="V" usage="vd">gažadit</t>
-            <t pos="V" usage="vd" src="gt;fad">jearahallat</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00216209"
+               ff="0.00149196"
+               gf-ff="0.00067013">jearahit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00085275"
+               ff="0.00011051"
+               gf-ff="0.00074224">gažadit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00412947"
+               ff="0.00143670"
+               gf-ff="0.00269276">jearahallat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">spørre</l>
+         <l pos="V" gf="0.02314414" ff="0.00553933" gf-ff="0.01760481">spørre</l>
       </lg>
       <mg>
          <tg re="en gang" xml:lang="sme">
-            <t pos="V" usage="vd">gahčat</t>
-            <t pos="V" usage="vd" src="gt;fad">jearrat</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00071174"
+               ff="0"
+               gf-ff="0.00071174">gahčat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.03363337"
+               ff="0.01176992"
+               gf-ff="0.02186345">jearrat</t>
          </tg>
       </mg>
       <mg>
          <tg re="høre rundt" xml:lang="sme">
-            <t pos="V" usage="vd">gulaskuddat</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00224938"
+               ff="0.00143670"
+               gf-ff="0.00081268">gulaskuddat</t>
          </tg>
       </mg>
       <mg>
          <tg re="flere ganger" xml:lang="sme">
-            <t pos="V" usage="vd">jearahit</t>
-            <t pos="V" usage="vd">jearadit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00216209"
+               ff="0.00149196"
+               gf-ff="0.00067013">jearahit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00022158"
+               ff="0.00005525"
+               gf-ff="0.00016633">jearadit</t>
          </tg>
       </mg>
       <mg>
          <tg re="formelt, ved f.eks intevju eller avhør" xml:lang="sme">
-            <t pos="V" usage="vd">gažadit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00085275"
+               ff="0.00011051"
+               gf-ff="0.00074224">gažadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lykkes</l>
+         <l pos="V" gf="0.00563893" ff="0.00732473" gf-ff="-0.0016857">lykkes</l>
       </lg>
       <mg>
          <tg re="ha hell med seg" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">lihkostuvvat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01408720"
+               ff="0.01480910"
+               gf-ff="-0.0007219">lihkostuvvat</t>
          </tg>
       </mg>
       <mg>
          <tg re="oppnå noe" xml:lang="sme">
-            <t pos="V" usage="vd">menestuvvat</t>
-            <t pos="V" usage="vd">meinnestuvvat</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00069160"
+               ff="0.00033154"
+               gf-ff="0.00036006">menestuvvat</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00017457"
+               ff="0.00011051"
+               gf-ff="0.00006406">meinnestuvvat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vantrives</l>
+         <l pos="V" gf="0.00001351" ff="0.00004577" gf-ff="-0.0000322">vantrives</l>
       </lg>
       <mg>
          <tg re="" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">goarránit</t>
-            <t pos="V" src="nj" usage="vd">ahkiduššat</t>
-            <t pos="V" usage="vd" src="nj;fad">láittastuvvat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00042301"
+               ff="0.00055257"
+               gf-ff="-0.0001295">goarránit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00011414"
+               ff="0.00005525"
+               gf-ff="0.00005889">ahkiduššat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00034244"
+               ff="0.00011051"
+               gf-ff="0.00023193">láittastuvvat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">regne</l>
+         <l pos="V" gf="0.01588812" ff="0.01075820" gf-ff="0.00512991">regne</l>
       </lg>
       <mg>
          <tg re="om matematikk" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">rehkenastit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00590883"
+               ff="0.00469691"
+               gf-ff="0.00121192">rehkenastit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>om vær</re>
-            <t pos="V" usage="vd" src="nj;fad">arvit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00081917"
+               ff="0.00011051"
+               gf-ff="0.00070866">arvit</t>
             <xg>
                <x>I dag regner det og er dårlig vær.</x>
                <xt>Odne arvá ja lea heajos dálki.</xt>
@@ -623,21 +1052,31 @@
    </e>
    <e>
       <lg>
-         <l pos="V">straffe</l>
+         <l pos="V" gf="0.00291121" ff="0.00109871" gf-ff="0.0018125">straffe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">ráŋggáštit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00143692"
+               ff="0.00049732"
+               gf-ff="0.0009396">ráŋggáštit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">arbeide</l>
+         <l pos="V" gf="0.01765855" ff="0.08171658" gf-ff="-0.0640580">arbeide</l>
       </lg>
       <mg>
          <tg re="mer omfattende" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">bargat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.16736782"
+               ff="0.16284494"
+               gf-ff="0.00452288">bargat</t>
             <xg>
                <x>Arbeider du med rein?</x>
                <xt>Barggat go don bohccuiguin?</xt>
@@ -646,18 +1085,33 @@
       </mg>
       <mg>
          <tg re="små arbeid" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">hommát</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00061102"
+               ff="0.00005525"
+               gf-ff="0.00055577">hommát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre</l>
+         <l pos="V" gf="0.23224454" ff="0.12456629" gf-ff="0.10767825">gjøre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">bargat</t>
-            <t pos="V" usage="vd" src="nj;fad">dahkat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.16736782"
+               ff="0.16284494"
+               gf-ff="0.00452288">bargat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.13374116"
+               ff="0.10974212"
+               gf-ff="0.02399904">dahkat</t>
             <xg>
                <x>Jeg skal gjøre det.</x>
                <xt>Mun galggan dan bargat.</xt>
@@ -667,42 +1121,72 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vaske</l>
+         <l pos="V" gf="0.00336048" ff="0.00068669" gf-ff="0.00267378">vaske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">bassat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00206809"
+               ff="0.00044206"
+               gf-ff="0.00162602">bassat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">krype</l>
+         <l pos="V" gf="0.00111825" ff="0.00018311" gf-ff="0.00093514">krype</l>
       </lg>
       <mg>
          <tg re="oftest om barn" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">njoammut</t>
-            <t pos="V" usage="vd" src="nj;fad">beahkit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00179279"
+               ff="0.00071835"
+               gf-ff="0.00107444">njoammut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00012757"
+               ff="0.00005525"
+               gf-ff="0.00007232">beahkit</t>
          </tg>
       </mg>
       <mg>
          <tg re="krype inn i eller under noe" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">čákŋat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00050359"
+               ff="0.00011051"
+               gf-ff="0.00039308">čákŋat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">guokkardit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00010071"
+               ff="0"
+               gf-ff="0.00010071">guokkardit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">miste</l>
+         <l pos="V" gf="0.01516595" ff="0.00695849" gf-ff="0.00820746">miste</l>
       </lg>
       <mg>
          <tg re="tap" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">massit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02150011"
+               ff="0.01580375"
+               gf-ff="0.00569636">massit</t>
             <xg>
                <x>Bøndene i området mister mye sau til rovdyr.</x>
                <xt>Boanddat báikkážis masset olle sávzzaid boraspiriide.</xt>
@@ -711,7 +1195,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">ribahit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00279998"
+               ff="0.00044206"
+               gf-ff="0.00235792">ribahit</t>
             <xg>
                <x>I går kveld falt jeg i søvn og ble derfor ikke å komme.</x>
                <xt>Ikte eahkes mun ribahin nohkkat, inge šaddan boahtit.</xt>
@@ -724,22 +1213,42 @@
       </mg>
       <mg>
          <tg re="miste noe ufrivillig" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">manahit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00234339"
+               ff="0.00160247"
+               gf-ff="0.00074092">manahit</t>
          </tg>
       </mg>
       <mg>
          <tg re="miste, eller rote bort." xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">láhppit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00094004"
+               ff="0.00027628"
+               gf-ff="0.00066376">láhppit</t>
          </tg>
       </mg>
       <mg>
          <tg re="gjøre i buksene" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">biestit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00085946"
+               ff="0.00071835"
+               gf-ff="0.00014111">biestit</t>
          </tg>
       </mg>
       <mg>
          <tg re="unnslippe" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">beasahit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00032230"
+               ff="0.00005525"
+               gf-ff="0.00026704">beasahit</t>
             <xg>
                <x/>
                <xt/>
@@ -749,27 +1258,42 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slippe</l>
+         <l pos="V" gf="0.01961732" ff="0.00247209" gf-ff="0.01714523">slippe</l>
       </lg>
       <mg>
          <tg re="frivillig" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">luoitit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00733904"
+               ff="0.00259711"
+               gf-ff="0.00474193">luoitit</t>
          </tg>
       </mg>
       <mg>
          <tg re="ufrivillig" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">biestit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00085946"
+               ff="0.00071835"
+               gf-ff="0.00014111">biestit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">stoppe</l>
+         <l pos="V" gf="0.01252156" ff="0.00288411" gf-ff="0.00963744">stoppe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>transitiv</re>
-            <t pos="V" usage="vd" src="nj;fad">bissehit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01092463"
+               ff="0.00320495"
+               gf-ff="0.00771968">bissehit</t>
             <xg>
                <x>Jeg stoppet den.</x>
                <xt>Mun bissehin dan.</xt>
@@ -779,7 +1303,12 @@
       <mg>
          <tg xml:lang="sme">
             <re>intransitiv</re>
-            <t pos="V" usage="vd" src="nj;fad">bisánit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00725175"
+               ff="0.00209979"
+               gf-ff="0.00515196">bisánit</t>
             <xg>
                <x>Den stoppet.</x>
                <xt>Dat bisánii.</xt>
@@ -789,13 +1318,23 @@
       <mg>
          <tg xml:lang="sme">
             <re>intransitiv</re>
-            <t pos="V" src="nj" usage="vd">orustit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00092661"
+               ff="0.00038680"
+               gf-ff="0.00053980">orustit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>intransitiv</re>
-            <t pos="V" src="nj" usage="vd">čuoččastit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00060431"
+               ff="0"
+               gf-ff="0.00060431">čuoččastit</t>
             <xg>
                <x>Laksen stiller stanser opp i de stilleflytende stykker av elven.</x>
                <xt>Luossa čuoččasta savvoniidda.</xt>
@@ -809,27 +1348,42 @@
       <mg>
          <tg xml:lang="sme">
             <re>tette noe</re>
-            <t pos="V" src="nj" usage="vd">notkat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00008057"
+               ff="0"
+               gf-ff="0.00008057">notkat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">beholde</l>
+         <l pos="V" gf="0.00651773" ff="0.00512731" gf-ff="0.00139041">beholde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">bisuhit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01082391"
+               ff="0.01934025"
+               gf-ff="-0.0085163">bisuhit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bla</l>
+         <l pos="V" gf="0.00405355" ff="0.00064091" gf-ff="0.00341264">bla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">bláđet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00016115"
+               ff="0.00027628"
+               gf-ff="-0.0001151">bláđet</t>
             <xg>
                <x>Elle blar i den nye skoleboka.</x>
                <xt>Elle bláđe ođđa skuvlagirjji.</xt>
@@ -839,12 +1393,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">brenne</l>
+         <l pos="V" gf="0.00554727" ff="0.00091559" gf-ff="0.00463168">brenne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>være i brann</re>
-            <t pos="V" usage="vd" src="nj;fad">buollit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00441148"
+               ff="0.00049732"
+               gf-ff="0.00391416">buollit</t>
             <xg>
                <x>Ilden brenner.</x>
                <xt>Dolla buollá.</xt>
@@ -854,7 +1413,12 @@
       <mg>
          <tg xml:lang="sme">
             <re>brenne noe</re>
-            <t pos="V" usage="vd" src="nj;fad">boaldit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00234339"
+               ff="0.00060783"
+               gf-ff="0.00173556">boaldit</t>
             <xg>
                <x>Jeg brenner gamle papirer.</x>
                <xt>Mun boalddán boares báhpáriid.</xt>
@@ -864,12 +1428,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">røyke</l>
+         <l pos="V" gf="0.00198822" ff="0.00086981" gf-ff="0.00111841">røyke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>røyke tobakk</re>
-            <t pos="V" usage="vd" src="nj;fad">borgguhit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00130934"
+               ff="0.00121567"
+               gf-ff="0.00009366">borgguhit</t>
             <xg>
                <x>I Norge røyker 32 prosent av kvinnene.</x>
                <xt>Norggas borgguhit 32 proseantta nissonolbmuin.</xt>
@@ -879,7 +1448,12 @@
       <mg>
          <tg xml:lang="sme">
             <re>røyk av bål</re>
-            <t pos="V" usage="vd" src="nj;fad">suovastit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00028201"
+               ff="0.00005525"
+               gf-ff="0.00022676">suovastit</t>
             <xg>
                <x>Man røyker kjøtt og fisk.</x>
                <xt>Suovasta bierggu ja guoli.</xt>
@@ -889,11 +1463,16 @@
    </e>
    <e>
       <lg>
-         <l pos="V">rense</l>
+         <l pos="V" gf="0.00132496" ff="0.00018311" gf-ff="0.00114185">rense</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">buhtistit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00068488"
+               ff="0.00033154"
+               gf-ff="0.00035334">buhtistit</t>
             <xg>
                <x>Mor oljet og reingjorde den gamle slåmaskinen.</x>
                <xt>Eadni oljii ja buhtistii boares láddjenmašiinna.</xt>
@@ -903,45 +1482,70 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dykke</l>
+         <l pos="V" gf="0.00052915" ff="0.00004577" gf-ff="0.00048338">dykke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" usage="vd" src="nj;fad">buokčalit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00026858"
+               ff="0.00011051"
+               gf-ff="0.00015806">buokčalit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>flere fanger</re>
-            <t pos="V" src="nj" usage="vd">buokčat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00004028"
+               ff="0"
+               gf-ff="0.00004028">buokčat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">velsigne</l>
+         <l pos="V" gf="0.00059534" ff="0.00022889" gf-ff="0.00036644">velsigne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">buressivdnidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00104076"
+               ff="0"
+               gf-ff="0.00104076">buressivdnidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">grave</l>
+         <l pos="V" gf="0.00220584" ff="0.00050357" gf-ff="0.00170227">grave</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>å måke</re>
-            <t pos="V" usage="vd" src="nj;fad">goaivut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00102061"
+               ff="0.00038680"
+               gf-ff="0.00063380">goaivut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>å rote</re>
-            <t pos="V" usage="vd" src="nj;fad">burgit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00051030"
+               ff="0.00005525"
+               gf-ff="0.00045505">burgit</t>
             <xg>
                <x>Mor grov den fram av sekken.</x>
                <xt>Eadni burggii dan lávkkas.</xt>
@@ -951,55 +1555,85 @@
       <mg>
          <tg xml:lang="sme">
             <re>å grave</re>
-            <t pos="V" src="nj" usage="vd">skurbat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00006043"
+               ff="0"
+               gf-ff="0.00006043">skurbat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kvele</l>
+         <l pos="V" gf="0.00061422" ff="0.00009155" gf-ff="0.00052266">kvele</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>slokke, dempe</re>
-            <t pos="V" usage="vd" src="nj;fad">hávkadit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00040958"
+               ff="0.00005525"
+               gf-ff="0.00035433">hávkadit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>drepe ve å stanse lufttilførsel til lungene</re>
-            <t pos="V" src="nj" usage="vd">buvihit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00016115"
+               ff="0"
+               gf-ff="0.00016115">buvihit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skyte</l>
+         <l pos="V" gf="0.01000263" ff="0.00077825" gf-ff="0.00922438">skyte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">báhčit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01104549"
+               ff="0.00093938"
+               gf-ff="0.01010611">báhčit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">belønne</l>
+         <l pos="V" gf="0.00130884" ff="0.00027467" gf-ff="0.00103416">belønne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">bálkkašit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00023501"
+               ff="0.00011051"
+               gf-ff="0.0001245">bálkkašit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">betale</l>
+         <l pos="V" gf="0.02470319" ff="0.01176535" gf-ff="0.01293783">betale</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>utbetale, innfri, betale</re>
-            <t pos="V" usage="vd" src="nj;fad">máksit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.04054939"
+               ff="0.03409410"
+               gf-ff="0.00645528">máksit</t>
             <xg>
                <x>Jeg betaler den.</x>
                <xt>Mun mávssán dan.</xt>
@@ -1009,28 +1643,48 @@
       <mg>
          <tg xml:lang="sme">
             <re>lønne, leie</re>
-            <t pos="V" src="nj" usage="vd">bálkáhit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00265897"
+               ff="0.00071835"
+               gf-ff="0.00194062">bálkáhit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>innløse, utbetale</re>
-            <t pos="V" src="nj" usage="vd">lotnut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00033572"
+               ff="0.00033154"
+               gf-ff="0.00000418">lotnut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tjene</l>
+         <l pos="V" gf="0.01273832" ff="0.00343347" gf-ff="0.00930485">tjene</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">dinet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00715103"
+               ff="0.00198928"
+               gf-ff="0.00516175">dinet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">bálvalit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00484793"
+               ff="0.00458640"
+               gf-ff="0.00026153">bálvalit</t>
             <xg>
                <x>Hotellpersonalet var klare til å tjene folket.</x>
                <xt>Hoteallabargit ledje gárvásat bálvalit olbmuid.</xt>
@@ -1040,36 +1694,56 @@
    </e>
    <e>
       <lg>
-         <l pos="V">flette</l>
+         <l pos="V" gf="0.00036888" ff="0.00009155" gf-ff="0.00027733">flette</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">bárgidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00012086"
+               ff="0"
+               gf-ff="0.00012086">bárgidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tenne</l>
+         <l pos="V" gf="0.00213099" ff="0.00009155" gf-ff="0.00203944">tenne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">cahkkehit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00134291"
+               ff="0.00022103"
+               gf-ff="0.00112188">cahkkehit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">synke</l>
+         <l pos="V" gf="0.00338110" ff="0.00393704" gf-ff="-0.0005559">synke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">vuodjut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00096690"
+               ff="0.00022103"
+               gf-ff="0.00074587">vuodjut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">coahkut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00033572"
+               ff="0"
+               gf-ff="0.00033572">coahkut</t>
             <xg>
                <x>Vannet synker i elva.</x>
                <xt>Čáhci coahku jogas.</xt>
@@ -1079,17 +1753,32 @@
    </e>
    <e>
       <lg>
-         <l pos="V">banke</l>
+         <l pos="V" gf="0.00241099" ff="0.00068669" gf-ff="0.0017243">banke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">dearpat</t>
-            <t pos="V" usage="vd" src="nj;fad">huškut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00131605"
+               ff="0"
+               gf-ff="0.00131605">dearpat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00066474"
+               ff="0"
+               gf-ff="0.00066474">huškut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">cábmit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00053045"
+               ff="0"
+               gf-ff="0.00053045">cábmit</t>
             <xg>
                <x>En rettferdig mann kan slå meg, han tukter meg i kjærlighet. Men gudløse skal aldri få salve mitt hode.</x>
                <xt>Vánhurskkis oažžu cábmit ja bagadit mu ráhkisvuođas, muhto ipmilmeahttumat eai oaččo golggahit oljju mu oaivvi ala.</xt>
@@ -1099,73 +1788,128 @@
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" src="nj" usage="vd">čoalkalit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00006714"
+               ff="0"
+               gf-ff="0.00006714">čoalkalit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" src="nj" usage="vd">goalkalit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00004028"
+               ff="0"
+               gf-ff="0.00004028">goalkalit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">čoalkit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">skjelve</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">darrat</t>
-            <t pos="V" src="nj" usage="vd">libaidit</t>
-            <t pos="V" src="nj" usage="vd">livzzistit</t>
-            <t pos="V" usage="vd" src="nj;fad">doarggistit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00004028"
+               ff="0.00005525"
+               gf-ff="-0.0000149">čoalkit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fylle</l>
+         <l pos="V" gf="0.00077259" ff="0.00009155" gf-ff="0.00068103">skjelve</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">deavdit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00006043"
+               ff="0.00005525"
+               gf-ff="0.00000518">darrat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00004700"
+               ff="0"
+               gf-ff="0.000047">libaidit</t>
+            <t pos="V" src="nj" usage="vd" gf="0" ff="0" gf-ff="0">livzzistit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00071846"
+               ff="0.00022103"
+               gf-ff="0.00049743">doarggistit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">dekorere</l>
+         <l pos="V" gf="0.01168677" ff="0.00668382" gf-ff="0.00500295">fylle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">dekoreret</t>
-            <t pos="V" usage="vd" src="gt;fad">hervet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02056678"
+               ff="0.02005860"
+               gf-ff="0.00050818">deavdit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vite</l>
+         <l pos="V" gf="0.00034445" ff="0.00004577" gf-ff="0.00029868">dekorere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">diehtit</t>
+            <t pos="V" usage="vd" gf="0" ff="0" gf-ff="0">dekoreret</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00067817"
+               ff="0"
+               gf-ff="0.00067817">hervet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bestille</l>
+         <l pos="V" gf="0.08374366" ff="0.01551928" gf-ff="0.06822438">vite</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">diggot</t>
-            <t pos="V" usage="vd" src="nj;fad">diŋgot</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.10079939"
+               ff="0.03989618"
+               gf-ff="0.06090321">diehtit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V" gf="0.00728773" ff="0.00160228" gf-ff="0.00568545">bestille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00041630"
+               ff="0"
+               gf-ff="0.0004163">diggot</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00422347"
+               ff="0.00281815"
+               gf-ff="0.00140531">diŋgot</t>
             <xg>
                <x>bestille varer</x>
                <xt>diggot gálvvuid</xt>
@@ -1175,23 +1919,43 @@
    </e>
    <e>
       <lg>
-         <l pos="V">tillate</l>
+         <l pos="V" gf="0.01069430" ff="0.00512731" gf-ff="0.00556699">tillate</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">diktit</t>
-            <t pos="V" usage="vd" src="nj;fad">suovvat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.01189825"
+               ff="0.00397856"
+               gf-ff="0.00791969">diktit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00331029"
+               ff="0.00127093"
+               gf-ff="0.00203936">suovvat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">forfølge</l>
+         <l pos="V" gf="0.00116659" ff="0.00041201" gf-ff="0.00075457">forfølge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">doarridit</t>
-            <t pos="V" usage="vd" src="nj;fad">oaguhit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00021486"
+               ff="0.00005525"
+               gf-ff="0.00015961">doarridit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00098704"
+               ff="0.00027628"
+               gf-ff="0.00071076">oaguhit</t>
             <xg>
                <x>Ulv og hund pleier å forfølge.</x>
                <xt>Gumpe ja beana lávejit oaguhit.</xt>
@@ -1201,48 +1965,73 @@
    </e>
    <e>
       <lg>
-         <l pos="V">slåss</l>
+         <l pos="V" gf="0.00219059" ff="0.00004577" gf-ff="0.00214482">slåss</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">doarrut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00315585"
+               ff="0.00027628"
+               gf-ff="0.00287957">doarrut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">brekke</l>
+         <l pos="V" gf="0.00084674" ff="0.00022889" gf-ff="0.00061785">brekke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">doddjot</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00060431"
+               ff="0.00005525"
+               gf-ff="0.00054906">doddjot</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skylle</l>
+         <l pos="V" gf="0.00073741" ff="0.00009155" gf-ff="0.00064585">skylle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>lenge</re>
-            <t pos="V" usage="vd" src="nj;fad">doidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00024843"
+               ff="0.00005525"
+               gf-ff="0.00019318">doidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang, fort</re>
-            <t pos="V" src="nj" usage="vd">doidilit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00001342"
+               ff="0"
+               gf-ff="0.00001342">doidilit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">føle</l>
+         <l pos="V" gf="0.02208393" ff="0.00558511" gf-ff="0.01649882">føle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">dovdat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.03954892"
+               ff="0.02132953"
+               gf-ff="0.01821939">dovdat</t>
             <xg>
                <x>Jeg føler smerte.</x>
                <xt>Mun dovddan bákčasa.</xt>
@@ -1252,48 +2041,78 @@
    </e>
    <e>
       <lg>
-         <l pos="V">dømme</l>
+         <l pos="V" gf="0.00750517" ff="0.00032045" gf-ff="0.00718472">dømme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">dubmet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00347815"
+               ff="0.00022103"
+               gf-ff="0.00325712">dubmet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tolke</l>
+         <l pos="V" gf="0.00393642" ff="0.00782831" gf-ff="-0.0038918">tolke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">dulkot</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00729875"
+               ff="0.00502846"
+               gf-ff="0.00227028">dulkot</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fortolke</l>
+         <l pos="V" gf="0.00025400" ff="0.00068669" gf-ff="-0.0004326">fortolke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">dulkot</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00729875"
+               ff="0.00502846"
+               gf-ff="0.00227028">dulkot</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tåle</l>
+         <l pos="V" gf="0.00573561" ff="0.00096137" gf-ff="0.00477424">tåle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">gillát</t>
-            <t pos="V" usage="vd" src="nj;fad">gierdat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.01092463"
+               ff="0.00817816"
+               gf-ff="0.00274646">gillát</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00681530"
+               ff="0.00226557"
+               gf-ff="0.00454973">gierdat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>om å se eller høre</re>
-            <t pos="V" src="nj" usage="vd">duoddut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00016115"
+               ff="0.00011051"
+               gf-ff="0.00005063">duoddut</t>
             <xg>
                <x>Jeg tåler ikke å se det.</x>
                <xt>In duotto dan oaidnit.</xt>
@@ -1303,11 +2122,16 @@
    </e>
    <e>
       <lg>
-         <l pos="V">koke</l>
+         <l pos="V" gf="0.00244425" ff="0.00054935" gf-ff="0.00189489">koke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">vuoššat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00183979"
+               ff="0.00033154"
+               gf-ff="0.00150825">vuoššat</t>
             <xg>
                <x>Bestemor kokte kaffe og serverte kake.</x>
                <xt>Áhkku vuoššai gáfe ja guossohii gáhku.</xt>
@@ -1316,7 +2140,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">duoldat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00044316"
+               ff="0"
+               gf-ff="0.00044316">duoldat</t>
             <xg>
                <x>Vannet koker.</x>
                <xt>Čáhci duoldá.</xt>
@@ -1326,121 +2155,223 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bekrefte</l>
+         <l pos="V" gf="0.00854997" ff="0.01094132" gf-ff="-0.0023913">bekrefte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">nannet</t>
-            <t pos="V" src="nj" usage="vd">dáhkidit</t>
-            <t pos="V" usage="vd" src="nj;fad">duođaštit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.06612526"
+               ff="0.11267079"
+               gf-ff="-0.0465455">nannet</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00555967"
+               ff="0.00353650"
+               gf-ff="0.00202317">dáhkidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02840270"
+               ff="0.02818151"
+               gf-ff="0.00022118">duođaštit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">granske</l>
+         <l pos="V" gf="0.00108620" ff="0.00064091" gf-ff="0.00044529">granske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">dutkat</t>
-            <t pos="V" usage="vd" src="nj;fad">suokkardit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.01321430"
+               ff="0.00900703"
+               gf-ff="0.00420727">dutkat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00163164"
+               ff="0.00132618"
+               gf-ff="0.00030546">suokkardit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">garantere</l>
+         <l pos="V" gf="0.00404852" ff="0.00114449" gf-ff="0.00290403">garantere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">dáhkidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00555967"
+               ff="0.00353650"
+               gf-ff="0.00202317">dáhkidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">danse</l>
+         <l pos="V" gf="0.00370598" ff="0.00009155" gf-ff="0.00361443">danse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">dánset</t>
-            <t pos="V" usage="vd" src="gt;fad">dánsut</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00059088"
+               ff="0"
+               gf-ff="0.00059088">dánset</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00251125"
+               ff="0.00016577"
+               gf-ff="0.00234548">dánsut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">temme</l>
+         <l pos="V" gf="0.00026977" ff="0.00009155" gf-ff="0.00017822">temme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">dápmat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00040287"
+               ff="0.00016577"
+               gf-ff="0.0002371">dápmat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">trenge</l>
+         <l pos="V" gf="0.04155137" ff="0.01377966" gf-ff="0.02777170">trenge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">dárbbahit</t>
-            <t pos="V" usage="vd" src="gt;fad">dárbbašit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00257168"
+               ff="0.00176825"
+               gf-ff="0.00080342">dárbbahit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.06038429"
+               ff="0.04685867"
+               gf-ff="0.01352562">dárbbašit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">svare</l>
+         <l pos="V" gf="0.01856057" ff="0.00810298" gf-ff="0.01045759">svare</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">dávistit</t>
-            <t pos="V" usage="vd" src="nj;fad">vástidit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00834623"
+               ff="0.01276456"
+               gf-ff="-0.0044183">dávistit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.03919305"
+               ff="0.01906396"
+               gf-ff="0.02012909">vástidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">leve</l>
+         <l pos="V" gf="0.02383547" ff="0.01071242" gf-ff="0.01312305">leve</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">eallit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02597202"
+               ff="0.01447756"
+               gf-ff="0.01149445">eallit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">angripe</l>
+         <l pos="V" gf="0.00544643" ff="0.00068669" gf-ff="0.00475974">angripe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">fallehit</t>
-            <t pos="V" usage="vd" src="nj;fad">rohkkáhit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00357887"
+               ff="0.00099464"
+               gf-ff="0.00258423">fallehit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00078560"
+               ff="0.00011051"
+               gf-ff="0.00067509">rohkkáhit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tøye</l>
+         <l pos="V" gf="0.00041358" ff="0.00004577" gf-ff="0.00036781">tøye</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">vanahit</t>
-            <t pos="V" usage="vd" src="gt;fad">fanahit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00010743"
+               ff="0.00011051"
+               gf-ff="-0.0000030">vanahit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00010743"
+               ff="0.00005525"
+               gf-ff="0.00005218">fanahit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">oppleve</l>
+         <l pos="V" gf="0.02202328" ff="0.01629753" gf-ff="0.00572574">oppleve</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">feret</t>
-            <t pos="V" usage="vd" src="nj;fad">vásihit</t>
-            <t pos="V" usage="vd" src="nj;fad">muosáhit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00014100"
+               ff="0.00011051"
+               gf-ff="0.00003049">feret</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02837584"
+               ff="0.02094273"
+               gf-ff="0.00743311">vásihit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00166521"
+               ff="0.00182350"
+               gf-ff="-0.0001582">muosáhit</t>
             <xg>
                <x>Han har vært ute for mye rart.</x>
                <xt>Dat lea máŋgga láhkai feren.</xt>
@@ -1450,13 +2381,28 @@
    </e>
    <e>
       <lg>
-         <l pos="V">frakte</l>
+         <l pos="V" gf="0.00186018" ff="0.00077825" gf-ff="0.00108193">frakte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">fievrridit</t>
-            <t pos="V" src="nj" usage="vd">vuojihit</t>
-            <t pos="V" usage="vd" src="nj;fad">geasehit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00913183"
+               ff="0.00906229"
+               gf-ff="0.00006953">fievrridit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00022829"
+               ff="0.00011051"
+               gf-ff="0.00011778">vuojihit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00122205"
+               ff="0.00038680"
+               gf-ff="0.00083524">geasehit</t>
             <xg>
                <x>Matbutikken frakter ut varer hver tirsdag.</x>
                <xt>Biebmogávpi vuojiha gálvvuid juohke disdaga.</xt>
@@ -1466,11 +2412,16 @@
    </e>
    <e>
       <lg>
-         <l pos="V">passe</l>
+         <l pos="V" gf="0.01551109" ff="0.00361658" gf-ff="0.01189451">passe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">heivet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01904257"
+               ff="0.01077528"
+               gf-ff="0.00826729">heivet</t>
             <xg>
                <x>De nye skoene passer til meg.</x>
                <xt>Ođđa skuovat heivejit munnje.</xt>
@@ -1480,114 +2431,217 @@
       <mg>
          <tg xml:lang="sme">
             <re>høve seg</re>
-            <t pos="V" src="nj" usage="vd">soahpat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00966900"
+               ff="0.01536168"
+               gf-ff="-0.0056926">soahpat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>å vokte</re>
-            <t pos="V" usage="vd" src="nj;fad">fáktet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00096690"
+               ff="0.00016577"
+               gf-ff="0.00080113">fáktet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">klore</l>
+         <l pos="V" gf="0.00022732" ff="0.00004577" gf-ff="0.00018155">klore</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>lenge</re>
-            <t pos="V" src="nj" usage="vd">gazzut</t>
-            <t pos="V" usage="vd" src="nj;fad">ruohkkat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00005371"
+               ff="0"
+               gf-ff="0.00005371">gazzut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00014772"
+               ff="0.00005525"
+               gf-ff="0.00009247">ruohkkat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" src="nj" usage="vd">gaccastit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00004700"
+               ff="0"
+               gf-ff="0.000047">gaccastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skryte</l>
+         <l pos="V" gf="0.00248237" ff="0.00032045" gf-ff="0.00216192">skryte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">rámpostit</t>
-            <t pos="V" src="nj" usage="vd">gerret</t>
-            <t pos="V" usage="vd" src="nj;fad">rábmot</t>
-            <t pos="V" usage="vd" src="nj;fad">rámpot</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00020815"
+               ff="0"
+               gf-ff="0.00020815">rámpostit</t>
+            <t pos="V" src="nj" usage="vd" gf="0" ff="0" gf-ff="0">gerret</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00311556"
+               ff="0.00055257"
+               gf-ff="0.00256299">rábmot</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00124219"
+               ff="0.00022103"
+               gf-ff="0.00102116">rámpot</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">forby</l>
+         <l pos="V" gf="0.00465721" ff="0.00247209" gf-ff="0.00218512">forby</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gieldit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00686902"
+               ff="0.00403382"
+               gf-ff="0.00283520">gieldit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lyge</l>
+         <l pos="V" gf="0.00011660" ff="0.00013733" gf-ff="-0.0000207">lyge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gielistit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00136306"
+               ff="0.00027628"
+               gf-ff="0.00108677">gielistit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">takke</l>
+         <l pos="V" gf="0.00677694" ff="0.00315879" gf-ff="0.00361815">takke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" usage="vd" src="nj;fad">giitit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00703017"
+               ff="0.00486269"
+               gf-ff="0.00216747">giitit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>flere ganger</re>
-            <t pos="V" usage="vd" src="nj;fad">giitalit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00045659"
+               ff="0.00016577"
+               gf-ff="0.00029082">giitalit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">brøle</l>
+         <l pos="V" gf="0.00025175" ff="0.00022889" gf-ff="0.00002286">brøle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>flere ganger</re>
-            <t pos="V" src="nj" usage="vd">muollat</t>
-            <t pos="V" src="nj" usage="vd">rohkut</t>
-            <t pos="V" src="nj" usage="vd">gilljut</t>
-            <t pos="V" usage="vd" src="nj;fad">čeargut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00002685"
+               ff="0"
+               gf-ff="0.00002685">muollat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00016786"
+               ff="0"
+               gf-ff="0.00016786">rohkut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00008728"
+               ff="0.00011051"
+               gf-ff="-0.0000232">gilljut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00049687"
+               ff="0.00038680"
+               gf-ff="0.00011006">čeargut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang, plutselig</re>
-            <t pos="V" src="nj" usage="vd">čerget</t>
-            <t pos="V" src="nj" usage="vd">giljádit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00018129"
+               ff="0.00005525"
+               gf-ff="0.00012604">čerget</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00001342"
+               ff="0"
+               gf-ff="0.00001342">giljádit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">orke</l>
+         <l pos="V" gf="0.00309868" ff="0.00027467" gf-ff="0.00282401">orke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">veadjit</t>
-            <t pos="V" usage="vd">viššat</t>
-            <t pos="V" usage="vd" src="gt;fad">gillet</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00466663"
+               ff="0.00176825"
+               gf-ff="0.00289838">veadjit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00231653"
+               ff="0.00011051"
+               gf-ff="0.00220602">viššat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00361244"
+               ff="0.00022103"
+               gf-ff="0.00339141">gillet</t>
             <xg>
                <x>Jeg gjør det så lenge jeg orker.</x>
                <xt>Mun barggan dan nu guhká go veaján.</xt>
@@ -1597,44 +2651,74 @@
    </e>
    <e>
       <lg>
-         <l pos="V">konkurrere</l>
+         <l pos="V" gf="0.00281452" ff="0.00164806" gf-ff="0.00116646">konkurrere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">gilvvohallat</t>
-            <t pos="V" usage="vd" src="nj;fad">gilvalit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00146378"
+               ff="0.00027628"
+               gf-ff="0.0011875">gilvvohallat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00698988"
+               ff="0.00314969"
+               gf-ff="0.00384019">gilvalit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">våke</l>
+         <l pos="V" gf="0.00007433" ff="0.00009155" gf-ff="-0.0000172">våke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gohcit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00096690"
+               ff="0.00011051"
+               gf-ff="0.00085639">gohcit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kalle</l>
+         <l pos="V" gf="0.02560677" ff="0.00727895" gf-ff="0.01832782">kalle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">navdit</t>
-            <t pos="V" usage="vd" src="nj;fad">gohčodit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00956828"
+               ff="0.00276289"
+               gf-ff="0.00680539">navdit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01641045"
+               ff="0.00729403"
+               gf-ff="0.00911642">gohčodit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tørke</l>
+         <l pos="V" gf="0.00165347" ff="0.00009155" gf-ff="0.00156192">tørke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>fjerne med klut, gjøre tørr</re>
-            <t pos="V" src="nj" usage="vd">sihkkut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00369973"
+               ff="0.00331547"
+               gf-ff="0.00038426">sihkkut</t>
             <xg>
                <x>Jeg tørker av bordet.</x>
                <xt>Mun sihkun beavddi.</xt>
@@ -1648,7 +2732,12 @@
       <mg>
          <tg xml:lang="sme">
             <re>blir tørr</re>
-            <t pos="V" src="nj" usage="vd">goikat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00137649"
+               ff="0.00022103"
+               gf-ff="0.00115546">goikat</t>
             <xg>
                <x>Klærne tørker.</x>
                <xt>Biktasat goiket.</xt>
@@ -1658,7 +2747,12 @@
       <mg>
          <tg xml:lang="sme">
             <re>gjøre tørr, både i lufta og med apparat</re>
-            <t pos="V" usage="vd" src="nj;fad">goikadit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00092661"
+               ff="0.00011051"
+               gf-ff="0.0008161">goikadit</t>
             <xg>
                <x>Hun tørker klærne.</x>
                <xt>Son goikada biktasiid.</xt>
@@ -1668,7 +2762,12 @@
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" src="nj" usage="vd">sihkastit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00081917"
+               ff="0.00022103"
+               gf-ff="0.00059814">sihkastit</t>
             <xg>
                <x>Etter måltidet må man rydde og tørke av bordet.</x>
                <xt>Boradeami maŋŋel ferte čorget ja beavddi sihkastit.</xt>
@@ -1678,7 +2777,12 @@
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" src="nj" usage="vd">sihkestit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00005371"
+               ff="0"
+               gf-ff="0.00005371">sihkestit</t>
             <xg>
                <x>Etter måltidet må man rydde og tørke av bordet.</x>
                <xt>Boradeami maŋŋel ferte čorget ja beavddi sihkestit.</xt>
@@ -1688,12 +2792,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">renne</l>
+         <l pos="V" gf="0.00215802" ff="0.00018311" gf-ff="0.00197491">renne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>om vann</re>
-            <t pos="V" usage="vd" src="nj;fad">golgat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00258511"
+               ff="0.00038680"
+               gf-ff="0.00219830">golgat</t>
             <xg>
                <x>Vannet renner i elva.</x>
                <xt>Čáhci golgá jogas.</xt>
@@ -1703,33 +2812,53 @@
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" usage="vd" src="nj;fad">čierastit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00065802"
+               ff="0.00022103"
+               gf-ff="0.00043699">čierastit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>flere ganger</re>
-            <t pos="V" src="nj" usage="vd">čierastallat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00043644"
+               ff="0"
+               gf-ff="0.00043644">čierastallat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fotografere</l>
+         <l pos="V" gf="0.00188617" ff="0.00027467" gf-ff="0.00161149">fotografere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">govvet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.03601033"
+               ff="0.00160247"
+               gf-ff="0.03440786">govvet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gyte</l>
+         <l pos="V" gf="0.00016702" ff="0.00013733" gf-ff="0.00002969">gyte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gođđat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00037601"
+               ff="0.00016577"
+               gf-ff="0.00021024">gođđat</t>
             <xg>
                <x>Fisk gyter.</x>
                <xt>Guolli gođđá.</xt>
@@ -1739,103 +2868,162 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forlenge</l>
+         <l pos="V" gf="0.00190973" ff="0.00347924" gf-ff="-0.0015695">forlenge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">guhkidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00220909"
+               ff="0.00270763"
+               gf-ff="-0.0004985">guhkidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lytte</l>
+         <l pos="V" gf="0.00303960" ff="0.00206008" gf-ff="0.00097951">lytte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">guldalit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00825894"
+               ff="0.00442062"
+               gf-ff="0.00383831">guldalit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bære</l>
+         <l pos="V" gf="0.00777027" ff="0.00709583" gf-ff="0.00067444">bære</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">guoddit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00569397"
+               ff="0.00408908"
+               gf-ff="0.00160488">guoddit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">angre</l>
+         <l pos="V" gf="0.00193381" ff="0.00009155" gf-ff="0.00184226">angre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gáhtat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00173236"
+               ff="0.00011051"
+               gf-ff="0.00162185">gáhtat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kreve</l>
+         <l pos="V" gf="0.02413314" ff="0.04266658" gf-ff="-0.0185334">kreve</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gáibidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.05800061"
+               ff="0.06111520"
+               gf-ff="-0.0031145">gáibidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kastrere</l>
+         <l pos="V" gf="0.00050922" ff="0.00009155" gf-ff="0.00041767">kastrere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gáldet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00031558"
+               ff="0.00022103"
+               gf-ff="0.00009455">gáldet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">døpe</l>
+         <l pos="V" gf="0.00171307" ff="0.00022889" gf-ff="0.00148417">døpe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">gásttašit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00053045"
+               ff="0.00016577"
+               gf-ff="0.00036468">gásttašit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">finnes</l>
+         <l pos="V" gf="0.04509206" ff="0.03525029" gf-ff="0.00984177">finnes</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">gávdnot</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.05089657"
+               ff="0.04188546"
+               gf-ff="0.00901111">gávdnot</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">handle</l>
+         <l pos="V" gf="0.01899668" ff="0.00755363" gf-ff="0.01144304">handle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">gávppahit</t>
-            <t pos="V" usage="vd" src="gt;fad">gávppašit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00000671"
+               ff="0"
+               gf-ff="0.00000671">gávppahit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00324314"
+               ff="0.00154722"
+               gf-ff="0.00169591">gávppašit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lukte</l>
+         <l pos="V" gf="0.00225349" ff="0.00036623" gf-ff="0.00188726">lukte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">háisut</t>
-            <t pos="V" usage="vd" src="nj;fad">haksit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00018800"
+               ff="0"
+               gf-ff="0.000188">háisut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00045659"
+               ff="0.00011051"
+               gf-ff="0.00034608">haksit</t>
             <xg>
                <x>Jeg lukter roser.</x>
                <xt>Mun havssán ruvssuid.</xt>
@@ -1845,179 +3033,290 @@
    </e>
    <e>
       <lg>
-         <l pos="V">avvikle</l>
+         <l pos="V" gf="0.00169453" ff="0.00631758" gf-ff="-0.0046230">avvikle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">heaittihit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01116636"
+               ff="0.00983590"
+               gf-ff="0.00133046">heaittihit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">prate</l>
+         <l pos="V" gf="0.00364325" ff="0.00123604" gf-ff="0.00240721">prate</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">háleštit</t>
-            <t pos="V" usage="vd" src="gt;fad">humadit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00600955"
+               ff="0.00171299"
+               gf-ff="0.00429656">háleštit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00206809"
+               ff="0.00049732"
+               gf-ff="0.00157077">humadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">utforme</l>
+         <l pos="V" gf="0.00223426" ff="0.01451213" gf-ff="-0.0122778">utforme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" alt_str="hápmet" src="gt;fad">hábmet</t>
+            <t pos="V"
+               usage="vd"
+               alt_str="hápmet"
+               src="gt;fad"
+               gf="0.01477880"
+               ff="0.02016912"
+               gf-ff="-0.0053903">hábmet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">overtale</l>
+         <l pos="V" gf="0.00088712" ff="0.00004577" gf-ff="0.00084135">overtale</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">hálahit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00047673"
+               ff="0.00022103"
+               gf-ff="0.00025570">hálahit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">administrere</l>
+         <l pos="V" gf="0.00107112" ff="0.00233475" gf-ff="-0.0012636">administrere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">hálddašit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.03654750"
+               ff="0.06531480"
+               gf-ff="-0.0287673">hálddašit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">terge</l>
+         <l pos="V" gf="0.00008957" ff="0.00013733" gf-ff="-0.0000477">terge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">hárdit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00118176"
+               ff="0.00044206"
+               gf-ff="0.0007397">hárdit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">begrave</l>
+         <l pos="V" gf="0.00104617" ff="0.00013733" gf-ff="0.00090884">begrave</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">hávdádit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00081917"
+               ff="0.00044206"
+               gf-ff="0.00037711">hávdádit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lyde</l>
+         <l pos="V" gf="0.00202582" ff="0.00430328" gf-ff="-0.0022774">lyde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">čuodjat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00277312"
+               ff="0.00464166"
+               gf-ff="-0.0018685">čuodjat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">jeagadit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00128248"
+               ff="0.00044206"
+               gf-ff="0.00084041">jeagadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">trøste</l>
+         <l pos="V" gf="0.00073984" ff="0.00027467" gf-ff="0.00046516">trøste</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">jeđđet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00125562"
+               ff="0.00038680"
+               gf-ff="0.00086882">jeđđet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>i lengre tid</re>
-            <t pos="V" src="nj" usage="vd">jeđđedit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00001342"
+               ff="0"
+               gf-ff="0.00001342">jeđđedit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">dele</l>
+         <l pos="V" gf="0.01938479" ff="0.01593130" gf-ff="0.00345349">dele</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">juohkit</t>
-            <t pos="V" usage="vd" src="nj;fad">juogadit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02004304"
+               ff="0.02414768"
+               gf-ff="-0.0041046">juohkit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00904455"
+               ff="0.01143837"
+               gf-ff="-0.0023938">juogadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bevilge</l>
+         <l pos="V" gf="0.00201490" ff="0.02536189" gf-ff="-0.0233469">bevilge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">juolludit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.03067895"
+               ff="0.03823844"
+               gf-ff="-0.0075594">juolludit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">skjenke</l>
+         <l pos="V" gf="0.00031291" ff="0.00009155" gf-ff="0.00022136">skjenke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" usage="vd" src="nj;fad">leiket</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00035587"
+               ff="0.00022103"
+               gf-ff="0.00013484">leiket</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" src="nj" usage="vd">njorret</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00020815"
+               ff="0"
+               gf-ff="0.00020815">njorret</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>i alminnelighet</re>
-            <t pos="V" src="nj" usage="vd">njoarrat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00020143"
+               ff="0"
+               gf-ff="0.00020143">njoarrat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>til flere</re>
-            <t pos="V" src="nj" usage="vd">leaikut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00014100"
+               ff="0"
+               gf-ff="0.000141">leaikut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>i hast eller en gang</re>
-            <t pos="V" src="nj" usage="vd">njorrestit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00010071"
+               ff="0"
+               gf-ff="0.00010071">njorrestit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">trives</l>
+         <l pos="V" gf="0.00362939" ff="0.00077825" gf-ff="0.00285114">trives</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">loaktit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00323643"
+               ff="0.00204454"
+               gf-ff="0.00119189">loaktit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">telle</l>
+         <l pos="V" gf="0.00483827" ff="0.00187696" gf-ff="0.00296131">telle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">lohkat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.28308032"
+               ff="0.04337742"
+               gf-ff="0.2397029">lohkat</t>
             <xg>
                <x>Elle kan telle til ti på russisk.</x>
                <xt>Elle máhttá lohkat logi rádjái ruoššagillii.</xt>
@@ -2027,63 +3326,108 @@
    </e>
    <e>
       <lg>
-         <l pos="V">love</l>
+         <l pos="V" gf="0.01082806" ff="0.00283833" gf-ff="0.00798973">love</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">lohpidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01616201"
+               ff="0.00513898"
+               gf-ff="0.01102303">lohpidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ordne</l>
+         <l pos="V" gf="0.00444045" ff="0.00238053" gf-ff="0.00205992">ordne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">ásahit</t>
-            <t pos="V" src="nj" usage="vd">lágidit</t>
-            <t pos="V" usage="vd" src="nj;fad">ordnet</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.04287936"
+               ff="0.06117046"
+               gf-ff="-0.0182911">ásahit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.03575518"
+               ff="0.03133121"
+               gf-ff="0.00442396">lágidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00451220"
+               ff="0.00138144"
+               gf-ff="0.00313076">ordnet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">rádjat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00250454"
+               ff="0.00171299"
+               gf-ff="0.00079155">rádjat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">stellet</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00024172"
+               ff="0.00005525"
+               gf-ff="0.00018647">stellet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">arrangere</l>
+         <l pos="V" gf="0.01058445" ff="0.01625175" gf-ff="-0.0056672">arrangere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">lágidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.03575518"
+               ff="0.03133121"
+               gf-ff="0.00442396">lágidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">synge</l>
+         <l pos="V" gf="0.00826061" ff="0.00105293" gf-ff="0.00720767">synge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">lávlut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01144837"
+               ff="0.00104989"
+               gf-ff="0.01039848">lávlut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">utsette</l>
+         <l pos="V" gf="0.01067542" ff="0.00961371" gf-ff="0.00106171">utsette</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">maŋidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00371988"
+               ff="0.00326021"
+               gf-ff="0.00045967">maŋidit</t>
             <xg>
                <x>Vi må utsette møtet til i morgen.</x>
                <xt>Mii fertet maŋidit čoahkkima ihttážii.</xt>
@@ -2093,267 +3437,439 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bestemme</l>
+         <l pos="V" gf="0.01911727" ff="0.01826606" gf-ff="0.00085120">bestemme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" alt_str="mearredit" src="nj;fad">mearridit</t>
+            <t pos="V"
+               usage="vd"
+               alt_str="mearredit"
+               src="nj;fad"
+               gf="0.11463145"
+               ff="0.13880776"
+               gf-ff="-0.0241763">mearridit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ledsage</l>
+         <l pos="V" gf="0.00035224" ff="0.00068669" gf-ff="-0.0003344">ledsage</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">mieđuštit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00065131"
+               ff="0.00022103"
+               gf-ff="0.00043028">mieđuštit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">måle</l>
+         <l pos="V" gf="0.00700028" ff="0.00357080" gf-ff="0.00342948">måle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">mihtidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00289398"
+               ff="0.00265237"
+               gf-ff="0.00024161">mihtidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">smile</l>
+         <l pos="V" gf="0.00503458" ff="0.00004577" gf-ff="0.00498881">smile</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">moddját</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00126905"
+               ff="0.00005525"
+               gf-ff="0.00121380">moddját</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">motivere</l>
+         <l pos="V" gf="0.00193745" ff="0.00444062" gf-ff="-0.0025031">motivere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" alt_str="movttidahttit" src="gt;fad">movttiidahttit</t>
+            <t pos="V"
+               usage="vd"
+               alt_str="movttidahttit"
+               src="gt;fad"
+               gf="0.01195196"
+               ff="0.01508539"
+               gf-ff="-0.0031334">movttiidahttit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">huske</l>
+         <l pos="V" gf="0.01544993" ff="0.00819454" gf-ff="0.00725539">huske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">muitit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01800181"
+               ff="0.01143837"
+               gf-ff="0.00656344">muitit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">minnes</l>
+         <l pos="V" gf="0.00072633" ff="0.00013733" gf-ff="0.000589">minnes</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">muitit</t>
-            <t pos="V" usage="vd" src="nj;fad">muittašit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.01800181"
+               ff="0.01143837"
+               gf-ff="0.00656344">muitit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00324986"
+               ff="0.00110515"
+               gf-ff="0.00214470">muittašit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">brette</l>
+         <l pos="V" gf="0.00072113" ff="0.00004577" gf-ff="0.00067536">brette</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>holde på å brette</re>
-            <t pos="V" usage="vd" src="nj;fad">máhccut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00010743"
+               ff="0.00005525"
+               gf-ff="0.00005218">máhccut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" src="nj" usage="vd">máhcastit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00009400"
+               ff="0.00005525"
+               gf-ff="0.00003874">máhcastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">drømme</l>
+         <l pos="V" gf="0.00342390" ff="0.00027467" gf-ff="0.00314923">drømme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">niegadit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00147720"
+               ff="0.00011051"
+               gf-ff="0.00136668">niegadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">true</l>
+         <l pos="V" gf="0.00581583" ff="0.00471529" gf-ff="0.00110054">true</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">áitit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00484121"
+               ff="0.00209979"
+               gf-ff="0.00274142">áitit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>true med å ville gjøre noe ondt</re>
-            <t pos="V" usage="vd" src="nj;fad">uhkidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00108104"
+               ff="0.00044206"
+               gf-ff="0.00063897">uhkidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>true med å ville + infinitiv</re>
-            <t pos="V" usage="vd" src="nj;fad">nihttit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00066474"
+               ff="0.00005525"
+               gf-ff="0.00060949">nihttit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>true med bevegelser, gjenstander</re>
-            <t pos="V" src="nj" usage="vd">vuohkadit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00001342"
+               ff="0"
+               gf-ff="0.00001342">vuohkadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">beklage</l>
+         <l pos="V" gf="0.00410120" ff="0.00402860" gf-ff="0.00007259">beklage</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>be om unnskyldning</re>
-            <t pos="V" usage="vd" src="nj;fad">šállošit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00702345"
+               ff="0.00508372"
+               gf-ff="0.00193972">šállošit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>uttrykke sin misnøye</re>
-            <t pos="V" src="nj" usage="vd">nimmorit</t>
-            <t pos="V" usage="vd" src="nj;fad">váidalit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00031558"
+               ff="0.00005525"
+               gf-ff="0.00026032">nimmorit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00525080"
+               ff="0.00265237"
+               gf-ff="0.00259843">váidalit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">nikke</l>
+         <l pos="V" gf="0.00099679" ff="0.00013733" gf-ff="0.00085946">nikke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" src="nj" usage="vd">nuvkkihit</t>
-            <t pos="V" usage="vd" src="nj;fad">nivkalit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00003357"
+               ff="0"
+               gf-ff="0.00003357">nuvkkihit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00071174"
+               ff="0.00011051"
+               gf-ff="0.00060123">nivkalit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">nivkut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00001342"
+               ff="0"
+               gf-ff="0.00001342">nivkut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">slakte</l>
+         <l pos="V" gf="0.00148523" ff="0.00302145" gf-ff="-0.0015362">slakte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">njuovvat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00738604"
+               ff="0.00486269"
+               gf-ff="0.00252334">njuovvat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>ha slaktning</re>
-            <t pos="V" src="nj" usage="vd">njuovadit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00009400"
+               ff="0.00005525"
+               gf-ff="0.00003874">njuovadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">smøre</l>
+         <l pos="V" gf="0.00140934" ff="0.00009155" gf-ff="0.00131779">smøre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>gni inn, f.eks. salve</re>
-            <t pos="V" usage="vd" src="nj;fad">vuoidat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00084603"
+               ff="0.00005525"
+               gf-ff="0.00079078">vuoidat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>gni utover, f.eks. smør</re>
-            <t pos="V" usage="vd" src="nj;fad">njuvdit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00012757"
+               ff="0.00005525"
+               gf-ff="0.00007232">njuvdit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">nominere</l>
+         <l pos="V" gf="0.00183609" ff="0.00050357" gf-ff="0.00133252">nominere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">nomineret</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00068488"
+               ff="0.00044206"
+               gf-ff="0.00024282">nomineret</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">påstå</l>
+         <l pos="V" gf="0.00490567" ff="0.00018311" gf-ff="0.00472256">påstå</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">nágget</t>
-            <t pos="V" usage="vd" src="nj;fad">čuoččuhit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00075203"
+               ff="0.00022103"
+               gf-ff="0.000531">nágget</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01766608"
+               ff="0.00591259"
+               gf-ff="0.01175349">čuoččuhit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gifte seg</l>
+         <l pos="V" gf="0" ff="0" gf-ff="0">gifte seg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">náitalit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00565368"
+               ff="0.00314969"
+               gf-ff="0.00250399">náitalit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">nyte</l>
+         <l pos="V" gf="0.00547381" ff="0.00137338" gf-ff="0.00410043">nyte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">návddašit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00364602"
+               ff="0.00055257"
+               gf-ff="0.00309344">návddašit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ofre</l>
+         <l pos="V" gf="0.00171169" ff="0.00018311" gf-ff="0.00152858">ofre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">oaffaruššat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00065131"
+               ff="0.00005525"
+               gf-ff="0.00059606">oaffaruššat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kjøpe</l>
+         <l pos="V" gf="0.04418761" ff="0.00636336" gf-ff="0.03782425">kjøpe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">oastit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02699935"
+               ff="0.01248827"
+               gf-ff="0.01451107">oastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">savne</l>
+         <l pos="V" gf="0.00603138" ff="0.00096137" gf-ff="0.00507001">savne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">váillahit</t>
-            <t pos="V" usage="vd" src="nj;fad">ohcalit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00518366"
+               ff="0.00232083"
+               gf-ff="0.00286283">váillahit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00512323"
+               ff="0.00392330"
+               gf-ff="0.00119993">ohcalit</t>
             <xg>
                <x>Jeg savner deg.</x>
                <xt>Mun váillahan du.</xt>
@@ -2363,95 +3879,158 @@
    </e>
    <e>
       <lg>
-         <l pos="V">diskriminere</l>
+         <l pos="V" gf="0.00054838" ff="0.00064091" gf-ff="-0.0000925">diskriminere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>gjøre forskjell på</re>
-            <t pos="V" usage="vd" src="nj;fad">vealahit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00167864"
+               ff="0.00104989"
+               gf-ff="0.00062875">vealahit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>tilsidesette</re>
-            <t pos="V" src="nj" usage="vd">olgguštit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00075203"
+               ff="0.00022103"
+               gf-ff="0.000531">olgguštit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bo</l>
+         <l pos="V" gf="0.02117792" ff="0.02348493" gf-ff="-0.0023070">bo</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">orrut</t>
-            <t pos="V" usage="vd" src="nj;fad">ássat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.10245118"
+               ff="0.05354487"
+               gf-ff="0.04890631">orrut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02468282"
+               ff="0.02635800"
+               gf-ff="-0.0016751">ássat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fornye</l>
+         <l pos="V" gf="0.00150862" ff="0.00160228" gf-ff="-0.0000936">fornye</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>gjøre som ny igjen</re>
-            <t pos="V" usage="vd" src="gt;fad">ođasmahttit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00578126"
+               ff="0.00784661"
+               gf-ff="-0.0020653">ođasmahttit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>bytte ut</re>
-            <t pos="V" usage="vd" src="gt;fad">ođastit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00196065"
+               ff="0.00176825"
+               gf-ff="0.00019239">ođastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">krysse</l>
+         <l pos="V" gf="0.00234203" ff="0.00032045" gf-ff="0.00202158">krysse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>bevege seg over</re>
-            <t pos="V" usage="vd">rasttidit</t>
-            <t pos="V" usage="vd" src="gt;fad">rasttildit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00055731"
+               ff="0.00027628"
+               gf-ff="0.00028103">rasttidit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00200766"
+               ff="0.00038680"
+               gf-ff="0.00162086">rasttildit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>merke med kryss</re>
-            <t pos="V" usage="vd">russet</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00022158"
+               ff="0"
+               gf-ff="0.00022158">russet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">organisere</l>
+         <l pos="V" gf="0.00518324" ff="0.01460369" gf-ff="-0.0094204">organisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">organiseret</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00714432"
+               ff="0.00955961"
+               gf-ff="-0.0024152">organiseret</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fødes</l>
+         <l pos="V" gf="0" ff="0" gf-ff="0">fødes</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">šaddat</t>
-            <t pos="V" usage="vd" src="nj;fad">riegádit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.22853772"
+               ff="0.14820160"
+               gf-ff="0.08033612">šaddat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01236155"
+               ff="0.00745981"
+               gf-ff="0.00490174">riegádit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">begynne</l>
+         <l pos="V" gf="0.04533325" ff="0.01780826" gf-ff="0.02752499">begynne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">álgit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.06358715"
+               ff="0.03901205"
+               gf-ff="0.02457509">álgit</t>
             <xg>
                <x>Barna begynner på skolen om høsten.</x>
                <xt>Mánát álget skuvlii čakčat.</xt>
@@ -2460,29 +4039,49 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">riepmat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00049016"
+               ff="0"
+               gf-ff="0.00049016">riepmat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">røve</l>
+         <l pos="V" gf="0.00017084" ff="0.00004577" gf-ff="0.00012507">røve</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">rivvet</t>
-            <t pos="V" usage="vd" src="nj;fad">rievidit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00192037"
+               ff="0.00049732"
+               gf-ff="0.00142305">rivvet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00116833"
+               ff="0.00027628"
+               gf-ff="0.00089204">rievidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">løpe</l>
+         <l pos="V" gf="0.00835452" ff="0.00105293" gf-ff="0.00730159">løpe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>om tobeinte</re>
-            <t pos="V" usage="vd" src="nj;fad">viehkat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00382731"
+               ff="0.00066309"
+               gf-ff="0.00316422">viehkat</t>
             <xg>
                <x>Elle løp over haugen.</x>
                <xt>Elle viegai dievá badjel.</xt>
@@ -2492,7 +4091,12 @@
       <mg>
          <tg xml:lang="sme">
             <re>om firbeinte dyr</re>
-            <t pos="V" src="nj" usage="vd">ruohttat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00132277"
+               ff="0.00016577"
+               gf-ff="0.001157">ruohttat</t>
             <xg>
                <x>Hunden løp til skogs.</x>
                <xt>Beana ruohtai meahccái.</xt>
@@ -2502,11 +4106,16 @@
    </e>
    <e>
       <lg>
-         <l pos="V">elske</l>
+         <l pos="V" gf="0.00984894" ff="0.00013733" gf-ff="0.00971161">elske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">ráhkistit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00289398"
+               ff="0.00071835"
+               gf-ff="0.00217563">ráhkistit</t>
             <xg>
                <x>Jeg elsker deg.</x>
                <xt>Mun ráhkistan du.</xt>
@@ -2516,541 +4125,854 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sykle</l>
+         <l pos="V" gf="0.00286720" ff="0.00032045" gf-ff="0.00254675">sykle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">sihkkelastit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00073189"
+               ff="0.00038680"
+               gf-ff="0.00034509">sihkkelastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bøye</l>
+         <l pos="V" gf="0.00184077" ff="0.00041201" gf-ff="0.00142876">bøye</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>transitiv; bøye noe</re>
-            <t pos="V" usage="vd" src="nj;fad">sojahit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00047002"
+               ff="0.00011051"
+               gf-ff="0.00035950">sojahit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">stivne</l>
+         <l pos="V" gf="0.00035380" ff="0.00004577" gf-ff="0.00030803">stivne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">stirdut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00039616"
+               ff="0.00016577"
+               gf-ff="0.00023039">stirdut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">stave</l>
+         <l pos="V" gf="0.00026578" ff="0.00013733" gf-ff="0.00012845">stave</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">stávet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00010743"
+               ff="0.00011051"
+               gf-ff="-0.0000030">stávet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">beskytte</l>
+         <l pos="V" gf="0.00591217" ff="0.00444062" gf-ff="0.00147154">beskytte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">suodjalit</t>
-            <t pos="V" usage="vd" src="nj;fad">várjalit</t>
-            <t pos="V" usage="vd" src="nj;fad">suddjet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01036732"
+               ff="0.01414601"
+               gf-ff="-0.0037786">suodjalit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00265226"
+               ff="0.00182350"
+               gf-ff="0.00082876">várjalit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00221581"
+               ff="0.00171299"
+               gf-ff="0.00050282">suddjet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tygge</l>
+         <l pos="V" gf="0.00059794" ff="0.00004577" gf-ff="0.00055217">tygge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">suoskat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00016115"
+               ff="0.00005525"
+               gf-ff="0.00010589">suoskat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">sende</l>
+         <l pos="V" gf="0.04675212" ff="0.04802280" gf-ff="-0.0012706">sende</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">sáddet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.03341179"
+               ff="0.02945244"
+               gf-ff="0.00395934">sáddet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">salte</l>
+         <l pos="V" gf="0.00019977" ff="0" gf-ff="0.00019977">salte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">sáltet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00038944"
+               ff="0.00011051"
+               gf-ff="0.00027893">sáltet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">preke</l>
+         <l pos="V" gf="0.00011678" ff="0.00004577" gf-ff="0.00007101">preke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">sárdnidit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00327671"
+               ff="0.00049732"
+               gf-ff="0.00277939">sárdnidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tegne</l>
+         <l pos="V" gf="0.00436820" ff="0.00128182" gf-ff="0.00308638">tegne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">tennjet</t>
-            <t pos="V" usage="vd" src="nj;fad">sárgut</t>
-            <t pos="V" usage="vd" src="nj;fad">tevdnet</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00008057"
+               ff="0"
+               gf-ff="0.00008057">tennjet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00178608"
+               ff="0.00099464"
+               gf-ff="0.00079144">sárgut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00140334"
+               ff="0.00033154"
+               gf-ff="0.00107180">tevdnet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">glømme</l>
+         <l pos="V" gf="0.00012683" ff="0.00032045" gf-ff="-0.0001936">glømme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">vajáldahttit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00235010"
+               ff="0.00110515"
+               gf-ff="0.00124494">vajáldahttit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">blø</l>
+         <l pos="V" gf="0.00075180" ff="0.00022889" gf-ff="0.00052290">blø</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">vardit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00026186"
+               ff="0.00027628"
+               gf-ff="-0.0000144">vardit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">innvie</l>
+         <l pos="V" gf="0.00037356" ff="0.00027467" gf-ff="0.00009888">innvie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">vihahit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00035587"
+               ff="0.00005525"
+               gf-ff="0.00030062">vihahit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vinne</l>
+         <l pos="V" gf="0.02629827" ff="0.00288411" gf-ff="0.02341416">vinne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">vuoitit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02959119"
+               ff="0.00248660"
+               gf-ff="0.02710459">vuoitit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">spy</l>
+         <l pos="V" gf="0.00059187" ff="0.00009155" gf-ff="0.00050032">spy</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">vuoksit</t>
-            <t pos="V" usage="vd" src="nj;fad">vuovssadit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00077889"
+               ff="0.00005525"
+               gf-ff="0.00072364">vuoksit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00009400"
+               ff="0.00005525"
+               gf-ff="0.00003874">vuovssadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lengte</l>
+         <l pos="V" gf="0.00071991" ff="0.00009155" gf-ff="0.00062836">lengte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">áibbašit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00081246"
+               ff="0.00005525"
+               gf-ff="0.00075721">áibbašit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fortjene</l>
+         <l pos="V" gf="0.00607417" ff="0.00100715" gf-ff="0.00506702">fortjene</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">ánssášit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00442491"
+               ff="0.00110515"
+               gf-ff="0.00331975">ánssášit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">arve</l>
+         <l pos="V" gf="0.00107580" ff="0.00064091" gf-ff="0.00043489">arve</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">árbet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00125562"
+               ff="0.00022103"
+               gf-ff="0.00103459">árbet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">feire</l>
+         <l pos="V" gf="0.00495886" ff="0.00141916" gf-ff="0.0035397">feire</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">ávvudit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00896397"
+               ff="0.00221031"
+               gf-ff="0.00675366">ávvudit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">binde</l>
+         <l pos="V" gf="0.00369038" ff="0.00279255" gf-ff="0.00089783">binde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">čatnat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01014574"
+               ff="0.00933857"
+               gf-ff="0.00080717">čatnat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">gođđit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00123548"
+               ff="0"
+               gf-ff="0.00123548">gođđit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">sparke</l>
+         <l pos="V" gf="0.00295383" ff="0.00036623" gf-ff="0.00258760">sparke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>flere ganger</re>
-            <t pos="V" usage="vd" src="nj;fad">čiekčat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01222726"
+               ff="0.00022103"
+               gf-ff="0.01200623">čiekčat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" usage="vd" src="nj;fad">čievččastit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00089304"
+               ff="0.00005525"
+               gf-ff="0.00083779">čievččastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">pynte</l>
+         <l pos="V" gf="0.00096890" ff="0.00009155" gf-ff="0.00087734">pynte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">čábbudit</t>
-            <t pos="V" usage="vd" src="gt;fad">čiŋahit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00006714"
+               ff="0"
+               gf-ff="0.00006714">čábbudit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00104747"
+               ff="0.00016577"
+               gf-ff="0.0008817">čiŋahit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">rydde</l>
+         <l pos="V" gf="0.00385256" ff="0.00091559" gf-ff="0.00293697">rydde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">čorget</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00582826"
+               ff="0.00138144"
+               gf-ff="0.00444682">čorget</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">hevde</l>
+         <l pos="V" gf="0.01216880" ff="0.00544777" gf-ff="0.00672103">hevde</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">čuoččuhit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01766608"
+               ff="0.00591259"
+               gf-ff="0.01175349">čuoččuhit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">slipe</l>
+         <l pos="V" gf="0.00029264" ff="0.00004577" gf-ff="0.00024687">slipe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">šliipet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00003357"
+               ff="0.00005525"
+               gf-ff="-0.0000216">šliipet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">avlyse</l>
+         <l pos="V" gf="0.00134332" ff="0.00022889" gf-ff="0.00111443">avlyse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">šluhttet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00005371"
+               ff="0.00005525"
+               gf-ff="-0.0000015">šluhttet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">argumentere</l>
+         <l pos="V" gf="0.00245846" ff="0.00096137" gf-ff="0.00149709">argumentere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">ákkastallat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00371988"
+               ff="0.00187876"
+               gf-ff="0.00184112">ákkastallat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">filme</l>
+         <l pos="V" gf="0.00282908" ff="0.00004577" gf-ff="0.00278330">filme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">filbmet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00188008"
+               ff="0.00022103"
+               gf-ff="0.00165905">filbmet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">underskrive</l>
+         <l pos="V" gf="0.00065944" ff="0.00274677" gf-ff="-0.0020873">underskrive</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">vuolláičállit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00642586"
+               ff="0.00978064"
+               gf-ff="-0.0033547">vuolláičállit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">smitte</l>
+         <l pos="V" gf="0.00241497" ff="0.00018311" gf-ff="0.00223185">smitte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">njoammut</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00179279"
+               ff="0.00071835"
+               gf-ff="0.00107444">njoammut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">eksperimentere</l>
+         <l pos="V" gf="0.00068543" ff="0.00036623" gf-ff="0.0003192">eksperimentere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">geahččaladdat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00202780"
+               ff="0.00127093"
+               gf-ff="0.00075687">geahččaladdat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">stramme</l>
+         <l pos="V" gf="0.00135303" ff="0.00045779" gf-ff="0.00089524">stramme</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">čavget</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00216209"
+               ff="0.00132618"
+               gf-ff="0.00083591">čavget</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">flagge</l>
+         <l pos="V" gf="0.00056328" ff="0.00183118" gf-ff="-0.0012679">flagge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">levget</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00134963"
+               ff="0.00254186"
+               gf-ff="-0.0011922">levget</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fornorske</l>
+         <l pos="V" gf="0.00005856" ff="0.00073247" gf-ff="-0.0006739">fornorske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">dáruiduhttit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00042973"
+               ff="0.00055257"
+               gf-ff="-0.0001228">dáruiduhttit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">formidle</l>
+         <l pos="V" gf="0.00420412" ff="0.00970527" gf-ff="-0.0055011">formidle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">gaskkustit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00557310"
+               ff="0.01049899"
+               gf-ff="-0.0049258">gaskkustit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">vaie</l>
+         <l pos="V" gf="0.00011660" ff="0.00018311" gf-ff="-0.0000665">vaie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">libardit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00034915"
+               ff="0.00011051"
+               gf-ff="0.00023864">libardit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">bombe</l>
+         <l pos="V" gf="0.00091952" ff="0.00009155" gf-ff="0.00082796">bombe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">bombet</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00024843"
+               ff="0.00005525"
+               gf-ff="0.00019318">bombet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">låse</l>
+         <l pos="V" gf="0.00205527" ff="0.00073247" gf-ff="0.0013228">låse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">lásset</t>
-            <t pos="V" usage="vd" src="gt;fad">lohkkadit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00031558"
+               ff="0.00033154"
+               gf-ff="-0.0000159">lásset</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00035587"
+               ff="0.00016577"
+               gf-ff="0.00019009">lohkkadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tilby</l>
+         <l pos="V" gf="0.01401113" ff="0.01442057" gf-ff="-0.0004094">tilby</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">dárjut</t>
-            <t pos="V" usage="vd" src="nj;fad">fállat</t>
+            <t pos="V" gf="0.00002685" ff="0.00011051" gf-ff="-0.0000836">dárjut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02239315"
+               ff="0.02387139"
+               gf-ff="-0.0014782">fállat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">støtte</l>
+         <l pos="V" gf="0.01203347" ff="0.02902426" gf-ff="-0.0169907">støtte</l>
       </lg>
       <mg>
          <tg re="mentalt eller politisk" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">doarjut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.04670667"
+               ff="0.05453951"
+               gf-ff="-0.0078328">doarjut</t>
          </tg>
       </mg>
       <mg>
          <tg re="ved fall" xml:lang="sme">
-            <t pos="V">dorjet</t>
+            <t pos="V" gf="0.00021486" ff="0" gf-ff="0.00021486">dorjet</t>
          </tg>
       </mg>
       <mg>
          <tg re="om økonomi eller juridikk" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">doarjalit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00014772"
+               ff="0"
+               gf-ff="0.00014772">doarjalit</t>
          </tg>
       </mg>
       <mg>
          <tg re="om møbler eller andre ting" xml:lang="sme">
-            <t pos="V">stargadit</t>
+            <t pos="V" gf="0.00004700" ff="0.00011051" gf-ff="-0.0000635">stargadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">oppstå</l>
+         <l pos="V" gf="0.00893150" ff="0.00563089" gf-ff="0.00330061">oppstå</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">čuožžilit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00760091"
+               ff="0.00718352"
+               gf-ff="0.00041739">čuožžilit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">interessere</l>
+         <l pos="V" gf="0.00821175" ff="0.00192274" gf-ff="0.00628901">interessere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">beroštit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.02735523"
+               ff="0.01956128"
+               gf-ff="0.00779395">beroštit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">spare</l>
+         <l pos="V" gf="0.00672686" ff="0.00132760" gf-ff="0.00539926">spare</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">duohččat</t>
-            <t pos="V" usage="vd" src="nj;fad">seastit</t>
+            <t pos="V" gf="0.00000671" ff="0" gf-ff="0.00000671">duohččat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00539181"
+               ff="0.00314969"
+               gf-ff="0.00224212">seastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">forsvare</l>
+         <l pos="V" gf="0.00564447" ff="0.00224320" gf-ff="0.00340127">forsvare</l>
       </lg>
       <mg>
          <tg re="" xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">bealuštit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00502922"
+               ff="0.00342598"
+               gf-ff="0.00160324">bealuštit</t>
          </tg>
       </mg>
       <mg>
          <tg re="" xml:lang="sme">
-            <t pos="V" usage="vd">várjalit</t>
-            <t pos="V">gádjalit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00265226"
+               ff="0.00182350"
+               gf-ff="0.00082876">várjalit</t>
+            <t pos="V" gf="0.00000671" ff="0" gf-ff="0.00000671">gádjalit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">utgi</l>
+         <l pos="V" gf="0.00424726" ff="0.00727895" gf-ff="-0.0030316">utgi</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">olggosaddit</t>
-            <t pos="V" src="gt;fad">almmuhit</t>
-            <t pos="V" src="gt;fad">almmustahttit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00028201"
+               ff="0.00022103"
+               gf-ff="0.00006098">olggosaddit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.03632592"
+               ff="0.03099966"
+               gf-ff="0.00532625">almmuhit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00177936"
+               ff="0.00127093"
+               gf-ff="0.00050843">almmustahttit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">forbedre</l>
+         <l pos="V" gf="0.00418107" ff="0.00732473" gf-ff="-0.0031436">forbedre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">buorádahttit</t>
-            <t pos="V" usage="vd" src="nj;fad">buoridit</t>
+            <t pos="V" gf="0" ff="0" gf-ff="0">buorádahttit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02807369"
+               ff="0.04216175"
+               gf-ff="-0.0140880">buoridit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">male</l>
+         <l pos="V" gf="0.00407001" ff="0.00068669" gf-ff="0.00338331">male</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>flere strøk</re>
-            <t pos="V" usage="vd" src="nj;fad">málet</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00167193"
+               ff="0.00011051"
+               gf-ff="0.00156142">málet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>ett strøk</re>
-            <t pos="V" src="nj" usage="vd">sihkastit</t>
-            <t pos="V" src="nj" usage="vd">sihkestit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00081917"
+               ff="0.00022103"
+               gf-ff="0.00059814">sihkastit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00005371"
+               ff="0"
+               gf-ff="0.00005371">sihkestit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">ferdnet</t>
-            <t pos="V">verdnet</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00004028"
+               ff="0"
+               gf-ff="0.00004028">ferdnet</t>
+            <t pos="V" gf="0.00000671" ff="0" gf-ff="0.00000671">verdnet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">blåse</l>
+         <l pos="V" gf="0.00339011" ff="0.00009155" gf-ff="0.00329856">blåse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">bossut</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00072517"
+               ff="0.00022103"
+               gf-ff="0.00050414">bossut</t>
             <xg>
                <x>Mor har satt i gang maskinen som blåser varme inn i de frosne rørene.</x>
                <xt>Eadni lea bidjan johtui mašiinna mii bossu lieggasa jikŋon revrriide.</xt>
@@ -3059,19 +4981,29 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">bieggaladdat</t>
+            <t pos="V" gf="0" ff="0" gf-ff="0">bieggaladdat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>en gang</re>
-            <t pos="V" src="nj" usage="vd">bosádit</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00036258"
+               ff="0"
+               gf-ff="0.00036258">bosádit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>om vind</re>
-            <t pos="V" src="nj" usage="vd">bieggat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00014100"
+               ff="0.00005525"
+               gf-ff="0.00008575">bieggat</t>
             <xg>
                <x>Det blåser hardt i dag.</x>
                <xt>Dál bieggá garrasit.</xt>
@@ -3080,122 +5012,187 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">šohkut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00002014"
+               ff="0"
+               gf-ff="0.00002014">šohkut</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">forsterke</l>
+         <l pos="V" gf="0.00302175" ff="0.00370814" gf-ff="-0.0006863">forsterke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">nanosmahttit</t>
-            <t pos="V" src="gt;fad">gievrudit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00181965"
+               ff="0.00259711"
+               gf-ff="-0.0007774">nanosmahttit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00034915"
+               ff="0.00016577"
+               gf-ff="0.00018338">gievrudit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">analysere</l>
+         <l pos="V" gf="0.00257143" ff="0.00210586" gf-ff="0.00046556">analysere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">lađastallat</t>
-            <t pos="V" usage="vd" src="gt;fad">analyseret</t>
+            <t pos="V" gf="0.00004028" ff="0.00016577" gf-ff="-0.0001254">lađastallat</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00131605"
+               ff="0.00160247"
+               gf-ff="-0.0002864">analyseret</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">kopiere</l>
+         <l pos="V" gf="0.00245223" ff="0.00013733" gf-ff="0.0023149">kopiere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">máŋget</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00230310"
+               ff="0.00149196"
+               gf-ff="0.00081114">máŋget</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">avdekke</l>
+         <l pos="V" gf="0.00239020" ff="0.00347924" gf-ff="-0.0010890">avdekke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">almmustahttit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00177936"
+               ff="0.00127093"
+               gf-ff="0.00050843">almmustahttit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">forkorte</l>
+         <l pos="V" gf="0.00214762" ff="0.00027467" gf-ff="0.00187294">forkorte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">oanidit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00069831"
+               ff="0.00055257"
+               gf-ff="0.00014574">oanidit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tilfredsstille</l>
+         <l pos="V" gf="0.00177978" ff="0.00164806" gf-ff="0.00013171">tilfredsstille</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">duhtadit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00227624"
+               ff="0.00232083"
+               gf-ff="-0.0000445">duhtadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">oppsummere</l>
+         <l pos="V" gf="0.00172520" ff="0.00096137" gf-ff="0.00076383">oppsummere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">čoahkkáigeassit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00130263"
+               ff="0.00237608"
+               gf-ff="-0.0010734">čoahkkáigeassit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">sjokkere</l>
+         <l pos="V" gf="0.00147414" ff="0.00004577" gf-ff="0.00142837">sjokkere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">hirpmástuhttit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00099375"
+               ff="0.00022103"
+               gf-ff="0.00077272">hirpmástuhttit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">markedsføre</l>
+         <l pos="V" gf="0.00136065" ff="0.00050357" gf-ff="0.00085708">markedsføre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd">márkanastit</t>
-            <t pos="V" src="gt;fad">vuovdalit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00093332"
+               ff="0.00005525"
+               gf-ff="0.00087807">márkanastit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00080575"
+               ff="0.00055257"
+               gf-ff="0.00025318">vuovdalit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">smelte</l>
+         <l pos="V" gf="0.00128441" ff="0.00022889" gf-ff="0.00105552">smelte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>intransitiv</re>
-            <t pos="V" usage="vd" src="nj;fad">suddat</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00170550"
+               ff="0.00044206"
+               gf-ff="0.00126344">suddat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>transitiv</re>
-            <t pos="V" usage="vd" src="nj;fad">suddadit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00037601"
+               ff="0.00011051"
+               gf-ff="0.0002655">suddadit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">vuohčut</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00006043"
+               ff="0"
+               gf-ff="0.00006043">vuohčut</t>
             <xg>
                <x>Talg smelter til smør.</x>
                <xt>Buoidi vuohču vuodjan.</xt>
@@ -3205,38 +5202,52 @@
       <mg>
          <tg xml:lang="sme">
             <re>transitiv</re>
-            <t pos="V">šolget</t>
+            <t pos="V" gf="0.00003357" ff="0" gf-ff="0.00003357">šolget</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">okkupere</l>
+         <l pos="V" gf="0.00100511" ff="0.00032045" gf-ff="0.00068466">okkupere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">vuollástit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00027529"
+               ff="0.00011051"
+               gf-ff="0.00016477">vuollástit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">lime</l>
+         <l pos="V" gf="0.00093234" ff="0.00009155" gf-ff="0.00084079">lime</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">laktit</t>
-            <t pos="V" usage="vd" src="gt;fad">liibmet</t>
+            <t pos="V" gf="0.00126234" ff="0.00110515" gf-ff="0.00015718">laktit</t>
+            <t pos="V"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00035587"
+               ff="0.00011051"
+               gf-ff="0.00024536">liibmet</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">forlate</l>
+         <l pos="V" gf="0.00710164" ff="0.00155650" gf-ff="0.00554514">forlate</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">guođđit</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01625601"
+               ff="0.00569156"
+               gf-ff="0.01056445">guođđit</t>
             <xg>
                <x>Jeg etterlater den dit.</x>
                <xt>Mun guođán dan dohko.</xt>
@@ -3246,100 +5257,146 @@
       <mg>
          <tg xml:lang="sme">
             <re>i hast</re>
-            <t pos="V" usage="vd">guođđilit</t>
+            <t pos="V"
+               usage="vd"
+               gf="0.00024172"
+               ff="0"
+               gf-ff="0.00024172">guođđilit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">tilbakeføre</l>
+         <l pos="V" gf="0.00039019" ff="0.00201430" gf-ff="-0.0016241">tilbakeføre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">máhcahit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00169879"
+               ff="0.00149196"
+               gf-ff="0.00020682">máhcahit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gravlegge</l>
+         <l pos="V" gf="0.00033059" ff="0.00018311" gf-ff="0.00014748">gravlegge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">hávdádit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00081917"
+               ff="0.00044206"
+               gf-ff="0.00037711">hávdádit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">sentralisere</l>
+         <l pos="V" gf="0.00016304" ff="0.00041201" gf-ff="-0.0002489">sentralisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">guovdduštit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00003357"
+               ff="0.00005525"
+               gf-ff="-0.0000216">guovdduštit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">anvise</l>
+         <l pos="V" gf="0.00015316" ff="0.00022889" gf-ff="-0.0000757">anvise</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">mávssihit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00008057"
+               ff="0.00005525"
+               gf-ff="0.00002531">mávssihit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">glane</l>
+         <l pos="V" gf="0.00012319" ff="0.00004577" gf-ff="0.00007742">glane</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">gaivát</t>
-            <t pos="V">gaifát</t>
-            <t pos="V" usage="vd" src="nj;fad">gávkat</t>
+            <t pos="V"
+               src="nj"
+               usage="vd"
+               gf="0.00030215"
+               ff="0.00005525"
+               gf-ff="0.0002469">gaivát</t>
+            <t pos="V" gf="0.00004028" ff="0" gf-ff="0.00004028">gaifát</t>
+            <t pos="V"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00013429"
+               ff="0.00011051"
+               gf-ff="0.00002377">gávkat</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">desentralisere</l>
+         <l pos="V" gf="0.00011799" ff="0.00215164" gf-ff="-0.0020336">desentralisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">sirddáldahttit</t>
-            <t pos="V" src="gt;fad">lávdadit</t>
+            <t pos="V" gf="0.00000671" ff="0" gf-ff="0.00000671">sirddáldahttit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00025515"
+               ff="0.00055257"
+               gf-ff="-0.0002974">lávdadit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ankre</l>
+         <l pos="V" gf="0.00009928" ff="0.00009155" gf-ff="0.00000772">ankre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">áŋkorastit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00001342"
+               ff="0.00011051"
+               gf-ff="-0.0000970">áŋkorastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">panele</l>
+         <l pos="V" gf="0.00005977" ff="0.00004577" gf-ff="0.00001400">panele</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">skoađastit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00015443"
+               ff="0"
+               gf-ff="0.00015443">skoađastit</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fordyre</l>
+         <l pos="V" gf="0.00004660" ff="0.00032045" gf-ff="-0.0002738">fordyre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="gt;fad">divrudit</t>
+            <t pos="V"
+               src="gt;fad"
+               gf="0.00050359"
+               ff="0.00082886"
+               gf-ff="-0.0003252">divrudit</t>
          </tg>
       </mg>
    </e>
