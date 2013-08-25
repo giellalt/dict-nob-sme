@@ -12,7 +12,7 @@ short_nowac-1.1.lemmas.freq.xml ==> output of the all_freq2xml-script on the fil
    - src_gt-fad_merged: 21_*_nobsme.xml and rest_*_nobsme.xml
      ==> TODO (waiting for manual unification of mg-elements)    
 
-Evaluation: What does each frequency patter mean?
+Evaluation: What does each frequency pattern mean?
 nob: gf ==> (cleaned) nowac
      ff ==> (cleaned) FAD
 sme: gf ==> (cleaned) main/words/lists/sme/20130124_sme_lemma.freq
