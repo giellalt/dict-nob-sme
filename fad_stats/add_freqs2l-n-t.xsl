@@ -200,7 +200,7 @@
 			    <!--xsl:attribute name="gf-ff" select="substring(local:remove-scientific-notation(string(number($t_gf) - number($t_ff))), 1, 10)"/-->
 
 			    <xsl:attribute name="gf-ff">
-			      <xsl:variable name="tmp" select="local:remove-scientific-notation(string(number($l_gf) - number($l_ff)))"/>
+			      <xsl:variable name="tmp" select="local:remove-scientific-notation(string(number($t_gf) - number($t_ff)))"/>
 			      <xsl:if test="starts-with($tmp, '-')">
 				<xsl:value-of select="substring($tmp, 1, 11)"/>
 			      </xsl:if>
