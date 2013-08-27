@@ -34,7 +34,7 @@ For nob-sme pairs:
 Still TODO:
 in gt-fad_merged:
 
-21_N_nobsme.xml ==>     606
+21_N_nobsme.xml ==>   481
 
 src_gt-fad_merged>grep '<e' 21_A_nobsme.xml | wc -l 
      135
