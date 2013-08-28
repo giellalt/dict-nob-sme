@@ -2150,18 +2150,14 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">utdrag</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">bihttá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">čálusoassi</t>
+            <t pos="N" src="fad">oassi</t>
          </tg>
       </mg>
    </e>
@@ -2472,7 +2468,7 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">tare</l>
       </lg>
@@ -2480,10 +2476,6 @@
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">deappu</t>
             <t pos="N" src="nj" usage="vd">dárra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">stárra</t>
          </tg>
       </mg>
@@ -2527,19 +2519,26 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">forhold</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>omstendighet</re>
             <t pos="N" usage="vd" src="nj;fad">dilli</t>
             <t pos="N" usage="vd" src="nj;fad">dilálašvuohta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>forbindelse</re>
             <t pos="N" usage="vd" src="nj;fad">gaskavuohta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>proporsjon</re>
             <t pos="N" src="fad">gorri</t>
          </tg>
       </mg>
@@ -2561,24 +2560,31 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">klump</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>sammenklemt masse</re>
             <t pos="N" src="nj" usage="vd">čoaltu</t>
-            <t pos="N" src="nj" usage="vd">doahkki</t>
-            <t pos="N" src="nj" usage="vd">duoggi</t>
+            <t pos="N" src="fad">limpu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">limpu</t>
+            <re>klynge, hop</re>
+            <t pos="N" src="nj" usage="vd">doahkki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>hårklump, ullklump</re>
+            <t pos="N" src="nj" usage="vd">duoggi</t>
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">drift</l>
       </lg>
@@ -2586,11 +2592,6 @@
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">doallu</t>
             <t pos="N" usage="vd" src="nj;fad">doaibma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">doaimmahanbargu</t>
          </tg>
       </mg>
    </e>
@@ -2996,18 +2997,20 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">følge</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>reisefølge</re>
             <t pos="N" src="nj" usage="vd">fárru</t>
-            <t pos="N" usage="vd" src="nj;fad">čuovus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>konsekvens, resultat, virkning</re>
+            <t pos="N" usage="vd" src="nj;fad">čuovus</t>
             <t pos="N" src="fad">čuovvumuš</t>
          </tg>
       </mg>
@@ -3174,18 +3177,13 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">konsum</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">geavahus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">mannu</t>
          </tg>
       </mg>
    </e>
@@ -3312,7 +3310,7 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">klang</l>
       </lg>
@@ -3320,10 +3318,6 @@
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">šuokŋa</t>
             <t pos="N" src="nj" usage="vd">gilkkas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">skádja</t>
          </tg>
       </mg>
@@ -3477,7 +3471,7 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">kurv</l>
       </lg>
@@ -3485,11 +3479,6 @@
          <tg xml:lang="sme">
             <t pos="N" usage="vd">gore</t>
             <t pos="N" usage="vd">mársu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">govusdávgi</t>
          </tg>
       </mg>
    </e>
@@ -3728,18 +3717,14 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">sengetøy</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" nr="Pl" src="nj" usage="vd">gávnnit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">seaŋgagávdni</t>
+            <t pos="N" nr="Pl" src="fad">seaŋgagávnnit</t>
          </tg>
       </mg>
    </e>
@@ -3924,17 +3909,13 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">årgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">jahkodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">jahkegeardi</t>
          </tg>
       </mg>
@@ -4086,7 +4067,7 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">konfirmasjon</l>
       </lg>
@@ -4097,7 +4078,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">konfirmašundoallu</t>
+            <re>konfirmasjonsselskap</re>
+            <t pos="N" nr="Pl" src="fad">konfirmašundoalut</t>
          </tg>
       </mg>
    </e>
@@ -4157,18 +4139,20 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">sprekk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>åpning, mellomrom</re>
             <t pos="N" src="nj" usage="vd">latnja</t>
             <t pos="N" src="nj" usage="vd">sálvu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>revne, brist</re>
             <t pos="N" src="fad">ráhku</t>
          </tg>
       </mg>
@@ -4278,7 +4262,7 @@
          </tg>
       </mg>
    </e>
-   <e ___mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">klasse</l>
       </lg>
@@ -4286,11 +4270,7 @@
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="nj;fad">luohkká</t>
             <t pos="N" type="G3" usage="vd" src="nj;fad">klássa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">ceahkis</t>
+            <t pos="N" src="fad">ceahkki</t>
          </tg>
       </mg>
    </e>
@@ -5549,32 +5529,24 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">vurdering</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="gt;fad">árvvoštallan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg" src="fad">veardideapmi</t>
+            <t pos="N" src="fad">veardideapmi</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">ordning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">ásahus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ortnet</t>
          </tg>
       </mg>
@@ -5622,17 +5594,14 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">gjennomgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>gjennomgåelse</re>
             <t pos="N" usage="vd">čađaheapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">geahčadeapmi</t>
          </tg>
       </mg>
@@ -5648,7 +5617,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">unge</l>
       </lg>
@@ -5656,11 +5625,6 @@
          <tg xml:lang="sme">
             <re>avkom av dyr</re>
             <t pos="N" usage="vd" src="nj;fad">čivga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">nuorra</t>
          </tg>
       </mg>
    </e>
@@ -5686,22 +5650,18 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">lår</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">čoarbbealli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">badjeváhkká</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">gevir</l>
       </lg>
@@ -5709,10 +5669,6 @@
          <tg xml:lang="sme">
             <t pos="N" usage="vd">čoarvvuš</t>
             <t pos="N" usage="vd">čoarvvus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">čoarvi</t>
          </tg>
       </mg>
@@ -5788,17 +5744,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">trivsel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">čálgu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">loaktin</t>
          </tg>
       </mg>
@@ -6132,7 +6084,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">hustuft</l>
       </lg>
@@ -6140,10 +6092,6 @@
          <tg xml:lang="sme">
             <t pos="N" usage="vd">duktasadji</t>
             <t pos="N" usage="vd">duktásadji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">stohpodukta</t>
          </tg>
       </mg>
@@ -6225,18 +6173,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">herredsrett</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="gt;fad">gielddariekti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">gihligotteriekti</t>
          </tg>
       </mg>
    </e>
@@ -6255,17 +6198,19 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">foreldrekontakt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>tillitsvalgt</re>
             <t pos="N" usage="vd">gulahallanváhnen</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>kontakt med foreldre</re>
             <t pos="N" src="fad">váhnenoktavuohta</t>
          </tg>
       </mg>
@@ -6335,7 +6280,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">naturvernlov</l>
       </lg>
@@ -6350,6 +6295,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>miljøvernlov</re>
             <t pos="N" src="fad">birasgáhttenláhka</t>
          </tg>
       </mg>
@@ -6408,7 +6354,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">slakteristruktur</l>
       </lg>
@@ -6419,6 +6365,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>slaktestruktur</re>
             <t pos="N" src="fad">njuovvanstruktuvra</t>
          </tg>
       </mg>
@@ -6478,17 +6425,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">formueskatt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">opmodatvearru</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">opmodatvearuheapmi</t>
          </tg>
       </mg>
@@ -6537,33 +6480,24 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">samarbeidsutvalg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="gt;fad">ovttasbargolávdegoddi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">oktasašbargogoddi</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">predikativ</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">predikatiiva</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" alt_str="predikatiivvahápmi" src="fad">predikatiivahápmi</t>
          </tg>
       </mg>
    </e>
@@ -6678,17 +6612,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">siffer</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="gt;fad">siffar</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">lohkomearka</t>
          </tg>
       </mg>
@@ -6763,17 +6693,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">formålsbestemmelse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="gt;fad">ulbmilmearrádus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ulbmilparagráfa</t>
          </tg>
       </mg>
@@ -6800,18 +6726,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">tankeverden</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">jurddamáilbmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">jurddašanmálle</t>
          </tg>
       </mg>
    </e>
@@ -6852,18 +6773,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">bygging</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">huksen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">ásodatbáiki</t>
          </tg>
       </mg>
    </e>
@@ -6898,32 +6814,25 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">planlegging</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="gt;fad">plánen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">plánenbargu</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">presse</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>aviser og tidsskrifter</re>
             <t pos="N" usage="vd" src="gt;fad">preassa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" alt_str="mediija" src="fad">media</t>
          </tg>
       </mg>
@@ -7027,17 +6936,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">fagmiljø</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">fágabiras</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">fidnobiras</t>
          </tg>
       </mg>
@@ -7086,32 +6991,24 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">distriktskommisjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">guovllukommišuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">guovlokommišuvdna</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">ungdomsforbund</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">nuoraidsearvi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">nuoraidlihttu</t>
          </tg>
       </mg>
@@ -7127,17 +7024,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">sommerjobb</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="gt;fad">geassebargu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">geassevirgi</t>
          </tg>
       </mg>
@@ -7294,17 +7187,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="N">sesong</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">áigodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">jahkeáigi</t>
          </tg>
       </mg>
