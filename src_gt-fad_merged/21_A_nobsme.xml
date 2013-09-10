@@ -1,46 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r id="nobsme" xml:lang="nob">
+<r>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">enig</l>
+         <l pos="A" gf="0.02115694" ff="0.02419384" gf-ff="-0.00303690">enig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">ovttaoaivilis</t>
+            <t pos="Adv"
+               usage="vd"
+               gf="0.01031544"
+               ff="0.01008887"
+               gf-ff="0.00022657">ovttaoaivilis</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ovttamielalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00064669"
+               ff="0.00121953"
+               gf-ff="-0.00057283">ovttamielalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">elektronisk</l>
+         <l pos="A" gf="0.00507689" ff="0.00888940" gf-ff="-0.00381251">elektronisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" alt_str="elektronalaš" src="gt;fad">elektrovnnalaš</t>
+            <t pos="A"
+               usage="vd"
+               alt_str="elektronalaš"
+               src="gt;fad"
+               gf="0.00538913"
+               ff="0.00692916"
+               gf-ff="-0.00154003">elektrovnnalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">elektronihkalaš</t>
+            <t pos="A" src="fad" gf="0.00002536" ff="0" gf-ff="0.00002536">elektronihkalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">første</l>
+         <l pos="A" gf="0.08459249" ff="0.07533084" gf-ff="0.00926165">første</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">ovddemus</t>
-            <t pos="A" usage="vd">ovddimus</t>
-            <t pos="A" src="gt;fad">vuosttaš</t>
-            <t pos="A" usage="vd" src="gt;fad">vuosttas</t>
-            <t pos="A" usage="vd" src="gt;fad">vuosttamuš</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00053891"
+               ff="0.00044346"
+               gf-ff="0.00009544">ovddemus</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00067839"
+               ff="0.00116410"
+               gf-ff="-0.00048571">ovddimus</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.07007149"
+               ff="0.07073296"
+               gf-ff="-0.00066146">vuosttaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.02615317"
+               ff="0.01679630"
+               gf-ff="0.00935687">vuosttas</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00231415"
+               ff="0.00249450"
+               gf-ff="-0.00018035">vuosttamuš</t>
             <xg>
                <x>Jeg sitter på første rad.</x>
                <xt>Mun čohkkán ovddimus beaŋkkas.</xt>
@@ -49,143 +85,242 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">vuosttamus</t>
+            <t pos="A" src="fad" gf="0.00004438" ff="0" gf-ff="0.00004438">vuosttamus</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">gavmild</l>
+         <l pos="A" gf="0.00013508" ff="0.00004582" gf-ff="0.00008926">gavmild</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">árvvas</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00038040"
+               ff="0.00022173"
+               gf-ff="0.00015866">árvvas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">utnolaš</t>
+            <t pos="A" src="fad" gf="0.00006340" ff="0" gf-ff="0.0000634">utnolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">flott</l>
+         <l pos="A" gf="0.01895075" ff="0.00087061" gf-ff="0.01808013">flott</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">ebmui</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00007608"
+               ff="0"
+               gf-ff="0.00007608">ebmui</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">fiinnis</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00547790"
+               ff="0.00144126"
+               gf-ff="0.00403664">fiinnis</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">uforståelig</l>
+         <l pos="A" gf="0.00078905" ff="0.00022910" gf-ff="0.00055995">uforståelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">áddemeahttun</t>
-            <t pos="A" usage="vd">áddetmeahttun</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00037406"
+               ff="0"
+               gf-ff="0.00037406">áddemeahttun</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00024092"
+               ff="0"
+               gf-ff="0.00024092">áddetmeahttun</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ipmirmeahttun</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00025360"
+               ff="0.00016630"
+               gf-ff="0.00008729">ipmirmeahttun</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">offisiell</l>
+         <l pos="A" gf="0.00524877" ff="0.00856865" gf-ff="-0.00331988">offisiell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">almmolaš</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.05810760"
+               ff="0.09490190"
+               gf-ff="-0.03679429">almmolaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">virggálaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00220003"
+               ff="0.00221733"
+               gf-ff="-0.00001730">virggálaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">næringsrik</l>
+         <l pos="A" gf="0.00028499" ff="0.00018328" gf-ff="0.00010171">næringsrik</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">beaktil</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00503409"
+               ff="0.00947910"
+               gf-ff="-0.00444501">beaktil</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">álbmái</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00038675"
+               ff="0.00022173"
+               gf-ff="0.00016502">álbmái</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">fremtidsrettet</l>
+         <l pos="A" gf="0.00034325" ff="0.00146629" gf-ff="-0.00112304">fremtidsrettet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">boahtteáigásaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00079252"
+               ff="0.00182930"
+               gf-ff="-0.00103678">boahtteáigásaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">boahtteáiggediđolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00005072"
+               ff="0.00027716"
+               gf-ff="-0.00022643">boahtteáiggediđolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">varm</l>
+         <l pos="A" gf="0.00991751" ff="0.00064150" gf-ff="0.00927601">varm</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">báhkas</t>
-            <t pos="A" usage="vd" src="nj;fad">liekkas</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00119829"
+               ff="0"
+               gf-ff="0.00119829">báhkas</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00325884"
+               ff="0.00066520"
+               gf-ff="0.00259364">liekkas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">liekkus</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00086226"
+               ff="0.00038803"
+               gf-ff="0.00047423">liekkus</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">sunn</l>
+         <l pos="A" gf="0.00576118" ff="0.00073314" gf-ff="0.00502804">sunn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">dearvvašlaš</t>
-            <t pos="A" usage="vd" src="nj;fad">dearvvaslaš</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00080520"
+               ff="0.00055433"
+               gf-ff="0.00025086">dearvvašlaš</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00013314"
+               ff="0.00011086"
+               gf-ff="0.00002227">dearvvaslaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">dearvvaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00100808"
+               ff="0.00072063"
+               gf-ff="0.00028744">dearvvaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">viss</l>
+         <l pos="A" gf="0.01558637" ff="0.01489204" gf-ff="0.00069433">viss</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">dárki</t>
-            <t pos="A" src="nj" usage="vd">diehttalas</t>
-            <t pos="A" usage="vd" src="nj;fad">dihto</t>
-            <t pos="A" usage="vd" src="nj;fad">vissis</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00037406"
+               ff="0"
+               gf-ff="0.00037406">dárki</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00017118"
+               ff="0.00022173"
+               gf-ff="-0.00005055">diehttalas</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02054213"
+               ff="0.02422437"
+               gf-ff="-0.00368224">dihto</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00589001"
+               ff="0.00593136"
+               gf-ff="-0.00004134">vissis</t>
             <xg>
                <x>Jeg snakker om en viss sak.</x>
                <xt>Mun human dihto ášši birra.</xt>
@@ -194,304 +329,543 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">dihtolágan</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00030432"
+               ff="0.00044346"
+               gf-ff="-0.00013914">dihtolágan</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">dum</l>
+         <l pos="A" gf="0.00741969" ff="0.00027493" gf-ff="0.00714476">dum</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">duihmi</t>
-            <t pos="A" usage="vd" src="nj;fad">jalla</t>
-            <t pos="A" usage="vd" src="nj;fad">doavki</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00004438"
+               ff="0"
+               gf-ff="0.00004438">duihmi</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00168014"
+               ff="0"
+               gf-ff="0.00168014">jalla</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00016484"
+               ff="0.00011086"
+               gf-ff="0.00005397">doavki</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">gáiggas</t>
+            <t pos="A" src="fad" gf="0.00003170" ff="0" gf-ff="0.0000317">gáiggas</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">uakseptabel</l>
+         <l pos="A" gf="0.00114814" ff="0.00137465" gf-ff="-0.00022651">uakseptabel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">dohkketmeahttun</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00257410"
+               ff="0.00182930"
+               gf-ff="0.00074480">dohkketmeahttun</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">dohkkemeahttun</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00142653"
+               ff="0.00088693"
+               gf-ff="0.00053960">dohkkemeahttun</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">alvorlig</l>
+         <l pos="A" gf="0.01240579" ff="0.00678160" gf-ff="0.00562419">alvorlig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">duođalaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01106992"
+               ff="0.00715090"
+               gf-ff="0.00391902">duođalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">bahá</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00724680"
+               ff="0.00216190"
+               gf-ff="0.0050849">bahá</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">underlig</l>
+         <l pos="A" gf="0.00158202" ff="0.00054986" gf-ff="0.00103215">underlig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">ovddolaš</t>
-            <t pos="A" src="nj" usage="vd">eaimmaskas</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00018386"
+               ff="0"
+               gf-ff="0.00018386">ovddolaš</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00003170"
+               ff="0"
+               gf-ff="0.0000317">eaimmaskas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ártet</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00706294"
+               ff="0.00116410"
+               gf-ff="0.00589884">ártet</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">livlig</l>
+         <l pos="A" gf="0.00062415" ff="0.00022910" gf-ff="0.00039505">livlig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">ealas</t>
-            <t pos="A" usage="vd" src="nj;fad">virkui</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00098906"
+               ff="0.00099780"
+               gf-ff="-0.00000874">ealas</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00055159"
+               ff="0.00022173"
+               gf-ff="0.00032986">virkui</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ealaskas</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00032334"
+               ff="0.00038803"
+               gf-ff="-0.00006469">ealaskas</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">kvikk</l>
+         <l pos="A" gf="0.00023916" ff="0.00004582" gf-ff="0.00019334">kvikk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">ealas</t>
-            <t pos="A" src="nj" usage="vd">virkui</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00098906"
+               ff="0.00099780"
+               gf-ff="-0.00000874">ealas</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00055159"
+               ff="0.00022173"
+               gf-ff="0.00032986">virkui</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">vitmat</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00015850"
+               ff="0.00011086"
+               gf-ff="0.00004764">vitmat</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">flittig</l>
+         <l pos="A" gf="0.00086605" ff="0.00041239" gf-ff="0.00045366">flittig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">áŋgir</t>
-            <t pos="A" src="nj" usage="vd">viššal</t>
-            <t pos="A" src="nj" usage="vd">ealjár</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00406404"
+               ff="0.00249450"
+               gf-ff="0.00156953">áŋgir</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00265652"
+               ff="0.00066520"
+               gf-ff="0.00199132">viššal</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00005072"
+               ff="0"
+               gf-ff="0.00005072">ealjár</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">viššalaš</t>
+            <t pos="A" src="fad" gf="0.00015850" ff="0" gf-ff="0.0001585">viššalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">stygg</l>
+         <l pos="A" gf="0.00410914" ff="0.00045821" gf-ff="0.00365092">stygg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">fasti</t>
-            <t pos="A" usage="vd" src="nj;fad">ropmi</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00240292"
+               ff="0.00049890"
+               gf-ff="0.00190401">fasti</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00054525"
+               ff="0.00016630"
+               gf-ff="0.00037895">ropmi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">romis</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00025360"
+               ff="0.00011086"
+               gf-ff="0.00014273">romis</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">fæl</l>
+         <l pos="A" gf="0.00138816" ff="0.00022910" gf-ff="0.00115906">fæl</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">fasti</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00240292"
+               ff="0.00049890"
+               gf-ff="0.00190401">fasti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">suivat</t>
+            <t pos="A" src="fad" gf="0.00020288" ff="0" gf-ff="0.00020288">suivat</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">fin</l>
+         <l pos="A" gf="0.04105023" ff="0.00233690" gf-ff="0.03871333">fin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">fiinnis</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00547790"
+               ff="0.00144126"
+               gf-ff="0.00403664">fiinnis</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">čáppat</t>
+            <t pos="A"
+               src="fad"
+               gf="0.01100652"
+               ff="0.00166300"
+               gf-ff="0.00934352">čáppat</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">fri</l>
+         <l pos="A" gf="0.01971238" ff="0.01360903" gf-ff="0.00610335">fri</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">veaittalas</t>
-            <t pos="A" usage="vd" src="nj;fad">friddja</t>
-            <t pos="A" usage="vd" src="nj;fad">friija</t>
+            <t pos="A" src="nj" usage="vd" gf="0" ff="0" gf-ff="0">veaittalas</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00685371"
+               ff="0.00471183"
+               gf-ff="0.00214187">friddja</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00386116"
+               ff="0.00748350"
+               gf-ff="-0.00362233">friija</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">luovus</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00076081"
+               ff="0.00049890"
+               gf-ff="0.00026190">luovus</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">likegyldig</l>
+         <l pos="A" gf="0.00066163" ff="0.00027493" gf-ff="0.00038669">likegyldig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">fuolaheapme</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00146457"
+               ff="0.00360316"
+               gf-ff="-0.00213859">fuolaheapme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">berošmeahttun</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00005706"
+               ff="0.00011086"
+               gf-ff="-0.00005380">berošmeahttun</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">dårlig</l>
+         <l pos="A" gf="0.03866910" ff="0.01026405" gf-ff="0.02840504">dårlig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">headju</t>
-            <t pos="A" usage="vd" src="nj;fad">heittot</t>
-            <t pos="A" usage="vd" src="nj;fad">fuotni</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02481540"
+               ff="0.01613110"
+               gf-ff="0.00868430">headju</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00408306"
+               ff="0.00266080"
+               gf-ff="0.00142226">heittot</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00377873"
+               ff="0.00321513"
+               gf-ff="0.0005636">fuotni</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">váttis</t>
+            <t pos="A"
+               src="fad"
+               gf="0.04758293"
+               ff="0.03974571"
+               gf-ff="0.00783722">váttis</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">kald</l>
+         <l pos="A" gf="0.00769429" ff="0.00077896" gf-ff="0.00691533">kald</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">galmmas</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00233952"
+               ff="0.00099780"
+               gf-ff="0.00134171">galmmas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">čoaskkis</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00115390"
+               ff="0.00011086"
+               gf-ff="0.00104304">čoaskkis</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ansvarlig</l>
+         <l pos="A" gf="0.00804249" ff="0.01956585" gf-ff="-0.01152336">ansvarlig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">geatnegas</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00212395"
+               ff="0.00299340"
+               gf-ff="-0.00086944">geatnegas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">vásttolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00035504"
+               ff="0.00055433"
+               gf-ff="-0.00019929">vásttolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">sterk</l>
+         <l pos="A" gf="0.04005488" ff="0.04825023" gf-ff="-0.00819534">sterk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">návccalaš</t>
-            <t pos="A" src="nj" usage="vd">searalaš</t>
-            <t pos="A" usage="vd" src="nj;fad">nanus</t>
-            <t pos="A" usage="vd" src="nj;fad">gievra</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00020922"
+               ff="0.00022173"
+               gf-ff="-0.00001251">návccalaš</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00012046"
+               ff="0"
+               gf-ff="0.00012046">searalaš</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.02557622"
+               ff="0.03697404"
+               gf-ff="-0.01139782">nanus</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00437471"
+               ff="0.00277166"
+               gf-ff="0.00160305">gievra</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">garas</t>
+            <t pos="A"
+               src="fad"
+               gf="0.03833897"
+               ff="0.02161900"
+               gf-ff="0.01671997">garas</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">lønnsom</l>
+         <l pos="A" gf="0.00185458" ff="0.00407812" gf-ff="-0.00222354">lønnsom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">gánnáhahtti</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00557934"
+               ff="0.00837043"
+               gf-ff="-0.00279108">gánnáhahtti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">gánnihahtti</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00029164"
+               ff="0.00016630"
+               gf-ff="0.00012534">gánnihahtti</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">smal</l>
+         <l pos="A" gf="0.00191897" ff="0.00041239" gf-ff="0.00150658">smal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">gárži</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00428595"
+               ff="0.00432380"
+               gf-ff="-0.00003784">gárži</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">seaggi</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00069741"
+               ff="0.00016630"
+               gf-ff="0.00053111">seaggi</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">sein</l>
+         <l pos="A" gf="0.00300954" ff="0.00600264" gf-ff="-0.00299310">sein</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">áddjái</t>
-            <t pos="A" src="nj" usage="vd">njoahci</t>
-            <t pos="A" src="nj" usage="vd">hiđis</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00139483"
+               ff="0.00133040"
+               gf-ff="0.00006442">áddjái</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00060231"
+               ff="0.00022173"
+               gf-ff="0.00038058">njoahci</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00006340"
+               ff="0"
+               gf-ff="0.0000634">hiđis</t>
             <xg>
                <x>Dette er det arbeidet som går seinest under reinmerkinga.</x>
                <xt>Dát lea buot áddjámus bargu miessemearkumis.</xt>
@@ -500,382 +874,604 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">maŋŋit</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00195911"
+               ff="0.00110866"
+               gf-ff="0.00085045">maŋŋit</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">kreativ</l>
+         <l pos="A" gf="0.00336216" ff="0.00087061" gf-ff="0.00249155">kreativ</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">hutkái</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00152797"
+               ff="0.00121953"
+               gf-ff="0.00030844">hutkái</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">kreatiivvalaš</t>
+            <t pos="A" src="fad" gf="0.00037406" ff="0" gf-ff="0.00037406">kreatiivvalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">lydig</l>
+         <l pos="A" gf="0.00044631" ff="0.00009164" gf-ff="0.00035467">lydig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">jegolaš</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00025994"
+               ff="0"
+               gf-ff="0.00025994">jegolaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">siivui</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00081788"
+               ff="0.00016630"
+               gf-ff="0.00065158">siivui</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">sur</l>
+         <l pos="A" gf="0.00400506" ff="0.00041239" gf-ff="0.00359267">sur</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">suvrris</t>
-            <t pos="A" src="nj" usage="vd">jiesas</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00012046"
+               ff="0"
+               gf-ff="0.00012046">suvrris</t>
+            <t pos="A" src="nj" usage="vd" gf="0" ff="0" gf-ff="0">jiesas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ruosttas</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00010778"
+               ff="0.00011086"
+               gf-ff="-0.00000308">ruosttas</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">heldig</l>
+         <l pos="A" gf="0.00492528" ff="0.00087061" gf-ff="0.00405467">heldig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">lihkolaš</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00212395"
+               ff="0.00016630"
+               gf-ff="0.00195765">lihkolaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">lihkkoš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00005072"
+               ff="0.00011086"
+               gf-ff="-0.00006014">lihkkoš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ufør</l>
+         <l pos="A" gf="0.00046419" ff="0.00045821" gf-ff="0.00000597">ufør</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">lámis</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00049453"
+               ff="0.00027716"
+               gf-ff="0.00021737">lámis</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">bargonávccaheapme</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00024092"
+               ff="0.00105323"
+               gf-ff="-0.00081231">bargonávccaheapme</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">smidig</l>
+         <l pos="A" gf="0.00109959" ff="0.00114554" gf-ff="-0.00004595">smidig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">lášmat</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00031700"
+               ff="0.00016630"
+               gf-ff="0.0001507">lášmat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">njuovžil</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00130607"
+               ff="0.00243906"
+               gf-ff="-0.00113298">njuovžil</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">interessant</l>
+         <l pos="A" gf="0.01320524" ff="0.00407812" gf-ff="0.00912711">interessant</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">miellagiddevaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00997307"
+               ff="0.00454553"
+               gf-ff="0.00542754">miellagiddevaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">beroštahtti</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00095736"
+               ff="0.00088693"
+               gf-ff="0.00007043">beroštahtti</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">optimistisk</l>
+         <l pos="A" gf="0.00115411" ff="0.00036657" gf-ff="0.00078754">optimistisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">movttet</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00522429"
+               ff="0.00060976"
+               gf-ff="0.00461453">movttet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">optimisttalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00032334"
+               ff="0.00011086"
+               gf-ff="0.00021247">optimisttalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">urolig</l>
+         <l pos="A" gf="0.00106007" ff="0.00032075" gf-ff="0.00073931">urolig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">mášoheapme</t>
-            <t pos="A" usage="vd" src="nj;fad">muoseheapme</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00023458"
+               ff="0"
+               gf-ff="0.00023458">mášoheapme</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00017752"
+               ff="0"
+               gf-ff="0.00017752">muoseheapme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ráfeheapme</t>
+            <t pos="A" src="fad" gf="0.00016484" ff="0" gf-ff="0.00016484">ráfeheapme</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">rett</l>
+         <l pos="A" gf="0.03798191" ff="0.03037977" gf-ff="0.00760214">rett</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">njuolgat</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00682835"
+               ff="0.00848130"
+               gf-ff="-0.00165295">njuolgat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">riekta</t>
+            <t pos="A"
+               src="fad"
+               gf="0.02715492"
+               ff="0.01746150"
+               gf-ff="0.00969341">riekta</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">kort</l>
+         <l pos="A" gf="0.02758027" ff="0.01122631" gf-ff="0.01635396">kort</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">oanehaš</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01257888"
+               ff="0.01164100"
+               gf-ff="0.00093788">oanehaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">oatni</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00003804"
+               ff="0.00011086"
+               gf-ff="-0.00007282">oatni</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ytre</l>
+         <l pos="A" gf="0.00484999" ff="0.00297840" gf-ff="0.00187159">ytre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">olgguldas</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00188936"
+               ff="0.00321513"
+               gf-ff="-0.00132577">olgguldas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">olggut</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00161040"
+               ff="0.00083150"
+               gf-ff="0.00077889">olggut</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">fullverdig</l>
+         <l pos="A" gf="0.00064800" ff="0.00279512" gf-ff="-0.00214711">fullverdig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">ollislaš</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.02893016"
+               ff="0.05526705"
+               gf-ff="-0.02633688">ollislaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ollesárvosaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00050721"
+               ff="0.00099780"
+               gf-ff="-0.00049059">ollesárvosaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">naiv</l>
+         <l pos="A" gf="0.00176055" ff="0.00022910" gf-ff="0.00153145">naiv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">ovttageardán</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00106514"
+               ff="0.00072063"
+               gf-ff="0.00034451">ovttageardán</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">oktageardán</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00081154"
+               ff="0.00055433"
+               gf-ff="0.00025721">oktageardán</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ny</l>
+         <l pos="A" gf="0.19881745" ff="0.22127289" gf-ff="-0.02245543">ny</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">ođas</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.21077242"
+               ff="0.25660100"
+               gf-ff="-0.04582858">ođas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ođđalágan</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00028530"
+               ff="0.00016630"
+               gf-ff="0.00011899">ođđalágan</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">moderne</l>
+         <l pos="A" gf="0.00840243" ff="0.00778968" gf-ff="0.00061275">moderne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">ođđaáigásaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00618166"
+               ff="0.00643026"
+               gf-ff="-0.00024859">ođđaáigásaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ođđamállet</t>
+            <t pos="A" src="fad" gf="0.00031066" ff="0" gf-ff="0.00031066">ođđamállet</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">åpen</l>
+         <l pos="A" gf="0.02007216" ff="0.01145542" gf-ff="0.00861674">åpen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">rabas</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.01579334"
+               ff="0.01396920"
+               gf-ff="0.00182414">rabas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">roahkkat</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00059597"
+               ff="0.00027716"
+               gf-ff="0.00031881">roahkkat</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">hederlig</l>
+         <l pos="A" gf="0.00047271" ff="0.00027493" gf-ff="0.00019778">hederlig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">rehálaš</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00109050"
+               ff="0.00044346"
+               gf-ff="0.00064704">rehálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">gutnálaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00017118"
+               ff="0.00016630"
+               gf-ff="0.00000487">gutnálaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">treg</l>
+         <l pos="A" gf="0.00256135" ff="0.00022910" gf-ff="0.00233225">treg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">rákkis</t>
+            <t pos="A" src="nj" usage="vd" gf="0" ff="0" gf-ff="0">rákkis</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">njoahci</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00060231"
+               ff="0.00022173"
+               gf-ff="0.00038058">njoahci</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">normal</l>
+         <l pos="A" gf="0.01277852" ff="0.00416977" gf-ff="0.00860875">normal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">normála</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00022190"
+               ff="0"
+               gf-ff="0.0002219">normála</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">dábálaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.05124120"
+               ff="0.04612055"
+               gf-ff="0.00512064">dábálaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">seksuell</l>
+         <l pos="A" gf="0.00422413" ff="0.00151211" gf-ff="0.00271202">seksuell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">seksuálalaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00169282"
+               ff="0.00088693"
+               gf-ff="0.00080589">seksuálalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">seksuála</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00103978"
+               ff="0.00094236"
+               gf-ff="0.00009741">seksuála</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">særskilt</l>
+         <l pos="A" gf="0.00208165" ff="0.03335818" gf-ff="-0.03127653">særskilt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">sierra</t>
-            <t pos="A" usage="vd" src="nj;fad">vásedin</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.08024745"
+               ff="0.11175364"
+               gf-ff="-0.03150619">sierra</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00120463"
+               ff="0.00216190"
+               gf-ff="-0.00095727">vásedin</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">erenoamáš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.05687127"
+               ff="0.07483503"
+               gf-ff="-0.01796375">erenoamáš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">uskyldig</l>
+         <l pos="A" gf="0.00198115" ff="0.00013746" gf-ff="0.00184369">uskyldig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">sivaheapme</t>
-            <t pos="A" usage="vd" src="nj;fad">vigiheapme</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00076081"
+               ff="0"
+               gf-ff="0.00076081">sivaheapme</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00107148"
+               ff="0.00033260"
+               gf-ff="0.00073888">vigiheapme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">áššeheapme</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00008242"
+               ff="0.00016630"
+               gf-ff="-0.00008388">áššeheapme</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">vill</l>
+         <l pos="A" gf="0.00490109" ff="0.00178704" gf-ff="0.00311405">vill</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">villas</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00013948"
+               ff="0"
+               gf-ff="0.00013948">villas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">vilddas</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00059597"
+               ff="0.00016630"
+               gf-ff="0.00042967">vilddas</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">bestemt</l>
+         <l pos="A" gf="0.00524230" ff="0.00581935" gf-ff="-0.00057705">bestemt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>bare som attributt</re>
-            <t pos="A" src="nj" usage="vd">vissis</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00589001"
+               ff="0.00593136"
+               gf-ff="-0.00004134">vissis</t>
             <xg>
                <x>Jeg snakker om en bestemt sak.</x>
                <xt>Mun human vissis ášši birra.</xt>
@@ -884,140 +1480,230 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">dihto</t>
+            <t pos="A"
+               src="fad"
+               gf="0.02054213"
+               ff="0.02422437"
+               gf-ff="-0.00368224">dihto</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">skarp</l>
+         <l pos="A" gf="0.00377304" ff="0.00054986" gf-ff="0.00322318">skarp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">vitmat</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00015850"
+               ff="0.00011086"
+               gf-ff="0.00004764">vitmat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">bastil</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00091298"
+               ff="0.00027716"
+               gf-ff="0.00063582">bastil</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">femte</l>
+         <l pos="A" gf="0.00203617" ff="0.00261183" gf-ff="-0.00057566">femte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">viđát</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00254874"
+               ff="0.00332600"
+               gf-ff="-0.00077726">viđát</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">viđat</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00079886"
+               ff="0.00144126"
+               gf-ff="-0.0006424">viđat</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">lav</l>
+         <l pos="A" gf="0.02472420" ff="0.02052811" gf-ff="0.00419609">lav</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">vuollegaš</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00269456"
+               ff="0.00354773"
+               gf-ff="-0.00085316">vuollegaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">unni</t>
+            <t pos="A"
+               src="fad"
+               gf="0.03717872"
+               ff="0.03852618"
+               gf-ff="-0.00134746">unni</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">vanskelig</l>
+         <l pos="A" gf="0.03348880" ff="0.02712643" gf-ff="0.00636236">vanskelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">váigat</t>
-            <t pos="A" src="nj" usage="vd">árvvoheapme</t>
-            <t pos="A" src="nj" usage="vd">váivái</t>
-            <t pos="A" usage="vd" src="nj;fad">váttis</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00095102"
+               ff="0.00022173"
+               gf-ff="0.00072929">váigat</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00031066"
+               ff="0.00011086"
+               gf-ff="0.00019979">árvvoheapme</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00003804"
+               ff="0"
+               gf-ff="0.00003804">váivái</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.04758293"
+               ff="0.03974571"
+               gf-ff="0.00783722">váttis</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">goavvi</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00012046"
+               ff="0.00011086"
+               gf-ff="0.00000959">goavvi</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">urørt</l>
+         <l pos="A" gf="0.00039980" ff="0.00013746" gf-ff="0.00026234">urørt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">čavddis</t>
+            <t pos="A"
+               src="nj"
+               usage="vd"
+               gf="0.00018386"
+               ff="0"
+               gf-ff="0.00018386">čavddis</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">guoskameahttun</t>
+            <t pos="A" src="fad" gf="0.00009510" ff="0" gf-ff="0.0000951">guoskameahttun</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">tydelig</l>
+         <l pos="A" gf="0.01140142" ff="0.00861447" gf-ff="0.00278695">tydelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">čielggas</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.04699329"
+               ff="0.04052178"
+               gf-ff="0.00647151">čielggas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">čalmmus</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00012680"
+               ff="0.00033260"
+               gf-ff="-0.00020580">čalmmus</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">økonomisk</l>
+         <l pos="A" gf="0.02002258" ff="0.07019881" gf-ff="-0.05017623">økonomisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">ekonomalaš</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.03818046"
+               ff="0.07145359"
+               gf-ff="-0.03327313">ekonomalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ruđalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00512919"
+               ff="0.00293796"
+               gf-ff="0.00219122">ruđalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">sosial</l>
+         <l pos="A" gf="0.01532948" ff="0.01814538" gf-ff="-0.00281589">sosial</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">sosiála</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.01178002"
+               ff="0.02045490"
+               gf-ff="-0.00867488">sosiála</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">sosiálalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00438739"
+               ff="0.00548790"
+               gf-ff="-0.00110051">sosiálalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">høflig</l>
+         <l pos="A" gf="0.00065158" ff="0.00004582" gf-ff="0.00060576">høflig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">olmmošlaš</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00317008"
+               ff="0.00393576"
+               gf-ff="-0.00076567">olmmošlaš</t>
             <xg>
                <x>Jenta var høflig, men veldig kresen.</x>
                <xt>Nieida lei olmmošlaš, muhto hui rántui.</xt>
@@ -1026,94 +1712,153 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">buorremenolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00005072"
+               ff="0.00011086"
+               gf-ff="-0.00006014">buorremenolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">etnisk</l>
+         <l pos="A" gf="0.00263035" ff="0.00838536" gf-ff="-0.00575501">etnisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">čearddalaš</t>
-            <t pos="A" usage="vd" src="gt;fad">etnalaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00646062"
+               ff="0.00981170"
+               gf-ff="-0.00335107">čearddalaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00180694"
+               ff="0.00149670"
+               gf-ff="0.00031024">etnalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">etnihkalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00154700"
+               ff="0.00044346"
+               gf-ff="0.00110354">etnihkalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">flerkulturell</l>
+         <l pos="A" gf="0.00120436" ff="0.00531531" gf-ff="-0.00411095">flerkulturell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">máŋggakultuvrralaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00244096"
+               ff="0.00554333"
+               gf-ff="-0.00310237">máŋggakultuvrralaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">máŋggakultuvrrat</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00050721"
+               ff="0.00077606"
+               gf-ff="-0.00026884">máŋggakultuvrrat</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">praktisk</l>
+         <l pos="A" gf="0.00995397" ff="0.01447965" gf-ff="-0.00452568">praktisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">geavatlaš</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00516089"
+               ff="0.00875847"
+               gf-ff="-0.00359758">geavatlaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">praktihkalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00453955"
+               ff="0.00509986"
+               gf-ff="-0.00056031">praktihkalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">synlig</l>
+         <l pos="A" gf="0.00402090" ff="0.00352826" gf-ff="0.00049263">synlig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">oainnus</t>
+            <t pos="A"
+               usage="vd"
+               src="nj;fad"
+               gf="0.00138215"
+               ff="0.00116410"
+               gf-ff="0.00021805">oainnus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">oinnolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00085592"
+               ff="0.00127496"
+               gf-ff="-0.00041903">oinnolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">frivillig</l>
+         <l pos="A" gf="0.00594328" ff="0.00811043" gf-ff="-0.00216715">frivillig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" alt_str="eaktudáhtolaš" src="gt;fad">eaktodáhtolaš</t>
+            <t pos="A"
+               usage="vd"
+               alt_str="eaktudáhtolaš"
+               src="gt;fad"
+               gf="0.00544620"
+               ff="0.00920193"
+               gf-ff="-0.00375573">eaktodáhtolaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">iešdáhtolaš</t>
+            <t pos="A" src="fad" gf="0.00012046" ff="0" gf-ff="0.00012046">iešdáhtolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">engelsk</l>
+         <l pos="A" gf="0.00594294" ff="0.00302423" gf-ff="0.00291870">engelsk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">eaŋgals</t>
-            <t pos="A" usage="vd">eŋgelas</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00076081"
+               ff="0"
+               gf-ff="0.00076081">eaŋgals</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00063401"
+               ff="0.00027716"
+               gf-ff="0.00035685">eŋgelas</t>
             <xg>
                <x>Jeg synes det er vanskelig å lære engelske sanger.</x>
                <xt>Mu mielas lea váttis oahppat eaŋgals lávlagiid.</xt>
@@ -1122,960 +1867,1303 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">eaŋgalasgielat</t>
+            <t pos="A" src="fad" gf="0.00001268" ff="0" gf-ff="0.00001268">eaŋgalasgielat</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ensom</l>
+         <l pos="A" gf="0.00132871" ff="0.00027493" gf-ff="0.00105378">ensom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="gt;fad">oktonas</t>
+            <t pos="A"
+               usage="vd"
+               src="gt;fad"
+               gf="0.00066571"
+               ff="0.00038803"
+               gf-ff="0.00027768">oktonas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">aktonas</t>
+            <t pos="A" src="fad" gf="0.00005072" ff="0" gf-ff="0.00005072">aktonas</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ekte</l>
+         <l pos="A" gf="0.00487230" ff="0.00045821" gf-ff="0.00441409">ekte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">buiga</t>
+            <t pos="A"
+               usage="vd"
+               gf="0.00044381"
+               ff="0"
+               gf-ff="0.00044381">buiga</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">eakti</t>
+            <t pos="A" src="fad" gf="0.00022824" ff="0" gf-ff="0.00022824">eakti</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">teknisk</l>
+         <l pos="A" gf="0.00888435" ff="0.00875194" gf-ff="0.00013240">teknisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" alt_str="teknihkkalaš" src="gt;fad">teknihkalaš</t>
+            <t pos="A"
+               usage="vd"
+               alt_str="teknihkkalaš"
+               src="gt;fad"
+               gf="0.00736727"
+               ff="0.00964540"
+               gf-ff="-0.00227812">teknihkalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">teknalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00077350"
+               ff="0.00060976"
+               gf-ff="0.00016374">teknalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">amerikansk</l>
+         <l pos="A" gf="0.01682906" ff="0.00050403" gf-ff="0.01632503">amerikansk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">amerihkálaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00074813"
+               ff="0.00049890"
+               gf-ff="0.00024922">amerihkálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">amerihká</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00029798"
+               ff="0.00011086"
+               gf-ff="0.00018711">amerihká</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">glad</l>
+         <l pos="A" gf="0.01594512" ff="0.00746893" gf-ff="0.00847619">glad</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">movttet</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00522429"
+               ff="0.00060976"
+               gf-ff="0.00461453">movttet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ilolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00133777"
+               ff="0.00038803"
+               gf-ff="0.00094974">ilolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">fantastisk</l>
+         <l pos="A" gf="0.01301274" ff="0.00045821" gf-ff="0.01255453">fantastisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">rámálmas</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00003804"
+               ff="0"
+               gf-ff="0.00003804">rámálmas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">hearvái</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00083690"
+               ff="0.00011086"
+               gf-ff="0.00072604">hearvái</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">tilgjengelig</l>
+         <l pos="A" gf="0.01208230" ff="0.01672491" gf-ff="-0.00464260">tilgjengelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">olámuttos</t>
+            <t pos="A" gf="0.00102076" ff="0.00598680" gf-ff="-0.00496604">olámuttos</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">almmus</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00145823"
+               ff="0.00060976"
+               gf-ff="0.00084847">almmus</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">betydelig</l>
+         <l pos="A" gf="0.01036076" ff="0.02048229" gf-ff="-0.01012153">betydelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">fuopmášahtti</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00030432"
+               ff="0.00027716"
+               gf-ff="0.00002716">fuopmášahtti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">mearkkašahtti</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00499604"
+               ff="0.00814870"
+               gf-ff="-0.00315266">mearkkašahtti</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">enorm</l>
+         <l pos="A" gf="0.00853394" ff="0.00160375" gf-ff="0.00693019">enorm</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">áibmadas</t>
-            <t pos="A" src="gt;fad">máŧoheapme</t>
+            <t pos="A" gf="0.00019020" ff="0" gf-ff="0.0001902">áibmadas</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00006340"
+               ff="0"
+               gf-ff="0.0000634">máŧoheapme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">issoras</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00608021"
+               ff="0.00188473"
+               gf-ff="0.00419548">issoras</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">opprinnelig</l>
+         <l pos="A" gf="0.00777061" ff="0.00403230" gf-ff="0.00373831">opprinnelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">álgovuolggalaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00135045"
+               ff="0.00044346"
+               gf-ff="0.00090699">álgovuolggalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">álgoálgosaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00019020"
+               ff="0.00038803"
+               gf-ff="-0.00019783">álgoálgosaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">konkret</l>
+         <l pos="A" gf="0.00753519" ff="0.01952003" gf-ff="-0.01198484">konkret</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">konkrehta</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.01202095"
+               ff="0.01696260"
+               gf-ff="-0.00494165">konkrehta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">konkrehtalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00114122"
+               ff="0.00088693"
+               gf-ff="0.00025429">konkrehtalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">foreløpig</l>
+         <l pos="A" gf="0.00745240" ff="0.00650667" gf-ff="0.00094572">foreløpig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">gaskaboddosaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00907277"
+               ff="0.01164100"
+               gf-ff="-0.00256822">gaskaboddosaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">gaskaboddasaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00194643"
+               ff="0.00559876"
+               gf-ff="-0.00365233">gaskaboddasaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ekstrem</l>
+         <l pos="A" gf="0.00694340" ff="0.00022910" gf-ff="0.00671429">ekstrem</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">ekstrema</t>
+            <t pos="A" gf="0.00023458" ff="0" gf-ff="0.00023458">ekstrema</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ravdamearálaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00006340"
+               ff="0.00011086"
+               gf-ff="-0.00004746">ravdamearálaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">tverr</l>
+         <l pos="A" gf="0.00006302" ff="0.00004582" gf-ff="0.00001720">tverr</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>om mennesker</re>
-            <t pos="A">juvdu</t>
+            <t pos="A" gf="0.00003804" ff="0" gf-ff="0.00003804">juvdu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">jeagoheapme</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_all="2" mg_fad="1">
-      <lg>
-         <l pos="A">kommunal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">suohkanlaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" alt_str="gieldalaš" src="fad">gielddalaš</t>
+            <t pos="A" src="fad" gf="0.00008242" ff="0" gf-ff="0.00008242">jeagoheapme</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">stolt</l>
+         <l pos="A" gf="0.00556835" ff="0.02116961" gf-ff="-0.01560125">kommunal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">govdat</t>
-            <t pos="A" src="gt;fad">čeavlái</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00313838"
+               ff="0.00360316"
+               gf-ff="-0.00046478">suohkanlaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">vuovdnái</t>
+            <t pos="A"
+               alt_str="gieldalaš"
+               src="fad"
+               gf="0.00441909"
+               ff="0.00964540"
+               gf-ff="-0.00522631">gielddalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">levende</l>
+         <l pos="A" gf="0.00500807" ff="0.00247437" gf-ff="0.0025337">stolt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">ealli</t>
+            <t pos="A" gf="0.00204787" ff="0.00232820" gf-ff="-0.00028033">govdat</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00110952"
+               ff="0.00083150"
+               gf-ff="0.00027801">čeavlái</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ealas</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00027262"
+               ff="0.00011086"
+               gf-ff="0.00016176">vuovdnái</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">voldsom</l>
+         <l pos="A" gf="0.00471848" ff="0.01012659" gf-ff="-0.00540811">levende</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">garas</t>
-            <t pos="A">alvvus</t>
+            <t pos="A" gf="0.00826123" ff="0.00814870" gf-ff="0.00011252">ealli</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ilgat</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00098906"
+               ff="0.00099780"
+               gf-ff="-0.00000874">ealas</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">medisinsk</l>
+         <l pos="A" gf="0.00429278" ff="0.00050403" gf-ff="0.00378875">voldsom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">medisiinnalaš</t>
+            <t pos="A" gf="0.03833897" ff="0.02161900" gf-ff="0.01671997">garas</t>
+            <t pos="A" gf="0.00007608" ff="0.00011086" gf-ff="-0.00003478">alvvus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">dálkkaslaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00166112"
+               ff="0.00055433"
+               gf-ff="0.00110679">ilgat</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">stabil</l>
+         <l pos="A" gf="0.00419346" ff="0.00105389" gf-ff="0.00313957">medisinsk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">stabiila</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00095102"
+               ff="0.00099780"
+               gf-ff="-0.00004678">medisiinnalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">stáđis</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00017118"
+               ff="0.00016630"
+               gf-ff="0.00000487">dálkkaslaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">oppmerksom</l>
+         <l pos="A" gf="0.00385089" ff="0.00714818" gf-ff="-0.00329728">stabil</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">áicil</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00045015"
+               ff="0.00088693"
+               gf-ff="-0.00043677">stabiila</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">fuolalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00090664"
+               ff="0.00155213"
+               gf-ff="-0.00064549">stáđis</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">skeptisk</l>
+         <l pos="A" gf="0.00346114" ff="0.00343662" gf-ff="0.00002452">oppmerksom</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">vávjálas</t>
+            <t pos="A" gf="0.00011412" ff="0.00011086" gf-ff="0.00000325">áicil</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">eahpidahtti</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00039943"
+               ff="0.00027716"
+               gf-ff="0.00012227">fuolalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">elektrisk</l>
+         <l pos="A" gf="0.00319335" ff="0.00059568" gf-ff="0.00259767">skeptisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">elektrihkalaš</t>
+            <t pos="A" gf="0.00003170" ff="0" gf-ff="0.0000317">vávjálas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">elektralaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00091932"
+               ff="0.00027716"
+               gf-ff="0.00064215">eahpidahtti</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">usaklig</l>
+         <l pos="A" gf="0.00282761" ff="0.00082479" gf-ff="0.00200281">elektrisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">eahpeáššálaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00017752"
+               ff="0.00072063"
+               gf-ff="-0.00054311">elektrihkalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">áššeheapme</t>
+            <t pos="A" src="fad" gf="0.00031066" ff="0" gf-ff="0.00031066">elektralaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">primær</l>
+         <l pos="A" gf="0.00279081" ff="0.00013746" gf-ff="0.00265335">usaklig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">primára</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00017118"
+               ff="0"
+               gf-ff="0.00017118">eahpeáššálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ovddemuš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00008242"
+               ff="0.00016630"
+               gf-ff="-0.00008388">áššeheapme</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">moralsk</l>
+         <l pos="A" gf="0.00278553" ff="0.00568188" gf-ff="-0.00289635">primær</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">morálalaš</t>
+            <t pos="A" gf="0.00010778" ff="0" gf-ff="0.00010778">primára</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">moralalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00091298"
+               ff="0.00027716"
+               gf-ff="0.00063582">ovddemuš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">verdifull</l>
+         <l pos="A" gf="0.00273511" ff="0.00082479" gf-ff="0.00191031">moralsk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">árvvolaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00080520"
+               ff="0.00055433"
+               gf-ff="0.00025086">morálalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">mávssolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00015216"
+               ff="0.00022173"
+               gf-ff="-0.00006957">moralalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">moderat</l>
+         <l pos="A" gf="0.00232355" ff="0.00421559" gf-ff="-0.00189203">verdifull</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">muttát</t>
-            <t pos="A">mearálaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00106514"
+               ff="0.00188473"
+               gf-ff="-0.00081959">árvvolaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">muttolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.01150105"
+               ff="0.01829300"
+               gf-ff="-0.00679195">mávssolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">visuell</l>
+         <l pos="A" gf="0.00216325" ff="0.00064150" gf-ff="0.00152174">moderat</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">visuála</t>
+            <t pos="A" gf="0.00041845" ff="0.00016630" gf-ff="0.00025215">muttát</t>
+            <t pos="A" gf="0.00022190" ff="0.00027716" gf-ff="-0.00005525">mearálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">visuálalaš</t>
+            <t pos="A" src="fad" gf="0.00015850" ff="0" gf-ff="0.0001585">muttolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">sårbar</l>
+         <l pos="A" gf="0.00195457" ff="0.00146629" gf-ff="0.00048828">visuell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">hearki</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00039309"
+               ff="0.00105323"
+               gf-ff="-0.00066014">visuála</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">rašši</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00017118"
+               ff="0.00055433"
+               gf-ff="-0.00038315">visuálalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ideell</l>
+         <l pos="A" gf="0.00193515" ff="0.00384902" gf-ff="-0.00191386">sårbar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">epmolaš</t>
-            <t pos="A">jurddalaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00254874"
+               ff="0.00182930"
+               gf-ff="0.00071943">hearki</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ideála</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00419718"
+               ff="0.00620853"
+               gf-ff="-0.00201135">rašši</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">akademisk</l>
+         <l pos="A" gf="0.00191454" ff="0.00128300" gf-ff="0.00063153">ideell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">akademalaš</t>
+            <t pos="A" gf="0.00017118" ff="0" gf-ff="0.00017118">epmolaš</t>
+            <t pos="A" gf="0.00008876" ff="0" gf-ff="0.00008876">jurddalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">akademihkalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00018386"
+               ff="0.00027716"
+               gf-ff="-0.00009329">ideála</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">kronisk</l>
+         <l pos="A" gf="0.00185833" ff="0.00077896" gf-ff="0.00107937">akademisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">bissovaš</t>
-            <t pos="A">kronalaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00072911"
+               ff="0.00060976"
+               gf-ff="0.00011935">akademalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">guhkálmas</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00014582"
+               ff="0.00033260"
+               gf-ff="-0.00018678">akademihkalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">kjemisk</l>
+         <l pos="A" gf="0.00179734" ff="0.00059568" gf-ff="0.00120165">kronisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">kemihkalaš</t>
+            <t pos="A" gf="0.01415758" ff="0.02006687" gf-ff="-0.00590929">bissovaš</t>
+            <t pos="A" gf="0.00000634" ff="0" gf-ff="0.00000634">kronalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">kemiijalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00012680"
+               ff="0.00066520"
+               gf-ff="-0.00053840">guhkálmas</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">uendelig</l>
+         <l pos="A" gf="0.00174419" ff="0.00018328" gf-ff="0.00156091">kjemisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">agálaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00002536"
+               ff="0.00011086"
+               gf-ff="-0.0000855">kemihkalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">nohkameahttun</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00009510"
+               ff="0.00011086"
+               gf-ff="-0.00001576">kemiijalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">troverdig</l>
+         <l pos="A" gf="0.00166941" ff="0.00022910" gf-ff="0.00144031">uendelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">jáhkihahtti</t>
+            <t pos="A" gf="0.00171184" ff="0.00027716" gf-ff="0.00143468">agálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">jáhkehahtti</t>
+            <t pos="A" src="fad" gf="0.00017118" ff="0" gf-ff="0.00017118">nohkameahttun</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">nøytral</l>
+         <l pos="A" gf="0.00163943" ff="0.00059568" gf-ff="0.00104375">troverdig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">bealátkeahtes</t>
+            <t pos="A" gf="0.00005072" ff="0" gf-ff="0.00005072">jáhkihahtti</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">neutrála</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00307497"
+               ff="0.00271623"
+               gf-ff="0.00035873">jáhkehahtti</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">magisk</l>
+         <l pos="A" gf="0.00163773" ff="0.00068732" gf-ff="0.00095041">nøytral</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">noaidegoansttalaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00065937"
+               ff="0.00055433"
+               gf-ff="0.00010504">bealátkeahtes</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">magihkalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00045649"
+               ff="0.00027716"
+               gf-ff="0.00017933">neutrála</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">fornybar</l>
+         <l pos="A" gf="0.00162716" ff="0.00009164" gf-ff="0.00153552">magisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" alt_str="ođasmahtti" src="fad">ođasmuvvi</t>
+            <t pos="A" gf="0" ff="0" gf-ff="0">noaidegoansttalaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" src="fad" gf="0.00017118" ff="0" gf-ff="0.00017118">magihkalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">parallell</l>
+         <l pos="A" gf="0.00159820" ff="0.00444470" gf-ff="-0.0028465">fornybar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">parallealla</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">bálddalas</t>
+            <t pos="A"
+               alt_str="ođasmahtti"
+               src="fad"
+               gf="0.00114756"
+               ff="0.00371403"
+               gf-ff="-0.00256647">ođasmuvvi</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">universell</l>
+         <l pos="A" gf="0.00155289" ff="0.00394066" gf-ff="-0.00238777">parallell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">oppamáilmmálaš</t>
+            <t pos="A" gf="0.00048819" ff="0.00105323" gf-ff="-0.00056504">parallealla</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">universála</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00136313"
+               ff="0.00072063"
+               gf-ff="0.0006425">bálddalas</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">kontroversiell</l>
+         <l pos="A" gf="0.00142649" ff="0.00123718" gf-ff="0.00018931">universell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">nággobohciideaddji</t>
-            <t pos="A">nákkuvuloš</t>
+            <t pos="A" gf="0.00020922" ff="0.00033260" gf-ff="-0.00012338">oppamáilmmálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">kontroversiealla</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00026628"
+               ff="0.00016630"
+               gf-ff="0.00009997">universála</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">gyldig</l>
+         <l pos="A" gf="0.00135341" ff="0.00027493" gf-ff="0.00107848">kontroversiell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">gustojeaddji</t>
+            <t pos="A" gf="0.00006974" ff="0" gf-ff="0.00006974">nággobohciideaddji</t>
+            <t pos="A" gf="0.00033602" ff="0.00049890" gf-ff="-0.00016288">nákkuvuloš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">gustovaš</t>
+            <t pos="A" src="fad" gf="0.00011412" ff="0" gf-ff="0.00011412">kontroversiealla</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">sammenhengende</l>
+         <l pos="A" gf="0.00133280" ff="0.00284094" gf-ff="-0.00150814">gyldig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">oktalaš</t>
+            <t pos="A" gf="0.00675861" ff="0.00748350" gf-ff="-0.00072488">gustojeaddji</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">jotkkolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00522429"
+               ff="0.01075407"
+               gf-ff="-0.00552977">gustovaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">katolsk</l>
+         <l pos="A" gf="0.00115121" ff="0.00146629" gf-ff="-0.00031508">sammenhengende</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">katolalaš</t>
+            <t pos="A" gf="0.00005706" ff="0" gf-ff="0.00005706">oktalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">katolihkalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00019020"
+               ff="0.00033260"
+               gf-ff="-0.00014240">jotkkolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">rettslig</l>
+         <l pos="A" gf="0.00113877" ff="0.00009164" gf-ff="0.00104713">katolsk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">rievttálaš</t>
-            <t pos="A" src="gt;fad">rievttalaš</t>
+            <t pos="A" gf="0.00010778" ff="0" gf-ff="0.00010778">katolalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">lágalaš</t>
+            <t pos="A" src="fad" gf="0.00003804" ff="0" gf-ff="0.00003804">katolihkalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ambisiøs</l>
+         <l pos="A" gf="0.00110385" ff="0.01846613" gf-ff="-0.01736228">rettslig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">áŋgir</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00841973"
+               ff="0.01313770"
+               gf-ff="-0.00471797">rievttálaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00075447"
+               ff="0.00177386"
+               gf-ff="-0.00101938">rievttalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">gudneáŋgir</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00147725"
+               ff="0.00188473"
+               gf-ff="-0.00040748">lágalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">underliggende</l>
+         <l pos="A" gf="0.00107779" ff="0.00087061" gf-ff="0.00020717">ambisiøs</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">vuollálas</t>
+            <t pos="A" gf="0.00406404" ff="0.00249450" gf-ff="0.00156953">áŋgir</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">vuollásaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00027262"
+               ff="0.00072063"
+               gf-ff="-0.00044801">gudneáŋgir</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">folkelig</l>
+         <l pos="A" gf="0.00106178" ff="0.00976001" gf-ff="-0.00869823">underliggende</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">olmmošlaš</t>
-            <t pos="A" src="gt;fad">álbmotlaš</t>
+            <t pos="A" gf="0.00015216" ff="0.00060976" gf-ff="-0.00045759">vuollálas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">olmmošeaddjái</t>
+            <t pos="A"
+               src="fad"
+               gf="0.01103188"
+               ff="0.01840387"
+               gf-ff="-0.00737198">vuollásaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">funksjonell</l>
+         <l pos="A" gf="0.00104304" ff="0.00036657" gf-ff="0.00067647">folkelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">doaibmi</t>
+            <t pos="A" gf="0.00317008" ff="0.00393576" gf-ff="-0.00076567">olmmošlaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00096370"
+               ff="0.00060976"
+               gf-ff="0.00035393">álbmotlaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" alt_str="funkšunála" src="fad">funktionála</t>
+            <t pos="A" src="fad" gf="0.00005706" ff="0" gf-ff="0.00005706">olmmošeaddjái</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">mangfoldig</l>
+         <l pos="A" gf="0.00094935" ff="0.00284094" gf-ff="-0.00189159">funksjonell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">girjái</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00524331"
+               ff="0.00764980"
+               gf-ff="-0.00240649">doaibmi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">šláddjás</t>
+            <t pos="A"
+               alt_str="funkšunála"
+               src="fad"
+               gf="0.00006340"
+               ff="0"
+               gf-ff="0.0000634">funktionála</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">skjev</l>
+         <l pos="A" gf="0.00091017" ff="0.00201615" gf-ff="-0.00110598">mangfoldig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">botnjut</t>
+            <t pos="A" gf="0.00226977" ff="0.00349230" gf-ff="-0.00122252">girjái</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" alt_str="bonju" src="fad">bonju-</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00017752"
+               ff="0.00038803"
+               gf-ff="-0.00021051">šláddjás</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">kvalitativ</l>
+         <l pos="A" gf="0.00089432" ff="0.00050403" gf-ff="0.00039028">skjev</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">kvalitatiiva</t>
+            <t pos="A" gf="0.00017118" ff="0" gf-ff="0.00017118">botnjut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">kvalitatiivvalaš</t>
+            <t pos="A"
+               alt_str="bonju"
+               src="fad"
+               gf="0"
+               ff="0"
+               gf-ff="0">bonju-</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">fruktbar</l>
+         <l pos="A" gf="0.00082022" ff="0.00407812" gf-ff="-0.0032579">kvalitativ</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">nállái</t>
-            <t pos="A" src="gt;fad">šattolaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00049453"
+               ff="0.00099780"
+               gf-ff="-0.00050327">kvalitatiiva</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">buvttalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00034870"
+               ff="0.00077606"
+               gf-ff="-0.00042735">kvalitatiivvalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">påfallende</l>
+         <l pos="A" gf="0.00072892" ff="0.00041239" gf-ff="0.00031653">fruktbar</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">mearkkašahtti</t>
-            <t pos="A">čalbmáičuohcci</t>
+            <t pos="A" gf="0.00000634" ff="0" gf-ff="0.00000634">nállái</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00043113"
+               ff="0.00027716"
+               gf-ff="0.00015397">šattolaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">imaš</t>
+            <t pos="A" src="fad" gf="0.00003804" ff="0" gf-ff="0.00003804">buvttalaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">vital</l>
+         <l pos="A" gf="0.00071580" ff="0.00064150" gf-ff="0.00007430">påfallende</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">eallinfámolaš</t>
+            <t pos="A" gf="0.00499604" ff="0.00814870" gf-ff="-0.00315266">mearkkašahtti</t>
+            <t pos="A" gf="0.00088762" ff="0.00033260" gf-ff="0.00055502">čalbmáičuohcci</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">virkui</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00209225"
+               ff="0.00038803"
+               gf-ff="0.00170422">imaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">strukturell</l>
+         <l pos="A" gf="0.00053455" ff="0.00068732" gf-ff="-0.00015277">vital</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">ráhkaduslaš</t>
+            <t pos="A" gf="0.00022190" ff="0.00055433" gf-ff="-0.00033243">eallinfámolaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">struktuvrralaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00055159"
+               ff="0.00022173"
+               gf-ff="0.00032986">virkui</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">betryggende</l>
+         <l pos="A" gf="0.00053046" ff="0.00311587" gf-ff="-0.00258541">strukturell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">oadjudeaddji</t>
+            <t pos="A" gf="0.00002536" ff="0.00016630" gf-ff="-0.00014094">ráhkaduslaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">dorvvolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00101442"
+               ff="0.00365860"
+               gf-ff="-0.00264418">struktuvrralaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">høytidelig</l>
+         <l pos="A" gf="0.00046607" ff="0.00123718" gf-ff="-0.00077111">betryggende</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">duođalaš</t>
+            <t pos="A" gf="0.00000634" ff="0" gf-ff="0.00000634">oadjudeaddji</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">allaáiggálaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00080520"
+               ff="0.00105323"
+               gf-ff="-0.00024803">dorvvolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">uoffisiell</l>
+         <l pos="A" gf="0.00039129" ff="0.00036657" gf-ff="0.00002471">høytidelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="gt;fad">eahpevirggálaš</t>
+            <t pos="A" gf="0.01106992" ff="0.00715090" gf-ff="0.00391902">duođalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">eahpealmmolaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00038040"
+               ff="0.00066520"
+               gf-ff="-0.00028480">allaáiggálaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">norrøn</l>
+         <l pos="A" gf="0.00039094" ff="0.00018328" gf-ff="0.00020766">uoffisiell</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">dološdáru</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00008242"
+               ff="0.00011086"
+               gf-ff="-0.00002844">eahpevirggálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">norrøna</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00011412"
+               ff="0.00027716"
+               gf-ff="-0.00016303">eahpealmmolaš</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">kristelig</l>
+         <l pos="A" gf="0.00036965" ff="0.00027493" gf-ff="0.00009472">norrøn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">risttalaš</t>
+            <t pos="A" gf="0" ff="0" gf-ff="0">dološdáru</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">kristtalaš</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00024092"
+               ff="0.00016630"
+               gf-ff="0.00007461">norrøna</t>
          </tg>
       </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
-         <l pos="A">ortodoks</l>
+         <l pos="A" gf="0.00032110" ff="0.00027493" gf-ff="0.00004617">kristelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">rivttesoahpalaš</t>
-            <t pos="A" src="gt;fad">ortodoksalaš</t>
+            <t pos="A" gf="0.00336662" ff="0.00099780" gf-ff="0.00236881">risttalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">ortodoksa</t>
+            <t pos="A"
+               src="fad"
+               gf="0.00242194"
+               ff="0.00144126"
+               gf-ff="0.00098068">kristtalaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_all="2" mg_fad="1">
+      <lg>
+         <l pos="A" gf="0.00028226" ff="0.00032075" gf-ff="-0.00003849">ortodoks</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" gf="0" ff="0" gf-ff="0">rivttesoahpalaš</t>
+            <t pos="A"
+               src="gt;fad"
+               gf="0.00010778"
+               ff="0.00016630"
+               gf-ff="-0.00005852">ortodoksalaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A"
+               src="fad"
+               gf="0.00032968"
+               ff="0.00022173"
+               gf-ff="0.00010795">ortodoksa</t>
          </tg>
       </mg>
    </e>
