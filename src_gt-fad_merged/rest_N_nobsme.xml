@@ -10150,19 +10150,11 @@
                gf="0.00046283"
                ff="0.00099780"
                gf-ff="-0.00053497">veahkkevárri</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.01067683"
                ff="0.00487813"
                gf-ff="0.0057987">riggodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00100174"
@@ -10177,6 +10169,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>fortjeneste</re>
             <t pos="N"
                usage="vd"
                src="gt;fad"
@@ -10184,42 +10177,25 @@
                ff="0.01313770"
                gf-ff="-0.00633471">sisaboahtu</t>
             <t pos="N"
-               src="gt;fad"
-               gf="0.00680299"
-               ff="0.01313770"
-               gf-ff="-0.00633471">sisaboahtu</t>
+               src="fad"
+               gf="0.00112854"
+               ff="0.00515530"
+               gf-ff="-0.00402676">boahtu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>lønn</re>
             <t pos="N"
                src="fad"
                gf="0.01039786"
                ff="0.01175187"
                gf-ff="-0.00135400">dienas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad" gf="0.00001268" ff="0" gf-ff="0.00001268">sisaboađus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00014582"
                ff="0.00011086"
                gf-ff="0.00003496">dinestus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N"
-               src="fad"
-               gf="0.00112854"
-               ff="0.00515530"
-               gf-ff="-0.00402676">boahtu</t>
          </tg>
       </mg>
    </e>
@@ -10229,7 +10205,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>m</re>
+            <re>makt</re>
             <t pos="N"
                src="nj"
                usage="vd"
@@ -10268,37 +10244,11 @@
                gf="0.00061499"
                ff="0.00077606"
                gf-ff="-0.00016106">givrodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N"
-               src="fad"
-               gf="0.01148837"
-               ff="0.02300484"
-               gf-ff="-0.01151647">nannen</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N"
-               src="fad"
-               gf="0.00105246"
-               ff="0.00160756"
-               gf-ff="-0.0005551">nanosmahttin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00004438"
                ff="0.00022173"
                gf-ff="-0.00017735">nannodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00024092"
@@ -10306,8 +10256,23 @@
                gf-ff="-0.00025798">nanusvuohta</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>det å gjøre sterk</re>
+            <t pos="N"
+               src="fad"
+               gf="0.01148837"
+               ff="0.02300484"
+               gf-ff="-0.01151647">nannen</t>
+            <t pos="N"
+               src="fad"
+               gf="0.00105246"
+               ff="0.00160756"
+               gf-ff="-0.0005551">nanosmahttin</t>
+         </tg>
+      </mg>
    </e>
-   <e mg_all="6" mg_fad="5">
+   <e __mg_all="6" mg_fad="5">
       <lg>
          <l pos="N" gf="0.00733247" ff="0.00856865" gf-ff="-0.00123618">konflikt</l>
       </lg>
