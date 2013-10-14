@@ -10730,34 +10730,18 @@
                ff="0.01302683"
                gf-ff="-0.00288890">ságastallan</t>
             <t pos="N"
-               src="gt;fad"
-               gf="0.00201617"
-               ff="0.00365860"
-               gf-ff="-0.00164243">dialoga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad" gf="0.00004438" ff="0" gf-ff="0.00004438">gulahallandilálašvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N"
                src="fad"
                gf="0.01221749"
                ff="0.02566564"
                gf-ff="-0.01344815">gulahallan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="N"
+               src="gt;fad"
+               gf="0.00201617"
+               ff="0.00365860"
+               gf-ff="-0.00164243">dialoga</t>
+            <t pos="N" src="fad" gf="0.00004438" ff="0" gf-ff="0.00004438">gulahallandilálašvuohta</t>
             <t pos="N" src="fad" gf="0.00003804" ff="0" gf-ff="0.00003804">vuorroságastallan</t>
             <t pos="N" src="fad" gf="0.00012680" ff="0" gf-ff="0.0001268">vuorrohálešteapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad" gf="0.00001902" ff="0" gf-ff="0.00001902">gaskasáhka</t>
          </tg>
       </mg>
@@ -10774,10 +10758,6 @@
                gf="0.00019020"
                ff="0.00016630"
                gf-ff="0.00002389">kombinašuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00029164"
@@ -10787,6 +10767,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>kombinasjonsvirksomhet</re>
             <t pos="N"
                src="fad"
                gf="0.00056427"
@@ -10801,62 +10782,37 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" gf="0.00006340" ff="0" gf-ff="0.0000634">oaivádus</t>
             <t pos="N"
                usage="vd"
                src="gt;fad"
                gf="0.00281503"
                ff="0.00415750"
                gf-ff="-0.00134246">bagadallan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00034236"
                ff="0.00055433"
                gf-ff="-0.00021197">neavvun</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00242194"
                ff="0.00637483"
                gf-ff="-0.00395289">bagadus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00088762"
                ff="0.00133040"
                gf-ff="-0.00044278">oaivadus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00100174"
                ff="0.00188473"
                gf-ff="-0.00088299">bagadeapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00038040"
                ff="0.00060976"
                gf-ff="-0.00022936">rávven</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00140751"
@@ -10883,29 +10839,21 @@
                ff="0.00116410"
                gf-ff="0.00048434">neavvu</t>
             <t pos="N"
+               src="fad"
+               gf="0.00674593"
+               ff="0.00842587"
+               gf-ff="-0.00167994">gaskaoapmi</t>
+            <t pos="N"
                usage="vd"
                src="gt;fad"
                gf="0.00101442"
                ff="0.00083150"
                gf-ff="0.00018292">bargoneavvu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00006340"
                ff="0.00044346"
                gf-ff="-0.00038006">divvunreaidu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N"
-               src="fad"
-               gf="0.00674593"
-               ff="0.00842587"
-               gf-ff="-0.00167994">gaskaoapmi</t>
          </tg>
       </mg>
    </e>
@@ -10915,6 +10863,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>det å anbefale</re>
             <t pos="N" gf="0.00000634" ff="0" gf-ff="0.00000634">neava</t>
             <t pos="N" gf="0.00038040" ff="0.00060976" gf-ff="-0.00022936">rávven</t>
             <t pos="N"
@@ -10923,19 +10872,11 @@
                gf="0.00518625"
                ff="0.00659656"
                gf-ff="-0.00141030">ávžžuhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00784912"
                ff="0.02056577"
                gf-ff="-0.01271665">ráva</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00088762"
@@ -10950,19 +10891,19 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>om sår</re>
+            <re>betennelse, materie</re>
             <t pos="N"
                src="nj"
                usage="vd"
                gf="0.00008242"
                ff="0"
                gf-ff="0.00008242">siedja</t>
-            <t pos="N" gf="0.00002536" ff="0" gf-ff="0.00002536">várka</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>reinsjukdom</re>
+            <re>murrende smerte</re>
+            <t pos="N" gf="0.00002536" ff="0" gf-ff="0.00002536">várka</t>
             <t pos="N" gf="0" ff="0" gf-ff="0">vearka</t>
             <xg>
                <x/>
@@ -10983,6 +10924,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>resultat, produkt</re>
             <t pos="N"
                src="fad"
                gf="0.00010144"
@@ -10997,6 +10939,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>noe som er samlet</re>
             <t pos="N" gf="0.00012046" ff="0.00027716" gf-ff="-0.0001567">čohkkehus</t>
             <t pos="N"
                usage="vd"
@@ -11008,15 +10951,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>sammenkomst</re>
             <t pos="N"
                src="fad"
                gf="0.00083690"
                ff="0.00094236"
                gf-ff="-0.00010546">čoahkkaneapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00093834"
@@ -11026,6 +10966,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>det å samle</re>
             <t pos="N"
                src="fad"
                gf="0.00190204"
@@ -11045,15 +10986,7 @@
                gf="0.00058963"
                ff="0.00099780"
                gf-ff="-0.00040817">ovttaláganvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad" gf="0.00000634" ff="0" gf-ff="0.00000634">ovttaláhkásašvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00005072"
@@ -11073,11 +11006,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>samarbeidspartner</re>
             <t pos="N" src="fad" gf="0.00001902" ff="0" gf-ff="0.00001902">doaibmaoasálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>livsledsager(ske)</re>
             <t pos="N"
                src="fad"
                gf="0.00001902"
@@ -11103,19 +11038,11 @@
                gf="0.00180060"
                ff="0.00615310"
                gf-ff="-0.0043525">figuvra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00017752"
                ff="0.00038803"
                gf-ff="-0.00021051">govastat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00105880"
@@ -11130,11 +11057,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>omkrets</re>
             <t pos="N" gf="0.00002536" ff="0" gf-ff="0.00002536">birramihttu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>omfatte</re>
             <t pos="N"
                alt_str="gustoviidodat"
                src="fad"
@@ -11145,6 +11074,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>utstrekning</re>
             <t pos="N"
                src="fad"
                gf="0.00654304"
@@ -11154,6 +11084,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>størrelse</re>
             <t pos="N"
                src="fad"
                gf="0.00103344"
