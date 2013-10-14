@@ -11099,12 +11099,9 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>konflikt, uenighet</re>
             <t pos="N" gf="0.00310034" ff="0.00182930" gf-ff="0.00127104">nággu</t>
             <t pos="N" gf="0" ff="0" gf-ff="0">nárrodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.01290223"
@@ -11114,6 +11111,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>uoverensstemmelse</re>
             <t pos="N"
                src="fad"
                gf="0.00082422"
@@ -11139,19 +11137,11 @@
                gf="0.00019654"
                ff="0.00016630"
                gf-ff="0.00003024">kapasiteahtta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00080520"
                ff="0.00116410"
                gf-ff="-0.0003589">doaibmannákca</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00023458"
@@ -11160,7 +11150,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="7" mg_fad="6">
+   <e __mg_all="7" mg_fad="6">
       <lg>
          <l pos="N" gf="0.00359435" ff="0.00256601" gf-ff="0.00102834">overgrep</l>
       </lg>
@@ -11230,12 +11220,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="6" mg_fad="5">
+   <e __mg_all="6" mg_fad="5">
       <lg>
          <l pos="N" gf="0.00358924" ff="0.01635834" gf-ff="-0.01276909">nedgang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>det å gå ned</re>
             <t pos="N"
                src="gt;fad"
                gf="0.00221271"
@@ -11289,7 +11280,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="N" gf="0.00335961" ff="0.00481127" gf-ff="-0.00145166">forbruk</l>
       </lg>
@@ -11318,7 +11309,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="9" mg_fad="8">
+   <e __mg_all="9" mg_fad="8">
       <lg>
          <l pos="N" gf="0.00330799" ff="0.02043646" gf-ff="-0.01712847">mangfold</l>
       </lg>
@@ -11422,19 +11413,11 @@
                gf="0.00318910"
                ff="0.00859217"
                gf-ff="-0.00540306">struktuvra</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00084958"
                ff="0.00138583"
                gf-ff="-0.00053625">ráhkadus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00049453"
@@ -11454,19 +11437,11 @@
                gf="0.02468225"
                ff="0.05571052"
                gf-ff="-0.03102827">eanadoallu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.01901415"
                ff="0.04928025"
                gf-ff="-0.03026609">eanandoallu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00093200"
@@ -11486,28 +11461,16 @@
                gf="0.00013314"
                ff="0"
                gf-ff="0.00013314">dássádat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00098272"
                ff="0.00116410"
                gf-ff="-0.00018137">dássedeaddu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00011412"
                ff="0.00038803"
                gf-ff="-0.00027391">dássetvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00090664"
@@ -11527,28 +11490,16 @@
                gf="0.00514187"
                ff="0.01180730"
                gf-ff="-0.00666543">oassálastin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00060865"
                ff="0.00083150"
                gf-ff="-0.00022285">oasseváldin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00048185"
                ff="0.00049890"
                gf-ff="-0.00001705">oasálastin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00621970"
@@ -11570,19 +11521,11 @@
                gf="0.00017118"
                ff="0.00016630"
                gf-ff="0.00000487">šlápma</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00116659"
                ff="0.00044346"
                gf-ff="0.00072312">riedja</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                src="fad"
                gf="0.00051989"
