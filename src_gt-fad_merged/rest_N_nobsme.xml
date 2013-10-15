@@ -11534,7 +11534,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="7" mg_fad="6">
+   <e __mg_all="7" mg_fad="6">
       <lg>
          <l pos="N" gf="0.00301414" ff="0.01438800" gf-ff="-0.01137386">innflytelse</l>
       </lg>
@@ -11605,17 +11605,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>(land)område</re>
             <t pos="N" gf="0.22447985" ff="0.30682362" gf-ff="-0.08234377">guovlu</t>
             <t pos="N" gf="0.00811541" ff="0.02195160" gf-ff="-0.01383619">areála</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" gf="0.00811541" ff="0.02195160" gf-ff="-0.01383619">areála</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="N"
+               src="fad"
+               gf="0.00016484"
+               ff="0.00055433"
+               gf-ff="-0.00038949">eananviidodat</t>
             <t pos="N"
                src="gt;fad"
                gf="0.00654304"
@@ -11625,11 +11622,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N"
-               src="fad"
-               gf="0.00016484"
-               ff="0.00055433"
-               gf-ff="-0.00038949">eananviidodat</t>
+            <re>flatevidde</re>
+            <t pos="N" gf="0.00811541" ff="0.02195160" gf-ff="-0.01383619">areála</t>
          </tg>
       </mg>
    </e>
