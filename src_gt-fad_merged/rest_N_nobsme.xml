@@ -7393,28 +7393,20 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="4" mg_fad="3">
+   <e __mg_all="4" mg_fad="3">
       <lg>
          <l pos="N">endringsforslag</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">rievdadanevttohus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">árvalusrievdadus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">rievdadusárvalus</t>
             <t pos="N" src="fad">rievdadusevttohus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="N" src="fad">árvalusrievdadus</t>
             <t pos="N" src="fad">evttohusrievdadeapmi</t>
          </tg>
       </mg>
@@ -7426,65 +7418,29 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">várreáirras</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">várreolmmoš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">sadjásašáirras</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="N" src="fad">várreolmmoš</t>
             <t pos="N" src="fad">várrelahttu</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="8" mg_fad="7">
+   <e __mg_all="8" mg_fad="7">
       <lg>
          <l pos="N">konsekvensutredning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">váikkuhusčielggadeapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váikkuhusčielggadus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="fad">váikkuhančielggadeapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váikkuhanguorahallan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váikkuhaniskkadančielggadus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váikkuhančielggadus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váikkuhaniskkadančielggadeapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váikkuhaniskančielggadus</t>
          </tg>
       </mg>
@@ -7496,20 +7452,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">mearradoalloealáhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">áhpegeavahusealáhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">áhpegeavahanealáhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">áhpedoalloealáhus</t>
          </tg>
       </mg>
@@ -7521,15 +7465,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">áigumušsoahpan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">áigumuššiehtadus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">intenšuvdnašiehtadus</t>
          </tg>
       </mg>
@@ -7540,18 +7476,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>mannlig</re>
+            <re>fetter</re>
             <t pos="N" src="gt;fad">vilbealle</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>kvinnelig</re>
+            <re>kusine</re>
             <t pos="N" src="gt;fad">oambealle</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">oarpmealle</t>
          </tg>
       </mg>
@@ -7563,31 +7495,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">mearadoallu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">mearradoallu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">mearrageavahus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">mearrageavaheapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">áhpegeavaheapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">áhpedoallu</t>
+            <t pos="N" src="fad">mearrageavahus</t>
+            <t pos="N" src="fad">mearrageavaheapmi</t>
+            <t pos="N" src="fad">áhpegeavaheapmi</t>
          </tg>
       </mg>
    </e>
@@ -7598,15 +7510,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">buohcandieđáhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">buozalmasvuođadieđáhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" alt_str="buohccidieđáhus" src="fad">buohccedieđáhus</t>
          </tg>
       </mg>
@@ -7618,15 +7522,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">reálagelbbolašvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">duohtagealbu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">reálamáhttu</t>
          </tg>
       </mg>
@@ -7638,15 +7534,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">boarrásiidpenšuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ealáhatruhta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ahkepenšuvdna</t>
          </tg>
       </mg>
@@ -7657,17 +7545,15 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>frihet til å handle som en vil</re>
             <t pos="N">doaibmafriddjavuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">gávppašanfriddjavuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">doaibmanfriddjavuohta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om kjøp og salg</re>
+            <t pos="N" src="fad">gávppašanfriddjavuohta</t>
          </tg>
       </mg>
    </e>
@@ -7678,20 +7564,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">buhtadusovddasvástádus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">buhttenovddasvástádus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">buhtadanovddasvástádus</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="N">driftsutgift</l>
       </lg>
@@ -7699,11 +7577,6 @@
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="gt;fad">doaibmagollu</t>
             <t pos="N" src="gt;fad">doaibmaolggosgollu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">hálddahusdássi</t>
          </tg>
       </mg>
       <mg>
@@ -7719,15 +7592,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">gozihanorgána</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">bearráigeahččanorgána</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">dárkkástusorgána</t>
          </tg>
       </mg>
@@ -7739,15 +7604,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">vuostedeaddu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">vuostedeatta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">vuostebealli</t>
          </tg>
       </mg>
@@ -7759,15 +7616,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">gáldoávnnas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">gáldodiehtu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">gáldomateriála</t>
          </tg>
       </mg>
@@ -7779,20 +7627,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">váiddaášši</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váidalanášši</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váidinášši</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váidalusášši</t>
          </tg>
       </mg>
@@ -7804,20 +7640,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">vuosttašriekti</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ovdavuoigatvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">vuosttašvuoigatvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ovdamunnevuoigatvuohta</t>
          </tg>
       </mg>
@@ -7829,15 +7653,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">buvttadannákca</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">buvttadankapasitehta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">buvttaduskapasitehta</t>
          </tg>
       </mg>
@@ -7849,16 +7665,13 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">gáddelinjá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">mearragáddelinnjá</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">gáddesárggis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kystlinje</re>
+            <t pos="N" src="fad">mearragáddelinnjá</t>
          </tg>
       </mg>
    </e>
@@ -7870,16 +7683,13 @@
          <tg xml:lang="sme">
             <t pos="N">ekspropriašuvdna</t>
             <t pos="N" src="gt;fad">bággolonisteapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">bággolotnunvuođđu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">bággolotnun</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>forutsetninger for ekspropriasjon</re>
+            <t pos="N" src="fad">bággolotnunvuođđu</t>
          </tg>
       </mg>
    </e>
@@ -7890,15 +7700,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">sihkkelluodda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">sihkkelastingeaidnu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">sihkkelgeaidnu</t>
          </tg>
       </mg>
@@ -7910,15 +7712,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">govdokáija</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" alt_str="govdukáija" src="fad">govdunkáija</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">govdunbrugga</t>
          </tg>
       </mg>
@@ -7929,27 +7723,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" usage="vd">soabadanráđđi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="gt;fad">šiehtadallanlávdegoddi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">šiehtadanlávdegoddi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">buoridanplána</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">boazodoallokonvenšuvdna</t>
          </tg>
       </mg>
    </e>
@@ -7960,15 +7735,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" alt_str="fitnooahpahus" src="gt;fad">fidnooahpahus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ámmátoahpahus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>yrkesutdanning</re>
             <t pos="N" src="fad">fidnooahppu</t>
          </tg>
       </mg>
@@ -7980,15 +7752,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">ovdánanmuddu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ovdánahttináigi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ovdánahttindássi</t>
          </tg>
       </mg>
@@ -8000,15 +7764,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">riggodatvuođđu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">valljodatvuođus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" alt_str="ressursavuođđu" src="fad">resursavuođđu</t>
          </tg>
       </mg>
@@ -8020,16 +7776,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">válmmašvuođaduođaštus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">loahppaduođaštus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">gárvvisduođaštus</t>
+            <t pos="N" src="fad">loahppaduođaštus</t>
          </tg>
       </mg>
    </e>
@@ -8040,16 +7788,13 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">gilvvaguolli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">gilvinluossaveajet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">gilvinveajet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om laks</re>
+            <t pos="N" src="fad">gilvinluossaveajet</t>
          </tg>
       </mg>
    </e>
@@ -8060,23 +7805,21 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">guoddinnákca</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">gierdannákca</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" alt_str="ceavcinnákca" src="fad">ceavzinnákca</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="5" mg_fad="4">
+   <e __mg_all="5" mg_fad="4">
       <lg>
          <l pos="N">rettsoppfatning</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" src="fad">riekteáddejupmi</t>
+            <t pos="N" src="fad">riekteipmárdus</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">riekteoaidnu</t>
@@ -8092,16 +7835,6 @@
             <t pos="N" src="fad">vuoigatvuođaipmárdus</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">riekteáddejupmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">riekteipmárdus</t>
-         </tg>
-      </mg>
    </e>
    <e mg_all="3" mg_fad="2">
       <lg>
@@ -8110,15 +7843,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">luondduduohtadeapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">luonddulihkahallan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">luonddumeassan</t>
          </tg>
       </mg>
@@ -8130,15 +7855,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">máinnastandáidda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">muitalančehppodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">muitalandáidda</t>
          </tg>
       </mg>
@@ -8150,20 +7867,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">šiehtadallanáirrasgoddi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">šiehtadallansáttagoddi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">šiehtadallandelegašuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">šiehtadandelegašuvdna</t>
          </tg>
       </mg>
@@ -8175,25 +7880,13 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">ovdánansuorgi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ovddidansuorgi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">ovdánahttinsuorgi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">gárgedansuorgi</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="1">
+   <e __mg_all="3" mg_fad="1">
       <lg>
          <l pos="N">skrål</l>
       </lg>
@@ -8222,18 +7915,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">davviguovlopolitihkka</t>
-            <t pos="N">davveguovlopolitihkka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N"
                alt_str="davveguovlopolitihkka;davviguovlopolitihkka"
                src="fad">davviguovllupolitihkka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">davviguovlluidpolitihkka</t>
          </tg>
       </mg>
@@ -8245,25 +7929,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">olmmošvuoigatvuođasoahpamuš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">olmmošvuoigatvuođakonvenšuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">olmmošriektekonvenšuvdna</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">olmmošriekteláhka</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_all="4" mg_fad="3">
+   <e __mg_all="4" mg_fad="3">
       <lg>
          <l pos="N">minimumsstandard</l>
       </lg>
@@ -8295,15 +7966,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">iskangeatnegasvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">iskkadangeatnegasvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">guorahallangeatnegasvuohta</t>
          </tg>
       </mg>
@@ -8315,15 +7978,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">oahppovirgelohpi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">lohkanpermišuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">lohkanvirgelohpi</t>
          </tg>
       </mg>
@@ -8335,15 +7990,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">váidalanortnet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váidinortnet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">váidalusortnet</t>
          </tg>
       </mg>
@@ -8356,15 +8003,7 @@
          <tg xml:lang="sme">
             <t pos="N">riektemannolat</t>
             <t pos="N" src="gt;fad">riekteovdáneapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">riekteovddideapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">riekteovdánahttin</t>
          </tg>
       </mg>
@@ -8376,15 +8015,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">šiehtadallanbealli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">šiehtadanbealli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">šiehtadusoasálaš</t>
          </tg>
       </mg>
@@ -8396,20 +8027,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">unnitlogupolitihkka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">unnitlohkopolitihkka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" alt_str="minoritehttapolitihkka" src="fad">minoritehtapolitihkka</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="4" mg_fad="1">
+   <e __mg_all="4" mg_fad="1">
       <lg>
          <l pos="N">reinskinn</l>
       </lg>
@@ -8417,11 +8040,6 @@
          <tg xml:lang="sme">
             <re>med pels</re>
             <t pos="N" usage="vd" src="nj;fad">duollji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="gt;fad">duollji</t>
             <t pos="N" src="gt;fad">bohccoduollji</t>
          </tg>
       </mg>
@@ -8436,7 +8054,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="N">melsekk</l>
       </lg>
@@ -8452,15 +8070,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="fad">jáffut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">jáffu</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="N">inntjeningsevne</l>
       </lg>
@@ -8473,10 +8087,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="fad">dinenvejolašvuohta</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">dienasvejolašvuohta</t>
          </tg>
       </mg>
@@ -8488,15 +8098,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">eanajuohkinláhka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">eanamolsunláhka</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">eanajuohkoláhka</t>
          </tg>
       </mg>
@@ -8508,41 +8110,25 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="gt;fad">eamiálbmotperspektiiva</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">álgoálbmotoaidnu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">álgoálbmotperspektiiva</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="4" mg_fad="3">
+   <e __mg_all="4" mg_fad="3">
       <lg>
          <l pos="N">reindriftsareal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">boazoguohtuneana</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">boazoguohtonareála</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">boazodoalloareála</t>
+            <t pos="N" src="fad">boazodoalloeana</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">boazodoalloeana</t>
+            <t pos="N">boazoguohtuneana</t>
+            <t pos="N" src="fad">boazoguohtonareála</t>
          </tg>
       </mg>
    </e>
