@@ -4434,42 +4434,37 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="N">rekreasjon</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>hvile, det å komme til krefter</re>
             <t pos="N" usage="vd">vuoiŋŋasteapmi</t>
+            <t pos="N" usage="vd">virkkosmahttin</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">lustamátki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>adspredselse</re>
             <t pos="N" src="fad">lustadoaibma</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="N">skolegang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>det å gå på skolen</re>
             <t pos="N" usage="vd" src="gt;fad">skuvlavázzin</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">skuvlaáigodat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>undervisning</re>
             <t pos="N" src="fad">skuvlejupmi</t>
          </tg>
       </mg>
@@ -4480,57 +4475,41 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>forandring</re>
             <t pos="N" usage="vd" src="gt;fad">rievdadus</t>
             <t pos="N" usage="vd" src="gt;fad">rievdadeapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">nuppástuhttin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">rievdan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="N" src="fad">nuppástus</t>
+            <t pos="N" src="fad">nuppástupmi</t>
             <t pos="N" src="fad">earáhuhttin</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">nuppástus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">nuppástupmi</t>
+            <re>hamskifte</re>
+            <t pos="N" src="fad">rievdan</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="N">økning</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>det å øke</re>
             <t pos="N" usage="vd">lassáneapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">lasáhus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">stuorrudeapmi</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>det som noe øker med</re>
+            <t pos="N" src="fad">lasáhus</t>
+         </tg>
+      </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="N">redaksjon</l>
       </lg>
@@ -4538,10 +4517,6 @@
          <tg xml:lang="sme">
             <t pos="N" usage="vd">doaimmahus</t>
             <t pos="N" src="fad">redakšuvdna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">doaimmahusjoavku</t>
          </tg>
       </mg>
@@ -4575,12 +4550,9 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">fokuseren</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>fokusering</re>
             <t pos="N" src="fad">guovdilastin</t>
+            <t pos="N" src="fad">fokuseren</t>
          </tg>
       </mg>
    </e>
