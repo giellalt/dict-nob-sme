@@ -4534,7 +4534,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="3">
+   <e mg_all="4" mg_fad="3">
       <lg>
          <l pos="N">fokus</l>
       </lg>
@@ -4545,6 +4545,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>oppmerksomhet</re>
             <t pos="N" src="fad">fuomášupmi</t>
          </tg>
       </mg>
@@ -4576,22 +4577,14 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="N">enaresamisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd" src="gt;fad">anárašgiella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">anársámegiella</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">anárašsámegiella</t>
          </tg>
       </mg>
@@ -4655,37 +4648,28 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="6" mg_fad="5">
+   <e mg_all="6" mg_fad="5">
       <lg>
          <l pos="N">kamp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>konkurranse</re>
             <t pos="N">gilvu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="NomAct" src="fad">riidaleapmi</t>
+            <re>kjemping mot hindringer</re>
+            <t pos="N" src="fad">rahčan</t>
+            <t pos="N" src="fad">rahčamuš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="NomAct" src="fad">rahčan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAct" src="fad">doarrun</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">rahča</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>fiendtlig strid</re>
+            <t pos="N" src="fad">doarrun</t>
+            <t pos="N" src="fad">riidaleapmi</t>
             <t pos="N" src="fad">doarru</t>
          </tg>
       </mg>
@@ -4715,138 +4699,88 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="7" mg_fad="5">
+   <e mg_all="7" mg_fad="5">
       <lg>
          <l pos="N">erfaring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>innsikt</re>
-            <t pos="N" src="nj" usage="vd">dovdu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>hendelse</re>
+            <re>praksis</re>
+            <t pos="N" src="fad">hárjáneapmi</t>
             <t pos="N" src="gt;fad">vásihus</t>
             <t pos="N" src="fad">vásáhus</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>innsikt</re>
+            <t pos="N" src="nj" usage="vd">dovdu</t>
+            <t pos="N" src="fad">dovddiidus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>arbeidserfaring</re>
             <t pos="N" src="fad">bargovásáhus</t>
             <t pos="N" src="fad">bargohárjáneapmi</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">hárjáneapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">dovddiidus</t>
-         </tg>
-      </mg>
    </e>
-   <e __mg_all="11" mg_fad="10">
+   <e mg_all="11" mg_fad="10">
       <lg>
          <l pos="N">utgangspunkt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>fysisk punkt der noe begynner</re>
+            <t pos="N" src="fad">vuolggabáiki</t>
+            <t pos="N" src="fad">álginsadji</t>
+            <t pos="N" src="fad">vuolggasadji</t>
             <t pos="N">vuolgindássi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>overført betydning</re>
+            <t pos="N" src="fad">álgovuođđu</t>
+            <t pos="N" src="fad">álgooaidnu</t>
+            <t pos="N" src="fad">álgojurdda</t>
+            <t pos="N" src="fad">vuođđodilli</t>
+            <t pos="N" src="fad">álgoálgu</t>
+            <t pos="N" src="fad">álgovuorru</t>
             <t pos="N" src="fad">álgogeahčasteapmi</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">álgovuorru</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">álgoálgu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">vuolggabáiki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">vuođđodilli</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">álginsadji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">álgovuođđu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">álgooaidnu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">álgojurdda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">vuolggasadji</t>
-         </tg>
-      </mg>
    </e>
-   <e __mg_all="7" mg_fad="5">
+   <e mg_all="7" mg_fad="5">
       <lg>
          <l pos="N">behandling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>pleie</re>
             <t pos="N" src="gt;fad">dikšu</t>
             <t pos="N" src="gt;fad">dálkkodeapmi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bearbeiding</re>
             <t pos="N">meannudus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">meannudannjuolggadus</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">meannudanrutiidna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">konsulteren</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="N" src="fad">meannudeapmi</t>
             <t pos="N" src="fad">gieđahallan</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">meannudeapmi</t>
+            <re>behandlingsregler, bearbeiding</re>
+            <t pos="N" src="fad">meannudannjuolggadus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>behandlingsrutine, bearbeiding</re>
+            <t pos="N" src="fad">meannudanrutiidna</t>
          </tg>
       </mg>
    </e>
