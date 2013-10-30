@@ -4469,25 +4469,33 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="6" mg_fad="5">
+   <e mg_all="6" mg_fad="5">
       <lg>
          <l pos="N">endring</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>forandring</re>
+            <re>endring man aktivt går inn for, med selvstendig aktør</re>
             <t pos="N" usage="vd" src="gt;fad">rievdadus</t>
             <t pos="N" usage="vd" src="gt;fad">rievdadeapmi</t>
             <t pos="N" src="fad">nuppástuhttin</t>
             <t pos="N" src="fad">nuppástus</t>
             <t pos="N" src="fad">nuppástupmi</t>
             <t pos="N" src="fad">earáhuhttin</t>
+            <xg>
+               <x>En endring av loven fordrer at flere instanser har saken ute til høring.</x>
+               <xt>Lága rievdadeapmi gáibida ahte eambbo ásahusat ožžot ášši gulaskuddamii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>hamskifte</re>
+            <re>naturlig eller selvdreven endring, uten selvstendig aktør</re>
             <t pos="N" src="fad">rievdan</t>
+            <xg>
+               <x>klimaendringer</x>
+               <xt>dálkkádatrievdamat</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5715,31 +5723,19 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="7" mg_fad="6">
+   <e mg_all="7" mg_fad="6">
       <lg>
          <l pos="N">overgrep</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>inngrep i rettigheter</re>
+            <t pos="N" src="fad">rihkkun</t>
+            <t pos="N" src="fad">vearredahku</t>
             <t pos="N" usage="vd">veahkaváldi</t>
             <t pos="N" src="gt;fad">veahkaválddálašvuohta</t>
             <t pos="N" src="fad">veahkaváldin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="N" src="fad">veahkaváldegeavaheapmi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>inngrep i rettigheter</re>
-            <t pos="N" src="fad">rihkkun</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="fad">vearredahku</t>
          </tg>
       </mg>
       <mg>
