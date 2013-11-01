@@ -7,10 +7,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">ovttaoaivilis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">ovttamielalaš</t>
          </tg>
       </mg>
@@ -22,10 +18,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" alt_str="elektronalaš" src="gt;fad">elektrovnnalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">elektronihkalaš</t>
          </tg>
       </mg>
@@ -35,21 +27,29 @@
          <l pos="A">første</l>
       </lg>
       <mg>
+      <mg>
          <tg xml:lang="sme">
+            <re>ordenstall</re>
+            <t pos="A" src="gt;fad">vuosttaš</t>
+            <t pos="A" usage="vd" src="gt;fad">vuosttas</t>
+            <xg>
+               <x>Elle går i første klasse.</x>
+               <xt>Elle vázzá vuosttaš luohkás.</xt>
+            </xg>
+         </tg>
+      </mg>
+         <tg xml:lang="sme">
+            <re>rekkefølge</re>
             <t pos="A" usage="vd">ovddemus</t>
             <t pos="A" usage="vd">ovddimus</t>
             <t pos="A" src="gt;fad">vuosttaš</t>
             <t pos="A" usage="vd" src="gt;fad">vuosttas</t>
             <t pos="A" usage="vd" src="gt;fad">vuosttamuš</t>
+            <t pos="A" src="fad">vuosttamus</t>
             <xg>
                <x>Jeg sitter på første rad.</x>
                <xt>Mun čohkkán ovddimus beaŋkkas.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">vuosttamus</t>
          </tg>
       </mg>
    </e>
@@ -60,10 +60,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd">árvvas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">utnolaš</t>
          </tg>
       </mg>
@@ -74,12 +70,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">ebmui</t>
+            <t pos="A" src="fad">fiinnis</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">fiinnis</t>
+            <re>om mennesker og dyr</re>
+            <t pos="A" usage="vd">ebmui</t>
          </tg>
       </mg>
    </e>
@@ -91,10 +88,6 @@
          <tg xml:lang="sme">
             <t pos="A" usage="vd">áddemeahttun</t>
             <t pos="A" usage="vd">áddetmeahttun</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">ipmirmeahttun</t>
          </tg>
       </mg>
@@ -106,10 +99,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" src="nj;fad">almmolaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">virggálaš</t>
          </tg>
       </mg>
@@ -121,10 +110,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">beaktil</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">álbmái</t>
          </tg>
       </mg>
@@ -136,10 +121,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" src="gt;fad">boahtteáigásaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">boahtteáiggediđolaš</t>
          </tg>
       </mg>
@@ -150,12 +131,18 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">báhkas</t>
             <t pos="A" usage="vd" src="nj;fad">liekkas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>meget varm</re>
+            <t pos="A" src="nj" usage="vd">báhkas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om mennesker og steder</re>
             <t pos="A" src="fad">liekkus</t>
          </tg>
       </mg>
@@ -168,15 +155,11 @@
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">dearvvašlaš</t>
             <t pos="A" usage="vd" src="nj;fad">dearvvaslaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">dearvvaš</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">viss</l>
       </lg>
@@ -207,10 +190,6 @@
             <t pos="A" src="nj" usage="vd">duihmi</t>
             <t pos="A" usage="vd" src="nj;fad">jalla</t>
             <t pos="A" usage="vd" src="nj;fad">doavki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">gáiggas</t>
          </tg>
       </mg>
@@ -224,13 +203,8 @@
             <t pos="A" usage="vd" src="nj;fad">dohkketmeahttun</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">dohkkemeahttun</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">alvorlig</l>
       </lg>
@@ -245,7 +219,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">underlig</l>
       </lg>
@@ -269,15 +243,11 @@
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">ealas</t>
             <t pos="A" usage="vd" src="nj;fad">virkui</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">ealaskas</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">kvikk</l>
       </lg>
@@ -293,7 +263,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">flittig</l>
       </lg>
@@ -310,7 +280,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">stygg</l>
       </lg>
@@ -326,7 +296,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">fæl</l>
       </lg>
@@ -341,7 +311,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">fin</l>
       </lg>
@@ -356,7 +326,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">fri</l>
       </lg>
@@ -373,7 +343,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">likegyldig</l>
       </lg>
