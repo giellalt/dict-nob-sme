@@ -2512,7 +2512,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>om sted</re>
+            <re>på eller fra hvilket sted</re>
             <t pos="Adv" src="nj" usage="vd">gos</t>
             <xg>
                <x>Hvor er du blitt operert?</x>
@@ -2526,11 +2526,29 @@
                <x>Hvor kommer du fra?</x>
                <xt>Gos boađát?</xt>
             </xg>
+            <xg>
+               <x>Dette er et område hvor barn leker.</x>
+               <xt>Dá lea guovlu gos mánát stohket.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re/>
+            <re>til hvilket sted</re>
+            <t pos="Adv" usage="vd">gosa</t>
+            <xg>
+               <x>Hvor tok han veien?</x>
+               <xt>Gosa son manai?</xt>
+            </xg>
+            <xg>
+               <x>De visste hvor de skulle.</x>
+               <xt>Sii dihte gosa galge.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som gradsadverb</re>
             <t pos="Adv" src="nj" usage="vd">man</t>
             <xg>
                <x>Hvor gammel er du?</x>
@@ -2544,7 +2562,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om plassering</re>
+            <re>på eller fra hvilken plassering</re>
             <t pos="Adv" src="nj" usage="vd">gokko</t>
             <t pos="Adv" src="nj" usage="vd">gonne</t>
             <xg>
@@ -2555,7 +2573,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re/>
+            <re>brukt spørrende: på eller fra hvilket sted</re>
             <t pos="Adv" src="nj" usage="vd">goal</t>
             <xg>
                <x>Hvor er sykkelen du har tenkt å selge?</x>
