@@ -570,22 +570,18 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="2" mg_fad="1">
+   <e mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">optimistisk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">movttet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">optimisttalaš</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">urolig</l>
       </lg>
@@ -601,7 +597,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">rett</l>
       </lg>
@@ -616,7 +612,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="2" mg_fad="1">
+   <e __mg_all="2" mg_fad="1">
       <lg>
          <l pos="A">kort</l>
       </lg>
@@ -637,11 +633,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>som angår utseende el. overflate</re>
             <t pos="A" usage="vd" src="nj;fad">olgguldas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>lenger ute</re>
             <t pos="A" src="fad">olggut</t>
          </tg>
       </mg>
@@ -653,10 +651,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd">ollislaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">ollesárvosaš</t>
          </tg>
       </mg>
@@ -668,10 +662,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">ovttageardán</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">oktageardán</t>
          </tg>
       </mg>
@@ -685,11 +675,6 @@
             <t pos="A" usage="vd" src="nj;fad">ođas</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">ođđalágan</t>
-         </tg>
-      </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
@@ -698,10 +683,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" src="gt;fad">ođđaáigásaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">ođđamállet</t>
          </tg>
       </mg>
