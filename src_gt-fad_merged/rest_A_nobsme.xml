@@ -624,26 +624,18 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">modig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">váibmui</t>
-            <t pos="A" src="nj" usage="vd">givas</t>
-            <t pos="A" usage="vd" src="nj;fad">jállu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">arvil</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>uredd</re>
             <t pos="A" src="fad">duostil</t>
+            <t pos="A" usage="vd" src="nj;fad">jállu</t>
+            <t pos="A" src="fad">arvil</t>
+            <t pos="A" src="nj" usage="vd">váibmui</t>
+            <t pos="A" src="nj" usage="vd">givas</t>
          </tg>
       </mg>
    </e>
@@ -670,13 +662,12 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="1">
+   <e mg_all="3" mg_fad="1">
       <lg>
          <l pos="A">lang</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>som har forholdsvis stor lengde; som har en viss lengde</re>
             <t pos="A" usage="vd" src="nj;fad">guhkki</t>
          </tg>
       </mg>
@@ -684,15 +675,15 @@
          <tg xml:lang="sme">
             <re>om mål</re>
             <t pos="Po" src="nj" usage="vd">guhku</t>
+            <t pos="A" src="fad">guhkkosaš</t>
             <xg>
                <x>Skrivet er 4 sider langt.</x>
                <xt>Čálus lea 4 siiddu guhku.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">guhkkosaš</t>
+            <xg>
+               <x>Vi har bygd et 90 km langt reinsperregjerde..</x>
+               <xt>Mii leat huksen 90 km guhkkosaš boazoáiddi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -744,13 +735,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">iešráđálaš</t>
             <t pos="A" usage="vd" src="gt;fad">iešheanalaš</t>
+            <t pos="A" usage="vd">iešráđálaš</t>
             <t pos="A" src="fad">iešbirgejeaddji</t>
+            <xg>
+               <x>selvstendig næringsdrivende</x>
+               <xt>iešheanalaš ealáhusdoalli</xt>
+            </xg>
+            <xg>
+               <x>selvstendig næringsdrivende</x>
+               <xt>iehčanas ealáhusdoalli</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>om barn, utviklet</re>
             <t pos="A" src="fad">searalaš</t>
          </tg>
       </mg>
