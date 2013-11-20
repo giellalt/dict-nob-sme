@@ -55,28 +55,21 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="3">
+   <e mg_all="4" mg_fad="3">
       <lg>
          <l pos="A">ensidig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>motsatt dobbelsidig</re>
             <t pos="A" usage="vd" src="gt;fad">ovttabealat</t>
+            <t pos="A" src="fad" alt_str="">ovttabeallásaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>lite variert</re>
             <t pos="A" src="fad">ovttageardán</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">ovttabeallásaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">ovttabealálaš</t>
          </tg>
       </mg>
    </e>
@@ -132,13 +125,21 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="1">
+   <e mg_all="4" mg_fad="1">
       <lg>
          <l pos="A">rik</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>om penger</re>
+            <re>som eier mye</re>
+            <t pos="A" usage="vd" src="nj;fad">rikkis</t>
+            <t pos="A" src="nj" usage="vd">jábálaš</t>
+            <t pos="A" src="nj" usage="vd">boandái</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som har mye penger</re>
             <t pos="A" src="nj" usage="vd">ruđalaš</t>
             <xg>
                <x>Ánne er en veldig rik kvinne.</x>
@@ -148,19 +149,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>velstående</re>
-            <t pos="A" src="nj" usage="vd">jábálaš</t>
-            <t pos="A" usage="vd" src="nj;fad">rikkis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>velstående</re>
-            <t pos="A" src="nj" usage="vd">boandái</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>fruktbar</re>
             <t pos="A" src="fad">šattolaš</t>
          </tg>
       </mg>
@@ -194,21 +183,28 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="1">
+   <e mg_all="4" mg_fad="1">
       <lg>
          <l pos="A">full</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">ollis</t>
+            <re>med maksimalt innhold, fylt</re>
             <t pos="Adv" src="nj" usage="vd">dievva</t>
-            <xg>
-               <x>Jeg jobber i full stilling.</x>
-               <xt>Mun barggan olles virggis.</xt>
-            </xg>
             <xg>
                <x>Skåla er full.</x>
                <xt>Lihtti lea dievva.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>fullstendig, komplett, hel</re>
+            <t pos="A" src="nj" usage="vd">ollis</t>
+            <t pos="A" src="fad">dievaslaš</t>
+            <xg>
+               <x>Jeg jobber i full stilling.</x>
+               <xt>Mun barggan olles virggis.</xt>
             </xg>
          </tg>
       </mg>
@@ -230,11 +226,6 @@
                <x>Han er full.</x>
                <xt>Son lea gárremiin.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">dievaslaš</t>
          </tg>
       </mg>
    </e>
@@ -260,22 +251,19 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">nødvendig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd" src="nj;fad">dárbbašlaš</t>
+            <re>som trengs</re>
+            <t pos="A" usage="vd" alt_str="dárbbalaš" src="nj;fad">dárbbašlaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">dárbbalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>uunngåelig</re>
             <t pos="A" src="fad">vealtameahttun</t>
          </tg>
       </mg>
@@ -345,59 +333,64 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">ulik</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>to muligheter</re>
+            <t pos="A">goappatlágan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>flere enn to muligheter</re>
+            <t pos="A" src="fad">iešguđetlágan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>forskjellig, annerledes</re>
             <t pos="A" src="nj" usage="vd">earálágan</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>spesiell</re>
             <t pos="A" src="fad">sierralágan</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">iešguđetlágan</t>
-         </tg>
-      </mg>
    </e>
-   <e __mg_all="6" mg_fad="5">
+   <e mg_all="6" mg_fad="5">
       <lg>
          <l pos="A">forskjellig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>annerledes</re>
             <t pos="A" src="nj" usage="vd">nuppelágan</t>
             <t pos="A" usage="vd" src="nj;fad">earálágan</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">sierranas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">sierralágan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">iežálágan</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>to muligheter</re>
             <t pos="A" src="fad">goabbatlágan</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>flere enn to muligheter</re>
             <t pos="A" src="fad">iešguđetlágan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>spesiell</re>
+            <t pos="A" src="fad">sierralágan</t>
+            <t pos="A" src="fad">iežálágan</t>
+            <t pos="A" src="fad">sierranas</t>
          </tg>
       </mg>
    </e>
