@@ -394,77 +394,72 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">rask</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">falli</t>
-            <t pos="A" usage="vd">valli</t>
+            <re>hurtig</re>
             <t pos="A" usage="vd" src="gt;fad">jođán</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">álššalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">johtil</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>sprek</re>
+            <t pos="A" usage="vd">falli</t>
+            <t pos="A" usage="vd">valli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>sunn</re>
+            <t pos="A" src="fad">álššalaš</t>
+         </tg>
+      </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">sentral</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd">guovddáš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">guovdil</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">guovddášlaš</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="5" mg_fad="4">
+   <e _mg_all="5" mg_fad="4">
       <lg>
          <l pos="A">dyktig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>flink</re>
+            <t pos="A" src="fad">čeahppi</t>
             <t pos="A" src="nj" usage="vd">návccalaš</t>
-            <t pos="A" src="nj" usage="vd">fávdnát</t>
             <t pos="A" src="nj" usage="vd">searalaš</t>
             <t pos="A" src="nj" usage="vd">stánddalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">ábas</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">čeahppi</t>
+            <re>dugelig</re>
+            <t pos="A" src="nj" usage="vd">fávdnát</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>flittig</re>
             <t pos="A" src="fad">ealjár</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>oppvakt</re>
             <t pos="A" src="fad">vitmat</t>
          </tg>
       </mg>
@@ -578,12 +573,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="1">
+   <e mg_all="3" mg_fad="1">
       <lg>
          <l pos="A">hel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>fullstendig</re>
             <t pos="A" src="nj" usage="vd">geažos</t>
             <t pos="A" usage="vd" src="nj;fad">ollis</t>
             <xg>
@@ -598,17 +594,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>ikke i stykker, uskadd</re>
+            <re>ikke i stykker</re>
+            <t pos="A" src="fad">oppa</t>
             <t pos="Adv" src="nj" usage="vd">obban</t>
             <xg>
                <x>Når man slakter, skal vommen tas hel og holden.</x>
                <xt>Go njuovada, de galgá čoavji váldot obban.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">oppa</t>
          </tg>
       </mg>
    </e>
@@ -650,6 +642,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>uredd</re>
             <t pos="A" src="fad">duostil</t>
          </tg>
       </mg>
