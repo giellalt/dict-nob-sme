@@ -729,7 +729,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">selvstendig</l>
       </lg>
@@ -765,22 +765,25 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">jevn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>plan, slett, flat</re>
             <t pos="A" src="nj" usage="vd">jalgat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>jevn i kantene; jevn i arbeide</re>
             <t pos="A" src="fad">jámmis</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>regelmessig</re>
             <t pos="A" src="fad">jeavddalaš</t>
          </tg>
       </mg>
@@ -948,45 +951,33 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e _mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">stødig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>om folk; skikkelig</re>
             <t pos="A" src="nj" usage="vd">stánddalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>som ikke vakler, fast</re>
             <t pos="A" src="fad">stargat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>pålitelig</re>
             <t pos="A" src="fad">luohttevaš</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="5" mg_fad="4">
+   <e mg_all="5" mg_fad="4">
       <lg>
          <l pos="A">rettferdig</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">vánhurskkis</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">njuolggalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">rehálaš</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">vuoiggalaš</t>
@@ -994,6 +985,15 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>religøst</re>
+            <t pos="A" src="nj" usage="vd">vánhurskkis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ærlig</re>
+            <t pos="A" src="fad">rehálaš</t>
+            <t pos="A" src="fad">njuolggalaš</t>
             <t pos="A" src="fad">rievttalaš</t>
          </tg>
       </mg>
