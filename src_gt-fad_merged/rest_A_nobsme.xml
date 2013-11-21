@@ -1026,24 +1026,24 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">positiv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>velvillig, bekreftende</re>
+            <t pos="A" src="fad">miehtemielat</t>
+            <t pos="A" src="fad">buorremielalaš</t>
             <t pos="A" usage="vd" alt_str="positivvalaš" src="gt;fad">positiivvalaš</t>
             <t pos="A" usage="vd" src="gt;fad">positiiva</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">miehtemielat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">buorremielalaš</t>
+            <re>større enn null</re>
+            <t pos="A" usage="vd" src="gt;fad">positiiva</t>
+            <t pos="A" usage="vd" alt_str="positivvalaš" src="gt;fad">positiivvalaš</t>
          </tg>
       </mg>
    </e>
@@ -1053,7 +1053,9 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>mindre enn null</re>
             <t pos="A" usage="vd" src="gt;fad">negatiiva</t>
+            <t pos="A" src="fad">negatiivvalaš</t>
          </tg>
       </mg>
       <mg>
@@ -1110,67 +1112,56 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="7" mg_fad="6">
+   <e mg_all="7" mg_fad="6">
       <lg>
          <l pos="A">nasjonal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>som hører til et land</re>
             <t pos="A" usage="vd" alt_str="našunála" src="gt;fad">nationála</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="A" alt_str="nášuvnnalaš" src="fad">našuvnnalaš</t>
+            <t pos="A" alt_str="nášunálalaš;našunálalaš" src="fad">nationálalaš</t>
             <t pos="A" src="fad">sisriikkalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">riikkaviidosaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">riikkagottálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" alt_str="nášuvnnalaš" src="fad">našuvnnalaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>som hører til et folk</re>
+            <t pos="A" usage="vd" alt_str="našunála" src="gt;fad">nationála</t>
             <t pos="A" src="fad">álbmotlaš</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="A" alt_str="nášuvnnalaš" src="fad">našuvnnalaš</t>
             <t pos="A" alt_str="nášunálalaš;našunálalaš" src="fad">nationálalaš</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">rimelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>rettmessig</re>
             <t pos="A" usage="vd" src="gt;fad">govttolaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">muttát</t>
+            <re>billig</re>
+            <t pos="A" src="fad">hálbi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">hálbi</t>
+            <re>passende</re>
+            <re></re>
+            <t pos="A" src="fad">muttát</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">uavhengig</l>
       </lg>
@@ -1181,11 +1172,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>upartisk</re>
             <t pos="A" src="fad">bealátkeahtes</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>egenrådig</re>
             <t pos="A" src="fad">iešráđálaš</t>
          </tg>
       </mg>
@@ -1393,7 +1386,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">psykisk</l>
       </lg>
