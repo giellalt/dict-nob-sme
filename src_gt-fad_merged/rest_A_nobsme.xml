@@ -460,11 +460,13 @@
          <tg xml:lang="sme">
             <re>dårlig</re>
             <t pos="A" src="nj" usage="vd">heittot</t>
+            <t pos="A" src="fad">fuotni</t>
+            <t pos="A" src="fad">headju</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>liten kraft, slapp</re>
+            <re>mild</re>
             <t pos="A" usage="vd" src="nj;fad">láivi</t>
             <xg>
                <x>Vinden er svak.</x>
@@ -474,21 +476,22 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>veik, skrøpelig</re>
+            <re>kraftløs</re>
             <t pos="A" usage="vd" src="nj;fad">geahnoheapme</t>
             <t pos="A" usage="vd" src="nj;fad">návccaheapme</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om følelser </re>
+            <re>om følelser</re>
             <t pos="A" src="nj" usage="vd">njuoras</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om smak </re>
+            <re>om smak</re>
             <t pos="A" src="nj" usage="vd">goiddas</t>
+            <t pos="A" usage="vd" src="nj;fad">láivi</t>
             <xg>
                <x>Kaffen er svak.</x>
                <xt>Gáffe lea goiddas.</xt>
@@ -497,7 +500,20 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>skrøpelig </re>
+            <re>skjør</re>
+            <t pos="A" src="fad">rašši</t>
+            <t pos="A" src="fad">hearki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lite flink</re>
+            <t pos="A" src="fad">čuorbi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>skrøpelig, veik</re>
             <t pos="A" src="nj" usage="vd">šiervi</t>
          </tg>
       </mg>
@@ -505,32 +521,6 @@
          <tg xml:lang="sme">
             <re>stakkarlig</re>
             <t pos="A" src="nj" usage="vd">njuolvi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">headju</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">hearki</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">rašši</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">fuotni</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>lite flink</re>
-            <t pos="A" src="fad">čuorbi</t>
          </tg>
       </mg>
    </e>
