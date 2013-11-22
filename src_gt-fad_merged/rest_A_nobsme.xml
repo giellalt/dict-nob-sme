@@ -263,7 +263,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="1">
+   <e mg_all="4" mg_fad="1">
       <lg>
          <l pos="A">sikker</l>
       </lg>
@@ -271,18 +271,12 @@
          <tg xml:lang="sme">
             <re>overbevist</re>
             <t pos="A" src="nj" usage="vd">vissis</t>
+            <t pos="A" src="nj" usage="vd">dárki</t>
             <t pos="A" usage="vd" src="nj;fad">sihkar</t>
             <xg>
                <x>Jeg er sikker på at jorda er rund.</x>
                <xt>Mun lean vissis ahte máilbmi lea jorbbas.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>stø</re>
-            <t pos="A" src="nj" usage="vd">dárki</t>
-            <t pos="A" usage="vd" src="nj;fad">sihkar</t>
          </tg>
       </mg>
       <mg>
@@ -1067,31 +1061,20 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="A">usikker</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>personlig, utrygg</re>
             <t pos="A" usage="vd" src="gt;fad">eahpesihkar</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>ubesluttsom</re>
-            <t pos="A" usage="vd" src="gt;fad">eahpesihkar</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>utrygg</re>
-            <t pos="A" src="fad">dorvvuheapme</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="A" src="fad">eahpevissis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>mismodig, motløs</re>
+            <t pos="A" src="fad">dorvvuheapme</t>
          </tg>
       </mg>
    </e>
