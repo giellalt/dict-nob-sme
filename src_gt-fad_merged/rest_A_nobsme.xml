@@ -452,25 +452,41 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="12" mg_fad="5">
+   <e mg_all="12" mg_fad="5">
       <lg>
          <l pos="A">svak</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>dårlig</re>
+            <re>dårlig, skrøpelig</re>
             <t pos="A" src="nj" usage="vd">heittot</t>
-            <t pos="A" src="fad">fuotni</t>
             <t pos="A" src="fad">headju</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>mild</re>
+            <re>dårlig, ille</re>
+            <t pos="A" src="fad">fuotni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om vind, medisin</re>
             <t pos="A" usage="vd" src="nj;fad">láivi</t>
             <xg>
                <x>Vinden er svak.</x>
                <xt>Biegga lea láivi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om kaffe</re>
+            <t pos="A" usage="vd" src="nj;fad">láivi</t>
+            <t pos="A" src="nj" usage="vd">goiddas</t>
+            <xg>
+               <x>Kaffen er svak.</x>
+               <xt>Gáffe lea goiddas.</xt>
             </xg>
          </tg>
       </mg>
@@ -483,19 +499,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om følelser</re>
+            <re>bløt, ennå ikke trenet</re>
             <t pos="A" src="nj" usage="vd">njuoras</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om smak</re>
-            <t pos="A" src="nj" usage="vd">goiddas</t>
-            <t pos="A" usage="vd" src="nj;fad">láivi</t>
-            <xg>
-               <x>Kaffen er svak.</x>
-               <xt>Gáffe lea goiddas.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -513,14 +518,9 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>skrøpelig, veik</re>
+            <re>veik; om mennesker og dyr</re>
             <t pos="A" src="nj" usage="vd">šiervi</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>stakkarlig</re>
-            <t pos="A" src="nj" usage="vd">njuolvi</t>
+            <t pos="A" src="nj" usage="vd">njuolvvas</t>
          </tg>
       </mg>
    </e>
@@ -798,20 +798,24 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="6" mg_fad="5">
+   <e mg_all="6" mg_fad="5">
       <lg>
          <l pos="A">enkel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>usammensatt; naturlig, liketil, beskjeden</re>
+            <re>usammensatt, naturlig, liketil</re>
             <t pos="A" usage="vd" src="gt;fad">eaŋkil</t>
             <t pos="A" src="fad">eaŋkal</t>
             <t pos="A" usage="vd" src="gt;fad">oktageardán</t>
             <t pos="A" src="fad">ovttageardán</t>
             <xg>
-               <x>Folk kan kreve rettigheter enten som enkeltmenneske eller som gruppe.</x>
-               <xt>Olbmot sáhttet gáibidit vuoigatvuođaid juogo eaŋkil olmmožin dahje joavkun.</xt>
+               <x>enkel måte</x>
+               <xt>eaŋkalis vuohki</xt>
+            </xg>
+            <xg>
+               <x>enkel informasjon</x>
+               <xt>ovttageardánis dieđut</xt>
             </xg>
          </tg>
       </mg>
@@ -819,7 +823,16 @@
          <tg xml:lang="sme">
             <re>lett, lettfattelig</re>
             <t pos="A" src="fad">álki</t>
-            <t pos="A" src="fad">geahppat</t>
+            <xg>
+               <x>enkel jobb</x>
+               <xt>álkes bargu</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som adverb: enkelt</re>
+            <t pos="Adv" src="fad">geahppasit</t>
          </tg>
       </mg>
    </e>
