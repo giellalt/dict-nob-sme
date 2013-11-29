@@ -475,8 +475,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>langt framskreden</re>
-            <t pos="A" src="fad">maŋŋit</t>
+            <re>forsinket</re>
+            <t pos="Adv" src="fad">maŋŋit</t>
+            <xg>
+               <x>komme for seint</x>
+               <xt>boahtit menddo maŋŋit</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -519,13 +523,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>kjemi, som har syreegenskaper</re>
+            <re>kjemi</re>
             <t pos="A" src="nj" usage="vd">suvrris</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om melk, blåsur</re>
+            <re>om melk</re>
             <t pos="A" src="nj" usage="vd">jiesas</t>
          </tg>
       </mg>
@@ -888,7 +892,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>kranglevoren; utilbørlig</re>
+            <re>kranglevoren, utilbørlig</re>
             <t pos="A" src="nj" usage="vd">árvvoheapme</t>
          </tg>
       </mg>
@@ -1030,11 +1034,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" usage="vd">eaŋgals</t>
             <t pos="A" usage="vd">eŋgelas</t>
+            <t pos="A" usage="vd">eaŋgals</t>
             <xg>
                <x>Jeg synes det er vanskelig å lære engelske sanger.</x>
-               <xt>Mu mielas lea váttis oahppat eaŋgals lávlagiid.</xt>
+               <xt>Mu mielas lea váttis oahppat eŋgelas lávlagiid.</xt>
             </xg>
          </tg>
       </mg>
@@ -1117,7 +1121,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>innefor rekkevidde</re>
+            <re>innenfor rekkevidde</re>
             <t pos="Adv">olámuttos</t>
          </tg>
       </mg>
@@ -1315,7 +1319,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>som følger nøye med</re>
+            <re>våken</re>
             <t pos="A">áicil</t>
          </tg>
       </mg>
@@ -1376,7 +1380,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>grunnleggende, som første ledd i sammensetninger</re>
+            <re>grunnleggende: som første ledd i sammensetninger</re>
             <t pos="N">vuođđo-</t>
          </tg>
       </mg>
@@ -1464,11 +1468,6 @@
             <t pos="A">jurddalaš</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="fad">ideála</t>
-         </tg>
-      </mg>
    </e>
    <e mg_all="2" mg_fad="1">
       <lg>
@@ -1510,13 +1509,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>uten slutt</re>
+            <re>evig</re>
             <t pos="A">agálaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>evig</re>
+            <re>endeløs</re>
             <t pos="A" src="fad">nohkameahttun</t>
          </tg>
       </mg>
@@ -1538,7 +1537,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>som ikke tar part</re>
+            <re>upartisk</re>
             <t pos="A" src="gt;fad">bealátkeahtes</t>
          </tg>
       </mg>
@@ -1727,13 +1726,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>ikke rett; skakk, skrå</re>
+            <re>skakk, skrå, ikke rett</re>
             <t pos="Adv">botnjut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>som attributt</re>
+            <re>som første ledd i sammensetning</re>
             <t pos="A" alt_str="bonju" src="fad">bonju-</t>
             <xg>
                <x>Dette gir et skjevt bilde av situasjonen.</x>
