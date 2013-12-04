@@ -1101,25 +1101,27 @@
          <l pos="V">nekte</l>
       </lg>
       <mg>
-         <tg re="avstå" xml:lang="sme">
+         <tg xml:lang="sme">
             <re>benekte</re>
             <t pos="V" src="nj" usage="vd">biehtadit</t>
-            <t pos="V" usage="vd" src="nj;fad">biehttalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="si nei" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">gieldit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="prøve å hindre" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">riidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">gildit</t>
+            <re>benekte, sterkere enn biehtadit</re>
+            <t pos="V" usage="vd" src="nj;fad">biehttalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>forby, nekte en noe</re>
+            <t pos="V" src="nj" usage="vd">gieldit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>prøve å hindre</re>
+            <t pos="V" src="nj" usage="vd">riidit</t>
          </tg>
       </mg>
    </e>
@@ -1128,18 +1130,21 @@
          <l pos="V">klare</l>
       </lg>
       <mg>
-         <tg re="mestre noe" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>mestre noe</re>
             <t pos="V" usage="vd" src="nj;fad">nagodit</t>
             <t pos="V" usage="vd" src="nj;fad">nagadit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="klare å hanskes med, fysisk" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>fysisk, klare å hanskes med</re>
             <t pos="V" src="nj" usage="vd">bihtit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>klare seg</re>
             <t pos="V" src="fad">birget</t>
          </tg>
       </mg>
@@ -1157,11 +1162,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bli ødelagt</re>
             <t pos="V" src="fad">billašuvvat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>skade</re>
             <t pos="V" src="fad">vahágahttit</t>
          </tg>
       </mg>
@@ -1177,17 +1184,19 @@
          </tg>
       </mg>
       <mg>
-         <tg re="bestå eller overleve" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>bestå eller overleve</re>
             <t pos="V" src="nj" usage="vd">ceavzit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>frisk eller uskadet</re>
             <t pos="V" src="fad">riibat</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="4" mg_fad="1">
+   <e __mg_all="4" mg_fad="1">
       <lg>
          <l pos="V">stanse</l>
       </lg>
@@ -1219,7 +1228,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="6" mg_fad="2">
+   <e __mg_all="6" mg_fad="2">
       <lg>
          <l pos="V">be</l>
       </lg>
@@ -1227,6 +1236,7 @@
          <tg xml:lang="sme">
             <re>anmodning</re>
             <t pos="V" usage="vd" src="nj;fad">bivdit</t>
+            <t pos="V" src="fad">dáhttut</t>
             <xg>
                <x>Jeg ber deg dra nå.</x>
                <xt>Mun bivddán du vuolgit dál.</xt>
@@ -1235,13 +1245,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>en kommando</re>
+            <re>kommando</re>
             <t pos="V" usage="vd" src="nj;fad">gohččut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om bønn</re>
+            <re>holde bønn</re>
             <t pos="V" src="nj" usage="vd">rohkadallat</t>
          </tg>
       </mg>
@@ -1262,7 +1272,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="6" mg_fad="5">
+   <e __mg_all="6" mg_fad="5">
       <lg>
          <l pos="V">spre</l>
       </lg>
@@ -1298,7 +1308,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="8" mg_fad="5">
+   <e __mg_all="8" mg_fad="5">
       <lg>
          <l pos="V">komme</l>
       </lg>
@@ -1351,7 +1361,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="6" mg_fad="2">
+   <e __mg_all="6" mg_fad="2">
       <lg>
          <l pos="V">plukke</l>
       </lg>
@@ -1381,28 +1391,30 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>om bær</re>
             <t pos="V" src="fad">murjet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>om moltebær</re>
             <t pos="V" src="fad">lubmet</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="7" mg_fad="1">
+   <e __mg_all="7" mg_fad="1">
       <lg>
          <l pos="V">bryte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>bryte lover, avtaler eller regler</re>
+            <re>lover, avtaler eller regler</re>
             <t pos="V" usage="vd" src="nj;fad">rihkkut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>bryte kommunikasjon</re>
+            <re>kommunikasjon</re>
             <t pos="V" usage="vd" src="nj;fad">botket</t>
             <xg>
                <x>Foreninga vil bryte kontakten med fylkespartiet sitt.</x>
@@ -1440,7 +1452,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="1">
+   <e __mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">vri</l>
       </lg>
@@ -1470,7 +1482,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="6" mg_fad="1">
+   <e __mg_all="6" mg_fad="1">
       <lg>
          <l pos="V">stikke</l>
       </lg>
@@ -1513,7 +1525,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="4" mg_fad="1">
+   <e __mg_all="4" mg_fad="1">
       <lg>
          <l pos="V">påvirke</l>
       </lg>
@@ -1563,7 +1575,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="5" mg_fad="1">
+   <e __mg_all="5" mg_fad="1">
       <lg>
          <l pos="V">kaste</l>
       </lg>
@@ -1593,11 +1605,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>kaste lasso</re>
             <t pos="V" src="fad">njoarostit</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="4" mg_fad="3">
+   <e __mg_all="4" mg_fad="3">
       <lg>
          <l pos="V">springe</l>
       </lg>
@@ -1622,7 +1635,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="6" mg_fad="4">
+   <e __mg_all="6" mg_fad="4">
       <lg>
          <l pos="V">si</l>
       </lg>
@@ -1666,7 +1679,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">uttale</l>
       </lg>
@@ -1690,7 +1703,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="5" mg_fad="1">
+   <e __mg_all="5" mg_fad="1">
       <lg>
          <l pos="V">klype</l>
       </lg>
@@ -1724,7 +1737,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="5" mg_fad="3">
+   <e __mg_all="5" mg_fad="3">
       <lg>
          <l pos="V">påpeke</l>
       </lg>
@@ -1756,7 +1769,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="1">
+   <e __mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">riste</l>
       </lg>
@@ -1783,7 +1796,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="5" mg_fad="1">
+   <e __mg_all="5" mg_fad="1">
       <lg>
          <l pos="V">trykke</l>
       </lg>
@@ -1816,7 +1829,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">treffe</l>
       </lg>
@@ -1844,7 +1857,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="1">
+   <e __mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">møtes</l>
       </lg>
@@ -1870,7 +1883,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">diskutere</l>
       </lg>
@@ -1891,7 +1904,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">eksportere</l>
       </lg>
@@ -1911,7 +1924,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">kjenne</l>
       </lg>
@@ -1935,7 +1948,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="1">
+   <e __mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">lage</l>
       </lg>
@@ -1956,7 +1969,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="6" mg_fad="5">
+   <e __mg_all="6" mg_fad="5">
       <lg>
          <l pos="V">undergrave</l>
       </lg>
@@ -1991,7 +2004,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">skje</l>
       </lg>
@@ -2011,7 +2024,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">trampe</l>
       </lg>
@@ -2031,7 +2044,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">stabilisere</l>
       </lg>
@@ -2047,11 +2060,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bli stabilisert</re>
             <t pos="V" alt_str="stáđásmit" src="fad">stáđásmuvvat</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">skilles</l>
       </lg>
