@@ -3638,16 +3638,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>avgrense</re>
             <t pos="V" usage="vd" src="gt;fad">ráddjet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>innsnevre</re>
             <t pos="V" src="fad">gáržudit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">gáržžidit</t>
          </tg>
       </mg>
@@ -3658,31 +3656,43 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>ta vekk</re>
             <t pos="V" usage="vd" src="nj;fad">sihkkut</t>
+            <t pos="V" src="fad">jávkadit</t>
             <xg>
-               <x>Jeg skal stryke ut navnet ditt på denne lista.</x>
+               <x>Jeg skal fjerne navnet ditt fra denne lista.</x>
                <xt>Mun áiggun sihkkut du nama dán listtus.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">jávkadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>miste</re>
             <t pos="V" src="fad">manahit</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="8" mg_fad="7">
+   <e __mg_all="8" mg_fad="7">
       <lg>
          <l pos="V">skape</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>la oppstå</re>
             <t pos="V" src="nj" usage="vd">sivdnidit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lage</re>
+            <t pos="V" src="fad">ráhkadit</t>
+            <t pos="V" src="fad">duddjot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>forme</re>
+            <t pos="V" src="fad">hábmet</t>
          </tg>
       </mg>
       <mg>
@@ -3702,66 +3712,48 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">ráhkadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">bohciidit</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">duddjot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">hábmet</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_all="5" mg_fad="4">
+   <e __mg_all="5" mg_fad="4">
       <lg>
          <l pos="V">kjempe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>slåss</re>
             <t pos="V" usage="vd" src="nj;fad">soahtat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">rahčat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">doarrut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">čuolahit</t>
+            <re>streve</re>
+            <t pos="V" src="fad">rahčat</t>
+            <t pos="V" src="fad">dáistalit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">dáistalit</t>
+            <re>kjempe for: med beale</re>
+            <t pos="V" src="fad">čuolahit</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">plassere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>anbringe</re>
             <t pos="V" usage="vd">stellet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>sette</re>
             <t pos="V" src="fad">bidjat</t>
          </tg>
       </mg>
@@ -3778,15 +3770,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd" src="nj;fad">suodjalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">gáhttet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>frede</re>
             <t pos="V" src="fad">ráfáidahttit</t>
          </tg>
       </mg>
@@ -3798,35 +3787,35 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd" src="gt;fad">vajálduhttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">vajáldahttit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>glemmes</re>
             <t pos="V" src="fad">vajálduvvat</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="5" mg_fad="4">
+   <e __mg_all="5" mg_fad="4">
       <lg>
          <l pos="V">strekke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>tøye</re>
             <t pos="V" usage="vd" src="nj;fad">vanahit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>strekke seg flere ganger</re>
             <t pos="V" src="fad">vakŋut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>strekke til, rekke</re>
             <t pos="V" src="fad">ollit</t>
          </tg>
       </mg>
@@ -3837,11 +3826,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>strekke seg; strekkes</re>
             <t pos="V" src="fad">fatnat</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="1">
+   <e __mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">vente</l>
       </lg>
@@ -3868,21 +3858,25 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>vide ut</re>
             <t pos="V" usage="vd" src="nj;fad">viiddidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>gjøre bedre</re>
             <t pos="V" src="fad">buoredit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>gjøre større</re>
             <t pos="V" src="fad">stuoridit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>utvides</re>
             <t pos="V" src="fad">viidánit</t>
          </tg>
       </mg>
@@ -3893,17 +3887,20 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>la se</re>
             <t pos="V" usage="vd" src="nj;fad">čájehit</t>
             <t pos="V" usage="vd" src="nj;fad">vuosehit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>peke ut</re>
             <t pos="V" src="fad">čujuhit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>vise fram</re>
             <t pos="V" src="fad">čájáhallat</t>
          </tg>
       </mg>
@@ -3917,16 +3914,6 @@
             <t pos="V" usage="vd" src="nj;fad">válljet</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">mieđihit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">reastaluvvat</t>
-         </tg>
-      </mg>
    </e>
    <e mg_all="3" mg_fad="2">
       <lg>
@@ -3934,37 +3921,26 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>bruke, dra fordeler av: med komitiativ</re>
             <t pos="V" usage="vd" src="gt;fad">ávkkástallat</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">bohčit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">ávkkuhit</t>
-         </tg>
-      </mg>
    </e>
-   <e mg_all="3" mg_fad="1">
+   <e __mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">anklage</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>tiltale</re>
             <t pos="V" src="nj" usage="vd">váidit</t>
             <t pos="V" src="nj" usage="vd">guoddalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">áššáskuhttit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>beskylde</re>
             <t pos="V" src="fad">sivahallat</t>
          </tg>
       </mg>
@@ -3980,11 +3956,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>begynne å gråte</re>
             <t pos="V" src="fad">čirrot</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>felle tårer</re>
             <t pos="V" src="fad">ganjaldit</t>
          </tg>
       </mg>
@@ -3995,31 +3973,26 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>bringe sammen</re>
             <t pos="V" usage="vd" src="nj;fad">čohkket</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>plukke sammen</re>
             <t pos="V" src="fad">čoaggit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>samles</re>
             <t pos="V" src="fad">čoggot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">čoagganit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">čoahkkanit</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">markere</l>
       </lg>
@@ -4030,11 +4003,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>feire</re>
             <t pos="V" src="fad">ávvudit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>vise</re>
             <t pos="V" src="fad">čalmmustahttit</t>
          </tg>
       </mg>
@@ -4045,37 +4020,34 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>lage knute</re>
             <t pos="V" src="nj" usage="vd">čuolbmadit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">gođđit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>binde</re>
             <t pos="V" src="fad">čatnat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bindes</re>
             <t pos="V" src="fad">čadnot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">čatnasit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>forenes</re>
             <t pos="V" src="fad">laktásit</t>
+            <t pos="V" src="fad">laktašuvvat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">laktašuvvat</t>
+            <re>fiskegarn</re>
+            <t pos="V" src="nj" usage="vd">gođđit</t>
          </tg>
       </mg>
    </e>
@@ -4085,17 +4057,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">čuovgat</t>
+            <re>kaste lys på</re>
             <t pos="V" usage="vd" src="nj;fad">čuvget</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>kaste lys over, overført</re>
             <t pos="V" src="fad">čalmmustahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">fuomášuhttit</t>
          </tg>
       </mg>
