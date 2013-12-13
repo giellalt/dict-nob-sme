@@ -4902,7 +4902,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="4" mg_fad="3">
+   <e __mg_all="4" mg_fad="3">
       <lg>
          <l pos="V">justere</l>
       </lg>
@@ -4924,13 +4924,13 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="4" mg_fad="3">
+   <e __mg_all="4" mg_fad="3">
       <lg>
          <l pos="V">stimulere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">árvvosmahttit</t>
+            <t pos="V">arvvosmahttit</t>
          </tg>
       </mg>
       <mg>
@@ -4949,7 +4949,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="5" mg_fad="4">
+   <e __mg_all="5" mg_fad="4">
       <lg>
          <l pos="V">drøfte</l>
       </lg>
@@ -4976,7 +4976,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">identifisere</l>
       </lg>
@@ -5003,20 +5003,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="gt;fad">vuođuštit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">ákkastallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">ákkastit</t>
          </tg>
       </mg>
    </e>
-   <e mg_all="8" mg_fad="7">
+   <e __mg_all="8" mg_fad="7">
       <lg>
          <l pos="V">integrere</l>
       </lg>
@@ -5061,7 +5053,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="4" mg_fad="3">
+   <e __mg_all="4" mg_fad="3">
       <lg>
          <l pos="V">presisere</l>
       </lg>
@@ -5086,7 +5078,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">dempe</l>
       </lg>
@@ -5107,7 +5099,7 @@
          </tg>
       </mg>
    </e>
-   <e mg_all="3" mg_fad="2">
+   <e __mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">isolere</l>
       </lg>
@@ -5120,10 +5112,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="fad">sirret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">isoleret</t>
          </tg>
       </mg>
@@ -5135,16 +5123,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="gt;fad">háldet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">disponeret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">hovdet</t>
          </tg>
       </mg>
    </e>
@@ -5155,15 +5134,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="gt;fad">álkidahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">álkidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">álkkásmahttit</t>
          </tg>
       </mg>
