@@ -1,34 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">nå</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">ollit</t>
-            <t pos="V" src="nj" usage="vd">buvttihit</t>
-            <t pos="V" src="nj" usage="vd">noddet</t>
+            <re>få tak i</re>
             <t pos="V" usage="vd" src="nj;fad">olahit</t>
+            <xg>
+               <x>Kan du nå osten?</x>
+               <xt>Olahatgo vuosttá?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>rekke</re>
+            <re>oppnå</re>
+            <t pos="V" usage="vd" src="nj;fad">olahit</t>
             <t pos="V" src="fad">joksat</t>
             <t pos="V" src="fad">juksat</t>
+            <xg>
+               <x>Modellen inneholder de midlene som skal til for å nå målet.</x>
+               <xt>Modeallas leat ávdnasat maiguin galggaše olahit mihtuid.</xt>
+            </xg>
+            <xg>
+               <x>De to sentrale virkemidlene for å nå de reindriftspolitiske målene er reindriftsloven og reindriftsavtalen.</x>
+               <xt>Dat guokte guovddáš gaskaoami mainna galggašii juksat boazodoallopolitihkalaš mihtuid leat boazodoalloláhka ja boazodoallošiehtadus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>strekke seg</re>
+            <t pos="V" src="nj" usage="vd">ollit</t>
+            <xg>
+               <x>Tømmerstokken når ikke over elva.</x>
+               <xt>Hirsa ii ole joga rastá.</xt>
+            </xg>
+            <xg>
+               <x>Beltet når rundt livet.</x>
+               <xt>Boagán ollá čoavjji birra.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>nå igjen, rekke</re>
+            <t pos="V" src="fad">joksat</t>
+            <t pos="V" src="fad">juksat</t>
+            <xg>
+               <x>Nå bussen.</x>
+               <xt>Joksat busse.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>nå frem, vinne frem</re>
+            <t pos="V" src="nj" usage="vd">buvttihit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>få tid til, rekke</re>
+            <t pos="V" src="nj" usage="vd">noddet</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">eie</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="gt;fad">eaiggáduššat</t>
+            <t pos="V" usage="vd" src="gt;fad" alt_str="eaiggádit">eaiggáduššat</t>
             <t pos="V" src="fad">oamastit</t>
-            <t pos="V" src="fad">eaiggádit</t>
          </tg>
       </mg>
    </e>
@@ -87,7 +134,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="5" mg_fad="4">
+   <e mg_all="5" mg_fad="4">
       <lg>
          <l pos="V">følge</l>
       </lg>
@@ -259,29 +306,38 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="12" mg_fad="1">
+   <e mg_all="12" mg_fad="1">
       <lg>
          <l pos="V">slå</l>
       </lg>
       <mg>
-         <tg re="fysisk slag eller vinne over noen" xml:lang="sme">
-            <re>en gang</re>
+         <tg xml:lang="sme">
+            <re>gi slag</re>
             <t pos="V" usage="vd" src="nj;fad">časkit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="slå f.eks i spiker" xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">dearpat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="slå flere ganger" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>gi slag flere ganger</re>
             <t pos="V" src="nj" usage="vd">huškut</t>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme">
+            <re>beseire</re>
+            <t pos="V" usage="vd" src="nj;fad">časkit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>slå med redskap</re>
+            <t pos="V" src="nj" usage="vd">dearpat</t>
+         </tg>
+      </mg>
+      <mg>
          <tg re="banke" xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">cábmit</t>
+            <re>slå, jule, banke</re>
+            <t pos="V" usage="vd" src="nj;fad" alt_str="cápmit">cábmit</t>
             <xg>
                <x>Vi må slå sennagresset mot spikerfjøl, for å myke de opp.</x>
                <xt>Gámasuinniid ferte cábmit spihkárfielluin, vai dipmet.</xt>
@@ -289,7 +345,8 @@
          </tg>
       </mg>
       <mg>
-         <tg re="applaudere" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>applaudere</re>
             <t pos="V" src="nj" usage="vd">speažžut</t>
             <xg>
                <x/>
@@ -298,12 +355,14 @@
          </tg>
       </mg>
       <mg>
-         <tg re="slå en gang" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>gi slag en gang</re>
             <t pos="V" src="nj" usage="vd">huškkastit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="hjerteslag" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>hjerteslag</re>
             <t pos="V" src="nj" usage="vd">ravkit</t>
             <xg>
                <x>Hjertet slår i brystet.</x>
@@ -312,29 +371,27 @@
          </tg>
       </mg>
       <mg>
-         <tg re="garve, berede eller hogge" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>slå eller hamre svært høylydt</re>
             <t pos="V" src="nj" usage="vd">meaidit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="slå ut/helle ut en gang" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>slå ut en gang</re>
             <t pos="V" src="nj" usage="vd">šávget</t>
          </tg>
       </mg>
       <mg>
-         <tg re="slå ut store mengder" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>slå ut store mengder</re>
             <t pos="V" src="nj" usage="vd">šávgut</t>
          </tg>
       </mg>
       <mg>
-         <tg re="slå så det smeller, for eksempel innsiden av en pesk"
-             xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">roaškut</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">cápmit</t>
+            <re>slå så det smeller</re>
+            <t pos="V" src="nj" usage="vd">roaškut</t>
          </tg>
       </mg>
    </e>
@@ -363,13 +420,15 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="7" mg_fad="6">
+   <e mg_all="7" mg_fad="6">
       <lg>
          <l pos="V">skade</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>beskadige</re>
             <t pos="V" usage="vd" src="gt;fad">vahágahttit</t>
+            <t pos="V" src="fad">vaháguhttit</t>
             <xg>
                <x>Mye elg kommer i jakttida denne veien og skader vinterbeitet her voldsomt.</x>
                <xt>Ollu ealggat bohtet bivdoáiggis dán guvlui ja vahágahttet sakka dálveorohagaid dáppe.</xt>
@@ -378,57 +437,55 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bli skadet, forulykke</re>
             <t pos="V" src="fad">roasmmuhuvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">roasmmohuvvat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>ødelegge</re>
             <t pos="V" src="fad">bilidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bli skadet, invalidiseres</re>
             <t pos="V" src="fad">lápmašuvvat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">vaháguhttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>såre hardt</re>
             <t pos="V" src="fad">hávvudit</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="1">
+   <e mg_all="4" mg_fad="1">
       <lg>
          <l pos="V">presse</l>
       </lg>
       <mg>
-         <tg re="fysisk" xml:lang="sme">
+         <tg xml:lang="sme">
             <re>trykke</re>
             <t pos="V" src="nj" usage="vd">deaddit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="sosialt" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>tvinge seg på</re>
             <t pos="V" usage="vd" src="nj;fad">bahkket</t>
          </tg>
       </mg>
       <mg>
-         <tg re="mentalt" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>øve trykk på</re>
             <t pos="V" usage="vd" src="nj;fad">vuortnuhit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>tvinge</re>
             <t pos="V" src="fad">bágget</t>
          </tg>
       </mg>
@@ -463,131 +520,122 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="7" mg_fad="2">
+   <e mg_all="7" mg_fad="2">
       <lg>
          <l pos="V">åpne</l>
       </lg>
       <mg>
          <tg re="" xml:lang="sme">
+            <re>gjøre åpen</re>
             <t pos="V" usage="vd" src="gt;fad">rahpat</t>
          </tg>
       </mg>
       <mg>
          <tg re="" xml:lang="sme">
+            <re>gjøre åpen, en gang</re>
             <t pos="V" usage="vd">rabastit</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme"
-             re="Åpne opp noe som kun kan åpnes i den ene siden. Flere ganger.">
-            <t pos="V" usage="vd" src="gt;fad">leahkkut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme"
-             re="Åpne opp noe som kun kan åpnes i den ene siden. En gang.">
-            <t pos="V" usage="vd">leahkastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="Åpne noe fort." xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>gjøre åpen, fort</re>
             <t pos="V" usage="vd">rabestit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">rahpasit</t>
+            <re>Åpne opp noe som kun kan åpnes i den ene siden, flere ganger</re>
+            <t pos="V" usage="vd" src="gt;fad">leahkkut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">rahppasit</t>
+            <re>Åpne opp noe som kun kan åpnes i den ene siden, en gang</re>
+            <t pos="V" usage="vd">leahkastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>åpnes</re>
+            <t pos="V" src="fad" alt_str="rahppasit">rahpasit</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="5" mg_fad="2">
+   <e mg_all="5" mg_fad="2">
       <lg>
          <l pos="V">røre</l>
       </lg>
       <mg>
-         <tg re="ta på" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>berøre, ta i, en gang</re>
             <t pos="V" usage="vd">guoskkahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="fort" xml:lang="sme">
-            <t pos="V" usage="vd">lihkastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="røre ved noen/noe" xml:lang="sme">
             <t pos="V" usage="vd">lihkahit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>gripe, bevege</re>
-            <t pos="V" src="fad">njuorasmahttit</t>
+            <re>bevege, lee, en gang</re>
+            <t pos="V" usage="vd">lihkahit</t>
+            <t pos="V" usage="vd">lihkastit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">lihkkat</t>
+            <re>gripe, bevege sjelelig</re>
+            <t pos="V" src="fad">njuorasmahttit</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="9" mg_fad="1">
+   <e mg_all="9" mg_fad="1">
       <lg>
          <l pos="V">smelle</l>
       </lg>
       <mg>
-         <tg re="fyre av" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>lage smell, fyre av, en gang</re>
             <t pos="V" usage="vd">bávkalit</t>
             <t pos="V" usage="vd">coahkkalit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="smelle flere ganger" xml:lang="sme">
-            <t pos="V" usage="vd">beaškit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="en gang" xml:lang="sme">
-            <re>en gang</re>
-            <t pos="V" usage="vd">spoahkkalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="smelle en gang" xml:lang="sme">
-            <re>en gang</re>
-            <t pos="V" usage="vd">beaškkihit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="fyre av en gang" xml:lang="sme">
-            <re>en gang</re>
-            <t pos="V" usage="vd">bávkkihit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="ƒyre av flere ganger" xml:lang="sme">
-            <re>flere ganger</re>
+         <tg xml:lang="sme">
+            <re>knalle, sterkere enn beaškit</re>
             <t pos="V" usage="vd">bávkit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="flere ganger" xml:lang="sme">
-            <t pos="V" usage="vd">spoahkkit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg re="slå" xml:lang="sme">
-            <t pos="V" usage="vd">roaškut</t>
+            <xg>
+               <x>Det smeller i bøssa.</x>
+               <xt>Bissu bávká.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>knalle, ikke så sterkt som bávkit</re>
+            <t pos="V" usage="vd">beaškit</t>
+            <t pos="V" usage="vd">spoahkkit</t>
+            <xg>
+               <x>Det smeller i trærne, når det skal bli mildere i været.</x>
+               <xt>Muorat bešket, go bivaldit áigu.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>plutselig knalle, smelle en gang, ikke så sterkt som bávkkihit</re>
+            <t pos="V" usage="vd">beaškkihit</t>
+            <t pos="V" usage="vd">spoahkkalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>plutselig knalle, smelle en gang, sterkere enn beaškkihit</re>
+            <t pos="V" usage="vd">bávkkihit</t>
             <t pos="V" src="fad">bávkkehit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>slå noen eller noe så det smeller</re>
+            <t pos="V" usage="vd">roaškut</t>
          </tg>
       </mg>
    </e>
@@ -688,14 +736,14 @@
          </tg>
       </mg>
       <mg>
-         <tg re="flere ganger" xml:lang="sme">
+         <tg xml:lang="sme">
             <re>flere ganger gjøre redd</re>
             <t pos="V" usage="vd">baldalit</t>
             <t pos="V" usage="vd">balddáhallat</t>
          </tg>
       </mg>
       <mg>
-         <tg re="forferde" xml:lang="sme">
+         <tg xml:lang="sme">
             <re>forferde</re>
             <t pos="V" usage="vd">suorggahit</t>
             <t pos="V" usage="vd">surgehit</t>
@@ -708,37 +756,37 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="2">
+   <e mg_all="4" mg_fad="2">
       <lg>
          <l pos="V">forberede</l>
       </lg>
       <mg>
-         <tg re="gjøre ferdig" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>gjøre ferdig</re>
             <t pos="V" usage="vd">gárvvistit</t>
+            <t pos="V" src="fad">válmmaštit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="mentalt" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>forberede noen på noe</re>
             <t pos="V" usage="vd" src="gt;fad">ráhkkanahttit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>forberede seg på noe</re>
             <t pos="V" src="fad">ráhkkanit</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">válmmaštit</t>
-         </tg>
-      </mg>
    </e>
-   <e __mg_all="3" mg_fad="1">
+   <e mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">oppfordre</l>
       </lg>
       <mg>
-         <tg re="flere ganger" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>be flere ganger</re>
             <t pos="V" usage="vd">hásttuhit</t>
             <t pos="V" usage="vd" src="gt;fad">ávžžuhit</t>
             <xg>
@@ -748,68 +796,68 @@
          </tg>
       </mg>
       <mg>
-         <tg re="en gang" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>be en gang</re>
             <t pos="V" usage="vd">hástit</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">sátnádit</t>
-         </tg>
-      </mg>
    </e>
-   <e __mg_all="3" mg_fad="1">
+   <e mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">utfordre</l>
       </lg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>flere ganger</re>
             <t pos="V" usage="vd">hásttuhit</t>
-            <t pos="V" usage="vd" src="gt;fad">hástalit</t>
-            <xg>
-               <x>Derfor oppfordrer jeg elevenes foreldre til å påvirke saka.</x>
-               <xt>Danin hásttuhan ohppiid váhnemiid váikkuhit áššái.</xt>
-            </xg>
+            <t pos="V" src="fad">ávžžuhit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="en gang" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>en gang</re>
             <t pos="V" usage="vd">hástit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">ávžžuhit</t>
+            <re>hverandre</re>
+            <t pos="V" usage="vd" src="gt;fad">hástalit</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="5" mg_fad="1">
+   <e mg_all="5" mg_fad="1">
       <lg>
          <l pos="V">undersøke</l>
       </lg>
       <mg>
-         <tg re="mer omfattende" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>granske, nøye tenke over noe</re>
             <t pos="V" usage="vd">guorahallat</t>
             <t pos="V" usage="vd">guorahaddat</t>
          </tg>
       </mg>
       <mg>
-         <tg re="sjekke ut" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>sjekke ut</re>
             <t pos="V" usage="vd" src="gt;fad">iskat</t>
          </tg>
       </mg>
       <mg>
-         <tg re="holde på" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>holde på å sjekke ut</re>
             <t pos="V" usage="vd" src="gt;fad">iskkadit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="forsikrelse" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>betrakte</re>
             <t pos="V" usage="vd">dárkot</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>kontrollere</re>
             <t pos="V" src="fad">dárkkistit</t>
          </tg>
       </mg>
@@ -845,37 +893,32 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="3">
+   <e mg_all="4" mg_fad="3">
       <lg>
          <l pos="V">studere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>utdanne seg</re>
             <t pos="V" usage="vd" src="gt;fad">studeret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">dutkat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">logadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">lohkat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>granske</re>
+            <t pos="V" src="fad">dutkat</t>
+            <t pos="V" src="fad">logadit</t>
+         </tg>
+      </mg>
    </e>
-   <e __mg_all="4" mg_fad="2">
+   <e mg_all="4" mg_fad="2">
       <lg>
          <l pos="V">unngå</l>
       </lg>
       <mg>
-         <tg re="holde på" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>slippe unna</re>
             <t pos="V" usage="vd" src="gt;fad">garvit</t>
             <xg>
                <x>Og jeg unngår det så lenge som jeg kan.</x>
@@ -885,6 +928,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>slippe unna, med lokativ</re>
             <t pos="V" usage="vd" src="gt;fad">vealtat</t>
             <xg>
                <x>Mor unngikk det.</x>
@@ -894,21 +938,24 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>avverge</re>
             <t pos="V" src="fad">eastadit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>avverges</re>
             <t pos="V" src="fad">eastat</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="2">
+   <e mg_all="4" mg_fad="2">
       <lg>
          <l pos="V">holde</l>
       </lg>
       <mg>
-         <tg re="fysisk" xml:lang="sme">
+         <tg xml:lang="sme">
+            <re>ha grep om; la innta en viss stilling</re>
             <t pos="V" usage="vd" src="gt;fad">doallat</t>
             <xg>
                <x>Mor holder barnet sitt i fanget.</x>
@@ -917,7 +964,26 @@
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme">
+            <re>fremføre</re>
+            <t pos="V" usage="vd" src="gt;fad">doallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>abonnere</re>
+            <t pos="V" usage="vd" src="gt;fad">doallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>litt</re>
+            <t pos="V" src="fad">dollet</t>
+         </tg>
+      </mg>
+      <mg>
          <tg re="holde ved" xml:lang="sme">
+            <re>opprettholde</re>
             <t pos="V" usage="vd" src="gt;fad">doalahit</t>
             <xg>
                <x>Per prøver å holde hunden i ro.</x>
@@ -927,12 +993,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>hindre</re>
             <t pos="V" src="fad">hehttet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">dollet</t>
          </tg>
       </mg>
    </e>
@@ -2065,24 +2127,15 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">skilles</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">earránit</t>
-            <t pos="V" src="nj" usage="vd">sierranit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">skillet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">earránaddat</t>
+            <t pos="V" src="nj" usage="vd">sierranit</t>
          </tg>
       </mg>
    </e>
@@ -2098,25 +2151,20 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="3">
+   <e mg_all="4" mg_fad="3">
       <lg>
          <l pos="V">hindre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>hindre fra</re>
+            <re>avverge, forhindre</re>
             <t pos="V" src="nj" usage="vd">eastadit</t>
             <t pos="V" usage="vd" src="nj;fad">hehttet</t>
+            <t pos="V" src="fad">heađuštit</t>
             <xg>
                <x>Mor hindret meg i å dra.</x>
                <xt>Eadni eastadii mu vuolgimis.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>oppholde</re>
-            <t pos="V" src="fad">heađuštit</t>
          </tg>
       </mg>
       <mg>
@@ -3992,15 +4040,10 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">markere</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">čujuhit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme">
             <re>feire</re>
@@ -4009,8 +4052,14 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>vise</re>
+            <re>vise, gjøre lett synlig</re>
             <t pos="V" src="fad">čalmmustahttit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>vise, med illativ</re>
+            <t pos="V" src="nj" usage="vd">čujuhit</t>
          </tg>
       </mg>
    </e>
