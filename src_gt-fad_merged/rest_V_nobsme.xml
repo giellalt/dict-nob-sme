@@ -1318,7 +1318,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="6" mg_fad="5">
+   <e mg_all="6" mg_fad="5">
       <lg>
          <l pos="V">spre</l>
       </lg>
@@ -1338,13 +1338,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>utbre</re>
+            <re>bringe til å spre seg</re>
             <t pos="V" src="fad">lávdadit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>bre</re>
+            <re>spre seg</re>
             <t pos="V" src="fad">leavvat</t>
             <t pos="V" src="fad">lávdat</t>
          </tg>
@@ -1482,13 +1482,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="1">
+   <e mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">vri</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>dreie</re>
+            <re>sno, skrue</re>
             <t pos="V" usage="vd" src="nj;fad">botnjat</t>
             <xg>
                <x>Hvorfor er det da behov for å vri på komiteens forslag.</x>
@@ -1502,13 +1502,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>dreie en gang</re>
+            <re>sno, skrue en gang</re>
             <t pos="V" src="nj" usage="vd">bonjastit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>få til å rotere</re>
+            <re>dreie rundt</re>
             <t pos="V" src="fad">jorahit</t>
          </tg>
       </mg>
@@ -2236,23 +2236,23 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="7" mg_fad="2">
+   <e mg_all="7" mg_fad="2">
       <lg>
          <l pos="V">slite</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>rive, rykke</re>
+            <re>rive, rykke, dra</re>
             <t pos="V" usage="vd" src="nj;fad">gaikut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>rykke</re>
+            <re>en gang rykke</re>
             <t pos="V" src="nj" usage="vd">ravget</t>
             <xg>
-               <x>Gutten dro i gang motoren.</x>
-               <xt>Bárdni ravgii mohtora johtui.</xt>
+               <x>Slite en tråd av.</x>
+               <xt>Ravget árppu rastá.</xt>
             </xg>
          </tg>
       </mg>
@@ -2264,13 +2264,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>rykke plutselig</re>
+            <re>plustelig rykke, dra</re>
             <t pos="V" src="nj" usage="vd">gaikkehit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>holde på å rykke</re>
+            <re>flere ganger rykke eller slite i noe</re>
             <t pos="V" src="nj" usage="vd">ravgut</t>
          </tg>
       </mg>
@@ -2343,7 +2343,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="9" mg_fad="4">
+   <e mg_all="9" mg_fad="4">
       <lg>
          <l pos="V">gå</l>
       </lg>
@@ -2383,17 +2383,14 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>om tid: forløpe</re>
+            <t pos="V" usage="vd" src="nj;fad">vássit</t>
+            <t pos="V" src="fad">hurgit</t>
             <t pos="V" src="nj" usage="vd">gollat</t>
             <xg>
                <x>Tiden går og pengene svinner.</x>
                <xt>Áigi gollá ja ruđat gollet.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd" src="nj;fad">vássit</t>
-            <t pos="V" src="fad">hurgit</t>
             <xg>
                <x>Det gikk bare fem minutter før jeg kunne kleppe laksen på land.</x>
                <xt>Dušše vihtta minuhta vásse ovdal go bessen luosa gáddái roahkastit.</xt>
@@ -2408,12 +2405,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>gå avsted</re>
             <t pos="V" src="fad">vázzilit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">hurgit</t>
          </tg>
       </mg>
    </e>
@@ -3574,7 +3567,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="6" mg_fad="5">
+   <e mg_all="6" mg_fad="5">
       <lg>
          <l pos="V">fullføre</l>
       </lg>
@@ -3875,7 +3868,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="5" mg_fad="4">
+   <e mg_all="5" mg_fad="4">
       <lg>
          <l pos="V">strekke</l>
       </lg>
@@ -3899,17 +3892,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">gárgát</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>strekke seg; strekkes</re>
             <t pos="V" src="fad">fatnat</t>
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="1">
+   <e mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">vente</l>
       </lg>
@@ -3920,14 +3908,14 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>vente på noen under f.eks tur</re>
-            <t pos="V" src="nj" usage="vd">veavdit</t>
+            <re>holde på å vente</re>
+            <t pos="V" src="fad">vuorddašit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>holde på å vente</re>
-            <t pos="V" src="fad">vuorddašit</t>
+            <re>stadig vente på og på det viset få med seg noen</re>
+            <t pos="V" src="nj" usage="vd">veavdit</t>
          </tg>
       </mg>
    </e>
@@ -4994,18 +4982,26 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="3">
+   <e mg_all="4" mg_fad="3">
       <lg>
          <l pos="V">justere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">dárkilastit</t>
+            <re>tilpasse</re>
             <t pos="V" src="gt;fad">muddet</t>
+            <t pos="V" src="fad">justeret</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>kontrollere</re>
+            <t pos="V">dárkilastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>rette på</re>
             <t pos="V" src="fad">divvut</t>
             <t pos="V" src="fad">divustit</t>
          </tg>
@@ -5028,16 +5024,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" alt_str="movttidahttit" src="fad">movttiidahttit</t>
+            <t pos="V" src="fad">movttiidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="fad">oalgguhit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">movttiidit</t>
          </tg>
       </mg>
    </e>
