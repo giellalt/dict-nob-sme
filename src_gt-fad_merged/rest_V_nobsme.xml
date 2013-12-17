@@ -3019,7 +3019,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">joike</l>
       </lg>
@@ -3030,11 +3030,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>joike litt</re>
             <t pos="V" src="fad">juoiggastit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>holde på å joike</re>
             <t pos="V" src="fad">juoiggastallat</t>
          </tg>
       </mg>
@@ -3270,19 +3272,25 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="6" mg_fad="3">
+   <e mg_all="6" mg_fad="3">
       <lg>
          <l pos="V">skifte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>bytte, transitivt</re>
+            <re>bytte; bytte klær på seg</re>
             <t pos="V" usage="vd" src="gt;fad">molsut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>holde på å molsut; skifte undertøy</re>
+            <re>bytte, bytte til seg, bytte bort</re>
+            <t pos="V" src="fad">lonuhit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kle seg om</re>
             <t pos="V" usage="vd">molssodit</t>
          </tg>
       </mg>
@@ -3290,12 +3298,6 @@
          <tg xml:lang="sme">
             <re>utveksle</re>
             <t pos="V" usage="vd">lonohallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>intransitivt</re>
-            <t pos="V" src="fad">lonuhit</t>
          </tg>
       </mg>
       <mg>
@@ -3554,7 +3556,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">tilsidesette</l>
       </lg>
@@ -3743,21 +3745,28 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="8" mg_fad="7">
+   <e mg_all="8" mg_fad="7">
       <lg>
          <l pos="V">skape</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>la oppstå</re>
+            <re>lage</re>
+            <t pos="V" src="fad">ráhkadit</t>
+            <t pos="V" src="fad">duddjot</t>
+            <t pos="V" src="fad">dahkat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>la oppstå: religiøst</re>
             <t pos="V" src="nj" usage="vd">sivdnidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>lage</re>
-            <t pos="V" src="fad">ráhkadit</t>
-            <t pos="V" src="fad">duddjot</t>
+            <re>la oppstå</re>
+            <t pos="V" src="fad">bohciidahttit</t>
          </tg>
       </mg>
       <mg>
@@ -3768,33 +3777,30 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>oppfinne</re>
             <t pos="V" src="fad">hutkat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">dahkat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>framstille</re>
             <t pos="V" src="fad">buvttihit</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">bohciidit</t>
-         </tg>
-      </mg>
    </e>
-   <e __mg_all="5" mg_fad="4">
+   <e mg_all="5" mg_fad="4">
       <lg>
          <l pos="V">kjempe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>slåss</re>
+            <re>krige</re>
             <t pos="V" usage="vd" src="nj;fad">soahtat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>slåss</re>
             <t pos="V" src="fad">doarrut</t>
          </tg>
       </mg>
@@ -3812,13 +3818,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">plassere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>anbringe</re>
+            <re>stille</re>
             <t pos="V" usage="vd">stellet</t>
          </tg>
       </mg>
@@ -3830,6 +3836,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>plassere i rekke</re>
             <t pos="V" src="fad">maŋŋálastit</t>
          </tg>
       </mg>
@@ -3919,6 +3926,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>holde på å vente</re>
             <t pos="V" src="fad">vuorddašit</t>
          </tg>
       </mg>
@@ -3997,7 +4005,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="1">
+   <e mg_all="3" mg_fad="1">
       <lg>
          <l pos="V">anklage</l>
       </lg>
@@ -4399,20 +4407,26 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">sikre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>styrke</re>
             <t pos="V">nannet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>gjøre trygg</re>
             <t pos="V">váfistit</t>
             <t pos="V" usage="vd" alt_str="sihkarastit" src="gt;fad">sihkkarastit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>gjøre trygg</re>
+            <re>beskytte</re>
             <t pos="V" src="fad">suodjalit</t>
          </tg>
       </mg>
@@ -4423,7 +4437,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="6" mg_fad="2">
+   <e mg_all="6" mg_fad="2">
       <lg>
          <l pos="V">flytte</l>
       </lg>
