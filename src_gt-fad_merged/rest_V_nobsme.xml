@@ -1035,7 +1035,7 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="5" mg_fad="4">
+   <e mg_all="5" mg_fad="4">
       <lg>
          <l pos="V">utvikle</l>
       </lg>
@@ -1044,23 +1044,15 @@
             <re>utvikle noe</re>
             <t pos="V" usage="vd" src="gt;fad">ovdánahttit</t>
             <t pos="V" src="fad">ovddidit</t>
+            <t pos="V" src="fad">gárget</t>
+            <t pos="V" src="fad">gárgedit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>utvikle seg</re>
             <t pos="V" src="fad">ovdánit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">gárget</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>ekspandere</re>
-            <t pos="V" alt_str="gárgedit" src="fad">gárggiidit</t>
+            <t pos="V" usage="vd">gárggiidit</t>
          </tg>
       </mg>
    </e>
