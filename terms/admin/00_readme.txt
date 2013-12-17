@@ -549,10 +549,15 @@ kulturkaleandar
 
 Tests before the unification step in the fad-data:
 
+Entries in toto:
 src>grep -h '<l pos' *.xml | sort | uniq -c | sort -nr | wc -l 
    15371
+
+Entries without doubling of lemma (i.e. unique lemma):
 src>grep -h '<l pos' *.xml | sort | uniq -c | sort -nr | grep "^ *1 " | wc -l 
    11099
+
+Entries with doubled (or more) lemma:
 src>grep -h '<l pos' *.xml | sort | uniq -c | sort -nr | grep -v "^ *1 " | wc -l 
     4272
 
