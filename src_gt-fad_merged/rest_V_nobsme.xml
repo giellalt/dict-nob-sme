@@ -5063,23 +5063,20 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">identifisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">dovddiidahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">identifiseret</t>
+            <t pos="V" src="fad">dovdáhit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">dovdáhit</t>
+            <re>begynne å kjenne</re>
+            <t pos="V">dovddiidit</t>
          </tg>
       </mg>
    </e>
@@ -5146,24 +5143,26 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">dempe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">dustet</t>
+            <re>dempe, berolige</re>
             <t pos="V" src="gt;fad">váidudit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>utvanne</re>
             <t pos="V" src="fad">láivudit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">merret</t>
+            <re>fotball</re>
+            <t pos="V" src="nj" usage="vd">dustet</t>
          </tg>
       </mg>
    </e>
@@ -5173,14 +5172,15 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">erret</t>
-            <t pos="V">sierranastit</t>
+            <re>skille ut</re>
+            <t pos="V" src="fad">sirret</t>
+            <t pos="V" src="fad">isoleret</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">sirret</t>
-            <t pos="V" src="fad">isoleret</t>
+            <re>skille seg ut</re>
+            <t pos="V">sierranastit</t>
          </tg>
       </mg>
    </e>
