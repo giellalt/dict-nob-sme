@@ -521,19 +521,13 @@ FAD4INARI - last tasks:
     ==> DONE (cip)
 
  - manual unification/checking of the data in src_gt-fad_merged
-    ==> TODO (berit merete/marja?)
- - adding frequencies (global and fad) to all data
-   ==> DONE for src_gt-only (cip)
-   ==> TODO for src_gt-fad_merged (cip)
-   ==> TODO for src_fad-only (cip)
+    ==> TODO (berit merete/marja: almost done)
 
- - add an attribute with the difference between fad-relfreqs and non-domain-relfreqs to all lemma (both nob and sme) in order to say something about candidates for term pairs (cip)
+ - delete frequencies from 
+   - src_gt-only  ==> TODO (cip)
+   - src_gt-fad_merged ==> DONE (cip)
+   - src_fad-only ==> TODO (cip)
 
- - evaluation based on all pieces of information gathered
-    ==> TODO (cip, trond, berit merete, marja)
 
- - prepare presentation/article 
-    ==> TODO (cip, trond, berit merete, marja)
- - update the freq-lists for both GT-all and FAD according to the new analysis
-   ==> TODO (cip)
+
 
