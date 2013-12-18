@@ -1780,35 +1780,38 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="5" mg_fad="3">
+   <e mg_all="5" mg_fad="3">
       <lg>
          <l pos="V">påpeke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>en gang</re>
+            <re>påpeke en enkelt ting</re>
             <t pos="V" usage="vd" src="nj;fad">cuiget</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>gjentatte ganger</re>
+            <re>påpeke flere ting</re>
             <t pos="V" src="nj" usage="vd">cuoigut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>peke på</re>
             <t pos="V" src="fad">čujuhit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>formane, tilrettevise</re>
             <t pos="V" src="fad">cuiggodit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="fad">deattihit</t>
+            <re>fremheve</re>
+            <t pos="V" src="fad">deattuhit</t>
          </tg>
       </mg>
    </e>
@@ -2992,22 +2995,25 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">erklære</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>kunngjøre, erklære offentlig</re>
             <t pos="V" usage="vd" src="nj;fad">julggaštit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>uttrykke</re>
             <t pos="V" src="fad">cealkit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bekjentgjøre</re>
             <t pos="V" src="fad">gulahit</t>
          </tg>
       </mg>
@@ -3508,13 +3514,13 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="5" mg_fad="3">
+   <e mg_all="5" mg_fad="3">
       <lg>
          <l pos="V">synes</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>virke som</re>
+            <re>se ut til (å være), virke som: ofte sammen med verbet leat</re>
             <t pos="V" usage="vd" src="nj;fad">orrut</t>
             <xg>
                <x>Det synes jeg.</x>
@@ -3524,28 +3530,28 @@
                <x>På grunnlag av de opplysningene synes det å være klart at programmet fungerer.</x>
                <xt>Daid dieđuid vuođul orru leamen čielggas ahte prográmma doaibmá.</xt>
             </xg>
+            <xg>
+               <x>Kombinasjonstilpasning av nyere virksomheter synes like naturlig som de mer tradisjonelle næringskombinasjonene.</x>
+               <xt>Ođđa ealáhusaid lotnolasheiveheapmi orru leamen seamma lunddolaš go árbevirolaš lotnolasealáhusat.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>synlig</re>
+            <re>sees, vises</re>
             <t pos="V" src="nj" usage="vd">oidnot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>spores, merkes</re>
+            <t pos="V" src="fad">vuhttot</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>komme til syne</re>
             <t pos="V" src="fad">ihtit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">leat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">vuhttot</t>
          </tg>
       </mg>
    </e>
@@ -5012,51 +5018,48 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="4" mg_fad="3">
+   <e mg_all="4" mg_fad="3">
       <lg>
          <l pos="V">stimulere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>oppmuntre</re>
             <t pos="V">arvvosmahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" alt_str="movttidahttit" src="fad">movttiidahttit</t>
-            <t pos="V" src="fad">movttiidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">oalgguhit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli motivert</re>
+            <t pos="V" src="fad">movttiidit</t>
+         </tg>
+      </mg>
    </e>
-   <e __mg_all="5" mg_fad="4">
+   <e mg_all="5" mg_fad="4">
       <lg>
          <l pos="V">drøfte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">ráđđádallat</t>
-            <t pos="V" src="gt;fad">ságaškuššat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">guorahallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>diskutere</re>
             <t pos="V" src="fad">digaštallat</t>
             <t pos="V" src="fad">divaštallat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>granske, undersøke</re>
             <t pos="V" src="fad">suokkardit</t>
+            <t pos="V" src="fad">guorahallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>å konferere med</re>
+            <t pos="V" src="nj" usage="vd">ráđđádallat</t>
+            <t pos="V" src="gt;fad">ságaškuššat</t>
          </tg>
       </mg>
    </e>
@@ -5092,73 +5095,54 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="8" mg_fad="7">
+   <e mg_all="8" mg_fad="7">
       <lg>
          <l pos="V">integrere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>innlemme</re>
             <t pos="V" src="gt;fad">ovttaiduhttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">laktit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">ovttastahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <t pos="V" src="fad">ovttaidahttit</t>
             <t pos="V" src="fad">integreret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">sajáiduhttit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>sammenføye</re>
+            <t pos="V" src="fad">laktit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>forene</re>
+            <t pos="V" src="fad">ovttastahttit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>inkludere</re>
             <t pos="V" src="fad">searvadit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>integreres</re>
             <t pos="V" src="fad">ovttaiduvvat</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">ovttaidahttit</t>
-         </tg>
-      </mg>
    </e>
-   <e __mg_all="4" mg_fad="3">
+   <e mg_all="4" mg_fad="3">
       <lg>
          <l pos="V">presisere</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="gt;fad">aiddostahttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="fad">dárkkuhit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">presiseret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <t pos="V" src="fad">dárkilastit</t>
+            <t pos="V" src="fad">dárkkuhit</t>
          </tg>
       </mg>
    </e>
@@ -5330,17 +5314,19 @@
          </tg>
       </mg>
    </e>
-   <e __mg_all="3" mg_fad="2">
+   <e mg_all="3" mg_fad="2">
       <lg>
          <l pos="V">meisle</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>meisle</re>
             <t pos="V">luokčat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>telje, skjære, spikke til</re>
             <t pos="V" src="fad">fearrat</t>
          </tg>
       </mg>
