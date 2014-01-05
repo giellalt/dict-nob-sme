@@ -3,13 +3,22 @@
 # ei fst-fil som tar nob og gjev ei sme-omsetjing.
 
 # Førebels er det berre eit shellscript.
-
 # Kommando for å lage nobsme.fst
 
-# skriv
-# sh nobsme.sh 
-# dvs kall dette skriptet
-# detetter gjer skriptet dette:
+# sh nobsme.sh
+
+echo 
+echo "Etter at dette scriptet er ferdig står du i xfst med promten"
+echo "xfst[1]"
+echo 
+echo "Gjör då dette:"
+echo "invert"
+echo "save bin/nobsme.fst"
+echo "quit"
+echo ""
+echo "LEXICON Root" > bin/smenob.lexc
+
+cat  src/*_smenob.xml | \
 
 echo "LEXICON Root" > bin/nobsme.lexc
 
