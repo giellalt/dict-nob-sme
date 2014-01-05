@@ -5,8 +5,15 @@
 # Førebels er det berre eit shellscript.
 
 # Kommando for å lage nobsme.fst
+
 echo "LEXICON Root" > bin/nobsme.lexc
-cat src*/*_nobsme.xml | tr '\n' '™' | sed 's/<e/£/g;'| tr '£' '\n'| sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f6,16| tr ' ' '_'| tr '>' ':'| grep -v '__'|sed 's/$/ # ;/g' >> bin/nobsme.lexc
+
+cat ../smi/geo/inc/prop_nobsme.xml sr*/*_nobsme.xml | \
+tr '\n' '™' | sed 's/<e/£/g;'| tr '£' '\n'| \
+sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f6,16| \
+tr ' ' '_'| sed 's/:/%/g;'|tr '>' ':'| \
+grep -v '__'|sed 's/$/ # ;/g' >> bin/nobsme.lexc
+
 xfst -e "read lexc < bin/nobsme.lexc"
 
 # deretter i xfst:
