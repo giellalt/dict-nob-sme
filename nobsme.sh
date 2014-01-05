@@ -6,6 +6,11 @@
 
 # Kommando for å lage nobsme.fst
 
+# skriv
+# sh nobsme.sh 
+# dvs kall dette skriptet
+# detetter gjer skriptet dette:
+
 echo "LEXICON Root" > bin/nobsme.lexc
 
 cat ../smi/geo/inc/prop_nobsme.xml sr*/*_nobsme.xml | \
@@ -16,6 +21,8 @@ grep -v '__'|sed 's/$/ # ;/g' >> bin/nobsme.lexc
 
 xfst -e "read lexc < bin/nobsme.lexc"
 
-# deretter i xfst:
+
+# deretter gjer du dette i xfst:
 # invert
 # save bin/nobsme.fst
+
