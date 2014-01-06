@@ -269,3 +269,30 @@ tolv-tretten</l
    - src_gt-fad_merged ==> DONE (cip)
    - src_fad-only ==> TODO (cip)
 
+
+Notes on mg (valable also for smj, sms, etc):
+1. compounds, special meaning ==> structure?
+
+   <e>
+      <lg>
+         <l pos="A">gulbrun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd">ruškat</t>
+            <t pos="A" usage="vd">fiskesruškat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rødbrun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd">ruksesruškat</t>
+         </tg>
+      </mg>
+   </e>
+
+
