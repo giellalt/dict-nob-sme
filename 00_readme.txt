@@ -265,7 +265,7 @@ tolv-tretten</l
     ==> DONE (berit merete/marja)
 
  - delete frequencies from 
-   - src_gt-only  ==> TODO (cip)
+   - src_gt-only  ==> DONE (cip)
    - src_gt-fad_merged ==> DONE (cip)
    - src_fad-only ==> TODO (cip)
 
