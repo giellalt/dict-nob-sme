@@ -295,4 +295,13 @@ Notes on mg (valable also for smj, sms, etc):
       </mg>
    </e>
 
+============
+
+compare and in needed merge fad_only with gt_only after Lenes lemma adding action
+
+Ex. uskikkelig was only in fad_only data
+
+src_gt-only>g uskikkelig *
+A_nobsme.xml:         <l pos="A">uskikkelig</l>
+
 
