@@ -304,4 +304,28 @@ Ex. uskikkelig was only in fad_only data
 src_gt-only>g uskikkelig *
 A_nobsme.xml:         <l pos="A">uskikkelig</l>
 
+=============
+
+cleanup data b4 merging:
+ - delete e interim tags from gt-fad-merged
+   <e mg_all="2" mg_fad="1">
+
+ - normalize re-info (scope?)
+src_gt-fad_merged>g '<re' *|c
+    1752
+src_gt-fad_merged>g 're=' *|c
+      71
+src_gt-only>g '<re' *|c
+     353
+src_gt-only>g 're=' *|c
+      82
+src_fad-only>g '<re' *|c
+     237
+src_fad-only>g 're=' *|c
+       0
+src>g '<re' *|c
+     258
+src>g 're=' *|c
+      45
+
 
