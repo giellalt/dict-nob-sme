@@ -328,4 +328,16 @@ src>g '<re' *|c
 src>g 're=' *|c
       45
 
+ - finish merging (Berit Merete)
+src_gt-fad_merged>g '<e _' *.xml
+21_N_nobsme.xml:   <e _mg_all="2" mg_fad="1">
+21_N_nobsme.xml:   <e _mg_all="2" mg_fad="1">
+rest_A_nobsme.xml:   <e _mg_all="5" mg_fad="4">
+rest_A_nobsme.xml:   <e _mg_all="3" mg_fad="2">
+rest_A_nobsme.xml:   <e _mg_all="3" mg_fad="2">
+rest_A_nobsme.xml:   <e _mg_all="4" mg_fad="3">
+rest_N_nobsme.xml:   <e _mg_all="3" mg_fad="2">
+rest_N_nobsme.xml:   <e _mg_all="3" mg_fad="2">
+rest_N_nobsme.xml:   <e _mg_all="3" mg_fad="2">
+rest_V_nobsme.xml:   <e _mg_all="3" mg_fad="2">
 
