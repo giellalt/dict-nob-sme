@@ -1,3 +1,6 @@
+20140107
+all FAD-data have been moved to the nobsme dir
+
 Notatar langs livets landeveg:
 ==============================
 Lesson learned: don't merge entries that have to be lexified!
