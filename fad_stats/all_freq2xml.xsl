@@ -111,7 +111,7 @@
 	
       </xsl:when>
       <xsl:otherwise>
-	<xsl:text>Cannot locate : </xsl:text><xsl:value-of select="$inFile"/>
+	<xsl:text>Cannot locate: </xsl:text><xsl:value-of select="$inFile"/>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
