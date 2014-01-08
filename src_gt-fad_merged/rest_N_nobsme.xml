@@ -2019,7 +2019,7 @@
          </tg>
       </mg>
    </e>
-   <e _mg_all="3" mg_fad="2">
+   <e>
       <lg>
          <l pos="N">nettverk</l>
       </lg>
@@ -2034,6 +2034,7 @@
             <re>system av sammenkoblede komponenter</re>
             <t pos="N" src="fad">neahttafierpmádat</t>
             <t pos="N" src="fad">fierbmi</t>
+            <t pos="N" usage="vd" src="gt;fad">fierpmádat</t>
          </tg>
       </mg>
    </e>
@@ -5801,7 +5802,7 @@
          </tg>
       </mg>
    </e>
-   <e _mg_all="3" mg_fad="2">
+   <e>
       <lg>
          <l pos="N">forbruk</l>
       </lg>
@@ -7259,17 +7260,13 @@
          </tg>
       </mg>
    </e>
-   <e _mg_all="3" mg_fad="2">
+   <e>
       <lg>
          <l pos="N">melsekk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N">jáfoseahkka</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
          </tg>
       </mg>
       <mg>
