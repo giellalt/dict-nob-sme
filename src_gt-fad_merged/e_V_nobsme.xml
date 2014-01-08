@@ -145,13 +145,13 @@
          </tg>
       </mg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="mene" xml:lang="sme">
             <t pos="V" src="nj" usage="vd">doaivut</t>
             <t pos="V" usage="vd" src="nj;fad">gáddit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="en fornmemmelse" xml:lang="sme">
+         <tg re="anta" xml:lang="sme">
             <t pos="V" src="nj" usage="vd">navdit</t>
          </tg>
       </mg>
@@ -205,7 +205,7 @@
          </tg>
       </mg>
       <mg>
-         <tg re="betaling for f.eks hus" xml:lang="sme">
+         <tg re="betaling for f.eks. hus" xml:lang="sme">
             <t pos="V" usage="vd" src="nj;fad">láigohit</t>
          </tg>
       </mg>
@@ -345,8 +345,13 @@
          <l pos="V">tråkke</l>
       </lg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg xml:lang="sme">
             <t pos="V" usage="vd">duolbmut</t>
+            <t pos="V" usage="vd" src="gt;fad">duolbmat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg re="nedverdige" xml:lang="sme">
             <t pos="V" usage="vd" src="gt;fad">duolbmat</t>
          </tg>
       </mg>
@@ -391,7 +396,7 @@
          <l pos="V">spise</l>
       </lg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg xml:lang="sme">
             <t pos="V" usage="vd" src="gt;fad">borrat</t>
             <xg>
                <x>Jeg har ikke enda spist slike pølser.</x>
@@ -415,7 +420,7 @@
          <l pos="V">frykte</l>
       </lg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg xml:lang="sme">
             <t pos="V" usage="vd" src="gt;fad">ballat</t>
             <xg>
                <x>NVE informerer også om at de nærmeste dagene trenger man ikke frykte flom i Finnmark.</x>
@@ -568,7 +573,7 @@
          </tg>
       </mg>
       <mg>
-         <tg re="formelt, ved f.eks intevju eller avhør" xml:lang="sme">
+         <tg re="formelt, ved f.eks. intervju eller avhør" xml:lang="sme">
             <t pos="V" usage="vd">gažadit</t>
          </tg>
       </mg>
@@ -594,7 +599,7 @@
          <l pos="V">vantrives</l>
       </lg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">goarránit</t>
             <t pos="V" src="nj" usage="vd">ahkiduššat</t>
             <t pos="V" usage="vd" src="nj;fad">láittastuvvat</t>
@@ -2940,7 +2945,7 @@
          </tg>
       </mg>
       <mg>
-         <tg re="om økonomi eller juridikk" xml:lang="sme">
+         <tg re="om økonomi eller juss" xml:lang="sme">
             <t pos="V" src="nj" usage="vd">doarjalit</t>
          </tg>
       </mg>
@@ -2986,12 +2991,12 @@
          <l pos="V">forsvare</l>
       </lg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="ta i forsvar" xml:lang="sme">
             <t pos="V" usage="vd" src="gt;fad">bealuštit</t>
          </tg>
       </mg>
       <mg>
-         <tg re="" xml:lang="sme">
+         <tg re="beskytte" xml:lang="sme">
             <t pos="V" usage="vd">várjalit</t>
             <t pos="V">gádjalit</t>
          </tg>
