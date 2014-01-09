@@ -4,7 +4,7 @@
 
 	<xsl:template match="e">
 		<xsl:choose>
-			<xsl:when test="@src">
+			<xsl:when test="contains(@src,'fad')">
 				FAD
 				<xsl:value-of select="normalize-space(.)"/>
 			</xsl:when>
