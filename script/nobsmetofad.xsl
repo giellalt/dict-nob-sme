@@ -2,6 +2,12 @@
  xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
  <xsl:output omit-xml-declaration="yes" indent="yes"/>
 
+  <xsl:template match="r">
+    <r id="FAD" xml:lang="nob">
+      <xsl:apply-templates select="e"/>
+    </r>
+  </xsl:template>
+
   <xsl:template match="e[not(./@src='fad') and not(.//t[(contains(@src,'fad'))])]"/>
 
   <!-- If the e element contains @src='fad', then copy everything: -->
