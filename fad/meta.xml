@@ -1,0 +1,21 @@
+<!-- Contains technical, language independent info used by Risten2 -->
+<dictmeta>
+
+  <!-- The ID string for the dictionary -->
+  <id>nobsme</id>
+
+  <!-- The natural language name(s) for the dictionary -->
+  <name xml:lang="nob">Norsk-nordsamisk ordbok</name>
+  <name xml:lang="swe">Norsk-nordsamisk ordbok</name>
+
+  <!-- Whether the dictionary should be publicly visible or not: -->
+  <public>yes</public>
+
+  <!-- List of languages supported by the dictionary. -->
+  <!-- Each language is identified with ISO 639-2 three-letter codes. -->
+  <!-- Only one source language allowed, but multiple target languages are ok. -->
+  <langs>
+    <srclang>nob</srclang>
+    <trglang>sme</trglang>
+  </langs>
+</dictmeta>
