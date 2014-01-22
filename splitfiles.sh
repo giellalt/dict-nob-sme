@@ -1,8 +1,8 @@
 #!/bin/sh
 
 sourcedir="src"
-nobsmedir="../nobsme"
-faddir="../fad"
+nobsmedir="../gen_for_satni-org/nobsme"
+faddir="../gen_for_satni-org/fad"
 scriptdir="../script"
 
 cd "$sourcedir"
