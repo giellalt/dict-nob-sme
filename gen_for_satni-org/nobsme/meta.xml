@@ -6,10 +6,16 @@
 
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="nob">Norsk-nordsamisk ordbok</name>
-  <name xml:lang="swe">Norsk-nordsamisk ordbok</name>
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
+
+  <!-- License and copyright: -->
+  <license>Uspesifisert</license>
+  <copyright>Uspesifisert</copyright>
+
+  <!-- Short, free description -->
+  <description xml:lang="nob">Ordboka er utvikla av Giellatekno og Divvun ved UiT.</description>
 
   <!-- List of languages supported by the dictionary. -->
   <!-- Each language is identified with ISO 639-2 three-letter codes. -->

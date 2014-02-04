@@ -2,14 +2,20 @@
 <dictmeta>
 
   <!-- The ID string for the dictionary -->
-  <id>nobsme</id>
+  <id>fad</id>
 
   <!-- The natural language name(s) for the dictionary -->
-  <name xml:lang="nob">Norsk-nordsamisk ordbok</name>
-  <name xml:lang="swe">Norsk-nordsamisk ordbok</name>
+  <name xml:lang="nob">Administrative termer</name>
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
+
+  <!-- License and copyright: -->
+  <license>Uspesifisert</license>
+  <copyright>Uspesifisert</copyright>
+
+  <!-- Short, free description -->
+  <description xml:lang="nob">Termsamlinga er utvikla av Giellatekno og Divvun ved UiT.</description>
 
   <!-- List of languages supported by the dictionary. -->
   <!-- Each language is identified with ISO 639-2 three-letter codes. -->
