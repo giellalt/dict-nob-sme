@@ -2464,16 +2464,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t nr="Sg" pos="Pron" type="Pers">dat</t>
+            <re>om begge kjønn</re>
+            <t pos="Pron" type="Pers">son</t>
             <xg>
-               <x>Elle skriver ikke, hun leser heller.</x>
-               <xt>Elle ii čále, dat baicca lohká.</xt>
+               <x>Han hører ikke på meg.</x>
+               <xt>Son ii guldal mu.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">son</t>
+            <re>om begge kjønn, muntlig språk</re>
+            <t nr="Sg" pos="Pron" type="Pers">dat</t>
+            <xg>
+               <x>Hans skriver ikke, han leser heller.</x>
+               <xt>Hánsa ii čále, dat baicca lohká.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2483,6 +2489,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>om begge kjønn</re>
+            <t pos="Pron" type="Pers">son</t>
+            <xg>
+               <x>Hun hører ikke på meg.</x>
+               <xt>Son ii guldal mu.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om begge kjønn</re>
             <t nr="Sg" pos="Pron" type="Pers">dat</t>
             <xg>
                <x>Elle skriver ikke, hun leser heller.</x>
