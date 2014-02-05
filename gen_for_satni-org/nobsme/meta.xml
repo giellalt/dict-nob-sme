@@ -6,6 +6,7 @@
 
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="nob">Norsk-nordsamisk ordbok</name>
+  <name xml:lang="smj">Dárro-nuorttasáme báhkogirjje</name>
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
@@ -19,6 +20,11 @@
     <p>Ordboka er utvikla av Giellatekno og Divvun ved UiT Norges arktiske
     universitet, og er basert på Nordsamisk-norsk ordbok.</p>
   </description>
+  
+    <description xml:lang="smj">
+    <p>Báhkogirjje l åvddånahtedum Giellateknos ja Divvunis Vuona arktalasj Universitehtan, Nuorttasáme-dárro báhkogirjje l vuodon dán bargguj.</p>
+  </description>
+
 
   <!-- List of languages supported by the dictionary. -->
   <!-- Each language is identified with ISO 639-2 three-letter codes. -->
