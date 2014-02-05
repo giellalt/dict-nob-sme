@@ -40,7 +40,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>mase el. sjenere</re>
+            <re>mase på</re>
             <t pos="V" usage="vd">vuorjat</t>
          </tg>
       </mg>
@@ -61,12 +61,6 @@
             <re>plage andre</re>
             <t pos="V" usage="vd">bieguhit</t>
             <t pos="V" usage="vd" src="gt;fad">givssidit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>pines</re>
-            <t pos="V" src="fad">giksašuvvat</t>
          </tg>
       </mg>
    </e>
@@ -191,12 +185,20 @@
             <re>rulle av seg selv</re>
             <t pos="V" src="nj" usage="vd">fierrat</t>
             <t pos="V" src="fad">jorrat</t>
+            <xg>
+               <x>Ballen ruller.</x>
+               <xt>Spábba jorrá.</x>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>få noe til å rulle</re>
             <t pos="V" usage="vd">fierahit</t>
+            <xg>
+               <x>Inga ruller ballen.</x>
+               <xt>Iŋgá fieraha spáppa.</x>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -13816,7 +13818,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">beahttit</t>
             <t pos="V" src="nj" usage="vd">fillet</t>
             <t pos="V" src="nj" usage="vd">dájuhit</t>
             <t pos="V" src="nj" usage="vd">hohkahit</t>
@@ -31144,6 +31145,12 @@
             <t pos="V">buozahit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>pines</re>
+            <t pos="V" src="fad">giksašuvvat</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -35806,7 +35813,14 @@ ggobealde.</xt>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>nøytralt</re>
             <t pos="V">anašit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>mindre nøytralt</re>
+            <t pos="V">geibmat</t>
          </tg>
       </mg>
    </e>
