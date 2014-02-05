@@ -5,7 +5,9 @@
   <id>nobsme</id>
 
   <!-- The natural language name(s) for the dictionary -->
-  <name xml:lang="nob">Norsk-nordsamisk ordbok</name>
+  <name xml:lang="no">Norsk-nordsamisk ordbok</name>
+  <name xml:lang="se">Norsk-nordsamisk ordbok</name>
+  <name xml:lang="sma">Norsk-nordsamisk ordbok</name>
   <name xml:lang="smj">Dárro-nuorttasáme báhkogirjje</name>
 
   <!-- Whether the dictionary should be publicly visible or not: -->
@@ -16,7 +18,17 @@
   <copyright>Uspesifisert</copyright>
 
   <!-- Short, free description -->
-  <description xml:lang="nob">
+  <description xml:lang="no">
+    <p>Ordboka er utvikla av Giellatekno og Divvun ved UiT Norges arktiske
+    universitet, og er basert på Nordsamisk-norsk ordbok.</p>
+  </description>
+  
+  <description xml:lang="se">
+    <p>Ordboka er utvikla av Giellatekno og Divvun ved UiT Norges arktiske
+    universitet, og er basert på Nordsamisk-norsk ordbok.</p>
+  </description>
+  
+  <description xml:lang="sma">
     <p>Ordboka er utvikla av Giellatekno og Divvun ved UiT Norges arktiske
     universitet, og er basert på Nordsamisk-norsk ordbok.</p>
   </description>
