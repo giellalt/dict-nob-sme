@@ -2,8 +2,8 @@
 <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../scripts/gt_dictionary.css" type="text/css"?>
 <?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../../scripts/gt_dictionary.dtd">
-<r xml:lang="nob">
+"../../../dicts/scripts/gt_dictionary.dtd">
+<r xml:lang="nob" id="JustermTana">
    <lics xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
 <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
@@ -22058,7 +22058,9 @@ For the full license text, see the link above.</lic><ref>Work by SEG, Giellatekn
          <i type="Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)"/>
          <i type="Sátneluohkká, sojahanmálle jna.">s; gáržžideapmái –
       gáržžidemiide</i>
-         <e>
+      </term_info>
+   </e>
+   <e>
             <lg>
                <l pos="n">instruks</l>
             </lg>
@@ -22091,12 +22093,6 @@ For the full license text, see the link above.</lic><ref>Work by SEG, Giellatekn
                <i type="Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat"/>
                <i type="Sámedikki giellastivrra áššis 50/05"/>
             </term_info>
-         </e>
-         <i type="Fágajoavkku siskkaldas kommentárat"/>
-         <i type="Mannan čoahkkimis geargan"/>
-         <i type="Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat"/>
-         <i type="Sámedikki giellastivrra áššis 50/05"/>
-      </term_info>
    </e>
    <e>
       <lg>
@@ -31519,39 +31515,6 @@ For the full license text, see the link above.</lic><ref>Work by SEG, Giellatekn
    </e>
    <e>
       <lg>
-         <l pos="n"/>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="n" xml:lang="sme"/>
-            <t pos="n" xml:lang="fin"/>
-         </tg>
-      </mg>
-      <term_info>
-         <i type="Listu" value="rápl. 2010"/>
-         <i type="Láhkaovdamearka">
-            <si/>
-         </i>
-         <i type="(Vuosttáš láhkaovdamearkka) cealkkaovdamearka">
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </i>
-         <i type="Eará cealkkaovdamearka"/>
-         <i type="Čilgehus sámegillii"/>
-         <i type="Čilgehus dárogillii"/>
-         <i type="Antonyma"/>
-         <i type="Sullásaš tearbma (V=vuolit tearbma, B=bajit tearbma)"/>
-         <i type="Sátneluohkká, sojahanmálle jna."/>
-         <i type="Fágajoavkku siskkaldas kommentárat"/>
-         <i type="Mannan čoahkkimis geargan"/>
-         <i type="Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat"/>
-         <i type="Sámedikki giellastivrra áššis 50/05"/>
-      </term_info>
-   </e>
-   <e>
-      <lg>
          <l pos="n">person</l>
       </lg>
       <mg>
@@ -34602,6 +34565,7 @@ For the full license text, see the link above.</lic><ref>Work by SEG, Giellatekn
          <i type="Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat"/>
          <i type="Sámedikki giellastivrra áššis 50/05"/>
       </term_info>
+      </e>
       <e>
          <lg>
             <l pos="n">regelverk</l>
@@ -34635,7 +34599,6 @@ For the full license text, see the link above.</lic><ref>Work by SEG, Giellatekn
             <i type="Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat"/>
             <i type="Sámedikki giellastivrra áššis 50/05"/>
          </term_info>
-      </e>
    </e>
    <e>
       <lg>
@@ -46700,18 +46663,10 @@ For the full license text, see the link above.</lic><ref>Work by SEG, Giellatekn
       dáhtokeahtes goddin. Dárbbašago rievdadit?</i>
          <i type="Mannan čoahkkimis geargan"/>
          <i type="Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat">FJ</i>
-         <e>
-            <lg>
-               <l pos="n"/>
-            </lg>
-            <term_info>
-               <i type="Sátneluohkká, sojahanmálle jna."/>
-               <i type="Fágajoavkku siskkaldas kommentárat"/>
-               <i type="Mannan čoahkkimis geargan"/>
-               <i type="Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat"/>
-               <i type="Sámedikki giellastivrra áššis 50/05"/>
-            </term_info>
-         </e>
+         <i type="Sátneluohkká, sojahanmálle jna."/>
+         <i type="Fágajoavkku siskkaldas kommentárat"/>
+         <i type="Mannan čoahkkimis geargan"/>
+         <i type="Fágajoavku (FJ) dahje jorgaleaddji ferte ođđaset gieđahallat"/>
          <i type="Sámedikki giellastivrra áššis 50/05"/>
       </term_info>
    </e>
