@@ -22,7 +22,7 @@ cat  src/*_smenob.xml | \
 
 echo "LEXICON Root" > bin/nobsme.lexc
 
-cat ../smi/geo/inc/prop_nobsme.xml sr*/*_nobsme.xml | \
+cat src/*_nobsme.xml | \
 tr '\n' '™' | sed 's/<e/£/g;'| tr '£' '\n'| \
 sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f6,16| \
 tr ' ' '_'| sed 's/:/%/g;'|tr '>' ':'| \
