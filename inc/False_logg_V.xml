@@ -169,6 +169,13 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg>
+         <re>å dampe noe</re>
+            <t pos="V">lievddistit</t>
+            <t pos="V">lievllistit</t>
+         </tg>
+      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -238,6 +245,10 @@
       <mg>
          <tg>
             <t pos="V">oidit</t>
+            <xg>
+               <x>Vi foretrekker søkere som har erfaringer med slikt arbeid.</x>
+               <xt>Mii oidit ohcciid geain leat vásáhusat dákkár bargguin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -419,6 +430,7 @@
       </lg>
       <mg>
          <tg>
+         <re>om mat</re>
             <t pos="V">bassit</t>
          </tg>
       </mg>
@@ -480,6 +492,8 @@
       <mg>
          <tg>
             <t pos="V">njahkastit</t>
+            <t pos="V">njahkahastit</t>
+            <t pos="V">njalkkuhit</t>
          </tg>
       </mg>
    </e>
@@ -520,6 +534,8 @@
       <mg>
          <tg>
             <t pos="V">áicat</t>
+         <re>følge oppmerksomt, observere</re>
+            <t pos="V">dárkut</t>
          </tg>
       </mg>
    </e>
@@ -550,6 +566,7 @@
       <mg>
          <tg>
             <t pos="V">hárbmadit</t>
+            <t pos="V">čuohcat</t>
          </tg>
       </mg>
    </e>
@@ -1722,6 +1739,46 @@
          <tg>
             <t pos="V">mohkastit</t>
             <t pos="V">bealuštit</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">rynke</l>
+      </lg>
+      <mg>
+         <tg>
+            <re>om tøy</re>
+            <t pos="V">duorrat</t>
+            <t pos="V">duoradit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>klinke, bruke klinkesøm</re>
+            <t pos="V">duorrat</t>
+            <t pos="V">duoradit</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="V">ape</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="V">áddestallat</t>
+            <t pos="V">áđđestallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">kultivering</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">dikšun</t>
          </tg>
       </mg>
    </e>
