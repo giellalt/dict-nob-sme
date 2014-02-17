@@ -627,16 +627,6 @@
    </e>
    <e usage="vd">
       <lg>
-         <l pos="N">yndling</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="N">miellahaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd">
-      <lg>
          <l pos="N">votering</l>
       </lg>
       <mg>
@@ -692,6 +682,7 @@
       </lg>
       <mg>
          <tg>
+            <re>utstyr, oppakning</re>
             <t pos="N">rusttet</t>
          </tg>
       </mg>
@@ -732,6 +723,7 @@
       </lg>
       <mg>
          <tg>
+            <t pos="N">toavva</t>
             <t pos="N">doavva</t>
          </tg>
       </mg>
@@ -762,7 +754,15 @@
       </lg>
       <mg>
          <tg>
+            <re>plante</re>
             <t pos="N">nuortagáiskkit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>bygningsmateriale</re>
+            <t pos="N">tiila</t>
+            <t pos="N">diila</t>
          </tg>
       </mg>
    </e>
@@ -822,7 +822,28 @@
       </lg>
       <mg>
          <tg>
+            <re>om fisk</re>
             <t pos="N">spierru</t>
+            <xg>
+               <x>De to fanget en hel stim.</x>
+               <xt>Gottiiga olles spieru.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>om fugler og mennesker</re>
+            <t pos="N">doahkki</t>
+            <xg>
+               <x>Der er fuglene og snart lander stimen.</x>
+               <xt>Do oidnojit lottit ja fargga doahkki seaivu.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>om fugler; spesielt rype</re>
+            <t pos="N">moahti</t>
          </tg>
       </mg>
    </e>
@@ -892,6 +913,7 @@
       </lg>
       <mg>
          <tg>
+            <t pos="N">sniikkár</t>
             <t pos="N">sniiggár</t>
          </tg>
       </mg>
@@ -902,6 +924,7 @@
       </lg>
       <mg>
          <tg>
+            <t pos="N">soavli</t>
             <t pos="N">šoavli</t>
          </tg>
       </mg>
