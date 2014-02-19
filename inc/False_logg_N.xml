@@ -1379,7 +1379,7 @@
       </mg>
       <mg>
          <tg>
-            <re>kraniet på en fisk eller ren uten underkjeve</re>
+            <re>kraniet på en fisk eller rein uten underkjeve</re>
             <t pos="N">oaiveskuvri</t>
          </tg>
       </mg>
@@ -1470,6 +1470,7 @@
       </lg>
       <mg>
          <tg>
+            <t pos="N">kálka</t>
             <t pos="N">gálka</t>
          </tg>
       </mg>
@@ -1520,7 +1521,12 @@
       </lg>
       <mg>
          <tg>
+         <re>negativt</re>
             <t pos="N">hoavri</t>
+            <xg>
+               <x>Jeg vil fotografere undervannslivet, men har ikke hatt råd til å kjøpe kamera, så det innfallet kan virkeliggjøres.</x>
+               <xt>Áiggušin govvet čáhcevuoli eallima, muhto in leat suitán kamera oastit ahte dietge hoavri ollašuvvá.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1540,6 +1546,7 @@
       </lg>
       <mg>
          <tg>
+         <re>futteral, hylster</re>
             <t pos="N">skuohppu</t>
          </tg>
       </mg>
@@ -1573,6 +1580,12 @@
             <t pos="N">dállodoallu</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+         <re>husdyrbruk, storfebruk</re>
+            <t pos="N">šibitdoallu</t>
+         </tg>
+      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -1580,6 +1593,7 @@
       </lg>
       <mg>
          <tg>
+            <t pos="N">kránnjá</t>
             <t pos="N">ránnjá</t>
          </tg>
       </mg>
@@ -1590,7 +1604,31 @@
       </lg>
       <mg>
          <tg>
+            <t pos="N">stánži</t>
+            <xg>
+               <x>Ánne hadde gjørme under skoene.</x>
+               <xt>Ánnes lei stánži skuovaid vuolde.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+         <re>mudder</re>
+            <t pos="N">mohti</t>
+            <xg>
+               <x>Innsjøer har både gjørme og steinbunn.</x>
+               <xt>Jávrriin lea sihke mohti ja geađgebodni.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="N">rábit</t>
+            <t pos="N">rábát</t>
+            <xg>
+               <x>På hver eneste faste løype er det mye gjørme, skriver fylkesmannen.</x>
+               <xt>Juohke áidna máđiijas leat ollu rábit, čállá fylkkamánni.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1600,7 +1638,20 @@
       </lg>
       <mg>
          <tg>
-            <t pos="N">vuohčču</t>
+            <t pos="N">lávttas</t>
+         </tg>
+            <xg>
+               <x>Diet geassá láktasa.</x>
+               <xt>Den trekker til seg fuktighet.</xt>
+            </xg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="N">šlávas</t>
+            <xg>
+               <x>Det er varmere der og det er mer fuktighet enn hva som er vanlig mesteparten av året.</x>
+               <xt>Doppe lea lieggasat ja eanet šlávas go lea dábálaš eanaš áiggi jagis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1630,6 +1681,7 @@
       </lg>
       <mg>
          <tg>
+            <t pos="N">fástoláskkáš</t>
             <t pos="N">láskkáš</t>
          </tg>
       </mg>
@@ -1660,6 +1712,7 @@
       </lg>
       <mg>
          <tg>
+            <t pos="N">liigeáhkká</t>
             <t pos="N">anašeaddji</t>
          </tg>
       </mg>
@@ -1671,6 +1724,7 @@
       <mg>
          <tg>
             <t pos="N">aktoealit</t>
+            <t pos="N">oktoealit</t>
          </tg>
       </mg>
    </e>
