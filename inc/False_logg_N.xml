@@ -826,7 +826,7 @@
             <t pos="N">spierru</t>
             <xg>
                <x>De to fanget en hel stim.</x>
-               <xt>Gottiiga olles spieru.</xt>
+               <xt>Gottiiga olles spierru.</xt>
             </xg>
          </tg>
       </mg>
@@ -977,8 +977,8 @@
             <re>dum</re>
             <t pos="N">duihmi</t>
             <xg>
-               <x>Leago son duihmi?.</x>
-               <xt>Er han en sinke?</xt>
+               <x>Er han en sinke?</x>
+               <xt>Leago son duihmi?</xt>
             </xg>
          </tg>
       </mg>
@@ -1525,7 +1525,7 @@
             <t pos="N">hoavri</t>
             <xg>
                <x>Jeg vil fotografere undervannslivet, men har ikke hatt råd til å kjøpe kamera, så det innfallet kan virkeliggjøres.</x>
-               <xt>Áiggušin govvet čáhcevuoli eallima, muhto in leat suitán kamera oastit ahte dietge hoavri ollašuvvá.</xt>
+               <xt>Áiggošin govvet čáhcevuoli eallima, muhto in leat suitán kámera oastit ahte dietge hoavri ollašuvvá.</xt>
             </xg>
          </tg>
       </mg>
@@ -1627,7 +1627,7 @@
             <t pos="N">rábát</t>
             <xg>
                <x>På hver eneste faste løype er det mye gjørme, skriver fylkesmannen.</x>
-               <xt>Juohke áidna máđiijas leat ollu rábit, čállá fylkkamánni.</xt>
+               <xt>Juohke áidna máđijas leat ollu rábit, čállá fylkkamánni.</xt>
             </xg>
          </tg>
       </mg>
@@ -1641,8 +1641,8 @@
             <t pos="N">lávttas</t>
          </tg>
             <xg>
-               <x>Diet geassá láktasa.</x>
-               <xt>Den trekker til seg fuktighet.</xt>
+               <x>Den trekker til seg fuktighet.</x>
+               <xt>Diet geassá láktasa.</xt>
             </xg>
       </mg>
       <mg>
@@ -1922,7 +1922,7 @@
         <t pos="N">oaivámuš</t>
             <xg>
                <x>Livvaktenes boss satte han til å passe Jovsset.</x>
-               <xt>Heaggafávttai oaivámuš bijai su fáktet Jovsseha.</xt>
+               <xt>Heaggafávttaid oaivámuš bijai su fáktet Jovsseha.</xt>
             </xg>
       </tg>
     </mg>
@@ -2612,7 +2612,7 @@
     </mg>
     <mg>
       <tg>
-        <re>bakeverk</re>
+        <re>bakverk</re>
         <t pos="N">bollá</t>
       </tg>
     </mg>
@@ -2623,7 +2623,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">suovat</t>
+        <t pos="N">ássan</t>
       </tg>
     </mg>
   </e>
@@ -2866,6 +2866,16 @@
         <t pos="N">differánsa</t>
       </tg>
     </mg>
+    <mg>
+      <tg>
+        <re>forskjell</re>
+        <t pos="N">erohus</t>
+            <xg>
+               <x>Den store differansen mellom omsøkt og erstattet rovvilttap har økt konfliktnivået mellom myndighetene og næringen.</x>
+               <xt>Dát stuorra erohus gaskkal ohccojuvvon ja buhtaduvvon boraspiremassima lea lasihan vuostálasvuođa gaskkal eiseválddiid ja ealáhusa.</xt>
+            </xg>
+      </tg>
+    </mg>
   </e>
   <e usage="vd">
       <lg>
@@ -2933,7 +2943,22 @@
       </lg>
     <mg>
       <tg>
+        <re>vanlig</re>
         <t pos="N">álbmogassii</t>
+            <xg>
+               <x>Foreldrene hadde en dugnad på tilsammen 48 timer.</x>
+               <xt>Váhnemat barge oktiibuot 48 diimmu álbmogassii.</xt>
+            </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>mindre vanlig</re>
+        <t pos="N">veahkkálasbargu</t>
+            <xg>
+               <x>Mange virksomheter har meldt seg til dugnaden.</x>
+               <xt>Máŋga ásahusa leat searvan dán veahkkálasbargui.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -2953,6 +2978,7 @@
       </lg>
     <mg>
       <tg>
+        <re>om vekst; stanser på grunn av ugunstige vekstforhold</re>
         <t pos="N">goikkádatadjágas</t>
       </tg>
     </mg>
@@ -3154,6 +3180,13 @@
       </lg>
     <mg>
       <tg>
+        <re>telefaks</re>
+        <t pos="N">fáksa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om hest</re>
         <t pos="N">hárji</t>
       </tg>
     </mg>
@@ -3254,7 +3287,20 @@
       </lg>
     <mg>
       <tg>
+        <re>reise, ekspidisjon</re>
         <t pos="N">johtin</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>atferd, fremferd</re>
+        <t pos="N">láhtten</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>flokk: følge</re>
+        <t pos="N">joavku</t>
       </tg>
     </mg>
   </e>
@@ -3265,6 +3311,16 @@
     <mg>
       <tg>
         <t pos="N">hápmi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">govus</t>
+        <t pos="N">govadat</t>
+            <xg>
+               <x>Dette framstilles i figur</x>
+               <xt>Máŋga ásahusa leat searvan dán veahkkálasbargui.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
