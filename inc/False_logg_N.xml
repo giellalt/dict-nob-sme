@@ -3290,8 +3290,12 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">skárben</t>
         <t pos="N">vártnuhisvuohta</t>
+        <t pos="N">skárben</t>
+            <xg>
+               <x>I det fattige landet var elendigheten stor.</x>
+               <xt>Geafes riikkas vártnuhisvuohta lei stuoris.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -3311,7 +3315,13 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">bearašdállu</t>
+        <t pos="N">bearašviessu</t>
         <t pos="N">sierraviessu</t>
+            <xg>
+               <x>Brihttá og Issát har bygd en ny enebolig.</x>
+               <xt>Brihttá ja Issát leaba huksehan ođđa bearašviesu.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -3332,6 +3342,10 @@
     <mg>
       <tg>
         <t pos="N">indu</t>
+          <xg>
+             <x>Ved valg av kandidatene ble det lagt vekt på deres personlige egenskaper og entusiasme.</x>
+             <xt>Evttohasaid válljedettiin deattuhuvvojedje sin persovnnalaš iešvuođat ja indu.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -3469,6 +3483,10 @@
     <mg>
       <tg>
         <t pos="N">oidu</t>
+          <xg>
+             <x>Deres innblanding i saken var ikke i favør av sjøsamene.</x>
+             <xt>Ii lean sin seaguheapmi dasa riddosámiide oidun.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -3521,17 +3539,23 @@
       </lg>
     <mg>
       <tg>
+        <re>kroppsform, skikkelse</re>
         <t pos="N">hápmi</t>
+          <xg>
+             <x>Hun har en vanlig figur, men det vises jo at hun driver med idrett.</x>
+             <xt>Sus lea dábálaš hápmi, vaikko oidno gal ahte son hárjehallá.</xt>
+          </xg>
       </tg>
     </mg>
     <mg>
       <tg>
+        <re>illustrasjon til tekst</re>
         <t pos="N">govus</t>
         <t pos="N">govadat</t>
-            <xg>
-               <x>Dette framstilles i figur</x>
-               <xt>Máŋga ásahusa leat searvan dán veahkkálasbargui.</xt>
-            </xg>
+          <xg>
+             <x>I figuren nedenfor vises hvordan pengene er fordelt i de forskjellige samiske områdene.</x>
+             <xt>Vuolábealde govus čájeha mo ruhta lea juolluduvvun sámi guovvuide.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -3542,6 +3566,7 @@
     <mg>
       <tg>
         <t pos="N">ealligovva</t>
+        <t pos="N">filbma</t>
       </tg>
     </mg>
   </e>
@@ -3561,7 +3586,14 @@
       </lg>
     <mg>
       <tg>
+        <re>person</re>
         <t pos="N">vuotnalaš</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>hest</re>
+        <t pos="N">fjurán</t>
       </tg>
     </mg>
   </e>
@@ -3571,7 +3603,22 @@
       </lg>
     <mg>
       <tg>
+        <re>vanligere</re>
+        <t pos="N">lihkku</t>
+          <xg>
+             <x>Hun hadde flaks </x>
+             <xt>Vare buohkain dakkár lihkku!</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>mindre vanlig</re>
         <t pos="N">tuvra</t>
+          <xg>
+             <x>Dat kan ikke utelukkende være flaks, siden jeg allerede har vunnet tre ganger.</x>
+             <xt>Ii sáhte leat dušše tuvra go golbmii jo lean vuoitán.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -3771,6 +3818,7 @@
       </lg>
     <mg>
       <tg>
+        <re>om spillet</re>
         <t pos="N">spábbačiekčan</t>
       </tg>
     </mg>
@@ -3911,7 +3959,14 @@
       </lg>
     <mg>
       <tg>
+        <re>ytterrom</re>
         <t pos="N">feaskkir</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>det å gå</re>
+        <t pos="N">vázzin</t>
       </tg>
     </mg>
   </e>
@@ -3931,6 +3986,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">gáhta</t>
         <t pos="N">gáhtta</t>
       </tg>
     </mg>
@@ -4021,7 +4077,28 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">goastu</t>
+        <re>hevn</re>
+        <t pos="N">mávssaheapmi</t>
+          <xg>
+             <x>I filmer står gjengjeldelse gjerne i sentrum.</x>
+             <xt>Filmmain mávssaheapmi lea dávjá guovddážis.</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>tilbakebetaling</re>
+        <t pos="N">máksu</t>
+          <xg>
+             <x>Jeg er redd for hva de vil ha til gjengjeldelse.</x>
+             <xt>Balan maid dál fas gáibidit máksun.</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>takk</re>
+        <t pos="N">bálká</t>
       </tg>
     </mg>
   </e>
