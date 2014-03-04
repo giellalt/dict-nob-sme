@@ -4624,7 +4624,14 @@
       </lg>
     <mg>
       <tg>
+        <re>slossing</re>
         <t pos="N">doarrun</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>konkurranse</re>
+        <t pos="N">gilvu</t>
       </tg>
     </mg>
   </e>
@@ -4654,6 +4661,7 @@
       </lg>
     <mg>
       <tg>
+        <re>om prestasjon</re>
         <t pos="N">árvosátni</t>
       </tg>
     </mg>
@@ -4725,6 +4733,7 @@
     <mg>
       <tg>
         <t pos="N">girku</t>
+        <t pos="N">kirku</t>
       </tg>
     </mg>
   </e>
@@ -4734,6 +4743,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">čoahpahandoavttir</t>
         <t pos="N">kirurga</t>
       </tg>
     </mg>
@@ -4754,7 +4764,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">gievra</t>
+        <t pos="N">jiehtanas</t>
       </tg>
     </mg>
   </e>
@@ -4895,6 +4905,8 @@
     <mg>
       <tg>
         <t pos="N">skibir</t>
+        <t pos="N">ustit</t>
+        <t pos="N">olmmái</t>
       </tg>
     </mg>
   </e>
@@ -5052,6 +5064,12 @@
         <t pos="N">dálkkodeapmi</t>
       </tg>
     </mg>
+    <mg>
+      <tg>
+        <re>om det å gjøre kur på noen</re>
+        <t pos="N">irgaleapmi</t>
+      </tg>
+    </mg>
   </e>
   <e usage="vd">
       <lg>
@@ -5069,7 +5087,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">oaksi</t>
+        <t pos="N">rissi</t>
       </tg>
     </mg>
   </e>
@@ -5122,6 +5140,11 @@
         <t pos="N">jođiheapmi</t>
       </tg>
     </mg>
+    <mg>
+      <tg>
+        <t pos="N">sivra</t>
+      </tg>
+    </mg>
   </e>
   <e usage="vd">
       <lg>
@@ -5140,7 +5163,6 @@
     <mg>
       <tg>
         <t pos="N">juolgi</t>
-        <t pos="N">leagga</t>
       </tg>
     </mg>
   </e>
@@ -5290,7 +5312,14 @@
       </lg>
     <mg>
       <tg>
+        <re>langt stykke tre eller plast</re>
         <t pos="N">listu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>kløkt</re>
+        <t pos="N">gávvilvuohta</t>
       </tg>
     </mg>
   </e>
@@ -5340,7 +5369,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">girdinšillju</t>
+        <t pos="N">girdišillju</t>
       </tg>
     </mg>
   </e>
@@ -5390,6 +5419,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">lávvardat</t>
         <t pos="N">lávvordat</t>
       </tg>
     </mg>
@@ -5430,6 +5460,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">beallelaš</t>
         <t pos="N">guoibmi</t>
       </tg>
     </mg>
@@ -5441,6 +5472,7 @@
     <mg>
       <tg>
         <t pos="N">málejeaddji</t>
+        <t pos="N">málár</t>
       </tg>
     </mg>
   </e>
@@ -5518,6 +5550,16 @@
       <lg>
     <l pos="N">melodi</l>
       </lg>
+    <mg>
+      <tg>
+        <t pos="N">šuokŋa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">nuohtta</t>
+      </tg>
+    </mg>
     <mg>
       <tg>
         <t pos="N">melodiija</t>
@@ -5610,6 +5652,7 @@
       </lg>
     <mg>
       <tg>
+        <re>på teater eller film</re>
         <t pos="N">neavttárguoibmi</t>
       </tg>
     </mg>
@@ -5630,6 +5673,17 @@
       </lg>
     <mg>
       <tg>
+        <re>om menneske</re>
+        <t pos="N">deahkki</t>
+            <xg>
+               <x></x>
+               <xt></xt>
+            </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om fisk</re>
         <t pos="N">cuohppa</t>
       </tg>
     </mg>
@@ -5640,7 +5694,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">muslim</t>
+        <t pos="N">musliima</t>
       </tg>
     </mg>
   </e>
@@ -5680,7 +5734,21 @@
       </lg>
     <mg>
       <tg>
+        <re>om språk</re>
+        <t pos="N">dárogiella</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om person</re>
         <t pos="N">dáža</t>
+        <t pos="N">dáčča</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om person</re>
+        <t pos="N">norgalaš</t>
       </tg>
     </mg>
   </e>
@@ -5831,6 +5899,11 @@
     <mg>
       <tg>
         <t pos="N">ortnet</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">organiseren</t>
       </tg>
     </mg>
   </e>
@@ -6000,6 +6073,24 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">návli</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>penere uttrykk for penis</re>
+        <t pos="N">cissá</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>bare mennesker; penis, også som skjellsord</re>
+        <t pos="N">cihppa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>på smågutter</re>
         <t pos="N">dirri</t>
       </tg>
     </mg>
@@ -6030,6 +6121,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">plena</t>
         <t pos="N">sitnugieddi</t>
       </tg>
     </mg>
@@ -6070,6 +6162,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">poasta</t>
         <t pos="N">boasta</t>
       </tg>
     </mg>
@@ -6133,6 +6226,18 @@
         <t pos="N">bursa</t>
       </tg>
     </mg>
+    <mg>
+      <tg>
+        <re>hudpose rundt testiklene</re>
+        <t pos="N">ballobursa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>skinnet rundt testiklene</re>
+        <t pos="N">ballonáhkki</t>
+      </tg>
+    </mg>
   </e>
   <e usage="vd">
       <lg>
@@ -6140,7 +6245,11 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">almmuheapmi</t>
+        <t pos="N">dieđiheapmi</t>
+            <xg>
+               <x>Påmelding til programmet skjer via våre nettsider.</x>
+               <xt>Prográmmii dieđiheapmi dáhpáhuvvá min neahttasiidduid bokte.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -6201,6 +6310,19 @@
     <mg>
       <tg>
         <t pos="N">čearda</t>
+            <xg>
+               <x>I tidligere forskning mente man at hodeskalleformen bestemte rasen.</x>
+               <xt>Ovdalaš dutkamiin oaivvildedje ahte oaiveskálžohápmi lea seamma go čearda.</xt>
+            </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">nálli</t>
+            <xg>
+               <x>Denne rasen klarer seg bedre på ute på beite enn vanlige sauer.</x>
+               <xt>Dát nálli birge buorebut guohtumiin go dábálaš sávzzat.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -6220,7 +6342,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">oaivválašvuohta</t>
+        <t pos="N">našonalitehta</t>
       </tg>
     </mg>
   </e>
@@ -6310,7 +6432,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">galkan</t>
+        <t pos="N">máhcaheapmi</t>
       </tg>
     </mg>
   </e>
@@ -6500,7 +6622,14 @@
       </lg>
     <mg>
       <tg>
+        <re>om person</re>
         <t pos="N">sáddejeaddji</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om ting</re>
+        <t pos="N">sáddenbierggas</t>
       </tg>
     </mg>
   </e>
@@ -6521,6 +6650,12 @@
     <mg>
       <tg>
         <t pos="N">dovddan</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>ved eksamen</re>
+        <t pos="N">sensor</t>
       </tg>
     </mg>
   </e>
@@ -6570,7 +6705,9 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">anašeapmi</t>
         <t pos="N">seksa</t>
+        <t pos="N">seksuálaovttastallan</t>
       </tg>
     </mg>
   </e>
@@ -6610,7 +6747,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">oaivedoaimmaheaddji</t>
+        <t pos="N">váldodoaimmaheaddji</t>
       </tg>
     </mg>
   </e>
@@ -6650,7 +6787,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">čuoigansabet</t>
+        <t pos="N">sabet</t>
       </tg>
     </mg>
   </e>
@@ -6691,6 +6828,7 @@
     <mg>
       <tg>
         <t pos="N">sárggastus</t>
+        <t pos="N">tevnnet</t>
       </tg>
     </mg>
   </e>
@@ -6740,6 +6878,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">šláva</t>
         <t pos="N">šlávva</t>
       </tg>
     </mg>
@@ -6750,6 +6889,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">šlávavuohta</t>
         <t pos="N">šlávvavuohta</t>
       </tg>
     </mg>
@@ -6840,7 +6980,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">spánska</t>
+        <t pos="N">espánnjalaš</t>
       </tg>
     </mg>
   </e>
@@ -7321,6 +7461,7 @@
     <mg>
       <tg>
         <t pos="N">govvejeaddji</t>
+        <t pos="N">sárgu</t>
       </tg>
     </mg>
   </e>
