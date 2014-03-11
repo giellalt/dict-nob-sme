@@ -5729,7 +5729,7 @@
       </lg>
     <mg>
       <tg>
-        <re>om språk</re>
+        <re>språk</re>
         <t pos="N">dárogiella</t>
       </tg>
     </mg>
@@ -8526,11 +8526,20 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">bierggas</t>
+          <xg>
+             <x>I en stor bil er det plass til mye ting.</x>
+             <xt>Stuorra biilii čáhket ollu biergasat.</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
         <re>eiendel</re>
         <t pos="N">dávvir</t>
           <xg>
-             <x>Det der er sannelig en nyttig ting!.</x>
-             <xt>Diet lea vuoiga anolaš dávvir!</xt>
+             <x>Hvem sine ting er dette?</x>
+             <xt>Gean dávvirat dá leat?</xt>
           </xg>
       </tg>
     </mg>
@@ -8680,14 +8689,14 @@
       </lg>
     <mg>
       <tg>
-        <re>person</re>
-        <t pos="N">dánskalaš</t>
+        <re>språk</re>
+        <t pos="N">dánskkagiella</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <re>språk</re>
-        <t pos="N">dánskkagiella</t>
+        <re>om person</re>
+        <t pos="N">dánskalaš</t>
       </tg>
     </mg>
   </e>
@@ -8896,8 +8905,21 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">heađuštus</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>forhindring</re>
         <t pos="N">árru</t>
         <t pos="N">hehttehus</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om det å forstyrre</re>
+        <t pos="N">muosehuhttin</t>
+        <t pos="N">ráfehuhttin</t>
       </tg>
     </mg>
   </e>
@@ -8918,8 +8940,14 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">fránskalaš</t>
+        <re>språk</re>
         <t pos="N">fránskkagiella</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om person</re>
+        <t pos="N">fránskalaš</t>
       </tg>
     </mg>
   </e>
@@ -8940,7 +8968,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">dávji</t>
+        <t pos="N">dávjodat</t>
         <t pos="N">frekveansa</t>
       </tg>
     </mg>
@@ -8951,7 +8979,19 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">njunuš</t>
+        <t pos="N">rattuš</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>framside, framstykke</re>
         <t pos="N">ovddabealli</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om kamplinje</re>
         <t pos="N">soahtešillju</t>
       </tg>
     </mg>
@@ -8963,7 +9003,14 @@
     <mg>
       <tg>
         <t pos="N">galleriija</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>øverste plasser i kirken</re>
         <t pos="N">girkolokta</t>
+        <t pos="N">kirkolokta</t>
+        <t pos="N">holvi</t>
       </tg>
     </mg>
   </e>
@@ -8973,8 +9020,11 @@
       </lg>
     <mg>
       <tg>
+        <re>gjenferd</re>
         <t pos="N">eahpáraš</t>
         <t pos="N">jámeš</t>
+        <t pos="N">jámet</t>
+        <t pos="N">jámit</t>
       </tg>
     </mg>
   </e>
@@ -8984,8 +9034,21 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">indu</t>
+        <re>varme</re>
         <t pos="N">liekkasvuohta</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>iver</re>
+        <t pos="N">indu</t>
+        <t pos="N">mokta</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>entusiasme</re>
+        <t pos="N">ealljárvuohta</t>
       </tg>
     </mg>
   </e>
@@ -8997,6 +9060,7 @@
       <tg>
         <t pos="N">gánda</t>
         <t pos="N">bárdni</t>
+        <t pos="N">lunta</t>
       </tg>
     </mg>
   </e>
@@ -9019,6 +9083,7 @@
       <tg>
         <t pos="N">ovdasáhka</t>
         <t pos="N">álggahus</t>
+        <t pos="N">álggaheapmi</t>
       </tg>
     </mg>
   </e>
@@ -9029,6 +9094,7 @@
     <mg>
       <tg>
         <t pos="N">indu</t>
+        <t pos="N">mokta</t>
             <t pos="N" src="gt;fad">áŋgirvuohta</t>
       </tg>
     </mg>
@@ -9037,6 +9103,11 @@
             <t pos="N" usage="vd">árja</t>
          </tg>
       </mg>
+    <mg>
+      <tg>
+        <t pos="N">ealjárvuohta</t>
+      </tg>
+    </mg>
    </e>
   <e usage="vd">
       <lg>
@@ -9044,10 +9115,20 @@
       </lg>
     <mg>
       <tg>
+        <re>rettsvitenskap</re>
         <t pos="N">láhkadieđa</t>
         <t pos="N">juridihkka</t>
       </tg>
     </mg>
+    <mg>
+      <tg>
+        <re>drikke</re>
+        <t pos="N">ebelsákta</t>
+        <t pos="N">ebelsinasákta</t>
+      </tg>
+    </mg>
+
+
   </e>
   <e usage="vd">
       <lg>
@@ -9066,8 +9147,8 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">giikan</t>
         <t pos="N">giikkár</t>
-        <t pos="N">geahččanlássa</t>
       </tg>
     </mg>
   </e>
@@ -9078,6 +9159,11 @@
     <mg>
       <tg>
         <t pos="N">gáldu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>bekk</re>
         <t pos="N">ája</t>
       </tg>
     </mg>
@@ -9110,7 +9196,12 @@
       </lg>
     <mg>
       <tg>
+        <re>lag av personer</re>
         <t pos="N">searvi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
         <t pos="N">šlubbu</t>
       </tg>
     </mg>
@@ -9121,8 +9212,9 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">komeahtta</t>
         <t pos="N">seaibenásti</t>
+        <t pos="N">komeahta</t>
+        <t pos="N">komeahtta</t>
       </tg>
     </mg>
   </e>
@@ -9143,8 +9235,8 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">kommunikašuvdna</t>
         <t pos="N">gulahallan</t>
+        <t pos="N">kommunikašuvdna</t>
       </tg>
     </mg>
   </e>
@@ -9155,7 +9247,13 @@
     <mg>
       <tg>
         <t pos="N">oktavuohta</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>for elektrisk utstyr</re>
         <t pos="N">čuggestat</t>
+        <t pos="N">el-čuggestat</t>
       </tg>
     </mg>
   </e>
@@ -9187,8 +9285,8 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">rista</t>
         <t pos="N">ruossa</t>
+        <t pos="N">rista</t>
       </tg>
     </mg>
   </e>
@@ -9595,8 +9693,14 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">ruoŧŧelaš</t>
+        <re>språk</re>
         <t pos="N">ruoŧagiella</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om person</re>
+        <t pos="N">ruoŧŧelaš</t>
       </tg>
     </mg>
   </e>
@@ -9661,8 +9765,14 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">duiskalaš</t>
+        <re>språk</re>
         <t pos="N">duiskkagiella</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om person</re>
+        <t pos="N">duiskalaš</t>
       </tg>
     </mg>
   </e>
