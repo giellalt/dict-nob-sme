@@ -202,6 +202,7 @@
       <mg>
          <tg>
             <t pos="N">skuffa</t>
+            <t pos="N">lođá</t>
          </tg>
       </mg>
    </e>
@@ -1207,6 +1208,7 @@
       <mg>
          <tg>
             <t pos="N">almmáivuohta</t>
+            <t pos="N">olmmáivuohta</t>
          </tg>
       </mg>
    </e>
@@ -1371,7 +1373,7 @@
             <re>kvalmefornemmelse</re>
             <t pos="N">váibmogákkahat</t>
             <xg>
-               <x>Pasienten kan også bli kvalm.</x>
+               <x>Pasienten kan også ha kvalme.</x>
                <xt>Buohccis sáhttá maiddái leat váibmogákkahat.</xt>
             </xg>
          </tg>
@@ -1504,7 +1506,23 @@
       </lg>
       <mg>
          <tg>
+         <re>fôring</re>
             <t pos="N">skoađas</t>
+            <xg>
+               <x>Hvis du legger til en kledning til taket, så sparer du mye varme.</x>
+               <xt>Jus lasihat rohpái skoađđasa, de seasttát ollu lieggasa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+         <re>om klær</re>
+            <t pos="N">gárvu</t>
+            <t pos="N">bivttas</t>
+            <xg>
+               <x>I Kautokeino kler de opp kronprinsparet i samisk kledning.</x>
+               <xt>Guovdageainnus gárvvohit ruvdnoprinsabárra sámi gárvvuiguin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2086,6 +2104,7 @@
       </lg>
     <mg>
       <tg>
+         <re>sak, gjøremål</re>
         <t pos="N">ášši</t>
       </tg>
     </mg>
@@ -2179,8 +2198,10 @@
       <tg>
          <re>tare; store bladformede brunalger som vokser i fjærekanten</re>
         <t pos="N">stára</t>
+            <xg>
                <x>Noen pleide å spise tare til middag.</x>
                <xt>Muhtumat borre stára málisin.</xt>
+            </xg>
       </tg>
     </mg>
     <mg>
@@ -2269,7 +2290,7 @@
          <re>vanlig</re>
         <t pos="N">rahčamuš</t>
             <xg>
-               <x>Hvis man ikke er vant til å ferdes i skogen, kan dette bli litt av en anstrengelse.</x>
+               <x>Hvis man ikke er vant til å ferdes i villmarken, så kan dette bli litt av en anstrengelse.</x>
                <xt>Jus ii leat hárjánan meahcis johtit, de dat sáhttá šaddat oalle rahčamuš.</xt>
             </xg>
       </tg>
@@ -2383,6 +2404,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">buorrehádja</t>
         <t pos="N">aroma</t>
       </tg>
     </mg>
@@ -2694,7 +2716,7 @@
     </mg>
     <mg>
       <tg>
-        <re>det å skylde på eller anklage</re>
+        <re></re>
         <t pos="N">áššáskuhttin</t>
             <xg>
                <x>Dette er en alvorlig beskyldning som vil få følger.</x>
@@ -3331,10 +3353,39 @@
       </lg>
     <mg>
       <tg>
+        <re>iver</re>
         <t pos="N">indu</t>
           <xg>
              <x>Ved valg av kandidatene ble det lagt vekt på deres personlige egenskaper og entusiasme.</x>
              <xt>Evttohasaid válljedettiin deattuhuvvojedje sin persovnnalaš iešvuođat ja indu.</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>iver, pågangsmot</re>
+        <t pos="N">mokta</t>
+          <xg>
+             <x>Ved valg av kandidatene ble det lagt vekt på deres personlige egenskaper og entusiasme.</x>
+             <xt>Evttohasaid válljedettiin deattuhuvvojedje sin persovnnalaš iešvuođat ja indu.</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">áŋgiruššan</t>
+          <xg>
+             <x></x>
+             <xt></xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">ealljárvuohta</t>
+          <xg>
+             <x>Ivvár sin entusiasme inspirerte alle.</x>
+             <xt>Ivvára ealljárvuohta movtiidahtii buohkaid.</xt>
           </xg>
       </tg>
     </mg>
@@ -3596,7 +3647,7 @@
         <re>vanligere</re>
         <t pos="N">lihkku</t>
           <xg>
-             <x>Hun hadde flaks.</x>
+             <x>Om bare alle hadde slik flaks!</x>
              <xt>Vare buohkain dakkár lihkku!</xt>
           </xg>
       </tg>
@@ -3708,7 +3759,14 @@
       </lg>
     <mg>
       <tg>
+        <re>på klær</re>
         <t pos="N">dieskkar</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>underlag under kløvsalen, mykt underlag</re>
+        <t pos="N">doavggus</t>
       </tg>
     </mg>
   </e>
@@ -3749,6 +3807,7 @@
     <mg>
       <tg>
         <t pos="N">soabat</t>
+        <t pos="N">soabadeapmi</t>
       </tg>
     </mg>
   </e>
@@ -3768,8 +3827,28 @@
       </lg>
     <mg>
       <tg>
+        <re>ting eller omstendighet som bringer vanhell over noe eller noen</re>
         <t pos="N">goarideapmi</t>
+        <t pos="N">goarádus</t>
+          <xg>
+             <x>I filmen skal det komme fram hvordan fraflytting og forsømmelse har hatt innvirkning på den sjøsamiske kulturen.</x>
+             <xt>Filmmas galgá boahtit ovdan mo eretfárren ja goarideapmi leat váikkuhan mearrasámi kultuvrii.</xt>
+          </xg>
       </tg>
+    <mg>
+      <tg>
+        <t pos="N">hilggodeapmi</t>
+          <xg>
+             <x>Forsømmelse av skolearbeid er ikke høvelig.</x>
+             <xt>Skuvllabargguid hilggodeapmi ii leat vuogas.</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">suostan</t>
+      </tg>
+    </mg>
     </mg>
   </e>
   <e usage="vd">
@@ -3788,6 +3867,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">ovddus</t>
         <t pos="N">ovdasat</t>
       </tg>
     </mg>
@@ -3849,8 +3929,33 @@
       </lg>
     <mg>
       <tg>
+        <re>kulde</re>
         <t pos="N">buolaš</t>
+          <xg>
+             <x>Jeg kjenner frosten klype i kinnene.</x>
+             <xt>Dovddan mo buolaš cikzu muođuid.</xt>
+          </xg>
       </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>tykt rim på trær og andre gjenstander</re>
+        <t pos="N">ritni</t>
+          <xg>
+             <x>Marken er rimbelagt og på veggene synes frosten.</x>
+             <xt>Eanan lea bihcon ja seinniin vuhtto ritni.</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>rim på marken</re>
+        <t pos="N">bihci</t>
+      </tg>
+          <xg>
+             <x>Først blir det frost og så blir det glatt.</x>
+             <xt>Vuos šaddá bihci ja de gálja.</xt>
+          </xg>
     </mg>
   </e>
   <e usage="vd">
@@ -3869,7 +3974,8 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">vuovda</t>
+        <t pos="N">monnevuovda</t>
+        <t pos="N">mannevuovda</t>
       </tg>
     </mg>
   </e>
@@ -3955,6 +4061,18 @@
     </mg>
     <mg>
       <tg>
+        <re>en lang gang</re>
+        <t pos="N">guhkes feaskkir</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>korridor, gangbane</re>
+        <t pos="N">váccáhat</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
         <re>det å gå</re>
         <t pos="N">vázzin</t>
       </tg>
@@ -4008,6 +4126,12 @@
     <mg>
       <tg>
         <t pos="N">mirku</t>
+        <t pos="N">mirko</t>
+        <t pos="N">mirkko</t>
+          <xg>
+             <x>Noen slanger har en farlig gift.</x>
+             <xt>Muhtun gearbmašiin lea váralaš mirkko.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -4058,6 +4182,16 @@
     <mg>
       <tg>
         <t pos="N">goastu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">máksu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">bálká</t>
       </tg>
     </mg>
   </e>
@@ -4112,6 +4246,7 @@
       </lg>
     <mg>
       <tg>
+        <re>fordel</re>
         <t pos="N">ovdu</t>
       </tg>
     </mg>
@@ -4123,6 +4258,15 @@
     <mg>
       <tg>
         <t pos="N">dohkkeheapmi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">mieđáhus</t>
+          <xg>
+             <x>Hvis barnet er under atten år, så trengs en godkjennelse fra en av foreldrene.</x>
+             <xt>Jus mánná lea vuolil gávccenuppelot jagi, de dárbbašuvvo váhnema mieđáhus.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -4222,6 +4366,7 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">veažir</t>
         <t pos="N">veahčir</t>
       </tg>
     </mg>
@@ -4344,14 +4489,14 @@
       </lg>
     <mg>
       <tg>
-        <re>klesplagg</re>
-        <t pos="N">gahpir</t>
+        <re>kroppsdel</re>
+        <t pos="N">oaivi</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <re>kroppsdel</re>
-        <t pos="N">oaivi</t>
+        <re>klesplagg</re>
+        <t pos="N">gahpir</t>
       </tg>
     </mg>
   </e>
@@ -4444,6 +4589,12 @@
         <t pos="N">vuođus</t>
       </tg>
     </mg>
+    <mg>
+      <tg>
+        <re>tegn</re>
+        <t pos="N">mearka</t>
+      </tg>
+    </mg>
   </e>
   <e usage="vd">
       <lg>
@@ -4451,7 +4602,19 @@
       </lg>
     <mg>
       <tg>
+        <re>smitte</re>
         <t pos="N">njoammun</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">infekšuvdna</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>betennelse</re>
+        <t pos="N">vuolši</t>
       </tg>
     </mg>
   </e>
@@ -4462,6 +4625,26 @@
     <mg>
       <tg>
         <t pos="N">diehtojuohkin</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">dieđut</t>
+          <xg>
+             <x>Vet du om de har mer informasjon om saken?</x>
+             <xt>Dieđátgo leatgo sis eanet dieđut ášši birra?</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>kunngjøring, melding</re>
+        <t pos="N">diedáhus</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">informašuvdna</t>
       </tg>
     </mg>
   </e>
@@ -9862,4 +10045,19 @@
          </tg>
       </mg>
    </e>
+  <e usage="vd">
+      <lg>
+    <l pos="N">verdensrommet</l>
+      </lg>
+    <mg>
+      <tg>
+        <t pos="N">gomuvuohta</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">máilmmiávus</t>
+      </tg>
+    </mg>
+  </e>
 </r>
