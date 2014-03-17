@@ -7537,6 +7537,18 @@
         <t pos="N">háddjehus</t>
       </tg>
     </mg>
+    <mg>
+      <tg>
+        <re>uenighet</re>
+        <t pos="N">sierramielalašvuohta</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>strid</re>
+        <t pos="N">riidalus</t>
+      </tg>
+    </mg>
   </e>
   <e usage="vd">
       <lg>
@@ -7544,7 +7556,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">valástallan</t>
+        <t pos="N">valáštallan</t>
       </tg>
     </mg>
   </e>
@@ -7554,7 +7566,14 @@
       </lg>
     <mg>
       <tg>
+        <re>press</re>
         <t pos="N">deaddu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om det å være melkesprengt</re>
+        <t pos="N">čardnan</t>
       </tg>
     </mg>
   </e>
@@ -7575,6 +7594,12 @@
     <mg>
       <tg>
         <t pos="N">stánda</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>fasthet, støhet</re>
+        <t pos="A">stárggas</t>
       </tg>
     </mg>
   </e>
@@ -7634,7 +7659,43 @@
       </lg>
     <mg>
       <tg>
+        <re>om det å stige</re>
+        <t pos="N">goargŋun</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>motbakke</re>
+        <t pos="N">vuostálat</t>
+        <t pos="N">vuosteeana</t>
+          <xg>
+             <x>Til Háldi-toppen er det en 9 kilometer lang stigning.</x>
+             <xt>Hálde čohkii lea 9 kilomehtera vuostálat.</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>økning</re>
+        <t pos="N">lassáneapmi</t>
+          <xg>
+             <x>Temperaturens stigning har allerede en innvirkning på naturen.</x>
+             <xt>Temperatuvrra lassáneapmi váikkuha dál jo lundui.</xt>
+          </xg>
+      </tg>
+    </mg>
+  </e>
+  <e usage="vd">
+      <lg>
+    <l pos="N">oppstigning</l>
+      </lg>
+    <mg>
+      <tg>
         <t pos="N">badjáneapmi</t>
+          <xg>
+             <x>Solens oppstigning er så vakkert!</x>
+             <xt>Beaivváža badjáneapmi lea nu čáppat!</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -7684,7 +7745,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">dahppagas</t>
+        <t pos="N">bisáneapmi</t>
       </tg>
     </mg>
   </e>
@@ -7714,6 +7775,12 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">stáhppi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>strek</re>
         <t pos="N">sárggis</t>
       </tg>
     </mg>
@@ -7814,6 +7881,13 @@
       </lg>
     <mg>
       <tg>
+        <re>forandring</re>
+        <t pos="N">rievddadeapmi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>svingende bevegelse</re>
         <t pos="N">heillodus</t>
       </tg>
     </mg>
@@ -7844,7 +7918,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">oassádallan</t>
+        <t pos="N">miehtemiella</t>
       </tg>
     </mg>
   </e>
@@ -7894,8 +7968,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">govvejeaddji</t>
-        <t pos="N">sárgu</t>
+        <t pos="N">tevdnejeaddji</t>
       </tg>
     </mg>
   </e>
@@ -7995,7 +8068,13 @@
       </lg>
     <mg>
       <tg>
+        <re>om det å tilgi</re>
         <t pos="N">ándagassiiaddojupmi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="A">ándagassii</t>
       </tg>
     </mg>
   </e>
@@ -8224,13 +8303,11 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">palsa</t>
         <t pos="N">balsa</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="N">povdna</t>
         <t pos="N">bovdna</t>
       </tg>
     </mg>
