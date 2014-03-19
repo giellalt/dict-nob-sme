@@ -1528,7 +1528,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">addit</t>
+            <t pos="V" usage="vd">addit ándagassii</t>
          </tg>
       </mg>
    </e>
@@ -1539,6 +1539,10 @@
       <mg>
          <tg>
             <t pos="V">čuorvvuhit</t>
+            <xg>
+               <x>Kommunen tilkaller fagfolk til hjelp.</x>
+               <xt>Gielda čuorvvuha fágaolbmuid veahkkin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1569,8 +1573,22 @@
       <mg>
          <tg>
             <t pos="V">tihppet</t>
+            <xg>
+               <x>Skal du tippe i dag?</x>
+               <xt>Áiggutgo tihppet otne?</xt>
+            </xg>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <re>gjette</re>
+            <t pos="V">árvidit</t>
+         </tg>
+      </mg>
+            <xg>
+               <x>Jeg tipper Oskar vinner.</x>
+               <xt>Mun árvidan ahte Oskar vuoitá.</xt>
+            </xg>
    </e>
    <e usage="vd">
       <lg>
@@ -1578,7 +1596,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">meafardit</t>
+            <t pos="V">njaŋggistit</t>
          </tg>
       </mg>
    </e>
@@ -1588,7 +1606,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">smávastit</t>
+            <t pos="V">gevkkohallat</t>
+            <xg>
+               <x>Rypa trippet lenger bort.</x>
+               <xt>Rievssat gevkkohalai dobbelii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1598,8 +1620,28 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">asehuddat</t>
-            <t pos="V">mielahuddat</t>
+            <t pos="V">dádjut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">leaikkastallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">moivet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">giessat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>svøpe</re>
+            <t pos="V">gieŧkat</t>
          </tg>
       </mg>
    </e>
@@ -1609,7 +1651,14 @@
       </lg>
       <mg>
          <tg>
+            <re>noe som er lagt dobbelt</re>
             <t pos="V">geardut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>snurre</re>
+            <t pos="V">jorahit</t>
          </tg>
       </mg>
    </e>
@@ -1629,6 +1678,15 @@
       </lg>
       <mg>
          <tg>
+            <t pos="V">skuvlet</t>
+            <xg>
+               <x>I Finland er de flinke til å utdanne lærere.</x>
+               <xt>Suomas leat čeahpit skuvlet oahpaheddjiid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="V">oahpahit</t>
          </tg>
       </mg>
@@ -1639,7 +1697,20 @@
       </lg>
       <mg>
          <tg>
+            <t pos="V">dahkat</t>
+            <xg>
+               <x>Det norske fastlandet har 37 nasjonalparker som tilsammen utgjør cirka 25 000 km².</x>
+               <xt>Norgga nannámis leat 37 álbmotmeahci, mat dahket oktiibuot sullii 25 000 km².</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
             <t pos="V">gártat</t>
+            <xg>
+               <x>Byggematerialet utgjorde den største utgiften.</x>
+               <xt>Huksenávdnasat gárte stuorámus gollun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1649,7 +1720,16 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">girtat</t>
+            <t pos="V">dárjat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">gierdat</t>
+            <xg>
+               <x>Hvordan skal jeg utholde disse smertene?</x>
+               <xt>Mo galggan dáid bákčasiid gierdat?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1659,7 +1739,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">gulahit</t>
+            <t pos="V">almmuhit</t>
          </tg>
       </mg>
    </e>
@@ -1679,7 +1759,11 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">váŋkot</t>
+            <t pos="V">golgat</t>
+            <xg>
+               <x>Ungdommene bruker å vanke i bygda.</x>
+               <xt>Nuorat lávejit márkanis golgat.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1941,8 +2025,11 @@
       </lg>
       <mg>
          <tg>
-            <re>tilgi</re>
-            <t pos="V" usage="vd">addit ándagassii</t>
+            <t pos="V" usage="vd">átnut ándagassii</t>
+            <xg>
+               <x>Jeg ber om unnskyldning!</x>
+               <xt>Ánun ándagassii!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
