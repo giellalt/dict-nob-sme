@@ -432,6 +432,10 @@
          <tg>
          <re>om mat</re>
             <t pos="V">bassit</t>
+          <xg>
+             <x>Vi har tenkt å grille pølser.</x>
+             <xt>Mii áigut márffiid bassit.</xt>
+          </xg>
          </tg>
       </mg>
    </e>
@@ -956,7 +960,7 @@
             <t pos="V">lášmmohallat</t>
           <xg>
              <x>Jeg må begynne å gå eller mosjonere på annet vis minst tre ganger i uka.</x>
-             <xt>Ferten álgit vážžit dahje eará láhkai lášmmohallat unnimusat golbmii vahkkui.</xt>
+             <xt>Ferten álgit vázzit dahje eará láhkai lášmmohallat unnimusat golbmii vahkkui.</xt>
           </xg>
          </tg>
       </mg>
@@ -1017,6 +1021,11 @@
       <mg>
          <tg>
             <t pos="V">earáhuhttit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">rievdadit</t>
          </tg>
       </mg>
    </e>
@@ -1144,6 +1153,11 @@
             <t pos="V">čorget</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="V">buhtistit</t>
+         </tg>
+      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -1261,7 +1275,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">saskat</t>
+            <t pos="V">hoigadit</t>
          </tg>
       </mg>
    </e>
@@ -1438,6 +1452,17 @@
       </lg>
       <mg>
          <tg>
+            <t pos="V">bissehit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">doalahit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>prøve å holde</re>
             <t pos="V">doalahallat</t>
          </tg>
       </mg>
@@ -1461,6 +1486,11 @@
             <t pos="V">cáhkkat</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <t pos="V">šuohkkit</t>
+         </tg>
+      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -1478,7 +1508,16 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">beahttalit</t>
+            <t pos="V">njihtat</t>
+            <xg>
+               <x>De prøvde å svindle meg for penger.</x>
+               <xt>Sii vigge njihtat ruđaid mus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">fillet</t>
          </tg>
       </mg>
    </e>
@@ -1488,7 +1527,8 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">soaitit</t>
+            <t pos="V">riŋget</t>
+            <t pos="V">čuojahit</t>
          </tg>
       </mg>
    </e>
@@ -1498,7 +1538,20 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">deahtistit</t>
+            <t pos="V">notkat</t>
+            <xg>
+               <x>Far har tenkt å tette husets vegger og tak.</x>
+               <xt>Áhčči áigu notkat dálu seinniid ja robi ovddemuččan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">duogŋat</t>
+            <xg>
+               <x>tette hullet i båten</x>
+               <xt>duogŋat fatnasa ráiggi</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1508,7 +1561,22 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">bálvvuštit</t>
+            <re>religiøst</re>
+            <t pos="V">rohkadallat</t>
+            <xg>
+               <x>tilbe Gud</x>
+               <xt>rohkadallat Ipmila</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">gopmárdallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <t pos="V">bálvalit</t>
          </tg>
       </mg>
    </e>
