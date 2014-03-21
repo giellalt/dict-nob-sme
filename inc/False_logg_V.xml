@@ -169,13 +169,6 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg>
-         <re>å dampe noe</re>
-            <t pos="V">lievddistit</t>
-            <t pos="V">lievllistit</t>
-         </tg>
-      </mg>
    </e>
    <e usage="vd">
       <lg>
@@ -279,6 +272,20 @@
       <mg>
          <tg>
             <t pos="V">oadjut</t>
+            <xg>
+               <x>Lásse fornemmet noe ondt.</x>
+               <xt>Lásse oajui baháid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>ane, finne feil med noe</re>
+            <t pos="V">vihkut</t>
+            <xg>
+               <x>Bestemor fornemmet allerede for lenge siden at samfunnet kommer til å ende seg.</x>
+               <xt>Áhkku vigui áigá jo servodaga rievdama.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -288,7 +295,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">laddit</t>
+            <t pos="V">govahallat</t>
          </tg>
       </mg>
    </e>
@@ -309,11 +316,16 @@
       <mg>
          <tg>
             <t pos="V">heađásnuvvat</t>
-            <t pos="V">áŧestit</t>
             <xg>
                <x>Han fortvilte over de nye forskriftene.</x>
                <xt>Son heađásnuvai ođđa njuolggadusaid dihte.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>mindre vanlig</re>
+            <t pos="V">áŧestuvvat</t>
          </tg>
       </mg>
    </e>
@@ -374,6 +386,10 @@
       <mg>
          <tg>
             <t pos="V">verrošit</t>
+          <xg>
+             <x>Ingen burde la seg lure til å jukse.</x>
+             <xt>Ii oktage galggašii fillehallat verrošit.</xt>
+          </xg>
          </tg>
       </mg>
    </e>
@@ -383,13 +399,6 @@
       </lg>
       <mg>
          <tg>
-            <re>til eksamen</re>
-            <t pos="V">verrošit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <re>om motorer</re>
             <t pos="V">verrošit</t>
          </tg>
       </mg>
@@ -410,7 +419,30 @@
       </lg>
       <mg>
          <tg>
+            <re>måpe</re>
             <t pos="V">dearšát</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>åpne munnen</re>
+            <t pos="V" usage="vd">rahpat njálmmi</t>
+          <xg>
+             <x>Tannlegen ba meg gape.</x>
+             <xt>Bátnedoavttis gohčui mu rahpat njálmmi.</xt>
+          </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>stirre dumt</re>
+            <t pos="V">gaivát</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+            <re>om sår, skrike med grimase om munnen</re>
+            <t pos="V">veanzát</t>
          </tg>
       </mg>
    </e>
@@ -466,6 +498,10 @@
       <mg>
          <tg>
             <t pos="V">huššat</t>
+             <xg>
+               <x>I sterk vind skal man ikke haste med garnene.</x>
+               <xt>Biekkas ii galgga firpmiiguin huššat.</xt>
+             </xg>
          </tg>
       </mg>
    </e>
@@ -485,7 +521,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">dearvvasmahttit</t>
+            <t pos="V">buoridit</t>
          </tg>
       </mg>
    </e>
@@ -495,9 +531,7 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">njahkastit</t>
             <t pos="V">njahkahastit</t>
-            <t pos="V">njalkkuhit</t>
          </tg>
       </mg>
    </e>
@@ -544,7 +578,7 @@
       </mg>
       <mg>
          <tg>
-         <re>om regler; følge, overholde</re>
+         <re>følge, overholde</re>
             <t pos="V">čuovvut</t>
              <xg>
                <x>Det er visste lover og regler man må iaktta.</x>
@@ -680,7 +714,20 @@
       <mg>
          <tg>
             <t pos="V">čatnat</t>
+            <xg>
+               <x>Jeg vet ikke om det er mulig å koble denne saken til den gamle saken.</x>
+               <xt>In dieđe sáhttágo dán ášši čatnat dien boares áššái.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+         <re>skjøte sammen</re>
             <t pos="V">laktit</t>
+            <xg>
+               <x>Husk å koble den digitale dekoderen til TV:n, så den oppfatter signalene!</x>
+               <xt>Muitte laktit digátála vuostáiváldibovssa TV:i, vai áddešii signálaid!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2216,18 +2263,30 @@
       <tg>
          <re>få noe til å smelte</re>
         <t pos="N">suddadit</t>
+            <xg>
+               <x>Jeg tiner snøen mellom hendene.</x>
+               <xt>Suddadan muohttaga gieđaid gaskkas.</xt>
+            </xg>
       </tg>
     </mg>
     <mg>
       <tg>
          <re>om noe som smelter</re>
         <t pos="N">suddat</t>
+            <xg>
+               <x>Isen tiner.</x>
+               <xt>Jiekŋa suddá.</xt>
+            </xg>
       </tg>
     </mg>
     <mg>
       <tg>
          <re>om noe som smelter</re>
         <t pos="N">šolgat</t>
+            <xg>
+               <x>Iskremen tiner når den står for lenge på bordet.</x>
+               <xt>Lákcajiekŋa šolgá go lea menddo guhkká beavddi alde.</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -2238,15 +2297,15 @@
       <mg>
          <tg>
             <t pos="V">gávdnat</t>
-          <xg>
-             <x>Fant du kniven?</x>
-             <xt>Gávdnetgo niibbi?</xt>
-          </xg>
+            <xg>
+               <x>Fant du kniven?</x>
+               <xt>Gávdnetgo niibbi?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg>
-         <re>om å få tak i noen</re>
+         <re>få tak i noen</re>
             <t pos="V">fáhtet</t>
           <xg>
              <x>Klarte du å finne Ánde der borte?</x>
@@ -2287,6 +2346,16 @@
          <tg>
          <re>skvette flere ganger</re>
             <t pos="N">riškkuhit</t>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
+         <l pos="N">varsle</l>
+      </lg>
+      <mg>
+         <tg>
+            <t pos="N">ávaštit</t>
          </tg>
       </mg>
    </e>
