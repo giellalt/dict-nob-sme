@@ -244,7 +244,7 @@
             <t pos="N">erohus</t>
             <t pos="N">earuhus</t>
             <xg>
-               <x>Hva er så skilnaden mellom kunst og samisk handverk?.</x>
+               <x>Hva er så skilnaden mellom kunst og samisk handverk?</x>
                <xt>Makkár de lea dáidaga ja duoji erohus?</xt>
             </xg>
          </tg>
@@ -9893,8 +9893,20 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">lohpi</t>
         <t pos="N">láhka</t>
+            <xg>
+               <x>Slik står det i loven.</x>
+               <xt>Nu čuožžu lágas.</xt>
+            </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">lohpi</t>
+            <xg>
+               <x>Kan jeg få lov til å gå ut?</x>
+               <xt> Oaččungo lobi mannat olggos?</xt>
+            </xg>
       </tg>
     </mg>
   </e>
@@ -10126,6 +10138,10 @@
     <mg>
       <tg>
         <t pos="N">siidu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
         <t pos="N">bealli</t>
       </tg>
     </mg>
@@ -10137,7 +10153,6 @@
     <mg>
       <tg>
         <t pos="N">suohkku</t>
-        <t pos="N">leastu</t>
       </tg>
     </mg>
   </e>
@@ -10159,7 +10174,6 @@
     <mg>
       <tg>
         <t pos="N">spálta</t>
-        <t pos="N">bálstá</t>
       </tg>
     </mg>
   </e>
@@ -10170,6 +10184,11 @@
     <mg>
       <tg>
         <t pos="N">stággu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>av stål eller jern</re>
         <t pos="N">gáŋga</t>
       </tg>
     </mg>
@@ -10180,8 +10199,13 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">márkan</t>
         <t pos="N">čoakkalmas</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>konkurranse</re>
+        <t pos="N">gilvu</t>
       </tg>
     </mg>
   </e>
@@ -10208,8 +10232,14 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">riikkabeaivvit</t>
+        <re>i Norge</re>
         <t pos="N">stuoradiggi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>i Finland og Sverige</re>
+        <t pos="N">riikkabeaivvit</t>
       </tg>
     </mg>
   </e>
@@ -10220,6 +10250,11 @@
     <mg>
       <tg>
         <t pos="N">elrávdnji</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>mindre vanlig</re>
         <t pos="N">šleađga</t>
       </tg>
     </mg>
