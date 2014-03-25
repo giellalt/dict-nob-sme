@@ -8285,6 +8285,12 @@
         <t pos="N">unohasvuohta</t>
       </tg>
     </mg>
+    <mg>
+      <tg>
+         <re>problem</re>
+        <t pos="N">váttisvuohta</t>
+      </tg>
+    </mg>
   </e>
   <e usage="vd">
       <lg>
@@ -8447,7 +8453,7 @@
       </lg>
     <mg>
       <tg>
-         <re>om representant</re>
+         <re>representant</re>
         <t pos="N">áirras</t>
       </tg>
     </mg>
@@ -8513,7 +8519,7 @@
         <re>hull</re>
         <t pos="N">ráigi</t>
             <xg>
-               <x>Når drivgarnet nermert seg elvestengselet, så lukket man utveien.</x>
+               <x>Når drivgarnet nærmert seg elvestengselet, så lukket man utveien.</x>
                <xt>Go golgadat lahkonišgođii oahcása, de ráigi gokčojuvvui.</xt>
             </xg>
       </tg>
@@ -8614,20 +8620,12 @@
     </mg>
     <mg>
       <tg>
-        <t pos="N">rávvehus</t>
-            <xg>
-               <x>En del av veiledningen er å gi ros til studenten.</x>
-               <xt>Okta oassi bagadallamis lea rámi addit studentii.</xt>
-            </xg>
+        <t pos="N">rávven</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="N">rávven</t>
-            <xg>
-               <x>En del av veiledningen er å gi ros til studenten.</x>
-               <xt>Okta oassi bagadallamis lea rámi addit studentii.</xt>
-            </xg>
+        <t pos="N">rávvehus</t>
       </tg>
     </mg>
   </e>
@@ -8707,7 +8705,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">vuordámuš</t>
+        <t pos="N">vuordin</t>
       </tg>
     </mg>
   </e>
@@ -9839,7 +9837,6 @@
     <mg>
       <tg>
         <t pos="N">oasti</t>
-        <t pos="N">áššehas</t>
       </tg>
     </mg>
   </e>
@@ -9860,8 +9857,13 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">rávdnjefiervrredeaddji</t>
         <t pos="N">jođas</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>noe som fører strøm</re>
+        <t pos="N">rávdnjefiervrredeaddji</t>
       </tg>
     </mg>
   </e>
@@ -9882,8 +9884,13 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">ložžen</t>
         <t pos="N">liberaliseren</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>om det å løsne på noe</re>
+        <t pos="N">ložžen</t>
       </tg>
     </mg>
   </e>
@@ -9946,6 +9953,7 @@
     </mg>
     <mg>
       <tg>
+        <re>virvelløst dyr</re>
         <t pos="N">máhtu</t>
       </tg>
     </mg>
@@ -10225,7 +10233,6 @@
     <mg>
       <tg>
         <t pos="N">ráidu</t>
-        <t pos="N">gurgadas</t>
       </tg>
     </mg>
   </e>
@@ -10236,11 +10243,28 @@
     <mg>
       <tg>
         <t pos="N">siidu</t>
+          <xg>
+             <x>På hvilken side er du på i boken?</x>
+             <xt>Gallát siidui leat ollen girjjis?</xt>
+          </xg>
+          <xg>
+             <x>Den andre siden av bilen er full av merker.</x>
+             <xt>Biilla nubbi siidu lea buot mearkanaga.</xt>
+          </xg>
       </tg>
     </mg>
     <mg>
       <tg>
+        <re>halvdel av en helhet</re>
         <t pos="N">bealli</t>
+          <xg>
+             <x>Hvilken side har du havnet på i striden?</x>
+             <xt>Goappá beallái riiddu don leat šaddan?</xt>
+          </xg>
+          <xg>
+             <x>Bare den ene siden av boken ble våt.</x>
+             <xt>Dušše girjji nubbi bealli njuoskkai.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -10286,7 +10310,7 @@
     </mg>
     <mg>
       <tg>
-        <re>av stål eller jern</re>
+        <re>av stål eller jern; tykkere enn stággu</re>
         <t pos="N">gáŋga</t>
       </tg>
     </mg>
@@ -10403,7 +10427,6 @@
     <mg>
       <tg>
         <t pos="N">tuberkulosa</t>
-        <t pos="N">geahpesdávda</t>
       </tg>
     </mg>
   </e>
@@ -10426,6 +10449,12 @@
       <tg>
         <t pos="N">tiipa</t>
         <t pos="N">málle</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>kjæreste</re>
+        <t pos="N">irgi</t>
       </tg>
     </mg>
   </e>
@@ -10517,6 +10546,11 @@
     <mg>
       <tg>
         <t pos="N">vuoigŋa</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>liv</re>
         <t pos="N">heagga</t>
       </tg>
     </mg>
