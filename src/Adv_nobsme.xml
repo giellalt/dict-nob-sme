@@ -83,7 +83,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>på skikkelig vis</re>
-            <t pos="phrase_adv" src="nj" usage="vd">albma ládje</t>
+            <t pos="Adv" src="nj" usage="vd">albma ládje</t>
             <xg>
                <x>Det er ikke spøk når læreren blir ordentlig sint.</x>
                <xt>Ii leat leaika go oahpaheaddji albma ládje suhttá.</xt>
@@ -2513,6 +2513,20 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="Adv">aldri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd">ii goassege</t>
+            <xg>
+               <x>Hun kommer ldri.</x>
+               <xt>Son ii boađe goassege.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e usage="vd">
       <lg>
          <l pos="Adv">hvor</l>
@@ -2728,7 +2742,7 @@
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd">maŋos</t>
             <t pos="Adv" src="nj" usage="vd">maŋás</t>
-            <t pos="phrase_adv" src="nj" usage="vd">maŋos guvlui</t>
+            <t pos="Adv" src="nj" usage="vd">maŋos guvlui</t>
             <xg>
                <x>Ved hjelp av genene kan man følge menneskeslekten bakover i tid.</x>
                <xt>Genaid bokte sáhttá guorrat olmmošsoga maŋos guvlui.</xt>
@@ -3720,7 +3734,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">lihkus</t>
-            <t pos="phrase_adv" usage="vd">buore lihkus</t>
+            <t pos="Adv" usage="vd">buore lihkus</t>
             <xg>
                <x>Heldigvis deltok også flinke joikere i konkurransen.</x>
                <xt>Buore lihkus serve maid čeahpes juoigit gilvui.</xt>
@@ -3754,7 +3768,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="phrase_adv" usage="vd">dienas láhkai</t>
+            <t pos="Adv" usage="vd">dienas láhkai</t>
          </tg>
       </mg>
    </e>
@@ -3764,7 +3778,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="phrase_adv" usage="vd">ovddos guvlui</t>
+            <t pos="Adv" usage="vd">ovddos guvlui</t>
             <xg>
                <x>Nå må vi tenke framover.</x>
                <xt>Dál fertet ovddos guvlui jurddašit.</xt>
@@ -3948,10 +3962,6 @@
             <xg>
                <x>Har du noensinne vært der?</x>
                <xt>Leat go goassege leamaš doppe?</xt>
-            </xg>
-            <xg>
-               <x>aldri</x>
-               <xt>ii goassege</xt>
             </xg>
          </tg>
       </mg>
