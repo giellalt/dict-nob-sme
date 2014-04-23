@@ -373,7 +373,7 @@
     </mg>
     <mg>
       <tg>
-        <re>om person; også om viljekraft</re>
+        <re>om person: også om viljekraft</re>
         <t pos="N">arva</t>
           <xg>
              <x>Du har så mye energi at du kan begynne å utrette nye arbeidsoppgaver.</x>
@@ -383,7 +383,7 @@
     </mg>
     <mg>
       <tg>
-        <re>om person; også iver, besluttsomhet</re>
+        <re>om person: også iver, besluttsomhet</re>
         <t pos="N">árja</t>
           <xg>
              <x>Energien til de to er veldig oppkvikkende for alle.</x>
@@ -480,8 +480,12 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">guollebivdu</t>
         <t pos="N">guolástus</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <t pos="N">guollebivdu</t>
       </tg>
     </mg>
   </e>
@@ -524,7 +528,13 @@
       </lg>
     <mg>
       <tg>
+        <re>fryd</re>
         <t pos="N">illu</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>fest</re>
         <t pos="N">riemut</t>
       </tg>
     </mg>
@@ -561,6 +571,14 @@
         <re>om det å forstyrre</re>
         <t pos="N">muosehuhttin</t>
         <t pos="N">ráfehuhttin</t>
+          <xg>
+             <x>Forstyrrelse av fuglereir bør unngås spesielt på forsommeren.</x>
+             <xt>Lottebesiid muosehuhttin galggašii garvit erenomážit árrageasi.</xt>
+          </xg>
+          <xg>
+             <x>Forstyrrelse av eggene kan føre til at redet blir vraket.</x>
+             <xt>Maniid ráfehuhttin sáhttá dagahit ahte beassi hilgojuvvo.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -650,7 +668,6 @@
       <tg>
         <re>øverste plasser i kirken</re>
         <t pos="N">girkolokta</t>
-        <t pos="N">kirkolokta</t>
         <t pos="N">holvi</t>
       </tg>
     </mg>
@@ -662,10 +679,15 @@
     <mg>
       <tg>
         <re>gjenferd</re>
-        <t pos="N">eahpáraš</t>
         <t pos="N">jámeš</t>
         <t pos="N">jámet</t>
         <t pos="N">jámit</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>gjenferdet av et barn</re>
+        <t pos="N">eahpáraš</t>
       </tg>
     </mg>
   </e>
@@ -699,9 +721,9 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">gánda</t>
         <t pos="N">bárdni</t>
-        <t pos="N">lunta</t>
+        <t pos="N" dial="east">gánda</t>
+        <t pos="N" dial="west">lunta</t>
       </tg>
     </mg>
   </e>
@@ -724,7 +746,6 @@
       <tg>
         <t pos="N">ovdasáhka</t>
         <t pos="N">álggahus</t>
-        <t pos="N">álggaheapmi</t>
       </tg>
     </mg>
   </e>
@@ -763,13 +784,17 @@
     </mg>
     <mg>
       <tg>
-        <re>drikke</re>
+        <re>drikke: eplejus</re>
         <t pos="N">ebelsákta</t>
         <t pos="N">ebelsinasákta</t>
       </tg>
     </mg>
-
-
+    <mg>
+      <tg>
+        <re>drikke: appelsinjus</re>
+        <t pos="N">ebelsinasákta</t>
+      </tg>
+    </mg>
   </e>
   <e usage="vd" src="nfl_201402">
       <lg>
@@ -788,7 +813,7 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">giikan</t>
+        <t pos="N">giikar</t>
         <t pos="N">giikkár</t>
       </tg>
     </mg>
@@ -815,8 +840,8 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">eammi</t>
         <t pos="N">áhkku</t>
+        <t pos="N">eammi</t>
       </tg>
     </mg>
   </e>
@@ -826,8 +851,8 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">klássa</t>
         <t pos="N">luohkká</t>
+        <t pos="N">klássa</t>
       </tg>
     </mg>
   </e>
@@ -878,6 +903,10 @@
       <tg>
         <t pos="N">gulahallan</t>
         <t pos="N">kommunikašuvdna</t>
+          <xg>
+             <x>De to har en god kommunikasjon seg i mellom.</x>
+             <xt>Sudnos gal lea buorre gulahallan gaskaneaskka.</xt>
+          </xg>
       </tg>
     </mg>
   </e>
@@ -905,6 +934,11 @@
     <mg>
       <tg>
         <t pos="N">kopiija</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>som har blitt kopiert</re>
         <t pos="N">máŋggus</t>
       </tg>
     </mg>
@@ -915,7 +949,13 @@
       </lg>
     <mg>
       <tg>
+        <re>tilpassing</re>
         <t pos="N">heiveheapmi</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+        <re>rettelse, reparasjon</re>
         <t pos="N">divvun</t>
       </tg>
     </mg>
