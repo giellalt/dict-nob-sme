@@ -203,22 +203,20 @@
       </lg>
     <mg>
       <tg>
+        <re>ro</re>
         <t pos="N">muossi</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="N">boddu</t>
+        <re>liten pause</re>
+        <t pos="N">bottoš</t>
       </tg>
     </mg>
     <mg>
       <tg>
+        <re>avbrudd</re>
         <t pos="N">boatka</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="N">boavda</t>
       </tg>
     </mg>
   </e>
@@ -278,6 +276,7 @@
       </lg>
     <mg>
       <tg>
+        <re>argument, grunnlag</re>
         <t pos="N">vuođus</t>
       </tg>
     </mg>
@@ -294,13 +293,13 @@
       </lg>
     <mg>
       <tg>
-        <re>smitte</re>
-        <t pos="N">njoammun</t>
+        <t pos="N">infekšuvdna</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <t pos="N">infekšuvdna</t>
+        <re>smitte</re>
+        <t pos="N">njoammun</t>
       </tg>
     </mg>
     <mg>
@@ -316,6 +315,15 @@
       </lg>
     <mg>
       <tg>
+        <t pos="N">dieđut</t>
+          <xg>
+             <x>Har du ny informasjon om saken?</x>
+             <xt>Leatgo dus ođđa dieđut ášši birra?</xt>
+          </xg>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
         <re>om det å dele ut informasjon</re>
         <t pos="N">diehtojuohkin</t>
           <xg>
@@ -326,18 +334,13 @@
     </mg>
     <mg>
       <tg>
-        <t pos="N">dieđut</t>
-        <t pos="N">informašuvdna</t>
-          <xg>
-             <x>Har du ny informasjon om saken?</x>
-             <xt>Leatgo dus ođđa dieđut ášši birra?</xt>
-          </xg>
+        <re>kunngjøring, melding</re>
+        <t pos="N">diedáhus</t>
       </tg>
     </mg>
     <mg>
       <tg>
-        <re>kunngjøring, melding</re>
-        <t pos="N">diedáhus</t>
+        <t pos="N">informašuvdna</t>
       </tg>
     </mg>
   </e>
@@ -347,7 +350,6 @@
       </lg>
     <mg>
       <tg>
-        <t pos="N">sisamannan</t>
         <t pos="N">sisabeassan</t>
           <xg>
              <x>Inngang er gratis.</x>
@@ -386,7 +388,7 @@
     </mg>
     <mg>
       <tg>
-        <re>i uttrykksmåter om personer og om hjertet; innvendig, det indre</re>
+        <re>i uttrykksmåter om personer og hjertet; innvendig, det indre</re>
         <t pos="N">siskildas</t>
       </tg>
     </mg>
