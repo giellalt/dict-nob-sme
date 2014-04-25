@@ -94,17 +94,6 @@
    </e>
   <e usage="vd" src="nfl_201402">
       <lg>
-    <l pos="N">alderdom</l>
-      </lg>
-    <mg>
-      <tg>
-        <t pos="N">boarisvuohta</t>
-        <t pos="N">vuorasvuohta</t>
-      </tg>
-    </mg>
-  </e>
-  <e usage="vd" src="nfl_201402">
-      <lg>
     <l pos="N">bryne</l>
       </lg>
     <mg>
@@ -212,7 +201,14 @@
       </lg>
     <mg>
       <tg>
+         <re>fargebånd ved lysbrytning</re>
         <t pos="N">girju</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg>
+         <re>variasjonsbredde</re>
+        <t pos="N">spekter</t>
       </tg>
     </mg>
   </e>
@@ -267,29 +263,6 @@
       <tg>
         <t pos="N">musea</t>
         <t pos="N">dávvirvuorká</t>
-      </tg>
-    </mg>
-  </e>
-  <e usage="vd" src="nfl_201402">
-      <lg>
-    <l pos="N">møte</l>
-      </lg>
-    <mg>
-      <tg>
-        <t pos="N">čoahkkin</t>
-            <xg>
-               <x>I dag har vi et møte på jobben kl. 15.</x>
-               <xt>Otne mis lea čoahkkin barggus dii. 15. </xt>
-            </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <t pos="N">deaivvadeapmi</t>
-            <xg>
-               <x>Ánte gleder seg fordi han har avtalt et møte med Risten på kaféen.</x>
-               <xt>Ánte illuda danne go lea šiehttan deaivvadeami Risteniin kaféas.</xt>
-            </xg>
       </tg>
     </mg>
   </e>
@@ -353,16 +326,6 @@
   </e>
   <e usage="vd" src="nfl_201402">
       <lg>
-    <l pos="N">tuberkulose</l>
-      </lg>
-    <mg>
-      <tg>
-        <t pos="N">tuberkulosa</t>
-      </tg>
-    </mg>
-  </e>
-  <e usage="vd" src="nfl_201402">
-      <lg>
     <l pos="N">tulling</l>
       </lg>
     <mg>
@@ -373,40 +336,6 @@
     <mg>
       <tg>
         <t pos="N">gáigi</t>
-      </tg>
-    </mg>
-  </e>
-  <e usage="vd" src="nfl_201402">
-      <lg>
-    <l pos="N">type</l>
-      </lg>
-    <mg>
-      <tg>
-        <t pos="N">tiipa</t>
-        <t pos="N">málle</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <re>kjæreste</re>
-        <t pos="N">irgi</t>
-      </tg>
-    </mg>
-  </e>
-  <e usage="vd" src="nfl_201402">
-      <lg>
-    <l pos="N">tysk</l>
-      </lg>
-    <mg>
-      <tg>
-        <re>språk</re>
-        <t pos="N">duiskkagiella</t>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-        <re>person</re>
-        <t pos="N">duiskalaš</t>
       </tg>
     </mg>
   </e>
@@ -429,17 +358,6 @@
       <tg>
         <t pos="N">heakkalaš</t>
         <t pos="N">sivdnádus</t>
-      </tg>
-    </mg>
-  </e>
-  <e usage="vd" src="nfl_201402">
-      <lg>
-    <l pos="N">vik</l>
-      </lg>
-    <mg>
-      <tg>
-        <t pos="N">luokta</t>
-        <t pos="N">gohppi</t>
       </tg>
     </mg>
   </e>
