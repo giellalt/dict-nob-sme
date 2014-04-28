@@ -1,22 +1,15 @@
 <r>
    <e usage="vd" src="nfl_201402">
       <lg>
-         <l pos="V">kose seg</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">naffát</t>
-            <t pos="V">njabbát</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
          <l pos="V">krible</l>
       </lg>
       <mg>
          <tg>
             <t pos="V">moađaidit</t>
+            <xg>
+               <x>Det kribler i halsen.</x>
+               <xt>Čotta moađaida.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26,7 +19,12 @@
       </lg>
       <mg>
          <tg>
-            <t pos="V">lađaidit</t>
+         <re>vrimle av noe</re>
+            <t pos="V">lađđat</t>
+            <xg>
+               <x>Kjøttet krydde av spyfluelarver.</x>
+               <xt>Biergu láđai suovssaiguin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -128,50 +126,6 @@
    </e>
    <e usage="vd" src="nfl_201402">
       <lg>
-         <l pos="V">reformere</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">ođasmahttit</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">regissere</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">rešisseret</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">renske</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">buhtistit</t>
-            <xg>
-               <x>Legen rensker såret.</x>
-               <xt>Doavttir buvttista hávi</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-         <re>rydde</re>
-            <t pos="V">čorget</t>
-            <xg>
-               <x>IT-avdelingen har bedt oss renske datamaskinene.</x>
-               <xt>IT-ossodat lea gohččun min čorget dihroriimmet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
          <l pos="V">retardere</l>
       </lg>
       <mg>
@@ -192,41 +146,11 @@
    </e>
    <e usage="vd" src="nfl_201402">
       <lg>
-         <l pos="V">skildre</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">govvidit</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">skimte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">earuhit</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
          <l pos="V">slarve</l>
       </lg>
       <mg>
          <tg>
             <t pos="V">loavkkistit</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">slokke</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">čáskadit</t>
          </tg>
       </mg>
    </e>
@@ -253,23 +177,6 @@
    </e>
    <e usage="vd" src="nfl_201402">
       <lg>
-         <l pos="V">flørte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">irggástallat</t>
-            <t pos="V">moarsastallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <re>mindre vanlig</re>
-            <t pos="V">gimssordit</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
          <l pos="V">trosse</l>
       </lg>
       <mg>
@@ -278,206 +185,6 @@
             <t pos="V">čiđđit</t>
             <t pos="V">riehkádallat</t>
             <t pos="V">riehkidit</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">kjempe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">dáistalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="V">rahčat</t>
-         </tg>
-      </mg>
-   </e>
-  <e usage="vd" src="nfl_201402">
-      <lg>
-    <l pos="V">tine</l>
-      </lg>
-    <mg>
-      <tg>
-         <re>få noe til å smelte</re>
-        <t pos="V">suddadit</t>
-            <xg>
-               <x>Jeg tiner snøen mellom hendene.</x>
-               <xt>Suddadan muohttaga gieđaid gaskkas.</xt>
-            </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-         <re>om noe som smelter</re>
-        <t pos="V">suddat</t>
-            <xg>
-               <x>Isen tiner.</x>
-               <xt>Jiekŋa suddá.</xt>
-            </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-         <re>om noe som smelter</re>
-        <t pos="V">šolgat</t>
-            <xg>
-               <x>Iskremen tiner når den står for lenge på bordet.</x>
-               <xt>Lákcajiekŋa šolgá go lea menddo guhkká beavddi alde.</xt>
-            </xg>
-      </tg>
-    </mg>
-  </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">finne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">gávdnat</t>
-            <xg>
-               <x>Fant du kniven?</x>
-               <xt>Gávdnetgo niibbi?</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-         <re>få tak i noen</re>
-            <t pos="V">fáhtet</t>
-          <xg>
-             <x>Klarte du å finne Ánde der borte?</x>
-             <xt>Nagaditgo fáhtet Ándde doppe?</xt>
-          </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">sprøyte</l>
-      </lg>
-      <mg>
-         <tg>
-         <re>sprøyte en gang</re>
-            <t pos="V">cirget</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-         <re>sprøyte flere ganger</re>
-            <t pos="V">cirgut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-         <re>få væske til å sprøyte</re>
-            <t pos="V">cirgguhit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-         <re>skvette en gang</re>
-            <t pos="V">riškalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-         <re>skvette flere ganger</re>
-            <t pos="V">riškkuhit</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">varsle</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">ávaštit</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">stevne</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">stevdnet</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">spalte</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">látnjat</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">mose</l>
-      </lg>
-      <mg>
-         <tg>
-        <re>også; knuse</re>
-            <t pos="V">mollet</t>
-            <xg>
-               <x>Muoŧŧá jearrá gillengo buđehiid mollet ja lávcca lasihastit.</x>
-               <xt>Tante spør om jeg orker å mose potetene og tilsette litt fløte.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-            <t pos="V">njuvdit</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">flamme</l>
-      </lg>
-      <mg>
-         <tg>
-           <re>bevege seg flammende: flagre</re>
-            <t pos="V">libardit</t>
-            <xg>
-               <x>Guovssahasat libardit almmis.</x>
-               <xt>Nordlyset flammer på himmelen.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-        <re>mindre vanlig: flamme opp</re>
-            <t pos="V">njivžut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg>
-           <re>flamme meget</re>
-            <t pos="V">njuoršut</t>
-            <xg>
-               <x>Dolla stuorru ja njuošu.</x>
-               <xt>Ilden blir større og flammer kraftig.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">spole</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">buolladit</t>
          </tg>
       </mg>
    </e>
