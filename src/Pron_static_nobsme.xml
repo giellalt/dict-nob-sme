@@ -47,7 +47,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re fra_ref="2hverandrekom">med hverandre (komitativ)</re>
+            <re fra_ref="2hverandrekom">med hverandre (komitativ eller adverb)</re>
             <t/>
          </tg>
       </mg>
@@ -82,7 +82,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re fra_ref="flerehverandrekom">hverandre (komitativ)</re>
+            <re fra_ref="flerehverandrekom">med hverandre (komitativ eller adverb)</re>
             <t/>
          </tg>
       </mg>
@@ -269,6 +269,7 @@
             <re>vi to ... med hverandre</re>
             <t pos="Pron" type="Recipr">goabbat guimmiineame</t>
             <t pos="Pron" type="Recipr">nubbi nuppiin</t>
+            <t pos="Adv">gaskaneame</t>
             <xg>
                <x>Vi to spøker med hverandre.</x>
                <xt>Moai leaikkastalle goabbat guimmiineame.</xt>
@@ -277,6 +278,10 @@
                <x>Vi to spøker med hverandre.</x>
                <xt>Moai leaikkastalle nubbi nuppiin.</xt>
             </xg>
+            <xg>
+               <x>Vi to snakket bare norsk med hverandre.</x>
+               <xt>Moai dušše dárusteimme gaskaneame.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -284,6 +289,7 @@
             <re>dere to .... med hverandre</re>
             <t pos="Pron" type="Recipr">goabbat guimmiineatte</t>
             <t pos="Pron" type="Recipr">nubbi nuppiin</t>
+            <t pos="Adv">gaskaneatte</t>
             <xg>
                <x>Dere to spøker med hverandre.</x>
                <xt>Doai leaikkastallabeahtti goabbat guimmiineatte.</xt>
@@ -292,6 +298,10 @@
                <x>Dere to spøker med hverandre.</x>
                <xt>Doai leaikkastallabeahtti nubbi nuppiin.</xt>
             </xg>
+            <xg>
+               <x>Denne delen kan dere to fritt dele med hverandre.</x>
+               <xt>Dán oasi sáhttibeahtti friddja juogadit gaskaneatte.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -299,6 +309,7 @@
             <re>de to .... med hverandre</re>
             <t pos="Pron" type="Recipr">goabbat guimmiineaskka</t>
             <t pos="Pron" type="Recipr" nr="Sg">nubbi nuppiin</t>
+            <t pos="Adv">gaskaneaskka</l>
             <xg>
                <x>De to spøker med hverandre.</x>
                <xt>Soai leaikkastallaba goabbat guimmiineaskka.</xt>
@@ -306,6 +317,10 @@
             <xg>
                <x>De to spøker med hverandre.</x>
                <xt>Soai leaikkastallaba nubbi nuppiin.</xt>
+            </xg>
+            <xg>
+               <x>Foreldrene kan avtale med hverandre hvor stort tilskuddet skal være.</x>
+               <xt>Váhnemat sáhttiba gaskaneaskka šiehttat man stuoris doarjja galgá leat.</xt>
             </xg>
          </tg>
       </mg>
@@ -530,6 +545,7 @@
             <t pos="Pron" type="Recipr" nr="Sg">guhtet guimmiineamet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiideametguin</t>
             <t pos="Pron" type="Recipr">nuppit nuppiiguin</t>
+            <t pos="Adv">gaskaneamet</l>
             <xg>
                <x>Vi skøyer med hverandre.</x>
                <xt>Mii leaikkastallat guhtet guimmiineamet.</xt>
@@ -542,6 +558,10 @@
                <x>Vi skøyer med hverandre.</x>
                <xt>Mii leaikkastallat nuppit nuppiiguin.</xt>
             </xg>
+            <xg>
+               <x>Vi snakket bare norsk sammen.</x>
+               <xt>Mii dušše dárusteimmet gaskaneamet.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -550,6 +570,7 @@
             <t pos="Pron" type="Recipr" nr="Sg">guhtet guimmiineattet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiideattetguin</t>
             <t pos="Pron" type="Recipr">nuppit nuppiiguin</t>
+            <t pos="Adv">gaskaneattet</l>
             <xg>
                <x>Dere skøyer med hverandre.</x>
                <xt>Dii leaikkastallabehtet guhtet guimmiineattet.</xt>
@@ -562,6 +583,10 @@
                <x>Dere skøyer med hverandre.</x>
                <xt>Dii leaikkastallabehtet nuppit nuppiiguin.</xt>
             </xg>
+            <xg>
+               <x>Snakk nå samisk med hverandre!</x>
+               <xt>Hállet fal sámegiela gaskaneattet!</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -570,6 +595,7 @@
             <t pos="Pron" type="Recipr" nr="Sg">guhtet guimmiineaset</t>
             <t pos="Pron" type="Recipr">guhtet guimmiideasetguin</t>
             <t pos="Pron" type="Recipr">nuppit nuppiiguin</t>
+            <t pos="Adv">gaskaneaset</l>
             <xg>
                <x>De skøyer med hverandre.</x>
                <xt>Sii leaikkastallet guhtet guimmiineaset.</xt>
@@ -581,6 +607,10 @@
             <xg>
                <x>De skøyer med hverandre.</x>
                <xt>Sii leaikkastallet nuppit nuppiiguin.</xt>
+            </xg>
+            <xg>
+              <x>De samarbeider godt med hverandre.</x>
+              <xt>Sii ovttasbarget bures gaskaneaset.</xt>
             </xg>
          </tg>
       </mg>
