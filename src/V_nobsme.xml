@@ -11284,6 +11284,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd">reaškkihit</t>
+            <t pos="V" usage="vd">čaimmahit</t>
          </tg>
       </mg>
    </e>
@@ -11324,6 +11325,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>mot noen eller noe</re>
             <t pos="V" src="nj" usage="vd">eahccit</t>
          </tg>
       </mg>
@@ -11334,6 +11336,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>om en handling</re>
             <t pos="V" src="nj" usage="vd">verrošit</t>
          </tg>
       </mg>
@@ -12408,16 +12411,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd">šuohkihit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bry med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">váivvidit</t>
          </tg>
       </mg>
    </e>
@@ -14931,8 +14924,15 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">doddjot</t>
+            <re>om noe som er spent eller utspilt</re>
             <t pos="V" src="nj" usage="vd">báhccat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om en handling</re>
+            <t pos="V" usage="vd">mannat eret</t>
+            <t pos="V" usage="vd">njuiket eret</t>
          </tg>
       </mg>
    </e>
