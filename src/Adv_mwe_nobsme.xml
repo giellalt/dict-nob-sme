@@ -12,6 +12,16 @@
    </e>
    <e>
       <lg>
+         <l pos="Adv">på dagen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd">beaivet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">på tvers</l>
       </lg>
       <mg>
@@ -199,13 +209,27 @@
    </e>
    <e>
       <lg>
+         <l pos="Adv">på kvelden</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd">eahkes</t>
+            <t pos="Adv" usage="vd">eahkedis</t>
+            <xg>
+               <x>På kvelden var det gudstjeneste i kirka.</x>
+               <xt>Eahkes lei ipmilbálvalus girkus.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">om morgenen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">iđđes</t>
             <t pos="Adv" usage="vd">iđđedis</t>
-            <t pos="Adv" usage="vd">iđedis</t>
             <xg>
                <x>Om morgenen var det snøfokk, men ut på dagen ble det fint vær.</x>
                <xt>Iđđes lei guoldu, muhto beaivet de firtii.</xt>
@@ -214,9 +238,24 @@
                <x>Om morgenen var det snøfokk, men ut på dagen ble det fint vær.</x>
                <xt>Iđđedis lei guoldu, muhto beaivet de firtii.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på morgenen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd">iđđes</t>
+            <t pos="Adv" usage="vd">iđđedis</t>
             <xg>
-               <x>Om morgenen var det snøfokk, men ut på dagen ble det fint vær.</x>
-               <xt>Iđedis lei guoldu, muhto beaivet de firtii.</xt>
+               <x>På morgenen var det snøfokk, men ut på dagen ble det fint vær.</x>
+               <xt>Iđđes lei guoldu, muhto beaivet de firtii.</xt>
+            </xg>
+            <xg>
+               <x>På morgenen var det snøfokk, men ut på dagen ble det fint vær.</x>
+               <xt>Iđđedis lei guoldu, muhto beaivet de firtii.</xt>
             </xg>
          </tg>
       </mg>
@@ -264,6 +303,20 @@
             <t pos="Adv" src="nj" usage="vd">giđđat</t>
             <xg>
                <x>Om våren kan det være flom.</x>
+               <xt>Giđđat sáhttet leat dulvvit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på våren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" src="nj" usage="vd">giđđat</t>
+            <xg>
+               <x>På våren kan det være flom.</x>
                <xt>Giđđat sáhttet leat dulvvit.</xt>
             </xg>
          </tg>
@@ -480,6 +533,20 @@
    </e>
    <e>
       <lg>
+         <l pos="Adv">på høsten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" src="nj" usage="vd">čakčat</t>
+            <xg>
+               <x>På høsten begynner skolen.</x>
+               <xt>Čakčat álgá skuvla.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">for ei tid siden</l>
       </lg>
       <mg>
@@ -497,6 +564,20 @@
             <t pos="Adv" src="nj" usage="vd">dálvet</t>
             <xg>
                <x>Om vinteren kan man gå på ski, men ikke om sommeren.</x>
+               <xt>Dálvet sáhttá čuoigat, muhto geasset ii gal sáhte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på vinteren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" src="nj" usage="vd">dálvet</t>
+            <xg>
+               <x>På vinteren kan man gå på ski, men ikke om sommeren.</x>
                <xt>Dálvet sáhttá čuoigat, muhto geasset ii gal sáhte.</xt>
             </xg>
          </tg>
@@ -762,6 +843,20 @@
    </e>
    <e>
       <lg>
+         <l pos="Adv">på sommeren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" src="nj" usage="vd">geasset</t>
+            <xg>
+               <x>På vinteren kan man gå på ski, men ikke om sommeren.</x>
+               <xt>Dálvet sáhttá čuoigat, muhto geasset ii gal sáhte.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">på gløtt</l>
       </lg>
       <mg>
@@ -831,6 +926,20 @@
             <t pos="Adv" src="nj" usage="vd">ihkku</t>
             <xg>
                <x>Sámmol liker å reise om natta.</x>
+               <xt>Sámmol liiko ihkku johtit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">på natta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" src="nj" usage="vd">ihkku</t>
+            <xg>
+               <x>Sámmol liker å reise på natta.</x>
                <xt>Sámmol liiko ihkku johtit.</xt>
             </xg>
          </tg>

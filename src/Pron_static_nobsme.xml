@@ -4502,29 +4502,31 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">mii</t>
+         <re>nominativ</re>
+            <t pos="Pron" type="Interr">mii</t>
             <xg>
-               <x>Hva er så der? Det som skjer, det skjer.</x>
-               <xt>Mii bat doppe lea? Dat mii dáhpáhuvvá, dat dáhpáhuvvá.</xt>
+               <x>Hva er så der?</x>
+               <xt>Mii bat doppe lea?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t nr="Sg" pos="Pron" type="Rel">maid</t>
+            <re>flertall nominativ</re>
+            <t pos="Pron" type="Interr">mat</t>
             <xg>
-               <x>Hva gjør du her? Máret tenkte på banklånet som hun skulle betale i dag.</x>
-               <xt>Maid dagat dáppe? Máret jurddašii báŋkoloana birra maid galggai máksit odne.</xt>
+               <x>Hva er asteroider?</x>
+               <xt>Mat leat asteroiidat?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>flertall</re>
-            <t nr="Pl" pos="Pron" type="Rel">maid</t>
+         <re>akkusativ</re>
+            <t nr="Sg" pos="Pron" type="Interr">maid</t>
             <xg>
-               <x> Her får du lese om noen saker som Áššu har skrevet om det siste året.</x>
-               <xt> Dás beasat lohkat muhtin áššiid maid birra Áššu lea čállán mannan jagi.</xt>
+               <x>Hva gjør du her?</x>
+               <xt>Maid dagat dáppe?</xt>
             </xg>
          </tg>
       </mg>
@@ -4532,100 +4534,102 @@
          <tg xml:lang="sme">
             <t pos="Pron" type="Rel">man</t>
             <xg>
-               <x>Hva skriver dere om? Ved siden av Buoskavárri er det et fjell som heter Ráhpesvárri. Jeg hentet den motoren som Niillas hadde reparert.</x>
-               <xt>Man birra čállibehtet? Buoskavári guoras lea várri man namma lea Ráhpesvárri. Vižžen mutuvrra, man Niillas lei divvon.</xt>
+               <x>Hva skriver dere om?</x>
+               <xt>Man birra čállibehtet?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>flertall</re>
-            <t pos="Pron" type="Rel">mat</t>
+         <re>til hva</re>
+            <t pos="Pron" type="Rel">masa</t>
             <xg>
-               <x>Hva er asteroider? Søknader som kommer etter den tidsfristen, behandles ikke.</x>
-               <xt>Mat leat asteroiidat? Ohcamat mat bohtet dan áigemeari maŋŋel, eai meannuduvvo.</xt>
+               <x>Hva skal du bruke den til?</x>
+               <xt>Masa don áiggut dien geavahit?</xt>
             </xg>
          </tg>
       </mg>
-   </e>
+  </e>
    <e mg_c="8">
       <lg>
          <l pos="Pron">hvem</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">gii</t>
+            <t pos="Pron" type="Interr">gii</t>
             <xg>
-               <x>Hvem er så du? I gamle dager var det en fattig mann som ofte var innom og tigget hos presten.</x>
-               <xt>Gii bat don leat? Dološ áigge lei muhtin geafes olmmái gii dávjá finadii báhpa luhtte ánuheame.</xt>
+               <x>Hvem er så du?</x>
+               <xt>Gii bat don leat?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>innenfor en avgrenset gruppe</re>
-            <t pos="Pron" type="Rel">guhte</t>
+            <t pos="Pron" type="Interr">guhte</t>
             <xg>
-               <x>Hvem har gjort dette? Hvilken sekk er tyngst? Elle fortalte hva hver enkelt tok.</x>
-               <xt>Guhte lea dán bargan? Guhte seahkka lea losimus? Elle muitalii maid guhte válddii.</xt>
+               <x>Hvem har gjort dette?</x>
+               <xt>Guhte lea dán bargan?</xt>
+            </xg>
+            <xg>
+               <x>Hvilken sekk er tyngst?</x>
+               <xt>Guhte seahkka lea losimus?</xt>
+            </xg>
+            <xg>
+               <x>Elle fortalte hva hver enkelt tok.</x>
+               <xt>Elle muitalii maid guhte válddii.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>flertall</re>
-            <t pos="Pron" type="Rel">geat</t>
+            <t pos="Pron" type="Interr">geat</t>
             <xg>
-               <x>Hvem er hovedrolleinnehaverne i filmen? Áššu snakket med mange som ikke var fornøyde.</x>
-               <xt>Geat leat váldoneaktárat filmmas? Áššu humadii máŋgasiin geat eai lean duhtavaččat.</xt>
+               <x>Hvem er hovedrolleinnehaverne i filmen?</x>
+               <xt>Geat leat váldoneaktárat filmmas?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>om flere innenfor en avgrenset gruppe</re>
-            <t pos="Pron" type="Rel">guđet</t>
+            <t pos="Pron" type="Interr">guđet</t>
             <xg>
-               <x>Hvem har gjort dette? Hvilke votter er dine?</x>
-               <xt>Guđet leat dán bargan? Guđet fáhcat leat du?</xt>
+               <x>Hvem har gjort dette?</x>
+               <xt>Guđet leat dán bargan?</xt>
+            </xg>
+            <xg>
+               <x>Hvilke votter er dine?</x>
+               <xt>Guđet fáhcat leat du?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">gean</t>
+            <re>akkusativ og genitiv</re>
+            <t pos="Pron" type="Interr">gean</t>
             <xg>
-               <x>Hvem sitt ansvar er det? Hvem så du? Våre fotballspillere har sagt hvem de ønsker som trener. Hvem vet hvem sin reinkalv det er?</x>
-               <xt>Gean ovddasvástádus dat lea? Gean don oidnet? Min spábbačiekčit leat lohkan gean sii háliidit hárjeheaddjin. Gii diehtá gean miessi dat lea?</xt>
+               <x>Hvem sitt ansvar er det?</x>
+               <xt>Gean ovddasvástádus dat lea?</xt>
+            </xg>
+            <xg>
+               <x>Hvem så du?</x>
+               <xt>Gean don oidnet?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>flertall</re>
-            <t pos="Pron" type="Rel">geaid</t>
+            <re>akkusativ og genitiv flertall</re>
+            <t pos="Pron" type="Interr">geaid</t>
             <xg>
-               <x>Hvem vil Reisas trener ha på laget? Hvem har tegninger på utstillinga? Der er det fem fotballspillere som Reisa vil på laget. Nedenfor ser du navnene til dem som har tegninger på utstillinga.</x>
-               <xt>Geaid Ráissa hárjeheaddji háliida jovkui? Geaid sárgumat leat čájáhusas? Doppe leat vihtta čiekči geaid Ráisa háliida iežaset jovkui. Vuolábealde oainnát sin namaid geaid sárgumat leat čájáhusas.</xt>
+               <x>Hvem vil Reisas trener ha på laget?</x>
+               <xt>Geaid Ráissa hárjeheaddji háliida jovkui?</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">guđe</t>
             <xg>
-               <x>Hvilket land kommer du fra? Jeg har ikke bestemt meg for hvilken presidentkandidat jeg skal stemme på.</x>
-               <xt>Guđe riikkas don leat eret? In leat mearridan guđe presideantaevttohasa jienastan.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flertall</re>
-            <t pos="Pron" type="Rel">guđiid</t>
-            <xg>
-               <x>Hvilke klær skal jeg vaske?</x>
-               <xt>Guđiid biktasiid mun galggan bassat?</xt>
+               <x>Hvem sine tegninger er på utstillinga?</x>
+               <xt>Geaid sárgumat leat čájáhusas?</xt>
             </xg>
          </tg>
       </mg>
@@ -4636,7 +4640,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">goabbá</t>
+            <t pos="Pron" type="Interr">goabbá</t>
          </tg>
       </mg>
       <mg>
@@ -4663,34 +4667,33 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>innenfor en avgrenset gruppe</re>
-            <t pos="Pron" type="Rel">guhte</t>
+            <t pos="Pron" type="Interr">mii</t>
             <xg>
-               <x>Hvem har gjort dette? Hvilken sekk er tyngst? Elle fortalte hva hver enkelt tok.</x>
+               <x>Hvilken dag er det idag?</x>
+               <xt>Mii beivviid lea odne?</xt>
+            </xg>
+            <xg>
+               <x>Hvilke bøker kan man låne på bygdehuset?</x>
+               <xt>Maid girjjiid sáhttá luoikkahit giliviesus?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>innenfor en avgrenset gruppe</re>
+            <t pos="Pron" type="Interr">guhte</t>
+            <xg>
+               <x>Hvilken sekk er tyngst? Elle fortalte hva hver enkelt tok.</x>
                <xt>Guhte lea dán bargan? Guhte seahkka lea losimus? Elle muitalii maid guhte válddii.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">guđe</t>
+            <t pos="Pron" type="Interr">guđe</t>
             <xg>
                <x>Hvilket land kommer du fra? Jeg har ikke bestemt meg for hvilken presidentkandidat jeg skal stemme på.</x>
                <xt>Guđe riikkas don leat eret? In leat mearridan guđe presideantaevttohasa jienastan.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">den som</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">guhte</t>
-            <xg>
-               <x>En kandidat som blir syk under skoleeksamen, må underrette hovedvakt i eksamenslokalet.</x>
-               <xt>Kandidáhtta guhte buohccá skuvlaeksámena áigge, ferte dieđihit dan eksámenlanja váldofáktii.</xt>
             </xg>
          </tg>
       </mg>
@@ -4702,24 +4705,10 @@
       <mg>
          <tg xml:lang="sme">
             <re>om flere innenfor en avgrenset gruppe</re>
-            <t pos="Pron" type="Rel">guđet</t>
+            <t pos="Pron" type="Interr">guđet</t>
             <xg>
-               <x>Hvem har gjort dette? Hvilke votter er dine?</x>
-               <xt>Guđet leat dán bargan? Guđet fáhcat leat du?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">de som</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">guđet</t>
-            <xg>
-               <x>Kursene er ment for dem som kan litt samisk fra før.</x>
-               <xt>Kurssat leat sin várás guđet máhttet veaháš sámegiela ovddežis.</xt>
+               <x>Hvilke votter er dine?</x>
+               <xt>Guđet fáhcat leat du?</xt>
             </xg>
          </tg>
       </mg>
@@ -4730,65 +4719,48 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t nr="Sg" pos="Pron" type="Interr">makkár</t>
+            <t pos="Pron" type="Interr">makkár</t>
+            <xg>
+               <x>Johan vil vite hva slags gutt Heammu er.</x>
+               <xt>Johán háliida diehtit makkár	gánda Heammu lea.</xt>
+            </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flertall</re>
-            <t nr="Pl" pos="Pron" type="Interr">makkárat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Interr">makkára</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flertall</re>
-            <t pos="Pron" type="Interr">makkáriid</t>
-         </tg>
-      </mg>
+<!--      <mg>													  -->
+<!--         <tg xml:lang="sme">								  -->
+<!--            <re>til hva slags</re>							  -->
+<!--            <t pos="Pron" type="Interr">makkárii</t>		  -->
+<!--         </tg>												  -->
+<!--      </mg>													  -->
+<!--      <mg>													  -->
+<!--         <tg xml:lang="sme">								  -->
+<!--            <re>i/av hva slags</re>							  -->
+<!--            <t pos="Pron" type="Interr">makkáris</t>		  -->
+<!--         </tg>												  -->
+<!--      </mg>													  -->
+<!--      <mg>													  -->
+<!--         <tg xml:lang="sme">								  -->
+<!--            <re>med hva slags</re>							  -->
+<!--            <t nr="Pl" pos="Pron" type="Interr">makkáriin</t> -->
+<!--         </tg>												  -->
+<!--      </mg>													  -->
+<!--      <mg>													  -->
+<!--         <tg xml:lang="sme">								  -->
+<!--            <re>som hva slags</re>							  -->
+<!--            <t pos="Pron" type="Interr">makkárin</t>		  -->
+<!--         </tg>												  -->
+<!--      </mg>													  -->
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron">til hva</l>
+         <l pos="Pron">hva slags (har)</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">masa</t>
-            <xg>
-               <x>Hva skal du bruke den til? Gruppa spiller musikk som folk i Kautokeino liker.</x>
-               <xt>Masa don áiggut dien geavahit? Joavku čuojaha musihka masa guovdageaidnulaččat liikojit.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flertall</re>
-            <t pos="Pron" type="Rel">maidda</t>
-            <xg>
-               <x> Alt dette var bruksgjenstander som det var bruk for til hverdags.</x>
-               <xt> Buot dát ledje atnudávvirat, maidda beaivválaččat lei dárbu.</xt>
-            </xg>
+            <t pos="Pron" type="Interr">makkáris</t>
          </tg>
       </mg>
    </e>
-<!--Dette stemmer ikke. Skal dette flyttes til artikkelen som omhandler 'som'?   <e>
-      <lg>
-         <l pos="Pron">hvor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">mas</t>
-            <xg>
-               <x>Hva har mest vitaminer? Tanken er å etablere et sekretariat som har hele 8 stillinger.</x>
-               <xt>Mas leat eanemus vitamiinnat? Jurdda lea ásahit čállingotti mas leat olles 8 virggi.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>-->
    <e mg_c="2">
       <lg>
          <l pos="Pron">med hva</l>
@@ -4807,8 +4779,8 @@
             <re>flertall</re>
             <t pos="Pron" type="Rel">maiguin</t>
             <xg>
-               <x> Det er saker som Sametinget arbeider med.</x>
-               <xt> Dathan leat áššit maiguin Sámediggi bargá.</xt>
+               <x>Det er saker som Sametinget arbeider med.</x>
+               <xt>Dathan leat áššit maiguin Sámediggi bargá.</xt>
             </xg>
          </tg>
       </mg>
@@ -4819,7 +4791,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">manin</t>
+            <t pos="Pron" type="Interr">manin</t>
          </tg>
       </mg>
    </e>
@@ -5023,8 +4995,8 @@
             <re>flertall</re>
             <t pos="Pron" type="Rel">main</t>
             <xg>
-               <x> Alle har selv kjøpt materialer som de syr bukser av.</x>
-               <xt> Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</xt>
+               <x>Alle har selv kjøpt materialer som de syr bukser av.</x>
+               <xt>Buohkat leat ieža oastán ávdnasiid main gorrot buvssaid.</xt>
             </xg>
          </tg>
       </mg>
@@ -5100,80 +5072,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Rel">goabbán</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron">til hva slags</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Interr">makkárii</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flertall</re>
-            <t pos="Pron" type="Interr">makkáriidda</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron">i/av hva slags</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Interr">makkáris</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flertall</re>
-            <t nr="Pl" pos="Pron" type="Interr">makkáriin</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron">hva slags (har)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Interr">makkáris</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flertall</re>
-            <t nr="Pl" pos="Pron" type="Interr">makkáriin</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron">med hva slags</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Sg" pos="Pron" type="Interr">makkáriin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flertall</re>
-            <t pos="Pron" type="Interr">makkáriiguin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">som hva slags</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Interr">makkárin</t>
          </tg>
       </mg>
    </e>
