@@ -1025,6 +1025,18 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Pers">sii</t>
+            <xg>
+               <x>De fisket fisk og jaktet villrein.</x>
+               <xt>Sii bivde guliid ja gottiid.</xt>
+            </xg>
+            <xg>
+               <x>Nå har de god tid å snakke.</x>
+               <xt>Dál sis lei buorre dilli háleštit.</xt>
+            </xg>
+            <xg>
+               <x>Son váccii sin lusa.</x>
+               <xt>Han gikk bort til dem.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2544,27 +2556,42 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
+   <e>
       <lg>
-         <l pos="Pron" type="Pers">de to</l>
+         <l pos="phrase">de to</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t nr="Du" pos="Pron" type="Pers">dat</t>
+            <t pos="Pron" src="nj" usage="vd">soai</t>
             <xg>
                <x>De to kommer hjem.</x>
-               <xt>Dat boahtiba ruoktot.</xt>
+               <xt>Soai boahtiba ruoktot.</xt>
+            </xg>
+            <xg>
+               <x>Jeg kjenner de to.</x>
+               <xt>Mun dovddan sudno.</xt>
+            </xg>
+            <xg>
+               <x>Hvor mange barn har så de to?</x>
+               <xt>Galle mánábat sudnos leat?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">soai</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sudno</t>
+            <t pos="N" src="nj" usage="vd">guovttis</t>
+            <xg>
+               <x>Jeg kjenner de to.</x>
+               <xt>Mun dovddan dan guoktása.</xt>
+            </xg>
+            <xg>
+               <x>Jeg ønsker dem to lykke til videre.</x>
+               <xt>Mun sávan dan guoktásii lihku ovddas guvlui.</xt>
+            </xg>
+            <xg>
+               <x>Hvor mange barn har så de to?</x>
+               <xt>Galle mánábat dan guoktásis leat?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3171,20 +3198,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">de to (har)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sudnos</t>
-            <xg>
-               <x>de to har</x>
-               <xt>sudnos lea</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron" type="Pers">med de to</l>
       </lg>
       <mg>
@@ -3316,20 +3329,6 @@
             <xg>
                <x>De burde la reindriftsamene slakte dem.</x>
                <xt>Galggašedje suovvat badjeolbmuid daid njuovvat.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">de (har)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sis</t>
-            <xg>
-               <x>de har</x>
-               <xt>sis lea</xt>
             </xg>
          </tg>
       </mg>
