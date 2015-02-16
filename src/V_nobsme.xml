@@ -5727,6 +5727,16 @@
             </xg>
          </tg>
       </mg>
+    <mg>
+      <tg>
+         <re>noe som smelter</re>
+        <t pos="V">šolgat</t>
+            <xg>
+               <x>Iskremen tiner når den står for lenge på bordet.</x>
+               <xt>Lákcajiekŋa šolgá go lea menddo guhkká beavddi alde.</xt>
+            </xg>
+      </tg>
+    </mg>
       <mg>
          <tg xml:lang="sme">
             <re>transitiv</re>
@@ -22893,8 +22903,22 @@
          <tg xml:lang="sme">
             <re>intransitiv</re>
             <t pos="V" src="nj" usage="vd">suddat</t>
+            <xg>
+               <x>Isen tiner.</x>
+               <xt>Jiekŋa suddá.</xt>
+            </xg>
          </tg>
       </mg>
+    <mg>
+      <tg>
+         <re>få noe til å tine</re>
+        <t pos="V">suddadit</t>
+            <xg>
+               <x>Jeg tiner snøen mellom hendene.</x>
+               <xt>Suddadan muohttaga gieđaid gaskkas.</xt>
+            </xg>
+      </tg>
+    </mg>
       <mg>
          <tg xml:lang="sme">
             <re>intransitiv: om isbelegg</re>
@@ -23104,6 +23128,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">siđvát</t>
+            <t pos="V">nirvut</t>
          </tg>
       </mg>
    </e>
@@ -28013,16 +28038,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">várret</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">mose</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">mollet</t>
          </tg>
       </mg>
    </e>
@@ -37799,16 +37814,6 @@ ggobealde.</xt>
    </e>
    <e usage="vd" src="nfl_201402">
       <lg>
-         <l pos="V">myse</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">nirvut</t>
-         </tg>
-      </mg>
-   </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
          <l pos="V">ape</l>
       </lg>
       <mg>
@@ -37831,51 +37836,6 @@ ggobealde.</xt>
          </tg>
       </mg>
    </e>
-   <e usage="vd" src="nfl_201402">
-      <lg>
-         <l pos="V">kjempe</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">dáistalit</t>
-         </tg>
-      </mg>
-   </e>
-  <e usage="vd" src="nfl_201402">
-      <lg>
-    <l pos="V">tine</l>
-      </lg>
-    <mg>
-      <tg>
-         <re>få noe til å tine</re>
-        <t pos="V">suddadit</t>
-            <xg>
-               <x>Jeg tiner snøen mellom hendene.</x>
-               <xt>Suddadan muohttaga gieđaid gaskkas.</xt>
-            </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-         <re>noe som smelter</re>
-        <t pos="V">suddat</t>
-            <xg>
-               <x>Isen tiner.</x>
-               <xt>Jiekŋa suddá.</xt>
-            </xg>
-      </tg>
-    </mg>
-    <mg>
-      <tg>
-         <re>noe som smelter</re>
-        <t pos="V">šolgat</t>
-            <xg>
-               <x>Iskremen tiner når den står for lenge på bordet.</x>
-               <xt>Lákcajiekŋa šolgá go lea menddo guhkká beavddi alde.</xt>
-            </xg>
-      </tg>
-    </mg>
-  </e>
    <e usage="vd" src="nfl_201402">
       <lg>
          <l pos="V">finne</l>
@@ -38098,16 +38058,6 @@ ggobealde.</xt>
       <mg>
          <tg>
             <t pos="V">čáskadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">pule</l>
-      </lg>
-      <mg>
-         <tg>
-            <t pos="V">anašit</t>
          </tg>
       </mg>
    </e>
