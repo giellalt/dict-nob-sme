@@ -840,7 +840,7 @@
    </e>
    <e mg_c="6">
       <lg>
-         <l pos="Pron" type="Pers">den</l>
+         <l pos="Pron" type="Dem">den</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -850,8 +850,44 @@
                <xt>Oahpaheaddjis gal ii leat dat áigumuš.</xt>
             </xg>
             <xg>
+               <x>Det virker likevel å gå i den retningen.</x>
+               <xt>Liikká orru mannamin dan guvlui.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>nærmere deg enn meg eller som nettopp er nevnt</re>
+            <t nr="Sg" pos="Pron" type="Dem">diet</t>
+            <xg>
+               <x>Det er naturlig at det møtet holdes i Alta.</x>
+               <xt>Lea lunddolaš ahte diet čoahkkin dollo Álttás.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="6">
+      <lg>
+         <l pos="Pron" type="Pers">den</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t nr="Sg" pos="Pron" type="Dem">dat</t>
+            <xg>
                <x>Hunden går seg ikke vill, den kommer hjem.</x>
                <xt>Beana ii láhppo, dat gal boahtá ruoktot.</xt>
+            </xg>
+            <xg>
+               <x>Med den berges vi ikke til sommeren.</x>
+               <xt>Dainna eat birge geassái.</xt>
+            </xg>
+            <xg>
+               <x>Jeg gjør det gjerne, sier mor.</x>
+               <xt>Mun dagan dan áinnas, lohká eadni.</xt>
+            </xg>
+            <xg>
+               <x>Til det trenger vi hjelp.</x>
+               <xt>Dasa mii dárbbašit veahki.</xt>
             </xg>
          </tg>
       </mg>
@@ -862,24 +898,6 @@
             <xg>
                <x>Hva har du der?</x>
                <xt>Mii diet lea?</xt>
-            </xg>
-            <xg>
-               <x>Det er naturlig at det møtet holdes i Alta.</x>
-               <xt>Lea lunddolaš ahte diet čoahkkin dollo Álttás.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>akkusativ</re>
-            <t pos="Pron" type="Dem">dan</t>
-            <xg>
-               <x>Det virker likevel å gå i den retningen.</x>
-               <xt>Liikká orru mannamin dan guvlui.</xt>
-            </xg>
-            <xg>
-               <x>Jeg gjør det gjerne, sier mor.</x>
-               <xt>Mun dagan dan áinnas, lohká eadni.</xt>
             </xg>
          </tg>
       </mg>
@@ -911,59 +929,6 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron" type="Dem">det der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Sg" pos="Pron" type="Dem">duot</t>
-            <xg>
-               <x>Hva er det der?</x>
-               <xt>Mii duot lea?</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duon</t>
-            <xg>
-               <x>Jeg mistet nok den på haugen der borte.</x>
-               <xt>Mun láhppen gal dan duon dievá alde.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron" type="Dem">det der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Sg" pos="Pron" type="Dem">duot</t>
-            <xg>
-               <x>Og hvordan kunne den der fattige ungen redde deg?</x>
-               <xt>Movt bat duot geafes čivga sáhtii du beastit?</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duon</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">det lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">don</t>
-            <t nr="Sg" pos="Pron" type="Dem">dot</t>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="8">
       <lg>
          <l pos="Pron" type="Dem">de</l>
@@ -976,52 +941,74 @@
                <xt>Sii leat dušše čujuhan sullii gos dat jávrrit leat.</xt>
             </xg>
             <xg>
-               <x>Vi handlet før i matvarebutikkene i Karasjok, men de sluttet å bringe varer til oss.</x>
-               <xt>Mii gávppašeimmet ovdal Kárášjoga borramušbuvddain, muhto dat heite gálvvu buktimis midjiide.</xt>
+               <x>Og du synes det er tungt å gjøre de oppgavene som du vanligvis gjør.</x>
+               <xt>Ja du mielas lea lossat doaimmahit daid bargguid maid dábálaččat barggat.</xt>
+            </xg>
+            <xg>
+               <x>Reindrifta har solide rettigheter til de områdene.</x>
+               <xt>Boazodoalus leat nana vuoigatvuođat daidda eatnamiidda.</xt>
+            </xg>
+             <xg>
+               <x>Det er ett av de samiske husene som skal bygges i landet.</x>
+               <xt>Dat lea okta dain sámi viesuin mat galget huksejuvvot riikkas.</xt>
+            </xg>
+            <xg>
+               <x>Med de sakene går det veldig bra.</x>
+               <xt>Daiguin áššiiguin manná hui bures.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>nærmere meg enn deg</re>
-            <t nr="Pl" pos="Pron" type="Dem">diet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
+            <re>nærmere deg enn meg eller som nettopp er nevnt</re>
             <t nr="Pl" pos="Pron" type="Dem">diet</t>
             <xg>
                <x>Nå ser jeg hvor sanne de ordene er som gamle folk pleier å si.</x>
                <xt>Gal mun dál oainnán man duođat diet sánit leat maid vuoras olbmot lávejit lohkat.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">daid</t>
-            <xg>
-               <x>Og du synes det er tungt å gjøre de oppgavene som du vanligvis gjør.</x>
-               <xt>Ja du mielas lea lossat doaimmahit daid bargguid maid dábálaččat barggat.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">dieid</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">dieid</t>
             <xg>
                <x>Jeg husker godt da jeg var ung i de berømte 70-årene.</x>
                <xt>Mun muittán bures go ledjen nuorra dieid beakkán 70 jagiin.</xt>
             </xg>
+            <xg>
+               <x>Slik dro de til de stedene og seinere også til mange andre steder.</x>
+               <xt>Nu sii manne dieidda báikkiide ja maŋŋel vel ollu eará báikkiide.</xt>
+            </xg>
+            <xg>
+               <x>De som arbeider med disse sendingene, er ikke ansatte som er lønnet.</x>
+               <xt>Sii geat dieiguin sáddagiiguin barget, eai leat bálkáhuvvon bargit.</xt>
+            </xg>
+            <xg>
+               <x>Det er så lang tid siden det var et slikt arrangement i de områdene.</x>
+               <xt>Lea nu guhkes áigi go diekkár lágideapmi lei diein guovlluin.</xt>
+            </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>der borte</re>
+            <t nr="Pl" pos="Pron" type="Dem">duot</t>
+            <xg>
+               <x>Hvem er så de to der? spurte mor.</x>
+               <xt>Geat bat duot leaba? jearai eadni.</xt>
+            </xg>
+            <xg>
+               <x>Jeg bryr meg ikke om de der herrene.</x>
+               <xt>In beroš duoin hearráin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>lengst borte</re>
+            <t nr="Pl" pos="Pron" type="Dem">dot</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="8">
+      <lg>
+         <l pos="Pron" type="Pers">de</l>
+      </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Pers">sii</t>
@@ -1038,6 +1025,27 @@
                <xt>Han gikk bort til dem.</xt>
             </xg>
          </tg>
+     </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t nr="Pl" pos="Pron" type="Dem">dat</t>
+            <xg>
+               <x>Vi handlet før i matvarebutikkene i Karasjok, men de sluttet å bringe varer til oss.</x>
+               <xt>Mii gávppašeimmet ovdal Kárášjoga borramušbuvddain, muhto dat heite gálvvu buktimis midjiide.</xt>
+            </xg>
+            <xg>
+               <x>De fleste av dem er kommet.</x>
+               <xt>Eanemus oassi dain leat boahtán.</xt>
+            </xg>
+            <xg>
+               <x>De burde la reindriftsamene slakte dem.</x>
+               <xt>Galggašedje suovvat badjeolbmuid daid njuovvat.</xt>
+            </xg>
+            <xg>
+               <x>Kongen forteller det til dem som er på hans høyre side.</x>
+               <xt>Gonagas muitala dan daidda geat leat su olgeš bealde.</xt>
+            </xg>
+         </tg>
       </mg>
    </e>
    <e mg_c="2">
@@ -1046,7 +1054,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>nærmere meg enn deg</re>
             <t nr="Pl" pos="Pron" type="Dem">dát</t>
             <xg>
                <x>Hvor fører disse hendingene?</x>
@@ -1064,11 +1071,6 @@
                <x>Folk på svensk og finsk side blir også med på dette arrangementet.</x>
                <xt>Ruoŧa ja Suoma beale olbmot maid servet dáidda doaluide.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dáid</t>
             <xg>
                <x>Mor har aldri før nevnt disse tankene til oss.</x>
                <xt>Eadni ii leat midjiide jienádan goassige ovdal dáid jurdagiid.</xt>
@@ -1076,85 +1078,9 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron" type="Dem">de der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Pl" pos="Pron" type="Dem">duot</t>
-            <xg>
-               <x>Hvem er så de to der? spurte mor.</x>
-               <xt>Geat bat duot leaba? jearai eadni.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duoid</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">de der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Pl" pos="Pron" type="Dem">duot</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron" type="Dem">de lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Pl" pos="Pron" type="Dem">dot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">doid</t>
-         </tg>
-      </mg>
-   </e>
-<!--   <e mg_c="3">																							    -->
-<!--      <lg>																								    -->
-<!--         <l pos="Pron" type="Dem">slike</l>																    -->
-<!--      </lg>																								    -->
-<!--      <mg>																								    -->
-<!--         <tg xml:lang="sme">																			    -->
-<!--            <t nr="Pl" pos="Pron" type="Dem">dakkárat</t>												    -->
-<!--            <xg>																						    -->
-<!--               <x>Den har gamle tegninger som grunnlag, for eksempel slike som var på runebomma.</x>	    -->
-<!--               <xt>Das leat dološ sárgumat vuođđun, ovdamearkka dihte dakkárat go meavrresgáris ledje.</xt> -->
-<!--            </xg>																						    -->
-<!--         </tg>																							    -->
-<!--      </mg>																								    -->
-<!--      <mg>																								    -->
-<!--         <tg xml:lang="sme">																			    -->
-<!--            <t pos="Pron" type="Dem">dakkáriid</t>														    -->
-<!--            <xg>																						    -->
-<!--               <x>Lederen forteller at hans bakgrunn er til stor nytte når han gjør slikt.</x>			    -->
-<!--               <xt>Jođiheaddji muitala iežas duogáža leat hui stuora ávkin go dakkáriid bargá.</xt>		    -->
-<!--            </xg>																						    -->
-<!--         </tg>																							    -->
-<!--      </mg>																								    -->
-<!--      <mg>																								    -->
-<!--         <tg xml:lang="sme">																			    -->
-<!--            <t pos="Pron" type="Dem">diekkáriid</t>														    -->
-<!--            <xg>																						    -->
-<!--               <x>Bonden betaler veldig mye investeringsgebyrer og slike til staten.</x>				    -->
-<!--               <xt>Boanda máksá hui ollu investerendivvagiid ja diekkáriid stáhtii.</xt>				    -->
-<!--            </xg>																						    -->
-<!--         </tg>																							    -->
-<!--      </mg>																								    -->
-<!--   </e>																									    -->
    <e mg_c="3">
       <lg>
-         <l pos="Pron" type="Dem">sånn her</l>
+         <l pos="Pron" type="Dem">sånn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1167,27 +1093,34 @@
                <x>Jeg har ikke sett en sånn her før.</x>
                <xt>In leat oaidnán dákkára ovdal.</xt>
             </xg>
+            <xg>
+               <x>Dette er ikke riktig sted for en sånn her.</x>
+               <xt>Dát ii leat rivttes báiki dákkárii.</xt>
+            </xg>
+            <xg>
+               <x>Jeg kan ikke samarbeide med en sånn her en.</x>
+               <xt>In mun sáhte ovttasbargat dákkáriin.</xt>
+            </xg>
+            <xg>
+               <x>Når myndighetene fra begynnelsen har lagt opp situasjonen sånn, så må de takke seg selv for at
+               situasjonen nå er blitt vanskelig.</x>
+               <xt>Go eiseválddit álgoálggus leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go
+               dál lea dilli šaddan váttisin.</xt>
+            </xg>
+            <xg>
+               <x>Jeg har samme rett til å fiske som sånne har som kjøper fiskekort.</x>
+               <xt>Mus lea seammá vuoigatvuohta oaggut go dákkáriin geat ostet lobi.</xt>
+            </xg>
+            <xg>
+               <x>Dette er ikke riktig forening for sånne.</x>
+               <xt>Dát ii leat rievttes searvi dákkáriidda.</xt>
+            </xg>
+            <xg>
+               <x>Jeg kan ikke samarbeide med sånne.</x>
+               <xt>In mun sáhte ovttasbargat dákkáriiguin.</xt>
+            </xg>
          </tg>
       </mg>
-<!--      <mg>																				   -->
-<!--         <tg xml:lang="sme">															   -->
-<!--            <re>om flere</re>															   -->
-<!--            <t nr="Pl" pos="Pron" type="Dem">dákkárat</t>								   -->
-<!--            <xg>																		   -->
-<!--               <x>Nå er Biret også forskrekket over at sånt her kan skje.</x>			   -->
-<!--               <xt>Dál lea Biret maid hirpmahuvvan ahte dákkárat sáhttet dáhpáhuvvat.</xt> -->
-<!--            </xg>																		   -->
-<!--         </tg>																			   -->
-<!--      </mg>																				   -->
-<!--      <mg>																				   -->
-<!--         <tg xml:lang="sme">															   -->
-<!--            <t pos="Pron" type="Dem">dákkára</t>										   -->
-<!--            <xg>																		   -->
-<!--               <x>Jeg har ikke sett en sånn her før.</x>								   -->
-<!--               <xt>In leat oaidnán dákkára ovdal.</xt>									   -->
-<!--            </xg>																		   -->
-<!--         </tg>																			   -->
-<!--      </mg>																				   -->
    </e>
    <e>
       <lg>
@@ -1199,6 +1132,28 @@
             <xg>
                <x>Hun danset i armene til en ung gutt, og slikt rammer hjertet.</x>
                <xt>Son dánssui sallalaga nuorra bártniin, ja diekkár gal váibmui čuohcá.</xt>
+            </xg>
+            <xg>
+               <x>Kunne man ikke behandle slikt innenfor Tinget?</x>
+               <xt>Iibat dákkáriid sáhtášii dikšut Dikki siskkobealde?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Pron" type="Dem">sånt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t nr="Sg" pos="Pron" type="Dem">diekkár</t>
+            <xg>
+               <x>Hun danset i armene til en ung gutt, og sånt rammer hjertet.</x>
+               <xt>Son dánssui sallalaga nuorra bártniin, ja diekkár gal váibmui čuohcá.</xt>
+            </xg>
+            <xg>
+               <x>Kunne man ikke behandle sånt innenfor Tinget?</x>
+               <xt>Iibat dákkáriid sáhtášii dikšut Dikki siskkobealde?</xt>
             </xg>
          </tg>
       </mg>
@@ -1252,93 +1207,22 @@
                <x>Bonden betaler veldig mye investeringsgebyrer og slike til staten.</x>
                <xt>Boanda máksá hui ollu investerendivvagiid ja diekkáriid stáhtii.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-<!--  <e>																													   -->
-<!--      <lg>																												   -->
-<!--         <l pos="Pron" type="Dem">slike som det</l>																		   -->
-<!--      </lg>																												   -->
-<!--      <mg>																												   -->
-<!--         <tg xml:lang="sme">																							   -->
-<!--            <t nr="Pl" pos="Pron" type="Dem">diekkárat</t>																   -->
-<!--            <xg>																										   -->
-<!--               <x>Storvilt er bjørn og elg, og småvilt er ryper og slike som det.</x>									   -->
-<!--               <xt>Stuorra meahcceeallit leat bierdna ja sarvá, ja smávva meahcceeallit leat rievssahat ja diekkárat.</xt> -->
-<!--            </xg>																										   -->
-<!--         </tg>																											   -->
-<!--      </mg>																												   -->
-<!--   </e>																													   -->
-   <e mg_c="4">
-      <lg>
-         <l pos="Pron" type="Dem">med det</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dainna</t>
             <xg>
-               <x>Mattilsynet var ikke fornøyd med den ordningen.</x>
-               <xt>Biebmobearráigeahčču ii lean duhtavaš dainna ortnegiin.</xt>
+               <x>Jeg kan ikke samarbeide med en slik en.</x>
+               <xt>In mun sáhte ovttasbargat diekkáriin.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dainna</t>
             <xg>
-               <x>Med den berges vi ikke til sommeren.</x>
-               <xt>Dainna eat birge geassái.</xt>
+               <x>På en slik en lønner det seg ikke å bruke penger.</x>
+               <xt>Diekkárii ii gánnát geavahit ruđaid.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">dieinna</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">dieinna</t>
             <xg>
-               <x>Først og fremst fordi det på den måten ikke er mulig å ringe gratis.</x>
-               <xt>Vuosttažettiin danin go dieinna vugiin ii sáhte nuvttá riŋget.</xt>
+               <x>Og en slik en har så stort hus!</x>
+               <xt>Ja diekkáris lea ná stuorra viessu!</xt>
             </xg>
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
-      <lg>
-         <l pos="Pron" type="Dem">som det</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">danin</t>
-            <xg>
-               <x>De har gjennomført en vurdering som er blitt til den boka.</x>
-               <xt>Sii leat čađahan árvvoštallama mii lea šaddan danin girjin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">danin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">dienin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">dienin</t>
-         </tg>
-      </mg>
-   </e>
+
    <e>
       <lg>
          <l pos="Pron" type="Dem">denne</l>
@@ -1353,68 +1237,36 @@
          </tg>
       </mg>
    </e>
-<!--   <e>																 -->
-<!--      <lg>															 -->
-<!--         <l pos="Pron" type="Dem">til dette</l>						 -->
-<!--      </lg>															 -->
-<!--      <mg>															 -->
-<!--         <tg xml:lang="sme">										 -->
-<!--            <t pos="Pron" type="Dem">dása</t>						 -->
-<!--            <xg>													 -->
-<!--               <x>På dette finnes det nok en veldig bra løsning.</x> -->
-<!--               <xt>Gal dása gávdno hirbmat buorre čoavddus.</xt>	 -->
-<!--            </xg>													 -->
-<!--         </tg>														 -->
-<!--      </mg>															 -->
-<!--   </e>																 -->
-<!--   <e>																   -->
-<!--      <lg>															   -->
-<!--         <l pos="Pron" type="Dem">av dette</l>						   -->
-<!--      </lg>															   -->
-<!--      <mg>															   -->
-<!--         <tg xml:lang="sme">										   -->
-<!--            <t pos="Pron" type="Dem">dás</t>						   -->
-<!--            <xg>													   -->
-<!--               <x>Av dette kommer det ikke noen fornuftig løsning.</x> -->
-<!--               <xt>Dás ii boađe jierpmálaš čoavddus.</xt>			   -->
-<!--            </xg>													   -->
-<!--         </tg>														   -->
-<!--      </mg>															   -->
-<!--   </e>																   -->
-<!--   <e>																					 -->
-<!--      <lg>																				 -->
-<!--         <l pos="Pron" type="Dem">med dette</l>											 -->
-<!--      </lg>																				 -->
-<!--      <mg>																				 -->
-<!--         <tg xml:lang="sme">															 -->
-<!--            <t pos="Pron" type="Dem">dáinna</t>											 -->
-<!--            <xg>																		 -->
-<!--               <x>Bare med denne maskinen er det mulig å få det riktige resultatet.</x>	 -->
-<!--               <xt>Dušše dáinna mašiinnain lea vejolaš oažžut dan rievttes bohtosa.</xt> -->
-<!--            </xg>																		 -->
-<!--         </tg>																			 -->
-<!--      </mg>																				 -->
-<!--   </e>																					 -->
-<!--   <e>										    -->
-<!--      <lg>									    -->
-<!--         <l pos="Pron" type="Dem">som dette</l> -->
-<!--      </lg>									    -->
-<!--      <mg>									    -->
-<!--         <tg xml:lang="sme">				    -->
-<!--            <t pos="Pron" type="Dem">dánin</t>  -->
-<!--         </tg>								    -->
-<!--      </mg>									    -->
-<!--   </e>										    -->
    <e mg_c="4">
       <lg>
          <l pos="Pron" type="Pers">det</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t nr="Sg" pos="Pron" type="Pers">dat</t>
+            <t nr="Sg" pos="Pron" type="Dem">dat</t>
+            <xg>
+               <x>Hva slags konsekvenser har det for skolen?</x>
+               <xt>Makkár váikkuhusat das leat skuvlii?</xt>
+            </xg>
             <xg>
                <x>Føllet går seg ikke vill, det kommer hjem.</x>
                <xt>Vársá ii láhppo, dat gal boahtá ruoktot.</xt>
+            </xg>
+            <xg>
+               <x>Til det trenger vi hjelp.</x>
+               <xt>Dasa mii dárbbašit veahki.</xt>
+            </xg>
+            <xg>
+               <x>Mattilsynet var ikke fornøyd med den ordningen.</x>
+               <xt>Biebmobearráigeahčču ii lean duhtavaš dainna ortnegiin.</xt>
+            </xg>
+            <xg>
+               <x>Med den berges vi ikke til sommeren.</x>
+               <xt>Dainna eat birge geassái.</xt>
+            </xg>
+            <xg>
+               <x>De har gjennomført en vurdering som er blitt til den boka.</x>
+               <xt>Sii leat čađahan árvvoštallama mii lea šaddan danin girjin.</xt>
             </xg>
          </tg>
       </mg>
@@ -1426,6 +1278,18 @@
                <x>Det der kan ikke brukes til noe.</x>
                <xt>Diet ii sáhte masage geavahuvvot.</xt>
             </xg>
+            <xg>
+               <x>De tenker ikke på å bruke så mye penger på det.</x>
+               <xt>Eai sii nu beare olu ruđa gal jurddaš diesa geavahit.</xt>
+            </xg>
+            <xg>
+               <x>Og av det oppdaget jeg da også en ny næring.</x>
+               <xt>Ja dies mun fuobmájin ge ođđa ealáhusa.</xt>
+            </xg>
+            <xg>
+               <x>Først og fremst fordi det på den måten ikke er mulig å ringe gratis.</x>
+               <xt>Vuosttažettiin danin go dieinna vugiin ii sáhte nuvttá riŋget.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1435,6 +1299,18 @@
             <xg>
                <x>Det der kan ikke brukes til noe.</x>
                <xt>Duot ii sáhte masage geavahuvvot.</xt>
+            </xg>
+            <xg>
+               <x>Du skal lære samisk til hun der!</x>
+               <xt>Don galggat duosa oahpahit sámegiela!</xt>
+            </xg>
+            <xg>
+               <x>Men det virka ikke å være nytte av hverken det ene eller det andre.</x>
+               <xt>Muhto ii orron ávki duos iige dies.</xt>
+            </xg>
+            <xg>
+               <x>De spør meg ofte om hva som menes med det ene og det andre.</x>
+               <xt>Sii dávjá jerret mus mii oaivvilduvvo duoinna ja dáinna.</xt>
             </xg>
          </tg>
       </mg>
@@ -1449,192 +1325,9 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
-      <lg>
-         <l pos="Pron" type="Dem">til det</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">diesa</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">diesa</t>
-            <xg>
-               <x>De tenker ikke på å bruke så mye penger på det.</x>
-               <xt>Eai sii nu beare olu ruđa gal jurddaš diesa geavahit.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dasa</t>
-            <xg>
-               <x>Til det trenger vi hjelp.</x>
-               <xt>Dasa mii dárbbašit veahki.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron" type="Dem">av det</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">dies</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">dies</t>
-            <xg>
-               <x>Og av det oppdaget jeg da også en ny næring.</x>
-               <xt>Ja dies mun fuobmájin ge ođđa ealáhusa.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til det der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duosa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til det der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duosa</t>
-            <xg>
-               <x>Du skal lære samisk til hun der!</x>
-               <xt>Don galggat duosa oahpahit sámegiela!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">av det der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duos</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">av det der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duos</t>
-            <xg>
-               <x>Men det virka ikke å være nytte av hverken det ene eller det andre.</x>
-               <xt>Muhto ii orron ávki duos iige dies.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med det der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duoinna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med det der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duoinna</t>
-            <xg>
-               <x>De spør meg ofte om hva som menes med det ene og det andre.</x>
-               <xt>Sii dávjá jerret mus mii oaivvilduvvo duoinna ja dáinna.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">som det der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duonin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">som det der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duonin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til det lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dosa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">av det lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dos</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med det lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">doinna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">som det lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">donin</t>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="14">
       <lg>
-         <l pos="Pron" type="Dem">deres</l>
+         <l pos="Pron" type="Pers">deres</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1670,8 +1363,9 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om to</re>
+            <re>refleksiv, om dere to</re>
             <t pos="Pron" type="Refl">iežade</t>
+            <t pos="Pron" type="Refl">iežaideatte</t>
             <xg>
                <x>Dere to leker med vennen deres.</x>
                <xt>Doai stoahkabeahtti iežade ustibiin.</xt>
@@ -1680,18 +1374,9 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">iežaideatte</t>
-            <xg>
-               <x>Dere to leker med vennen deres.</x>
-               <xt>Doai stoahkabeahtti iežaideatte ustibiin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
+            <re>refleksiv, om de to</re>
             <t pos="Pron" type="Refl">iežaska</t>
+            <t pos="Pron" type="Refl">iežaideaskka</t>
             <xg>
                <x>De to leker med vennen deres.</x>
                <xt>Soai stoahkaba iežaska ustibiin.</xt>
@@ -1700,17 +1385,9 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">iežaideaskka</t>
-            <xg>
-               <x>De to leker med vennen deres.</x>
-               <xt>Soai stoahkaba iežaideaskka ustibiin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>refleksiv, om dere</re>
             <t pos="Pron" type="Refl">iežadet</t>
+            <t pos="Pron" type="Refl">iežaideattet</t>
             <xg>
                <x>Dere leker med vennen deres.</x>
                <xt>Dii stoahkabehtet iežadet ustibiin.</xt>
@@ -1719,738 +1396,18 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iežaideattet</t>
-            <xg>
-               <x>Dere leker med vennen deres.</x>
-               <xt>Dii stoahkabehtet iežaideattet ustibiin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+            <re>refleksiv, om dem</re>
             <t pos="Pron" type="Refl">iežaset</t>
+            <t pos="Pron" type="Refl">iežaideaset</t>
             <xg>
                <x>De leker med vennen deres.</x>
                <xt>Sii stohket iežaset ustibiin.</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iežaideaset</t>
-            <xg>
-               <x>De leker med vennen deres.</x>
-               <xt>Sii stohket iežaideaset ustibiin.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
-   <e mg_c="5">
-      <lg>
-         <l pos="Pron" type="Dem">til dem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">daidda</t>
-            <xg>
-               <x>Reindrifta har solide rettigheter til de områdene.</x>
-               <xt>Boazodoalus leat nana vuoigatvuođat daidda eatnamiidda.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">dieidda</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">dieidda</t>
-            <xg>
-               <x>Slik dro de til de stedene og seinere også til mange andre steder.</x>
-               <xt>Nu sii manne dieidda báikkiide ja maŋŋel vel ollu eará báikkiide.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sidjiide</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">daidda</t>
-            <xg>
-               <x>Kongen forteller det til dem som er på hans høyre side.</x>
-               <xt>Gonagas muitala dan daidda geat leat su olgeš bealde.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="5">
-      <lg>
-         <l pos="Pron" type="Dem">i dem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dain</t>
-            <xg>
-               <x>Det er ett av de samiske husene som skal bygges i landet.</x>
-               <xt>Dat lea okta dain sámi viesuin mat galget huksejuvvot riikkas.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">diein</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">diein</t>
-            <xg>
-               <x>Det er så lang tid siden det var et slikt arrangement i de områdene.</x>
-               <xt>Lea nu guhkes áigi go diekkár lágideapmi lei diein guovlluin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duoin</t>
-            <xg>
-               <x>Jeg bryr meg ikke om de der herrene.</x>
-               <xt>In beroš duoin hearráin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dain</t>
-            <xg>
-               <x>De fleste av dem er kommet.</x>
-               <xt>Eanemus oassi dain leat boahtán.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="3">
-      <lg>
-         <l pos="Pron" type="Dem">av dem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dain</t>
-            <xg>
-               <x>Det er ett av de samiske husene som skal bygges i landet.</x>
-               <xt>Dat lea okta dain sámi viesuin mat galget huksejuvvot riikkas.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duoin</t>
-            <xg>
-               <x>Jeg bryr meg ikke om de der herrene.</x>
-               <xt>In beroš duoin hearráin.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dain</t>
-            <xg>
-               <x>De fleste av dem er kommet.</x>
-               <xt>Eanemus oassi dain leat boahtán.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="5">
-      <lg>
-         <l pos="Pron" type="Dem">med dem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">daiguin</t>
-            <xg>
-               <x>Med de sakene går det veldig bra.</x>
-               <xt>Daiguin áššiiguin manná hui bures.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som er nærmere deg</re>
-            <t pos="Pron" type="Dem">dieiguin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som nettopp er nevnt</re>
-            <t pos="Pron" type="Dem">dieiguin</t>
-            <xg>
-               <x>De som arbeider med disse sendingene, er ikke ansatte som er lønnet.</x>
-               <xt>Sii geat dieiguin sáddagiiguin barget, eai leat bálkáhuvvon bargit.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">singuin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">daiguin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">disses</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dáid</t>
-         </tg>
-      </mg>
-   </e>
-<!--   <e>																					 -->
-<!--      <lg>																				 -->
-<!--         <l pos="Pron" type="Dem">til disse</l>											 -->
-<!--      </lg>																				 -->
-<!--      <mg>																				 -->
-<!--         <tg xml:lang="sme">															 -->
-<!--            <t pos="Pron" type="Dem">dáidda</t>											 -->
-<!--            <xg>																		 -->
-<!--               <x>Folk på svensk og finsk side blir også med på dette arrangementet.</x> -->
-<!--               <xt>Ruoŧa ja Suoma beale olbmot maid servet dáidda doaluide.</xt>		 -->
-<!--            </xg>																		 -->
-<!--         </tg>																			 -->
-<!--      </mg>																				 -->
-<!--   </e>																					 -->
-<!--   <e>																						  -->
-<!--      <lg>																					  -->
-<!--         <l pos="Pron" type="Dem">i disse</l>												  -->
-<!--      </lg>																					  -->
-<!--      <mg>																					  -->
-<!--         <tg xml:lang="sme">																  -->
-<!--            <t pos="Pron" type="Dem">dáin</t>												  -->
-<!--            <xg>																			  -->
-<!--               <x>Et av disse lagene spiller i tredje divisjon.</x>							  -->
-<!--               <xt>Okta dáin joavkkuin čiekčá goalmmát divišuvnnas.</xt>					  -->
-<!--            </xg>																			  -->
-<!--         </tg>																				  -->
-<!--      </mg>																					  -->
-<!--   </e>																						  -->
-<!--   <e>																						  -->
-<!--      <lg>																					  -->
-<!--         <l pos="Pron" type="Dem">av disse</l>												  -->
-<!--      </lg>																					  -->
-<!--      <mg>																					  -->
-<!--         <tg xml:lang="sme">																  -->
-<!--            <t pos="Pron" type="Dem">dáin</t>												  -->
-<!--            <xg>																			  -->
-<!--               <x>Et av disse lagene spiller i tredje divisjon.</x>							  -->
-<!--               <xt>Okta dáin joavkkuin čiekčá goalmmát divišuvnnas.</xt>					  -->
-<!--            </xg>																			  -->
-<!--         </tg>																				  -->
-<!--      </mg>																					  -->
-<!--   </e>																						  -->
-<!--   <e>																						  -->
-<!--      <lg>																					  -->
-<!--         <l pos="Pron" type="Dem">med disse</l>												  -->
-<!--      </lg>																					  -->
-<!--      <mg>																					  -->
-<!--         <tg xml:lang="sme">																  -->
-<!--            <t pos="Pron" type="Dem">dáiguin</t>											  -->
-<!--            <xg>																			  -->
-<!--               <x>Bare med disse maskinene er det mulig å få det riktige resultatet.</x>	  -->
-<!--               <xt>Dušše dáiguin mašiinnaiguin lea vejolaš oažžut dan rievttes bohtosa.</xt>  -->
-<!--            </xg>																			  -->
-<!--         </tg>																				  -->
-<!--      </mg>																					  -->
-<!--   </e>																						  -->
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">de der borte sine</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duoid</t>
-            <xg>
-               <x>Vi fulgte flygingen til de kolossale fuglene der borte.</x>
-               <xt>Čuovuimet duoid áibmadas lottiid girddašeami.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til dem der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duoidda</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med dem der borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">duoiguin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">de lengst borte sine</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">doid</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til dem lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">doidda</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">i dem lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">doin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">av dem lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">doin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med dem lengst borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">doiguin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-<!--      <lg>																								 -->
-<!--         <l pos="Pron" type="Dem">til slikt</l>															 -->
-<!--      </lg>																								 -->
-<!--      <mg>																								 -->
-<!--         <tg xml:lang="sme">																			 -->
-<!--            <t pos="Pron" type="Dem">dakkárii</t>														 -->
-<!--            <xg>																						 -->
-<!--               <x>Ikke selg bilen til en slik som ikke betaler.</x>										 -->
-<!--               <xt>Ale vuovdde biilla dakkárii gii ii mávsse.</xt>										 -->
-<!--            </xg>																						 -->
-<!--         </tg>																							 -->
-<!--      </mg>																								 -->
-<!--   </e>																									 -->
-<!--   <e>																									 -->
-<!--      <lg>																								 -->
-<!--         <l pos="Pron" type="Dem">i slikt</l>															 -->
-<!--      </lg>																								 -->
-<!--      <mg>																								 -->
-<!--         <tg xml:lang="sme">																			 -->
-<!--            <t pos="Pron" type="Dem">dakkáris</t>														 -->
-<!--         </tg>																							 -->
-<!--      </mg>																								 -->
-<!--   </e>																									 -->
-<!--   <e>																									 -->
-<!--      <lg>																								 -->
-<!--         <l pos="Pron" type="Dem">av slikt</l>															 -->
-<!--      </lg>																								 -->
-<!--      <mg>																								 -->
-<!--         <tg xml:lang="sme">																			 -->
-<!--            <t pos="Pron" type="Dem">dakkáris</t>														 -->
-<!--         </tg>																							 -->
-<!--      </mg>																								 -->
-<!--   </e>																									 -->
-<!--   <e>																									 -->
-<!--      <lg>																								 -->
-<!--         <l pos="Pron" type="Dem">slik (har)</l>														 -->
-<!--      </lg>																								 -->
-<!--      <mg>																								 -->
-<!--         <tg xml:lang="sme">																			 -->
-<!--            <t pos="Pron" type="Dem">dakkáris</t>														 -->
-<!--            <xg>																						 -->
-<!--               <x>Jeg har samme rett til å fiske som en slik har som kjøper fiskekort.</x>				 -->
-<!--               <xt>Mus lea seammá vuoigatvuohta oaggut go dakkáris gii oastá lobi.</xt>					 -->
-<!--            </xg>																						 -->
-<!--         </tg>																							 -->
-<!--      </mg>																								 -->
-<!--   </e>																									 -->
-<!--   <e>																									 -->
-<!--      <lg>																								 -->
-<!--         <l pos="Pron" type="Dem">med slikt</l>															 -->
-<!--      </lg>																								 -->
-<!--      <mg>																								 -->
-<!--         <tg xml:lang="sme">																			 -->
-<!--            <t nr="Sg" pos="Pron" type="Dem">dakkáriin</t>												 -->
-<!--            <xg>																						 -->
-<!--               <x>Jeg kan ikke samarbeide med en slik en.</x>											 -->
-<!--               <xt>In mun sáhte ovttasbargat dakkáriin.</xt>											 -->
-<!--            </xg>																						 -->
-<!--         </tg>																							 -->
-<!--      </mg>																								 -->
-<!--   </e>																									 -->
-<!--   <e mg_c="2">																							 -->
-<!--      <lg>																								 -->
-<!--         <l pos="Pron" type="Dem">som slikt</l>															 -->
-<!--      </lg>																								 -->
-<!--      <mg>																								 -->
-<!--         <tg xml:lang="sme">																			 -->
-<!--            <t pos="Pron" type="Dem">dakkárin</t>														 -->
-<!--            <xg>																						 -->
-<!--               <x>I tillegg så lager hun søljer og knapper akkurat slik som kundene ønsker.</x>			 -->
-<!--               <xt>Dasa lassin ráhkada son riskkuid ja boaluid juste dakkárin go kundarat háliidit.</xt> -->
-<!--            </xg>																						 -->
-<!--         </tg>																							 -->
-<!--      </mg>																								 -->
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">diekkárin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til en sånn her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dákkárii</t>
-            <xg>
-               <x>Dette er ikke riktig sted for en sånn her.</x>
-               <xt>Dát ii leat rivttes báiki dákkárii.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">i en sånn her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dákkáris</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">av en sånn her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dákkáris</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">en sånn her (har)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dákkáris</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med en sånn her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Sg" pos="Pron" type="Dem">dákkáriin</t>
-            <xg>
-               <x>Jeg kan ikke samarbeide med en sånn her en.</x>
-               <xt>In mun sáhte ovttasbargat dákkáriin.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">som sånn her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dákkárin</t>
-            <xg>
-               <x>Når myndighetene fra begynnelsen har lagt opp situasjonen sånn her, så må de takke seg selv for at
-               situasjonen nå er blitt vanskelig.</x>
-               <xt>Go eiseválddit álgoálggus leat láhčán dilálašvuođaid dákkárin, de sii fertejit sin iežaset giitit go
-               dál lea dilli šaddan váttisin.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til en slik en</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">diekkárii</t>
-            <xg>
-               <x>På en slik en lønner det seg ikke å bruke penger.</x>
-               <xt>Diekkárii ii gánnát geavahit ruđaid.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">i en slik en</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">diekkáris</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">av en slik en</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">diekkáris</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">en slik en (har)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">diekkáris</t>
-            <xg>
-               <x>Og en slik en har så stort hus!</x>
-               <xt>Ja diekkáris lea ná stuorra viessu!</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med en slik en</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Sg" pos="Pron" type="Dem">diekkáriin</t>
-            <xg>
-               <x>Jeg kan ikke samarbeide med en slik en.</x>
-               <xt>In mun sáhte ovttasbargat diekkáriin.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-<!--   <e mg_c="2">																			    -->
-<!--      <lg>																				    -->
-<!--         <l pos="Pron" type="Dem">til slike</l>											    -->
-<!--      </lg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t pos="Pron" type="Dem">dakkáriidda</t>									    -->
-<!--            <xg>																		    -->
-<!--               <x>De liker nemlig ikke slike som ikke kan alt.</x>						    -->
-<!--               <xt>Dat oainnat eai liiko dakkáriidda geat ieža eai máhte buot.</xt>		    -->
-<!--            </xg>																		    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t pos="Pron" type="Dem">diekkáriidda</t>									    -->
-<!--            <xg>																		    -->
-<!--               <x>Ikke selg bilen til slike som ikke betaler.</x>						    -->
-<!--               <xt>Ale vuovdde biilla diekkáriidda geat eai mávsse.</xt>				    -->
-<!--            </xg>																		    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--   </e>																					    -->
-<!--   <e mg_c="2">																			    -->
-<!--      <lg>																				    -->
-<!--         <l pos="Pron" type="Dem">i slike</l>											    -->
-<!--      </lg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t nr="Pl" pos="Pron" type="Dem">dakkáriin</t>								    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t nr="Pl" pos="Pron" type="Dem">diekkáriin</t>								    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--   </e>																					    -->
-<!--   <e mg_c="2">																			    -->
-<!--      <lg>																				    -->
-<!--         <l pos="Pron" type="Dem">av slike</l>											    -->
-<!--      </lg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t nr="Pl" pos="Pron" type="Dem">dakkáriin</t>								    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t nr="Pl" pos="Pron" type="Dem">diekkáriin</t>								    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--   </e>																					    -->
-<!--   <e mg_c="2">																			    -->
-<!--      <lg>																				    -->
-<!--         <l pos="Pron" type="Dem">slike (har)</l>										    -->
-<!--      </lg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t nr="Pl" pos="Pron" type="Dem">dakkáriin</t>								    -->
-<!--            <xg>																		    -->
-<!--               <x>Jeg har samme rett til å fiske som slike har som kjøper fiskekort.</x>    -->
-<!--               <xt>Mus lea seammá vuoigatvuohta oaggut go dakkáriin geat ostet lobi.</xt>   -->
-<!--            </xg>																		    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t nr="Pl" pos="Pron" type="Dem">diekkáriin</t>								    -->
-<!--            <xg>																		    -->
-<!--               <x>Jeg har samme rett til å fiske som slike har som kjøper fiskekort.</x>    -->
-<!--               <xt>Mus lea seammá vuoigatvuohta oaggut go diekkáriin geat ostet lobi.</xt>  -->
-<!--            </xg>																		    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--   </e>																					    -->
-<!--   <e mg_c="2">																			    -->
-<!--      <lg>																				    -->
-<!--         <l pos="Pron" type="Dem">med slike</l>											    -->
-<!--      </lg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t pos="Pron" type="Dem">dakkáriiguin</t>									    -->
-<!--            <xg>																		    -->
-<!--               <x>Jeg kan ikke samarbeide med slike.</x>								    -->
-<!--               <xt>In mun sáhte ovttasbargat dakkáriiguin.</xt>							    -->
-<!--            </xg>																		    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--      <mg>																				    -->
-<!--         <tg xml:lang="sme">															    -->
-<!--            <t pos="Pron" type="Dem">diekkáriiguin</t>									    -->
-<!--            <xg>																		    -->
-<!--               <x>Jeg kan ikke samarbeide med slike.</x>								    -->
-<!--               <xt>In mun sáhte ovttasbargat diekkáriiguin.</xt>						    -->
-<!--            </xg>																		    -->
-<!--         </tg>																			    -->
-<!--      </mg>																				    -->
-<!--   </e>																					    -->
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">sånne her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dákkáriid</t>
-            <xg>
-               <x>Kunne man ikke behandle sånt innenfor Tinget?</x>
-               <xt>Iibat dákkáriid sáhtášii dikšut Dikki siskkobealde?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">til sånne her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dákkáriidda</t>
-            <xg>
-               <x>Dette er ikke riktig forening for sånne her.</x>
-               <xt>Dát ii leat rievttes searvi dákkáriidda.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">i sånne her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Pl" pos="Pron" type="Dem">dákkáriin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">av sånne her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Pl" pos="Pron" type="Dem">dákkáriin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">sånne her (har)</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t nr="Pl" pos="Pron" type="Dem">dákkáriin</t>
-            <xg>
-               <x>Jeg har samme rett til å fiske som sånne her har som kjøper fiskekort.</x>
-               <xt>Mus lea seammá vuoigatvuohta oaggut go dákkáriin geat ostet lobi.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Dem">med sånne her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Dem">dákkáriiguin</t>
-            <xg>
-               <x>Jeg kan ikke samarbeide med sånne her.</x>
-               <xt>In mun sáhte ovttasbargat dákkáriiguin.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
+
+
    <e mg_c="2">
       <lg>
          <l pos="Pron" type="Pers">jeg</l>
@@ -2614,11 +1571,6 @@
             <t pos="Pron" type="Pers">dii</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">din</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -2660,27 +1612,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Poss">mine</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">mu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">til meg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">munnje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">jeg (har)</l>
+         <l pos="Pron" type="Pers">jeg har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2689,26 +1621,6 @@
                <x>jeg har</x>
                <xt>mus lea</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">med meg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">muinna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som meg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">munin</t>
          </tg>
       </mg>
    </e>
@@ -2753,17 +1665,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">til deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dutnje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">du (har)</l>
+         <l pos="Pron" type="Pers">du har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2772,26 +1674,6 @@
                <x>Du har sannelig en stor hund.</x>
                <xt>Dus lea gusto stuora beana.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">med deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">duinna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som deg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dunin</t>
          </tg>
       </mg>
    </e>
@@ -2837,27 +1719,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">til han</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sutnje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">til henne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sutnje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">han (har)</l>
+         <l pos="Pron" type="Pers">han har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2871,7 +1733,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">hun (har)</l>
+         <l pos="Pron" type="Pers">hun har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2885,117 +1747,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">med henne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">suinna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">med han</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">suinna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som han</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sunin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som henne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sunin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron" type="Poss">dens</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Pers">dan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">til den</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dasa</t>
-            <xg>
-               <x>Til det trenger vi hjelp.</x>
-               <xt>Dasa mii dárbbašit veahki.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">i det</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">das</t>
-            <xg>
-               <x>Hva slags konsekvenser har det for skolen?</x>
-               <xt>Makkár váikkuhusat das leat skuvlii?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">i den</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">das</t>
-            <xg>
-               <x>Hva slags konsekvenser har det for skolen?</x>
-               <xt>Makkár váikkuhusat das leat skuvlii?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">med den</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dainna</t>
-            <xg>
-               <x>Med den berges vi ikke til sommeren.</x>
-               <xt>Dainna eat birge geassái.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som den</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">danin</t>
          </tg>
       </mg>
    </e>
@@ -3082,22 +1838,6 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron" type="Poss">våre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Pers">munno</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">min</t>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="Pron" type="Pers">til oss to</l>
@@ -3110,7 +1850,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">vi to (har)</l>
+         <l pos="Pron" type="Pers">vi to har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3134,27 +1874,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">som oss to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">munnon</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">til dere to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dudnuide</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">dere to (har)</l>
+         <l pos="Pron" type="Pers">dere to har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3163,56 +1883,6 @@
                <x>dere to har</x>
                <xt>dudnos lea</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">med dere to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dudnuin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som dere to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dudnon</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">til de to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sudnuide</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">med de to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sudnuin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som de to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sudnon</t>
          </tg>
       </mg>
    </e>
@@ -3228,17 +1898,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">til oss</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">midjiide</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">vi (har)</l>
+         <l pos="Pron" type="Pers">vi har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3252,37 +1912,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">med oss</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">minguin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som oss</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">minin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">til dere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">didjiide</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">dere (har)</l>
+         <l pos="Pron" type="Pers">dere har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3294,26 +1924,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">med dere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dinguin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som dere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">dinin</t>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="2">
       <lg>
          <l pos="Pron" type="Pers">dem</l>
@@ -3321,25 +1931,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Pers">sin</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">daid</t>
-            <xg>
-               <x>De burde la reindriftsamene slakte dem.</x>
-               <xt>Galggašedje suovvat badjeolbmuid daid njuovvat.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">som dem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">sinin</t>
          </tg>
       </mg>
    </e>
@@ -3805,7 +2396,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Refl">jeg (har) selv</l>
+         <l pos="Pron" type="Refl">jeg har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3879,7 +2470,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Refl">du (har) selv</l>
+         <l pos="Pron" type="Refl">du har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4013,7 +2604,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron" type="Refl">han (har) selv</l>
+         <l pos="Pron" type="Refl">han har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4036,7 +2627,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron" type="Refl">hun (har) selv</l>
+         <l pos="Pron" type="Refl">hun har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4189,7 +2780,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron" type="Refl">vi to (har) selv</l>
+         <l pos="Pron" type="Refl">vi to har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4322,7 +2913,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron" type="Refl">dere to (har) selv</l>
+         <l pos="Pron" type="Refl">dere to har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4393,7 +2984,7 @@
    </e>
    <e mg_c="3">
       <lg>
-         <l pos="Pron" type="Refl">de to (har) selv</l>
+         <l pos="Pron" type="Refl">de to har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4425,7 +3016,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron" type="Refl">vi (har) selv</l>
+         <l pos="Pron" type="Refl">vi har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4448,7 +3039,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron" type="Refl">dere (har) selv</l>
+         <l pos="Pron" type="Refl">dere har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4471,7 +3062,7 @@
    </e>
    <e mg_c="3">
       <lg>
-         <l pos="Pron" type="Refl">de (har) selv</l>
+         <l pos="Pron" type="Refl">de har selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -4513,6 +3104,10 @@
                <x>Hva er så der?</x>
                <xt>Mii bat doppe lea?</xt>
             </xg>
+            <xg>
+               <x>På hvilken måte er veps og maur likedanne? Det er en stor bil som er god å kjøre med.</x>
+               <xt>Mainna lágiin leat vieksát ja gotkkat ovttaláganat? Dat lea stuora biila mainna lea hui buorre vuodjit.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4522,6 +3117,10 @@
             <xg>
                <x>Hva er asteroider?</x>
                <xt>Mat leat asteroiidat?</xt>
+            </xg>
+            <xg>
+               <x>Det er saker som Sametinget arbeider med.</x>
+               <xt>Dathan leat áššit maiguin Sámediggi bargá.</xt>
             </xg>
          </tg>
       </mg>
@@ -4735,72 +3334,14 @@
             </xg>
          </tg>
       </mg>
-<!--      <mg>													  -->
-<!--         <tg xml:lang="sme">								  -->
-<!--            <re>til hva slags</re>							  -->
-<!--            <t pos="Pron" type="Interr">makkárii</t>		  -->
-<!--         </tg>												  -->
-<!--      </mg>													  -->
-<!--      <mg>													  -->
-<!--         <tg xml:lang="sme">								  -->
-<!--            <re>i/av hva slags</re>							  -->
-<!--            <t pos="Pron" type="Interr">makkáris</t>		  -->
-<!--         </tg>												  -->
-<!--      </mg>													  -->
-<!--      <mg>													  -->
-<!--         <tg xml:lang="sme">								  -->
-<!--            <re>med hva slags</re>							  -->
-<!--            <t nr="Pl" pos="Pron" type="Interr">makkáriin</t> -->
-<!--         </tg>												  -->
-<!--      </mg>													  -->
-<!--      <mg>													  -->
-<!--         <tg xml:lang="sme">								  -->
-<!--            <re>som hva slags</re>							  -->
-<!--            <t pos="Pron" type="Interr">makkárin</t>		  -->
-<!--         </tg>												  -->
-<!--      </mg>													  -->
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron">hva slags (har)</l>
+         <l pos="Pron">hva slags har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Interr">makkáris</t>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron">med hva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Rel">mainna</t>
-            <xg>
-               <x>På hvilken måte er veps og maur likedanne? Det er en stor bil som er god å kjøre med.</x>
-               <xt>Mainna lágiin leat vieksát ja gotkkat ovttaláganat? Dat lea stuora biila mainna lea hui buorre vuodjit.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flertall</re>
-            <t pos="Pron" type="Rel">maiguin</t>
-            <xg>
-               <x>Det er saker som Sametinget arbeider med.</x>
-               <xt>Dathan leat áššit maiguin Sámediggi bargá.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron">som hva</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Interr">manin</t>
          </tg>
       </mg>
    </e>
@@ -4892,7 +3433,7 @@
    </e>
    <e mg_c="4">
       <lg>
-         <l pos="Pron">hvem (har)</l>
+         <l pos="Pron">hvem har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -5044,7 +3585,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron">hvilken av de to (har)</l>
+         <l pos="Pron">hvilken av de to har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
