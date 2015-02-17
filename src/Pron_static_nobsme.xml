@@ -626,7 +626,7 @@
 			<re>til noe</re>
             <t pos="Pron" type="Indef">masa nu</t>
             <xg>
-               <x>Pengegaven ønsker jeg å bruke på noe annet, slik som reising. </x>
+               <x>Pengegaven ønsker jeg å bruke på noe annet, slik som reising.</x>
                <xt>Ruhtaskeaŋkka gal háliidan geavahit masa nu earái, nu go mátkkošteapmái.</xt>
             </xg>
             <xg>
@@ -688,8 +688,12 @@
 			<re>akkusativ</re>
             <t pos="Pron" type="Indef">vaikko maid</t>
             <xg>
-               <x>Reven fører hva som helst til hiet, sier Eriksen. Av laksen kan man jo lage hva som helst.</x>
-               <xt>Rieban doalvu vaikko maid bidjui, dadjá Eriksen. Luosas han sáhttá vaikko maid ráhkadit.</xt>
+               <x>Reven fører hva som helst til hiet, sier Eriksen.</x>
+               <xt>Rieban doalvu vaikko maid bidjui, dadjá Eriksen.</xt>
+            </xg>
+            <xg>
+               <x>Av laksen kan man jo lage hva som helst.</x>
+               <xt>Luosas han sáhttá vaikko maid ráhkadit.</xt>
             </xg>
          </tg>
       </mg>
@@ -1249,10 +1253,6 @@
          <tg xml:lang="sme">
             <t nr="Sg" pos="Pron" type="Dem">dat</t>
             <xg>
-               <x>Hva slags konsekvenser har det for skolen?</x>
-               <xt>Makkár váikkuhusat das leat skuvlii?</xt>
-            </xg>
-            <xg>
                <x>Føllet går seg ikke vill, det kommer hjem.</x>
                <xt>Vársá ii láhppo, dat gal boahtá ruoktot.</xt>
             </xg>
@@ -1774,6 +1774,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Pers">munno</t>
+            <xg>
+               <x>Hun oppdaget ikke oss to.</x>
+               <xt>Son ii fuobmán munno.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1785,6 +1789,10 @@
          <tg xml:lang="sme">
             <re>om to</re>
             <t pos="Pron" type="Pers">munno</t>
+            <xg>
+               <x>Hun oppdaget ikke oss to.</x>
+               <xt>Son ii fuobmán munno.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -1852,16 +1860,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">til oss to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">munnuide</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Pron" type="Pers">vi to har</l>
       </lg>
       <mg>
@@ -1871,16 +1869,10 @@
                <x>vi to har</x>
                <xt>munnos lea</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Pers">med oss to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Pers">munnuin</t>
+            <xg>
+               <x>I byen har vi to både slektninger og kjente.</x>
+               <xt>Gávpogis munnos leat sihke fuolkkit ja oahppásat.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1895,16 +1887,24 @@
                <x>dere to har</x>
                <xt>dudnos lea</xt>
             </xg>
+            <xg>
+               <x>Hva slags planer har dere to for framtida?</x>
+               <xt>Makkár plánat leat dudnos boahtteáigái?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Pers">oss</l>
+         <l pos="Pron" type="Pers">oss</l>   
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Pers">min</t>
+            <xg>
+               <x>Følg oss på Twitter.</x>
+               <xt>Čuovo min Twitteris.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1919,6 +1919,10 @@
                <x>vi har</x>
                <xt>mis lea</xt>
             </xg>
+            <xg>
+               <x>Vi har vår egen historie, tradisjoner, kultur og språk.</x>
+               <xt>Mis lea iežamet historjá, árbevierut, kultuvra ja giella.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1930,8 +1934,62 @@
          <tg xml:lang="sme">
             <t pos="Pron" type="Pers">dis</t>
             <xg>
-               <x>dere har</x>
-               <xt>dus lea</xt>
+               <x>Dere har et ungt lag i år, hvordan vil det slå ut på spillet?</x>
+               <xt>Dis lea hui nuorra joavku dán jagi, mo dat čuohcá spellui?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>  
+      <lg>
+         <l pos="Pron" type="Pers">den har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" type="Pers">das</t>
+            <xg>
+               <x>den har</x>
+               <xt>das lea</xt>
+            </xg>
+            <xg>
+               <x>Hva slags konsekvenser har det for skolen?</x>
+               <xt>Makkár váikkuhusat das leat skuvlii?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="Pron" type="Pers">de to har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" type="Pers">sudnos</t>
+            <xg>
+               <x>de to har</x>
+               <xt>sudnos lea</xt>
+            </xg>
+            <xg>
+               <x>Hvor mange barn har så de to?</x>
+               <xt>Galle mánábat sudnos leat?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="Pron" type="Pers">de har</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" type="Pers">sis</t>
+            <xg>
+               <x>de har</x>
+               <xt>sis lea</xt>
+            </xg>
+            <xg>
+               <x>Nå har de god tid å snakke.</x>
+               <xt>Dál sis lei buorre dilli háleštit.</xt>
             </xg>
          </tg>
       </mg>
@@ -1955,7 +2013,7 @@
             <t pos="Pron" type="Refl">ieš</t>
             <xg>
                <x>Jeg har gjort det sjøl.</x>
-               <xt>Mun lean dan ieš dáhkan.</xt>
+               <xt>Mun lean dan ieš dahkan.</xt>
             </xg>
          </tg>
       </mg>
@@ -1964,8 +2022,12 @@
             <re>om flere</re>
             <t pos="Pron" type="Refl">ieža</t>
             <xg>
-               <x>De to har gjort det sjøl. Vi har gjort det sjøl.</x>
-               <xt>Soai leaba dan ieža dáhkan. Mii leat dan ieža dáhkan.</xt>
+               <x>De to har gjort det sjøl.</x>
+               <xt>Soai leaba dan ieža dahkan.</xt>
+            </xg>
+            <xg>
+               <x>Vi har gjort det sjøl.</x>
+               <xt>Mii leat dan ieža dahkan.</xt>
             </xg>
          </tg>
       </mg>
@@ -3365,8 +3427,12 @@
          <tg xml:lang="sme">
             <t pos="Pron" type="Rel">gean</t>
             <xg>
-               <x>Hvem sitt ansvar er det? Hvem så du? Våre fotballspillere har sagt hvem de ønsker som trener. Hvem vet hvem sin reinkalv det er?</x>
-               <xt>Gean ovddasvástádus dat lea? Gean don oidnet? Min spábbačiekčit leat lohkan gean sii háliidit hárjeheaddjin. Gii diehtá gean miessi dat lea?</xt>
+               <x>Hvem sitt ansvar er det?</x>
+               <xt>Gean ovddasvástádus dat lea?</xt>
+            </xg>
+            <xg>
+               <x>Hvem vet hvem sin reinkalv det er?</x>
+               <xt>Gii diehtá gean miessi dat lea?</xt>
             </xg>
          </tg>
       </mg>
@@ -3375,28 +3441,24 @@
             <re>flertall</re>
             <t pos="Pron" type="Rel">geaid</t>
             <xg>
-               <x>Hvem vil Reisas trener ha på laget? Hvem har tegninger på utstillinga? Der er det fem fotballspillere som Reisa vil på laget. Nedenfor ser du navnene til dem som har tegninger på utstillinga.</x>
-               <xt>Geaid Ráissa hárjeheaddji háliida jovkui? Geaid sárgumat leat čájáhusas? Doppe leat vihtta čiekči geaid Ráisa háliida iežaset jovkui. Vuolábealde oainnát sin namaid geaid sárgumat leat čájáhusas.</xt>
+               <x>Hvem har tegninger på utstillinga?</x>
+               <xt>Geaid sárgumat leat čájáhusas?</xt>
+            </xg>
+            <xg>
+               <x>Nedenfor ser du navnene til dem som har tegninger på utstillinga.</x>
+               <xt>Vuolábealde oainnát sin namaid geaid sárgumat leat čájáhusas.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Rel">guđe</t>
-            <xg>
-               <x>Hvilket land kommer du fra? Jeg har ikke bestemt meg for hvilken presidentkandidat jeg skal stemme på.</x>
-               <xt>Guđe riikkas don leat eret? In leat mearridan guđe presideantaevttohasa jienastan.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>flertall</re>
             <t pos="Pron" type="Rel">guđiid</t>
-            <xg>
-               <x>Hvilke klær skal jeg vaske?</x>
-               <xt>Guđiid biktasiid mun galggan bassat?</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3407,10 +3469,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Rel">geasa</t>
-            <xg>
-               <x>For hvem er det nyttig? For vanlige folk er det vanskelig å vite hvem man skal tro på i denne saken.</x>
-               <xt>Geasa dat lea ávkin? Dábálaš olbmui lea váttis diehtit geasa galgá jáhkkit dán áššis.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -3418,8 +3476,8 @@
             <re>flertall</re>
             <t pos="Pron" type="Rel">geaidda</t>
             <xg>
-               <x>Til hvem tilhørte reinen? Dessverre var det ikke mulig å bevise hvem reinen tilhørte.</x>
-               <xt>Geaidda bohccot gulle? Dađi bahábut ii lean vejolaš duođaštit, geaidda bohccot gulle.</xt>
+               <x>Til hvem tilhørte reinen?</x>
+               <xt>Geaidda bohccot gulle?</xt>
             </xg>
          </tg>
       </mg>
@@ -3427,7 +3485,7 @@
          <tg xml:lang="sme">
             <t pos="Pron" type="Rel">guhtii</t>
             <xg>
-               <x>Hver skal ha 50 kroner i lønn.</x>
+               <x>Til hver enkelt skal det være 50 kroner i lønn.</x>
                <xt>Guhtiige galgá 50 ruvdno bálkán.</xt>
             </xg>
          </tg>
@@ -3445,14 +3503,53 @@
    </e>
    <e mg_c="4">
       <lg>
+         <l pos="Pron">for hvem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" type="Rel">geasa</t>
+            <xg>
+               <x>For hvem er det nyttig?</x>
+               <xt>Geasa dat lea ávkin?</xt>
+            </xg>
+            <xg>
+               <x>For vanlige folk er det vanskelig å vite hvem man skal tro på i denne saken.</x>
+               <xt>Dábálaš olbmui lea váttis diehtit geasa galgá jáhkkit dán áššis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>flertall</re>
+            <t pos="Pron" type="Rel">geaidda</t>
+            <xg>
+               <x>Til hvem tilhørte reinen?</x>
+               <xt>Geaidda bohccot gulle?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" type="Rel">guhtii</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>flertall</re>
+            <t pos="Pron" type="Rel">guđiide</t>
+         </tg>
+      </mg>
+   </e>
+   <e mg_c="4">
+      <lg>
          <l pos="Pron">hvem har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Rel">geas</t>
             <xg>
-               <x>Hvem har så mye penger? Til stillingen søker vi en person som har høyere utdanning i økonomi og administrasjon.</x>
-               <xt>Geas lea nu ollu ruhta? Virgái ohcat olbmo geas lea alit ekonomiija- ja hálddašanoahppu.</xt>
+               <x>Hvem har så mye penger?</x>
+               <xt>Geas lea nu ollu ruhta?</xt>
             </xg>
          </tg>
       </mg>
@@ -3461,28 +3558,20 @@
             <re>flertall</re>
             <t pos="Pron" type="Rel">geain</t>
             <xg>
-               <x>Hvem har slik utdanning? Der er det folk som har utdanning og lang arbeidsansiennitet.</x>
-               <xt>Geain lea dakkár oahppu? Doppe leat olbmot geain lea oahppu ja guhkes bargovásáhus.</xt>
+               <x>Hvem har slik utdanning?</x>
+               <xt>Geain lea dakkár oahppu?</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Rel">guđes</t>
-            <xg>
-               <x>Vi må bruke de forbindelsene som hver enkelt har.</x>
-               <xt>Mii fertet geavahit daid čanastagaid mat guđesge leat.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>flertall</re>
             <t nr="Pl" pos="Pron" type="Rel">guđiin</t>
-            <xg>
-               <x>Hvilke hus har garasjer?</x>
-               <xt>Guđiin viesuin leat biilavisttit?</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -3494,8 +3583,8 @@
          <tg xml:lang="sme">
             <t pos="Pron" type="Rel">geainna</t>
             <xg>
-               <x>Hvem snakker jeg så med nå? Hun var kongsdatteren som ingen kunne berges med.</x>
-               <xt>Geainna bat mun dál human? Son lei gonagasnieida geainna ii oktage birgen.</xt>
+               <x>Hvem snakker jeg så med nå?</x>
+               <xt>Geainna bat mun dál human?</xt>
             </xg>
          </tg>
       </mg>
@@ -3504,8 +3593,8 @@
             <re>flertall</re>
             <t pos="Pron" type="Rel">geaiguin</t>
             <xg>
-               <x>Hvem har dere trent med? Det blir veldig morsomt å spille fotball mot dem som vi har trent i lag med.</x>
-               <xt>Geaiguin dii lehpet hárjehallan? Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</xt>
+               <x>Hvem har dere trent med?</x>
+               <xt>Geaiguin dii lehpet hárjehallan?</xt>
             </xg>
          </tg>
       </mg>
