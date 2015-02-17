@@ -7,31 +7,51 @@
 
 # sh nobsme.sh
 
-echo 
-echo "Etter at dette scriptet er ferdig står du i xfst med promten"
-echo "xfst[1]"
-echo 
-echo "Gjör då dette:"
-echo "invert"
-echo "save bin/nobsme.fst"
-echo "quit"
 echo ""
+echo "----------------------------------------------------"
+echo "Shellscript to make a transducer of the dictionary."
+echo ""
+echo "It writes a lexc file to bin, containing the line	 "
+echo "LEXICON Root										 "
+echo "Thereafter, it picks lemma and first translation	 "
+echo "of the dictionary, adds them to this lexc file,	 "
+echo "and compiles a transducer bin/smenob.fst		 "
+echo ""
+echo "Usage:"
+echo "lookup bin/nobsme.fst"
+echo ""
+echo "(or if you have set up the alias: just write nobsme)"
+echo "----------------------------------------------------"
+echo ""
+
+
+
 echo "LEXICON Root" > bin/smenob.lexc
 
 cat  src/*_smenob.xml | \
 
 echo "LEXICON Root" > bin/nobsme.lexc
 
-cat src/*_nobsme.xml | \
-tr '\n' '™' | sed 's/<e/£/g;'| tr '£' '\n'| \
-sed 's/<re>[^>]*>//g;'|tr '<' '>'| cut -d">" -f6,16| \
-tr ' ' '_'| sed 's/:/%/g;'|tr '>' ':'| \
-grep -v '__'|sed 's/$/ # ;/g' >> bin/nobsme.lexc
+cat src/*_nobsme.xml   | \
+tr '\n' '™'            | \ 
+sed 's/<e/£/g;'        | \
+tr '£' '\n'            | \
+sed 's/<re>[^>]*>//g;' | \
+tr '<' '>'             | \
+cut -d">" -f6,16|      | \
+tr ' ' '_'             | \ 
+sed 's/:/%/g;'         | \
+tr '>' ':'             | \
+grep -v '__'           | \
+sed 's/$/ # ;/g'       >> bin/nobsme.lexc
 
 xfst -e "read lexc < bin/nobsme.lexc"
 
 
-# deretter gjer du dette i xfst:
-# invert
-# save bin/nobsme.fst
+printf "read lexc < bin/nobsme.lexc \n\
+invert net \n\
+save stack bin/nobsme.fst \n\
+quit \n" > tmpfile
+xfst -utf8 < tmpfile
+rm -f tmpfile
 
