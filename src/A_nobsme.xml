@@ -2288,6 +2288,16 @@
 	    </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli syk</re>
+            <t pos="A" usage="vd">buohccát</t>
+          <xg>
+	      <x>Hva hvis du blir syk?</x>
+	      <xt>Naba jus buohccát?</xt>
+	    </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4676,6 +4686,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="gt;fad">ovddit</t>
+			<xg>
+  				<x>Det er to flere enn i fjor, men tre færre enn foregående år..</x>
+  				<xt>Dat lea 2 eanet go diibmá, muhto golbma unnit go ovddit jagi.</xt>
+			</xg>
          </tg>
       </mg>
    </e>
@@ -7070,14 +7084,21 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd">ovddeš</t>
-            <t pos="A" usage="vd">ovddit</t>
             <xg>
                <x>tidligere tider</x>
                <xt>ovddeš áiggit</xt>
             </xg>
             <xg>
-               <x>min tidligere ektemann</x>
-               <xt>mu ovddeš isit</xt>
+               <x>mine tidligere ektemenn</x>
+               <xt>mu ovddeš isidat</xt>
+            </xg>
+            <xg>
+               <x>Nå har de tidligere sangerne i Deatnugátte Nuorat gitt ut plate sammen.</x>
+               <xt>Dál leaba ovddeš Deatnugátte Nuoraid lávlu guovttos almmuhan skearru ovttas.</xt>
+            </xg>
+            <xg>
+               <x>Informasjonen om samisk kultur er styrket i forhold til tidligere læreplaner.</x>
+               <xt>Dieđut sámi kultuvrra birra leat nannejuvvon ovddeš oahppoplánaid ektui.</xt>
             </xg>
          </tg>
       </mg>
@@ -17299,11 +17320,19 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">ovddit</t>
+ 			<xg>
+ 			  <x>Det forrige Sametingsråd gjorde følgende vedtak.</x>
+ 			  <xt>Ovddit Sámediggeráđđi dagai čuovvovaš mearrádusa.</xt>
+ 			</xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="A">mannan</t>
-<xg>
-  <x>Det forrige Sametingsråd gjorde følgende vedtak.</x>
-  <xt>Ovddit Sámediggeráđđi dagai čuovvovaš mearrádusa.</xt>
-</xg>
+			<xg>
+			  <x>De var forrige helg i marka og lagde reklamefilm.</x>
+			  <xt>Sii ledje mannan vahkkoloahpa meahcis ráhkadeamen reklámefilmma.</xt>
+			</xg>
          </tg>
       </mg>
    </e>
