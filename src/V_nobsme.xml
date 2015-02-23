@@ -5508,6 +5508,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="gt;fad">čuožžilit</t>
+            <t pos="V" usage="vd">bohciidit</t>
+            <xg>
+               <x>Fra et sted i dypet oppsto det opp rare tanker.</x>
+               <xt>Gos nu čiekŋalasas bohciidedje ártegis jurdagat.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6056,7 +6061,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>komme etter; </re>
+            <re>komme etter</re>
             <t pos="V" usage="vd" src="nj;fad">čuovvut</t>
          </tg>
       </mg>
@@ -6084,7 +6089,17 @@
             <t pos="V" src="fad">čuvodit</t>
          </tg>
       </mg>
-   </e>
+      <mg>
+          <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">bohciidit</t>
+            <re>følger det</re>
+            <xg>
+               <x>Av det følger det at …</x>
+               <xt>Das bohciida dat ahte …</xt>
+            </xg>
+         </tg>
+      </mg>
+  </e>
    <e>
       <lg>
          <l pos="V">finne</l>
@@ -11877,20 +11892,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">spire</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">bohciidit</t>
-            <xg>
-               <x>Av det følger det at …</x>
-               <xt>Das bohciida dat ahte …</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">trette</l>
       </lg>
       <mg>
@@ -16848,8 +16849,8 @@
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">dájáskit</t>
             <xg>
-               <x>Ánte brølte verre enn en gal person.</x>
-               <xt>Ánte čearggui vearrábut go dájáskan olmmoš.</xt>
+               <x>Har du fullstendig gått fra vettet?</x>
+               <xt>Leat go oalát dájáskan?</xt>
             </xg>
          </tg>
       </mg>
@@ -20369,7 +20370,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>reise seg opp i stående stilling</re>
+            <t pos="V" src="gt;fad">čuožžilit</t>
+            <xg>
+               <x>Risten reiste seg opp for å koke kaffe.</x>
+               <xt>Risten čuožžilii káfe vuoššat .</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>stå opp fra senga</re>
             <t pos="V" src="nj" usage="vd">lihkkat</t>
+            <xg>
+               <x>Når han ikke klarer å stå opp, så la han sove.</x>
+               <xt>Na go juo ii veaje lihkkat, de ođđos.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
