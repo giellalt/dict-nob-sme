@@ -5679,6 +5679,12 @@
             <t pos="V" src="nj" usage="vd">šohkut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om vind, begynne å blåse</re>
+            <t pos="V" usage="vd">biekkastit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8408,7 +8414,31 @@
             <t pos="V" src="fad">vázzilit</t>
          </tg>
       </mg>
-   </e>
+      <mg>
+         <tg xml:lang="sme">
+         <re>gå fort, om tid</re>
+            <t pos="V" usage="vd">golihit</t>
+            <t pos="V" usage="vd">manihit</t>
+            <xg>
+               <x>Reisa hjem gikk fort.</x>
+               <xt>Mátki ruoktot manihii jođánit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>gå sakte, om firbeinte dyr</re>
+            <t pos="V" src="nj" usage="vd">oahkut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>begynne å gå</re>
+            <t pos="V" src="nj" usage="vd">vázzilit</t>
+            <t pos="V" src="nj" usage="vd">vázzát</t>
+         </tg>
+      </mg>
+  </e>
    <e>
       <lg>
          <l pos="V">behandle</l>
@@ -8591,6 +8621,12 @@
          <tg xml:lang="sme">
             <re>å få høre</re>
             <t pos="V" src="fad">gulastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>begynne å høre</re>
+            <t pos="V" usage="vd">gullát</t>
          </tg>
       </mg>
    </e>
@@ -10485,6 +10521,12 @@
          <tg xml:lang="sme">
             <re>ferdes</re>
             <t pos="V" src="nj" usage="vd">johtit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+             <re>begynne å flytte, ferdes</re>
+           <t pos="V" usage="vd">johttát</t>
          </tg>
       </mg>
       <mg>
@@ -14286,16 +14328,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">begynne å blåse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">biekkastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">gå i stykker</l>
       </lg>
       <mg>
@@ -14500,16 +14532,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">biškut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gå hjulbeint</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">boaggut</t>
          </tg>
       </mg>
    </e>
@@ -15164,6 +15186,16 @@
             <xg>
                <x>Bestefar gikk av hesten som en ungdom.</x>
                <xt>Áddjá njuikii eret heasttas dego nuorra olmmoš.</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+            <re>slutte</re>
+            <t pos="V" usage="vd">luohpat</t>
+            <xg>
+               <x>Han var i stillingen helt til han gikk av med pensjon.</x>
+               <xt>Dán virggis lei dassážii go luobai penšuvnnain.</xt>
             </xg>
          </tg>
       </mg>
@@ -16058,6 +16090,12 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>begynne å krangle</re>
+            <t pos="V" usage="vd">dikkáskit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -16109,21 +16147,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd">divuhit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gå fort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">golihit</t>
-            <t pos="V" usage="vd">manihit</t>
-            <xg>
-               <x>Reisa hjem gikk fort.</x>
-               <xt>Mátki ruoktot manihii jođánit.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -17112,7 +17135,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>om melk og liknende</re>
             <t pos="V" src="nj" usage="vd">suvrut</t>
+            <xg>
+               <x>Melka ble sur i spannet.</x>
+               <xt>Mielki suvrrui spánnja sisa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om folk</re>
             <t pos="V" src="nj" usage="vd">eardut</t>
          </tg>
       </mg>
@@ -19826,7 +19859,6 @@
             <t pos="V" src="nj" usage="vd">lihkestit</t>
          </tg>
       </mg>
-   </e>
       <mg>
          <tg xml:lang="sme">
             <re>flytte på seg</re>
@@ -19835,15 +19867,6 @@
                <x>Skyene beveger seg sakte.</x>
                <xt>Balvvat johtet hiljit.</xt>
             </xg>
-         </tg>
-      </mg>
-   <e>
-      <lg>
-         <l pos="V">begynne å flytte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">johttát</t>
          </tg>
       </mg>
    </e>
@@ -20188,6 +20211,12 @@
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">lahkonit</t>
             <t pos="V" src="nj" usage="vd">lahkanit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>begynne å nærme seg</re>
+            <t pos="V" usage="vd">lahkonišgoahtit</t>
          </tg>
       </mg>
    </e>
@@ -22188,17 +22217,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">náđđut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gå sakte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om firbeinte dyr</re>
-            <t pos="V" src="nj" usage="vd">oahkut</t>
          </tg>
       </mg>
    </e>
@@ -24552,17 +24570,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">begynne å gå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">vázzilit</t>
-            <t pos="V" src="nj" usage="vd">vázzát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">gagne</l>
       </lg>
       <mg>
@@ -25168,22 +25175,18 @@
    </e>
    <e>
       <lg>
-         <l pos="V">begynne å gå på ski</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">čuoigalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">gå på ski</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">čuoigat</t>
             <t pos="V" src="nj" usage="vd">čuoiggadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>begynne å gå på ski</re>
+            <t pos="V" src="nj" usage="vd">čuoigalit</t>
          </tg>
       </mg>
    </e>
@@ -25713,16 +25716,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd">čavget</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">begynne å høre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">gullát</t>
          </tg>
       </mg>
    </e>
@@ -27688,16 +27681,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">begynne å krangle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">dikkáskit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">ha lyst til å slåss</l>
       </lg>
       <mg>
@@ -27763,16 +27746,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd">jietnadallat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">begynne å nærme seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">lahkonišgoahtit</t>
          </tg>
       </mg>
    </e>
