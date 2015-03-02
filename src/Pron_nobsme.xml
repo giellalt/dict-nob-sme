@@ -3141,7 +3141,7 @@
    </e>
    <e mg_c="5">
       <lg>
-         <l pos="Pron">hva</l>
+         <l pos="Pron" type="Interr">hva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3203,7 +3203,7 @@
   </e>
    <e mg_c="8">
       <lg>
-         <l pos="Pron">hvem</l>
+         <l pos="Pron" type="Interr">hvem</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3318,7 +3318,7 @@
 <!--   </e> -->
    <e mg_c="2">
       <lg>
-         <l pos="Pron">hvilken</l>
+         <l pos="Pron" type="Interr">hvilken</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3340,6 +3340,10 @@
             <xg>
                <x>Hvilken sekk er tyngst?</x>
                <xt>Guhte seahkka lea losimus?</xt>
+            </xg>
+            <xg>
+               <x>Hvilke votter er dine?</x>
+               <xt>Guđet fáhcat leat du?</xt>
             </xg>
          </tg>
       </mg>
@@ -3367,24 +3371,9 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="Pron">hvilke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om flere innenfor en avgrenset gruppe</re>
-            <t pos="Pron" type="Interr">guđet</t>
-            <xg>
-               <x>Hvilke votter er dine?</x>
-               <xt>Guđet fáhcat leat du?</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="4">
       <lg>
-         <l pos="Pron">hva slags</l>
+         <l pos="Pron" type="Interr">hva slags</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3398,7 +3387,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron">hva slags har</l>
+         <l pos="Pron" type="Interr">hva slags har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3408,7 +3397,7 @@
    </e>
    <e mg_c="4">
       <lg>
-         <l pos="Pron">hvem sin</l>
+         <l pos="Pron" type="Interr">hvem sin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3451,7 +3440,7 @@
    </e>
    <e mg_c="4">
       <lg>
-         <l pos="Pron">til hvem</l>
+         <l pos="Pron" type="Interr">til hvem</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3490,7 +3479,7 @@
    </e>
    <e mg_c="4">
       <lg>
-         <l pos="Pron">for hvem</l>
+         <l pos="Pron" type="Interr">for hvem</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3529,7 +3518,7 @@
    </e>
    <e mg_c="4">
       <lg>
-         <l pos="Pron">hvem har</l>
+         <l pos="Pron" type="Interr">hvem har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3564,7 +3553,7 @@
    </e>
    <e mg_c="4">
       <lg>
-         <l pos="Pron">med hvem</l>
+         <l pos="Pron" type="Interr">med hvem</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3607,7 +3596,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron">som hvem</l>
+         <l pos="Pron" type="Interr">som hvem</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3626,7 +3615,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">av hva</l>
+         <l pos="Pron" type="Interr">av hva</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3641,7 +3630,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron">hvilken av de to sin</l>
+         <l pos="Pron" type="Interr">hvilken av de to sin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3657,7 +3646,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron">til hvilken av de to</l>
+         <l pos="Pron" type="Interr">til hvilken av de to</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3673,7 +3662,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron">hvilken av de to har</l>
+         <l pos="Pron" type="Interr">hvilken av de to har</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3689,7 +3678,7 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron">med hvilken av de to</l>
+         <l pos="Pron" type="Interr">med hvilken av de to</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -3705,7 +3694,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron">som hvilken av de to</l>
+         <l pos="Pron" type="Interr">som hvilken av de to</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
