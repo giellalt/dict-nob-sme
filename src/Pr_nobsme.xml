@@ -84,20 +84,22 @@
                <x>Han datt av hesten.</x>
                <xt>Son gahčai heasttas.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>opphav, som materiale</re>
+            <t type="expl">lokativ</t>
             <xg>
-               <x>Hun gikk inn av døra.</x>
-               <xt>Son manai uksa ráigge sisa.</xt>
+               <x>Jeg lager knivhylster av horn.</x>
+               <xt>Mun ráhkadin čoarvvis dohpaid.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>opphav</re>
-            <t type="expl">lokativ</t>
-            <xg>
-               <x>Han lever av fiske.</x>
-               <xt>Son eallá guolástemiin.</xt>
-            </xg>
+            <t type="expl">genitiv</t>
             <xg>
                <x>et maleri av Iver Jåks</x>
                <xt>Iver Jåksa maleriija</xt>
@@ -217,7 +219,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>tidspunkt</re>
-            <t type="expl">akkusativ</t>
+            <t type="expl">genitiv</t>
             <xg>
                <x>Hun kom på søndag.</x>
                <xt>Son bođii sotnabeaivvi.</xt>
@@ -361,19 +363,21 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>om tid</re>
             <t pos="Adv" src="nj" usage="vd">gitta</t>
             <t pos="Adv" src="nj" usage="vd">dassá</t>
+            <t pos="Adv" src="nj" usage="vd">dassážii go</t>
             <xg>
                <x>Jeg er på jobb helt til fredag.</x>
                <xt>Mun lean barggus gitta bearjadahkii.</xt>
             </xg>
             <xg>
-               <x>inntil</x>
-               <xt>dassá go</xt>
+               <x>Alt skulle være ferdig til da.</x>
+               <xt>Buot galggai leat dassážii gárvvis.</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
+     <mg>
          <tg xml:lang="sme">
             <re>tilhørighet</re>
             <t type="expl">genitiv</t>
@@ -409,16 +413,6 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>via</re>
-            <t pos="Po">bokte</t>
-            <xg>
-               <x>Den nye veien går via Ramfjord.</x>
-               <xt>Ođđa geaidnu manná Gáranasvuona bokte.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>med på reise</re>
             <t pos="Po">fárus</t>
             <xg>
@@ -429,7 +423,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>med på reise</re>
+            <re>bli med på reise</re>
             <t pos="Po">fárrui</t>
             <xg>
                <x>Bli med oss!</x>
@@ -462,6 +456,16 @@
             <xg>
                <x>arbeide med hendene</x>
                <xt>bargat gieđaiguin</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med noe som hører til</re>
+            <t type="expl">oktan + komitativ</t>
+            <xg>
+               <x>Jeg hadde kastet ut blomsten med blomsterpotta.</x>
+               <xt>Ledjen bálkestan rási oktan rásselihtiin olggos.</xt>
             </xg>
          </tg>
       </mg>
@@ -930,8 +934,8 @@
                <xt>Suomas</xt>
             </xg>
             <xg>
-               <x>Hun arbeidet i Tromsø i tre år.</x>
-               <xt>Son barggai Romssas golbma jagi.</xt>
+               <x>Hun arbeidet i Tromsø den gangen.</x>
+               <xt>Son barggai Romssas dalle.</xt>
             </xg>
          </tg>
          <tg xml:lang="sme">
@@ -961,10 +965,6 @@
          <tg xml:lang="sme">
             <re>om tid</re>
             <t type="expl">lokativ</t>
-            <xg>
-               <x>i vår</x>
-               <xt>dán giđa</xt>
-            </xg>
             <xg>
                <x>i mai</x>
                <xt>miessemánus</xt>
