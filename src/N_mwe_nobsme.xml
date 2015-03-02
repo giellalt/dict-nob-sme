@@ -2,6 +2,22 @@
 <r id="nobsme" xml:lang="nob">
    <e>
       <lg>
+         <l pos="A">godt humør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" usage="vd">mokta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>i godt humør</re>
+            <t pos="A" src="nj" usage="vd">movttet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">mor med følge</l>
       </lg>
       <mg>
@@ -11,26 +27,6 @@
                <x>Mor og den andre personen kommer i morgen.</x>
                <xt>Eatni guovttos boahtiba ihttin.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">levende vesen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg" src="nj" usage="vd">ealli</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">samfunnsinteressert person</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg" usage="vd">servodatberošteaddji</t>
          </tg>
       </mg>
    </e>
@@ -46,21 +42,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">person som går på ski rundt hjorden</l>
+         <l pos="N">reingjeter som går på ski rundt hjorden</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="NomAg" usage="vd">birračuoigi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">offensiv midtbanespiller</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="NomAg" usage="vd">guovddášnjunuščiekči</t>
          </tg>
       </mg>
    </e>
@@ -76,7 +62,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">sønns eller datters svigerfar eller svigermor</l>
+         <l pos="N">svigerforelder til eget barn eller søsken</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -86,17 +72,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">brors eller søsters svigerfar eller svigermor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">láža</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">svigersønns eller svigerdatters bror eller søster</l>
+         <l pos="N">svigersønns eller -datters søsken</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -167,21 +143,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">plassen ved døra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">uksaguorra</t>
-            <xg>
-               <x>Elle satt ved siden av døra.</x>
-               <xt>Elle čohkkái uksaguoras.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">trestokk til å henge, ta av og ordne kaffekjelen over ilden med</l>
+         <l pos="N">trepinne til å henge, ta av og ordne kaffekjelen over ilden med</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -211,7 +173,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">utstikker fra rundaktig haug</l>
+         <l pos="N">nase fra rundaktig haug</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -242,57 +204,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">skriftlig betenkning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">smiehttamuš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">lettlest bok</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">álkeslohkangirji</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-         <re>liten</re>
-            <t pos="N" usage="vd">álkeslohkangirjjáš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">sjøsamisk joik</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">mearrasámeluohti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kuas øye</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">gusačalbmi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">tørket gress</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">goikesuoidni</t>
          </tg>
       </mg>
    </e>
@@ -433,31 +349,31 @@
    </e>
    <e>
       <lg>
-         <l pos="N">det ytre øre</l>
+         <l pos="N">smittsom sykdom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" usage="vd">njoammudávda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ytre kjennetegn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd" src="fad">olgguldas dovdomearka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">ytre øre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">bealljelasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ved bordet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">beavdeguorra</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kald østavind</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">beavža</t>
          </tg>
       </mg>
    </e>
@@ -493,16 +409,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">vinterbelling for kvinner</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">biddu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">rein med svært grenete horn</l>
       </lg>
       <mg>
@@ -518,16 +424,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">bierta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kort hale</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">bieža</t>
          </tg>
       </mg>
    </e>
@@ -563,10 +459,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">stekt eller kokt småskåret kjøtt</l>
+         <l pos="N">småskåret kjøtt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>stekt eller kokt</re>
             <t pos="N" src="nj" usage="vd">biđus</t>
          </tg>
       </mg>
@@ -614,7 +511,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">noe lattervekkende</l>
+         <l pos="N">lattervekkende ting</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -638,7 +535,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">som er lodden</l>
+         <l pos="N">loddent dyr</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -708,7 +605,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">noe spisst</l>
+         <l pos="N">spiss ting</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -723,17 +620,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">cáici</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">stor elv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">eatnu</t>
-            <t pos="N" src="nj" usage="vd">deatnu</t>
          </tg>
       </mg>
    </e>
@@ -1037,36 +923,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">skalle sydd av leggskinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">nuvttot</t>
-            <t pos="N" src="nj" usage="vd">goikket</t>
-            <xg>
-               <x>Jeg har nye skaller.</x>
-               <xt>Mus leat ođđa goikkehat.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">rein som streifer</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">golgoboazu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">omstreifende hund</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">golgobeana</t>
          </tg>
       </mg>
    </e>
@@ -1122,7 +983,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">person som er uheldig</l>
+         <l pos="N">uheldig person</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1172,16 +1033,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">noe som bringer ulykke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">guoržžu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">landtunge mellom to vann eller myrer</l>
       </lg>
       <mg>
@@ -1202,16 +1053,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">våt grasslette i skogen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">guovda</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">to personer</l>
       </lg>
       <mg>
@@ -1225,16 +1066,6 @@
                <x>Jeg ønsker dem to lykke til videre.</x>
                <xt>Mun sávan dan guoktásii lihku ovddas guvlui.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">skalle med snøring</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">guretgáma</t>
          </tg>
       </mg>
    </e>
@@ -1288,26 +1119,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">høyt fjell</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">gáisá</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">skalle sydd av skalleskinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">gállot</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kjølig vær</l>
       </lg>
       <mg>
@@ -1328,46 +1139,6 @@
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">gámasgottur</t>
             <t pos="N" src="nj" usage="vd">juolgegottur</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">rypesnare med risgjerde</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">gárdi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">stort hus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">gárdin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">steinet strand</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">gárgu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">steinet grunne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">gárgu</t>
          </tg>
       </mg>
    </e>
@@ -1466,46 +1237,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">bratt bergvegg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">hoaŋka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">stor hund med hengeører</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">horti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">smal myr i skogen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">huitu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">smal slette i skogen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">huitu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">kreative evner</l>
       </lg>
       <mg>
@@ -1521,16 +1252,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">hálddašanguovlu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">rundt fjell</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">háldi</t>
          </tg>
       </mg>
    </e>
@@ -1596,31 +1317,23 @@
    </e>
    <e>
       <lg>
-         <l pos="N">kort stille sted mellom to stryk</l>
+         <l pos="N">stille sted mellom to stryk</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>kort stille sted</re>
             <t pos="N" src="nj" usage="vd">jalvi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">svakt luftdrag</l>
+         <l pos="N">luftdrag</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>svakt</re>
             <t pos="N" src="nj" usage="vd">jiella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">fjernt sus</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">joahca</t>
          </tg>
       </mg>
    </e>
@@ -1730,35 +1443,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">meget lavt kjørel av staver</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">leaila</t>
-            <xg>
-               <x/>
-               <xt/>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">flettverk på laksestengsel</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" nr="Pl" usage="vd">leaipput</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">stor synkestein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">lieksa</t>
          </tg>
       </mg>
    </e>
@@ -1784,10 +1473,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">noe ekstra</l>
+         <l pos="N">ekstra</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>noe ekstra</re>
             <t pos="N" src="nj" usage="vd">liigi</t>
          </tg>
       </mg>
@@ -1804,7 +1494,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">person som er kortbent</l>
+         <l pos="N">kortbent person</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -1852,16 +1542,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">bratt kleiv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">luhppu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">høy som er slått og ligger på marka</l>
       </lg>
       <mg>
@@ -1877,6 +1557,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">luonddugáhppálat</t>
+            <t pos="N" type="NomAg" src="nj" usage="vd">ealli</t>
          </tg>
       </mg>
    </e>
@@ -1970,36 +1651,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">kokt fiskelever</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">mullju</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gammel slitt pesk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">muoddá</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">tett skog</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">murdu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">brunsvart rein</l>
       </lg>
       <mg>
@@ -2025,17 +1676,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">mális</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">fast løype</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">máđidja</t>
-            <t pos="N" usage="vd">máđii</t>
          </tg>
       </mg>
    </e>
@@ -2073,31 +1713,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">manns nevø eller niese</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">neahpi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">belte med kniv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">niibeboagán</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">stabbur på en stolpe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">njalla</t>
          </tg>
       </mg>
    </e>
@@ -2161,7 +1781,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">person som er østfra</l>
+         <l pos="N">person østfra</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2229,16 +1849,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">sterk vind</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">riđđu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">hulrom under is</l>
       </lg>
       <mg>
@@ -2278,16 +1888,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">rohči</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">enkel bru</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">rovvi</t>
          </tg>
       </mg>
    </e>
@@ -2348,32 +1948,12 @@
    </e>
    <e>
       <lg>
-         <l pos="N">person som halter</l>
+         <l pos="N">haltende person</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">skierbmá</t>
             <t pos="N" src="nj" usage="vd">rámbi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">sted man hogger ved</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">rántet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kaldt regn med vind</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">ráššu</t>
          </tg>
       </mg>
    </e>
@@ -2412,36 +1992,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">siellu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">garvet skinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">sisti</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">fint fjellgras</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">sitnu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">rund skive</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">skearru</t>
          </tg>
       </mg>
    </e>
@@ -2492,16 +2042,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">trang fjellkløft</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">skoarru</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">land mellom to elver som møtes</l>
       </lg>
       <mg>
@@ -2512,7 +2052,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">skygge på kasjett</l>
+         <l pos="N">skygge på kasjettlue</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2532,7 +2072,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">noe livsfarlig</l>
+         <l pos="A">livsfarlig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -2596,16 +2136,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">flat bløtmyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">suotnju</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">gjelle på fisk</l>
       </lg>
       <mg>
@@ -2631,16 +2161,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">sáhpán</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">flat grasmo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">sáđga</t>
          </tg>
       </mg>
    </e>
@@ -2695,16 +2215,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">varit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">åpen slette med skog rundt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">vađđa</t>
          </tg>
       </mg>
    </e>
@@ -2790,32 +2300,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">treløs slette</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">áhpi</t>
-            <t pos="N" src="nj" usage="vd">ádju</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">eldre kvinne</l>
+         <l pos="N">gammel kvinne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">áhkku</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">vid myrstrekning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">áhpi</t>
          </tg>
       </mg>
    </e>
@@ -2851,26 +2340,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">stor flat stein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">ádnu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">trang dal</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">ávži</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">gressbevokst strandflate overfor flomålet</l>
       </lg>
       <mg>
@@ -2886,16 +2355,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">čahca</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">hard snøklump</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">čahki</t>
          </tg>
       </mg>
    </e>
@@ -2932,41 +2391,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">tykk pesk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">čeahborbeaska</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">pesk av tykt høstskinn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">čeahborbeaska</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">fjorårs reinkalv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">čearpmat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">vegetasjonsfattig høyfjellsstrekning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">čearru</t>
          </tg>
       </mg>
    </e>
@@ -3057,16 +2486,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">čuoivvat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">stor sik</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">čálat</t>
          </tg>
       </mg>
    </e>
@@ -3176,10 +2595,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">person med ruvende hår</l>
+         <l pos="N">hårrik person</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>med ruvende hår</re>
             <t pos="N" usage="vd">bolfeoaivi</t>
          </tg>
       </mg>
@@ -3442,20 +2862,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">kort stund</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">oanebodda</t>
-            <xg>
-               <x>Revene og kråkene spiser et kadaver i løpet av en kort stund.</x>
-               <xt>Riebanat ja garjját borret oanebottas ráppi.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">dypt sted</l>
       </lg>
       <mg>
@@ -3499,16 +2905,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" usage="vd">leaikkastallanluondu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">teltstang til lavvo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" usage="vd">lávvomuorra</t>
          </tg>
       </mg>
    </e>
@@ -3654,10 +3050,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">vilt dyr, også hund og katt</l>
+         <l pos="N">vilt dyr</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>også om hund og katt</re>
             <t pos="N" type="G3" src="nj" usage="vd">fuođđu</t>
          </tg>
       </mg>
@@ -3669,26 +3066,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="NomAg">eretfárrejeaddji</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">innkallingsansvarlig person</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="NomAg">gohččunovddasvástideaddji</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">meldepliktig person</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="NomAg">dieđihangeatnegahtti</t>
          </tg>
       </mg>
    </e>

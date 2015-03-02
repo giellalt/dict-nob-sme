@@ -2,6 +2,124 @@
 <r id="nobsme" xml:lang="nob">
    <e>
       <lg>
+         <l pos="A">likt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>populær</re>
+            <t pos="A" src="nj" usage="vd">bivnnut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">frittgående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" src="nj" usage="vd">veaittalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">overskyet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" src="nj" usage="vd">obbadálki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>overskyet og fuktig</re>
+            <t pos="A" src="nj" usage="vd">moskkus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bannende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>som banner mye</re>
+            <t pos="A" src="nj" usage="vd">garrui</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">fjorårets</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" src="nj" usage="vd">diimmá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">erfaren</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd">eallilan</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lengre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd">guhkit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>litt lengre</re>
+            <t pos="A" usage="vd">guhkebuš</t>
+            <xg>
+               <x>litt lengre reise</x>
+               <xt>guhkebuš mátki</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">storhornet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd">čoarvái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gråhåret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd">čuorgat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rotet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd">ruivvas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">enig</l>
       </lg>
       <mg>
@@ -584,8 +702,11 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om språkføring</re>
             <t pos="A" src="fad">njuovžil</t>
+            <xg>
+               <x>I Sametinget er det likevel den oppfatning at over en viss tid kan man finne smidige og fornuftige løsninger.</x>
+               <xt>Sámedikkis lea dattetge dat oaidnu ahte vissis áiggis sáhtášii gávdnat njuovžilis ja jierpmálaš čovdosiid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -645,6 +766,12 @@
             <t pos="A" src="fad">riekta</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>mat</re>
+            <t pos="N">borramuš</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -665,6 +792,10 @@
          <tg xml:lang="sme">
             <re>som angår utseende el. overflate</re>
             <t pos="A" usage="vd" src="nj;fad">olgguldas</t>
+            <xg>
+               <x>ytre kjennetegn</x>
+               <xt>olgguldas dovdomearkkat</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -904,6 +1035,7 @@
          <tg xml:lang="sme">
             <re>kranglevoren, utilbørlig</re>
             <t pos="A" src="nj" usage="vd">árvvoheapme</t>
+            <t pos="A" src="nj" usage="vd">iešlágan</t>
          </tg>
       </mg>
       <mg>
@@ -1184,6 +1316,8 @@
             <xg>
                <x>enorm idrettsglede</x>
                <xt>issoras valáštallanillu</xt>
+            </xg>
+            <xg>
                <x>Sirma skolekrets var enorm i utstrekning.</x>
                <xt>Sirpmá skuvlabiire lei máŧohis viiddis.</xt>
             </xg>
@@ -1292,7 +1426,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>som lever, er i live</re>
-            <t pos="A">ealli</t>
+            <t pos="V">ealli</t>
          </tg>
       </mg>
       <mg>
@@ -1644,6 +1778,8 @@
          <tg xml:lang="sme">
             <t pos="A">gustojeaddji</t>
             <t pos="A" src="fad">gustovaš</t>
+            <t pos="A" src="fad">lágalaš</t>
+            <t pos="A" src="fad">dohkálaš</t>
          </tg>
       </mg>
    </e>
@@ -1654,6 +1790,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">oktalaš</t>
+            <t pos="A">oktilis</t>
             <t pos="A" src="fad">jotkkolaš</t>
          </tg>
       </mg>
@@ -2021,6 +2158,20 @@
             <re>om mennesker</re>
             <t pos="A" usage="vd">čáhppesvarat</t>
             <xg>
+               <x>Máhtte var mørk.</x>
+               <xt>Máhtte lei čáhppesvarat.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mørkhåret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd">čáhppesvarat</t>
+            <xg>
                <x>Máhtte var mørkhåret.</x>
                <xt>Máhtte lei čáhppesvarat.</xt>
             </xg>
@@ -2098,7 +2249,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>tallmessig</re>
+            <re>om mål</re>
             <t pos="Po" src="nj" usage="vd">alu</t>
             <xg>
                <x>Den der bjørka er tre meter høy.</x>
@@ -2201,8 +2352,8 @@
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">gárži</t>
             <xg>
-               <x>På internatet var det trangt.</x>
-               <xt>Internáhtas lei gárži.</xt>
+               <x>Snart var det trange dansegolvet fullt av folk.</x>
+               <xt>Fargga gáržžes dánsunláhttis lei bahkka olmmoš.</xt>
             </xg>
          </tg>
       </mg>
@@ -2306,7 +2457,7 @@
       <mg>
          <tg xml:lang="sme">
          <re>bli syk</re>
-            <t pos="A" usage="vd">buohccát</t>
+            <t pos="V" usage="vd">buohccát</t>
           <xg>
 	      <x>Hva hvis du blir syk?</x>
 	      <xt>Naba jus buohccát?</xt>
@@ -2635,22 +2786,35 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">gallji</t>
             <t pos="A" usage="vd" src="nj;fad">viiddis</t>
             <xg>
                <x>vide vidder</x>
-               <xt>viiddis duoddarat</xt>
+               <xt>viiddes duoddarat</xt>
             </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+            <t pos="A" src="nj" usage="vd">gallji</t>
             <xg>
                <x>vide bukser</x>
                <xt>galjes buvssat</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
+     <mg>
          <tg xml:lang="sme">
             <re>om mål</re>
             <t pos="Po" src="nj" usage="vd">viiddu</t>
+            <xg>
+               <x>Området er 7 kvadratkilometer vidt, og rundt det er det myrer.</x>
+               <xt>Guovlu lea 7 njealjehaskilomehtera viiddu, ja dan birra leat jeakkit.</xt>
+            </xg>
+         </tg>
+      </mg>
+     <mg>
+         <tg xml:lang="sme">
+            <re>om mål</re>
             <t pos="Po" src="nj" usage="vd">galju</t>
             <xg>
                <x>De ermene der er like vide.</x>
@@ -3620,6 +3784,16 @@
             <t pos="A" usage="vd" src="nj;fad">uhcci</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bitte liten</re>
+            <t pos="A" usage="vd">binná bánna</t>
+            <xg>
+               <x>Det røde sopphodet minner om en liten bjelle eller et bitte lite beger.</x>
+               <xt>Rukses guopparoaivi sulastahttá uhca biellu dahje binná bánna cearkki.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3671,6 +3845,21 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" src="nj;fad">vielgat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" usage="vd">gappas</t>
+            <xg>
+               <x>et hvitt skinn</x>
+               <xt>gabba náhkki</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>helt hvit</re>
+            <t pos="A" usage="vd">čeaskat</t>
          </tg>
       </mg>
    </e>
@@ -5009,6 +5198,16 @@
    </e>
    <e>
       <lg>
+         <l pos="A">ulykkebringende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" src="nj" usage="vd">guoržžu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">rik</l>
       </lg>
       <mg>
@@ -5027,6 +5226,12 @@
                <x>Anne er en veldig rik kvinne.</x>
                <xt>Ánne lea issoras ruđalaš nisu.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>rik på rein</re>
+            <t pos="N" usage="vd">boazorikkis</t>
          </tg>
       </mg>
       <mg>
@@ -5050,6 +5255,13 @@
          <tg xml:lang="sme">
             <re>om mennesker: som har høy alder</re>
             <t pos="A" usage="vd" src="nj;fad">vuoras</t>
+            <t pos="A" usage="vd">eallilan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>ganske gammel</re>
+            <t pos="A" usage="vd">boareslágan</t>
          </tg>
       </mg>
       <mg>
@@ -5184,6 +5396,12 @@
          <tg xml:lang="sme">
             <re>grumset</re>
             <t pos="A" src="nj" usage="vd">moivvas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">moive-</t>
             <xg>
                <x>uklart vann</x>
                <xt>moivečáhci</xt>
@@ -5461,6 +5679,12 @@
                <x>Når man slakter, skal vommen tas hel og holden.</x>
                <xt>Go njuovada, de galgá čoavji váldot obban.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+             <re>uten hull</re>
+           <t pos="A" src="nj" usage="vd">čavddis</t>
          </tg>
       </mg>
    </e>
@@ -5807,6 +6031,36 @@
             <t pos="A" src="fad">stuorebuš</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om stor i utstrekning</re>
+            <t pos="A" usage="vd" src="nj;fad">viiddis</t>
+            <xg>
+               <x>store vidder</x>
+               <xt>viiddes duoddarat</xt>
+            </xg>
+         </tg>
+      </mg>
+     <mg>
+         <tg xml:lang="sme">
+            <re>om mål</re>
+            <t pos="Po" src="nj" usage="vd">stuoru</t>
+            <xg>
+               <x>Kommunen fikk en 100 000 kr. stor tilleggsbevilgning.</x>
+               <xt>Gielda oaččui 100 000 kr. stuoru liigejuolludusa.</xt>
+            </xg>
+         </tg>
+      </mg>
+     <mg>
+         <tg xml:lang="sme">
+            <re>om mål, i utstrekning</re>
+            <t pos="Po" src="nj" usage="vd">viiddu</t>
+            <xg>
+               <x>Området er 7 kvadratkilometer stort, og rundt det er det myrer.</x>
+               <xt>Guovlu lea 7 njealjehaskilomehtera viiddu, ja dan birra leat jeakkit.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -6133,7 +6387,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>fullstendig</re>
-            <t pos="A">áibbas</t>
+            <t pos="Adv">áibbas</t>
          </tg>
       </mg>
    </e>
@@ -6314,7 +6568,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>i tom eller ledig tilstand; helt tom</re>
-            <t pos="A">guorosnaga</t>
+            <t pos="Adv">guorosnaga</t>
          </tg>
       </mg>
       <mg>
@@ -6333,6 +6587,10 @@
             <t pos="A" src="fad">kommersiála</t>
             <t pos="A" src="fad">kommersiealla</t>
             <t pos="A" src="fad">gávppálaš</t>
+            <xg>
+               <x>kommersielt krabbefiske</x>
+               <xt>gávppálaš reabbábivddu</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -6406,6 +6664,10 @@
             <xg>
                <x>Ansatte i Sametinget har fleksibel arbeidstid.</x>
                <xt>Sámedikki bargiin lea máškidis bargoáigi.</xt>
+            </xg>
+            <xg>
+               <x>Det ville være bedre å finne fleksible ordninger.</x>
+               <xt>Buoret livččii gávdnat njuovžilis ortnegiid.</xt>
             </xg>
          </tg>
       </mg>
@@ -6887,9 +7149,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd">čuvgesvuovttat</t>
+            <t pos="A" usage="vd">čuvgesvarat</t>
             <xg>
                <x>Elle trodde at gutter liker lyshårede jenter bedre enn svarthårede.</x>
                <xt>Elle jáhkii bártniid liikot buorebut čuvgesvuovttat nieiddaide go čáhppesvuovttagiidda.</xt>
+            </xg>
+            <xg>
+               <x>Ánte er lys.</x>
+               <xt>Ánte lea čuvgesvarat.</xt>
             </xg>
          </tg>
       </mg>
@@ -7154,8 +7421,8 @@
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">ahkit</t>
             <xg>
-               <x>Det er utrivelig.</x>
-               <xt>Mus lea ahkit.</xt>
+               <x>Etter denne utrivelige hendelsen begynte Risten å bli redd.</x>
+               <xt>Dán ahkidis dáhpáhusa maŋŋá Risten lei ballagoahtán.</xt>
             </xg>
          </tg>
       </mg>
@@ -7282,6 +7549,12 @@
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">barffas</t>
             <t pos="A" src="nj" usage="vd">bolffas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">barfe-</t>
             <xg>
                <x>lodden hund</x>
                <xt>barfebeana</xt>
@@ -7446,6 +7719,16 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">bullje-</t>
+            <xg>
+               <x>utstående øye</x>
+               <xt>bullječalbmi</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -7490,6 +7773,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">báljis</t>
+            <xg>
+               <x>Grensa går over den bare vidda, forklarer Balto.</x>
+               <xt>Rádjá manná báljes duoddara badjel, čilge Balto.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7500,6 +7787,26 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">báljis</t>
+            <t pos="A" src="nj" usage="vd">spálžžas</t>
+            <xg>
+               <x>Mannen var skallet og snakket Tromsø-dialekt.</x>
+               <xt>Dievddus lei báljes oaivi, ja hálai Romssa suopmana.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">snauklipt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" src="nj" usage="vd">báljis</t>
+            <t pos="A" src="nj" usage="vd">spálžžas</t>
+            <xg>
+               <x>Mannen hadde snauklipt hode og snakket Tromsø-dialekt.</x>
+               <xt>Dievddus lei báljes oaivi, ja hálai Romssa suopmana.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7579,6 +7886,19 @@
             <t pos="A" src="nj" usage="vd">dievas</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">buiga</t>
+            <xg>
+               <x>Vi har har samiskspråklige elever som bor i fullstendig norskspråklig miljø.</x>
+               <xt>Mis leat leamaš sámegielat oahppit geat ásset buiga dárogielat birrasis.</xt>
+            </xg>
+            <xg>
+               <x>Finnmarks utmark er ikke bare fullstendig utmark.</x>
+               <xt>Finnmárkku meahcci ii leat dušše buiga meahcci.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -7627,15 +7947,24 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>??</re>
+            <re>bløt</re>
             <t pos="A" src="nj" usage="vd">njiezas</t>
-            <t pos="A" src="nj" usage="vd">njuozas</t>
+            <t pos="A" src="nj" usage="vd">njuozas</t> 
+            <xg>
+               <x>Hvetebrødet var litt slapt og trengte seg uhøvelig inn i jekselen hvor det var hull.</x>
+               <xt>Nisoláibi lei vehá njiezas ja bahkašuvai unohasat máttabátnái, mas lei dat ráigi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>??</re>
             <t pos="A" src="nj" usage="vd">šluŋkkas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">šluŋke-</t>
             <xg>
                <x>hengeøre</x>
                <xt>šluŋkebeallji</xt>
@@ -7730,6 +8059,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">duippas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">duipe-</t>
             <xg>
                <x>klosset person</x>
                <xt>duipesorta</xt>
@@ -7744,8 +8079,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">duippas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">duipe-</t>
             <xg>
-               <x>tøvet person</x>
+               <x>klosset person</x>
                <xt>duipesorta</xt>
             </xg>
          </tg>
@@ -7769,6 +8110,12 @@
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">duolvvas</t>
             <t pos="A" src="nj" usage="vd">durddas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">durde-</t>
             <xg>
                <x>skitne klær</x>
                <xt>durdebiktasat</xt>
@@ -8528,6 +8875,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">hurvvas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">hurve-</t>
             <xg>
                <x>lurvete hund</x>
                <xt>hurvebeana</xt>
@@ -8730,6 +9083,12 @@
                <x>Elvebåten er ustø.</x>
                <xt>Eatnovanas lea jurbolas.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">livze-</t>
             <xg>
                <x>ustøtt bord</x>
                <xt>livzebeavdi</xt>
@@ -8957,7 +9316,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">dájáskan</t>
+            <t pos="V" src="nj" usage="vd">dájáskan</t>
             <xg>
                <x>Ánte brølte verre enn en gal person.</x>
                <xt>Ánte čearggui vearrábut go dájáskan olmmoš.</xt>
@@ -8987,12 +9346,51 @@
    </e>
    <e>
       <lg>
+         <l pos="A">komplisert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" src="nj" usage="vd">moalkái</t>
+            <xg>
+               <x>Det er ikke lett å forstå dette kompliserte politiske bildet.</x>
+               <xt>Ii leat beare ipmirdit dan moalkás politihkalaš gova.</xt>
+            </xg>
+            <xg>
+               <x>Arbeidet er komplisert og tidkrevende.</x>
+               <xt>Bargu lea moalkái ja gáibida ollu áiggi.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">svinget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" src="nj" usage="vd">moalkkas</t>
+            <xg>
+               <x>Det har vært morsomme år, sjøl om det innimella har vært hardt og veien har vært svinget.</x>
+               <xt>Leat leamašan somás jagit, vaikko muhtumin lea leamašan garas ja geaidnu moalkkas.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">kroket</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">moalkkas</t>
             <t pos="A" src="nj" usage="vd">roaŋkkas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">moalke-</t>
+            <t pos="N" usage="vd">roaŋke-</t>
             <xg>
                <x>kroket stokk</x>
                <xt>moalkesoabbi</xt>
@@ -9011,6 +9409,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">moivvas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">moive-</t>
             <xg>
                <x>grumset vann</x>
                <xt>moivečáhci</xt>
@@ -9345,6 +9749,13 @@
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">sáiggas</t>
             <t pos="A" src="nj" usage="vd">rimssas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">sáigo-</t>
+            <t pos="N" usage="vd">rimse-</t>
             <xg>
                <x>fillet klesplagg</x>
                <xt>sáigobivttas</xt>
@@ -9365,6 +9776,12 @@
             <t pos="A" src="nj" usage="vd">roamššas</t>
             <t pos="A" src="nj" usage="vd">rumššas</t>
             <t pos="A" src="nj" usage="vd">rámššas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">roamše-</t>
             <xg>
                <x>ujevn veg</x>
                <xt>roamšeluodda</xt>
@@ -9440,7 +9857,7 @@
          <tg xml:lang="sme">
             <t pos="A" usage="vd">ruđalaš</t>
             <xg>
-               <x>Vi har verken økonomiske eller menneskelige ressurser til det arbeidet.</x>
+               <x>Vi har verken pengemessige eller menneskelige ressurser til det arbeidet.</x>
                <xt>Mis eai leat ruđalaš eaige olmmošlaš návccat dien bargui.</xt>
             </xg>
          </tg>
@@ -9594,16 +10011,22 @@
             <re>om masse</re>
             <t pos="A" src="nj" usage="vd">skoavddas</t>
             <xg>
-               <x>hult brød</x>
-               <xt>skoavdeláibi</xt>
-            </xg>
-            <xg>
-               <x>Isen har hulrom.</x>
+               <x>Isen er hul.</x>
                <xt>Jiekŋa lea skoavddas.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
+       <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">skoavde-</t>
+            <xg>
+               <x>hult brød</x>
+               <xt>skoavdeláibi</xt>
+            </xg>
+         </tg>
+      </mg>
+  </e>
    <e>
       <lg>
          <l pos="A">bøyelig</l>
@@ -9789,7 +10212,16 @@
          <tg xml:lang="sme">
             <re>om menneskelig styrke</re>
             <t pos="A" src="nj" usage="vd">veagalaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om kropp</re>
             <t pos="A" src="nj" usage="vd">váŋkái</t>
+            <xg>
+               <x>Han er en kort, kraftig kar.</x>
+               <xt>Son lei oanehis, váŋkás almmái.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -9968,7 +10400,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">váivi</t>
+            <t pos="A" usage="vd">ahkit</t>
          </tg>
+            <xg>
+               <x>Jeg har det trasig.</x>
+               <xt>Mus lea váivi.</xt>
+            </xg>
+            <xg>
+               <x>Jeg har det trasig.</x>
+               <xt>Mus lea ahkit.</xt>
+            </xg>
       </mg>
    </e>
    <e>
@@ -10288,6 +10729,13 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">šlinccas</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">šlinco-</t>
+            <t pos="N" usage="vd">šlince-</t>
             <xg>
                <x>slasket klesplagg</x>
                <xt>šlincobivttas</xt>
@@ -10312,6 +10760,21 @@
             </xg>
             <xg>
                <x>sjasket klesplagg</x>
+               <xt>šlincebivttas</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">šlinco-</t>
+            <t pos="N" usage="vd">šlince-</t>
+            <xg>
+               <x>slasket klesplagg</x>
+               <xt>šlincobivttas</xt>
+            </xg>
+            <xg>
+               <x>slasket klesplagg</x>
                <xt>šlincebivttas</xt>
             </xg>
          </tg>
@@ -10344,6 +10807,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">šluppas</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">šlubbo-</t>
             <xg>
                <x>klumpfot</x>
                <xt>šlubbojuolgi</xt>
@@ -10368,6 +10837,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">šluŋkkas</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">šluŋke-</t>
             <xg>
                <x>hengeøre</x>
                <xt>šluŋkebeallji</xt>
@@ -10701,8 +11176,8 @@
          <tg xml:lang="sme">
             <t pos="A" usage="vd">vánis</t>
             <xg>
-               <x>Det er knapt med reinkjøtt.</x>
-               <xt>Bohccobiergu lea vánis.</xt>
+               <x>Utfordringen er knappe ressurser.</x>
+               <xt>Hástalussan leat vátna resurssat.</xt>
             </xg>
          </tg>
       </mg>
@@ -10713,10 +11188,16 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>om mengde</re>
             <t pos="A" usage="vd">vánis</t>
+            <t pos="Adv" usage="vd">unnán</t>
             <xg>
                <x>Det er lite reinkjøtt.</x>
                <xt>Bohccobiergu lea vánis.</xt>
+            </xg>
+            <xg>
+               <x>Der er det lite reinkjøtt.</x>
+               <xt>Doppe lea unnán bohccobiergu.</xt>
             </xg>
          </tg>
       </mg>
@@ -11347,7 +11828,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" type="NomAg" usage="vd">ovddasvástideaddji</t>
+            <t pos="V" type="NomAg" usage="vd">ovddasvástideaddji</t>
          </tg>
       </mg>
    </e>
@@ -11446,8 +11927,21 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">duohta</t>
+            <t pos="A">duohta</t>  
+            <xg>
+               <x>En del utgifter skal leietaker betale etter faktisk fotbruk.</x>
+               <xt>Muhtun golut láigoheaddji šaddá máksit duohta geavaheami mielde.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="A">buiga</t>
+            <xg>
+               <x>Ingen blir tvunget til å lære samisk, man kan ha en skolehverdag som faktisk kun er norsk.</x>
+               <xt>Ii oktage bággehala oahppat sámegiela, sáhttá eallit buiga dárogielat skuvlaárgabeaivvis.
+</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11467,7 +11961,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">joatkka</t>
+            <t pos="N">joatkka</t>
          </tg>
       </mg>
    </e>
@@ -11517,7 +12011,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">doarvái</t>
+            <t pos="Adv">doarvái</t>
          </tg>
       </mg>
    </e>
@@ -11571,6 +12065,28 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">guoskevaš</t>
+            <xg>
+               <x>Deretter slås det fast at en ny plan går foran eldre plan for samme areal med mindre annet er fastsatt i vedkommende plan.</x>
+               <xt>Dasto deattastuvvo ahte seamma areálii gusto ođđa plána boarráset plána ovddabealde muđuid go eará lea mearriduvvon guoskevaš plánas.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron">son</t>
+            <xg>
+               <x>Dette gjelder selv om vedkommende ikke fyller vilkårene i § 9.</x>
+               <xt>Dát gusto maiddái dalle jus son vel ii deavddáše ge 9. § eavttuid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Po">dáfus</t>
+            <xg>
+               <x>Dette er en sak som for jordbrukets vedkommende vil bli omtalt i neste stortingsmelding om norsk landbruk.</x>
+               <xt>Dát lea ášši mii eanadoalu dáfus šaddá guoskkahuvvot boahtte stuorradiggedieđáhusas Norgga eanadoalu birra.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11722,7 +12238,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">hiegis</t>
-            <t pos="A">ráisku</t>
+            <t pos="N">ráisku</t>
          </tg>
       </mg>
    </e>
@@ -11782,6 +12298,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">spesifihkka</t>
+            <t pos="A">vissis</t>
          </tg>
       </mg>
    </e>
@@ -11812,6 +12329,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">logihkalaš</t>
+            <t pos="A">logalaš</t>
          </tg>
       </mg>
    </e>
@@ -11862,6 +12380,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">čuolbmái</t>
+            <t pos="A">váttis</t>
          </tg>
       </mg>
    </e>
@@ -11901,7 +12420,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>om væske</re>
             <t pos="A">golgi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om språk</re>
+            <t pos="A">njuovžil</t>
          </tg>
       </mg>
    </e>
@@ -11990,8 +12516,41 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>voksen</re>
             <t pos="A">rávis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="A">láddan</t>
+            <xg>
+               <x>Nå er tiden moden for det.</x>
+               <xt>Dál lea áigi láddan dasa.</xt>
+            </xg>
+            <xg>
+               <x>Du er mer moden og ser livet med andre øyne.</x>
+               <xt>Don leat eanet láddan ja oainnát eallima eará čalmmiiguin.</xt>
+            </xg>
+            <xg>
+               <x>Moltene er modne.</x>
+               <xt>Luomi lea láddan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>utvokst</re>
+            <t pos="A">ollesšattot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">utvokst</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">rávis</t>
             <t pos="A">ollesšattot</t>
          </tg>
       </mg>
@@ -12003,6 +12562,25 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">mearrideaddji</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">ráđđejeaddji</t>
+            <xg>
+               <x>Forskning innen humaniora og samfunnsvitenskap har tradisjonelt vært	dominerende	innen samisk forskning.</x>
+               <xt>Humaniora ja servodatdiehtaga dutkan lea árbevirolaččat leamaš ráđđejeaddji sámi dutkamis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">deaŧalaččamus</t>
+            <t pos="A">deháleamos</t>
+            <xg>
+               <x>Sjøen var den	dominerende	transport- og ferdselsåre.</x>
+               <xt>Mearra lei deaŧalaččamus vánddardan- ja fievrridangeaidnu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -12066,7 +12644,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">davviriikkalaš</t>
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">davve-</t>
          </tg>
       </mg>
    </e>
@@ -12148,6 +12727,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">áidnalunddot</t>
+            <t pos="A">erenoamáš</t>
          </tg>
       </mg>
    </e>
@@ -12289,6 +12869,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">badjelmearálaš</t>
+            <t pos="Adv">liiggás</t>
          </tg>
       </mg>
    </e>
@@ -12421,8 +13002,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">veallut</t>
-            <t pos="A">láskut</t>
+            <t pos="Adv">veallut</t>
+            <t pos="Adv">láskut</t>
          </tg>
       </mg>
    </e>
@@ -12482,7 +13063,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">nuorta</t>
+            <re>som første ledd i sammensetninger</re>
+            <t pos="N">nuorta-</t>
          </tg>
       </mg>
    </e>
@@ -12512,7 +13094,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">ipmilvuohta</t>
+            <t pos="N">ipmilvuohta</t>
          </tg>
       </mg>
    </e>
@@ -12744,7 +13326,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">sahte</t>
+            <t pos="Adv">sahte</t>
          </tg>
       </mg>
    </e>
@@ -12764,7 +13346,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">ovdanvázzi</t>
+            <t pos="N">ovdanvázzi</t>
          </tg>
       </mg>
    </e>
@@ -12966,7 +13548,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">čuorbi</t>
-            <t pos="A">boalbi</t>
+            <t pos="N">boalbi</t>
          </tg>
       </mg>
    </e>
@@ -14303,6 +14885,12 @@
                <x>Jeg har mye arbeid.</x>
                <xt>Mus lea ollu bargu.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>nokså mye</re>
+            <t pos="A" src="nj" usage="vd">mealgat</t>
          </tg>
       </mg>
    </e>
@@ -15974,13 +16562,15 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
+   <e>
       <lg>
          <l pos="A">mørkeblå</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">čohkkesalit</t>
+            <t src="fad" pos="A">čohkkesalit</t>
+            <t pos="A">sevdnjesalit</t>
+            <t pos="A">čáhppesalit</t>
          </tg>
       </mg>
    </e>
@@ -16095,13 +16685,14 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
+   <e>
       <lg>
          <l pos="A">uredd</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">roastil</t>
+            <t src="fad" pos="A">roastil</t>
+            <t pos="A">jállu</t>
          </tg>
       </mg>
    </e>
@@ -16133,8 +16724,26 @@
          <tg xml:lang="sme">
             <t pos="Pron" type="Indef">unnán</t>
             <xg>
-               <x>I noen skoler er det få elever.</x>
+               <x>På noen skoler er det få elever.</x>
                <xt>Muhtun skuvllain leat unnán oahppit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">vánit</t>
+            <xg>
+               <x>Dermed er det også få som abonnenerer på avisa.</x>
+               <xt>Dasto leat maid vánit olbmot geat diŋgojit aviissa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">moadde</t>
+            <xg>
+               <x>Målene må være få og konkrete.</x>
+               <xt>Mihttomearit fertejit leat dušše moadde ja konkrehta.</xt>
             </xg>
          </tg>
       </mg>
@@ -16218,10 +16827,10 @@
             <t pos="A">erenoamáš</t>
             <t pos="A">vásedin</t>
             <xg>
-               <xg>
                   <x>i særlige tilfeller</x>
                   <xt>erenoamáš dilálašvuođain</xt>
-               </xg>
+            </xg>
+            <xg>
                <x>Samekonsulenten har et særlig ansvar for samiske spørsmål.</x>
                <xt>Sámekonsuleanttas lea vásedin ovddasvástádus sámi gažaldagain.</xt>
             </xg>
@@ -17348,7 +17957,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">váiban</t>
+            <t pos="V">váiban</t>
          </tg>
       </mg>
    </e>
@@ -17388,10 +17997,10 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">mannan</t>
+            <t pos="V">mannan</t>
 			<xg>
 			  <x>De var forrige helg i marka og lagde reklamefilm.</x>
-			  <xt>Sii ledje mannan vahkkoloahpa meahcis ráhkadeamen reklámefilmma.</xt>
+			  <xt>Sii ledje mannan vahkkoloahpa meahcis ráhkadeamen reklámafilmma.</xt>
 			</xg>
          </tg>
       </mg>
@@ -17407,7 +18016,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>som gjelder språk</re>
+            <re>samiskspråklig</re>
             <t pos="A">sámegielat</t>
          </tg>
       </mg>
@@ -17441,8 +18050,7 @@
             <t pos="A">utnolaš</t>
             <xg>
                <x>Tante var alltid snill og raus med familien sin.</x>
-               <xt>Goaski lei álohii siivui ja utnolaš bearrašiinnis. 
-</xt>
+               <xt>Goaski lei álohii siivui ja utnolaš bearrašiinnis.</xt>
             </xg>
          </tg>
       </mg>

@@ -9858,8 +9858,8 @@
             <re>sette</re>
             <t pos="V" src="fad">bidjat</t>
             <xg>
-               <x>Bija dan beavddi vuollái.</x>
-               <xt>Plasser den under bordet.</xt>
+               <x>Plasser den under bordet.</x>
+               <xt>Bija dan beavddi vuollái.</xt>
             </xg>
          </tg>
       </mg>
@@ -11078,12 +11078,6 @@
             <t pos="V" src="fad">oalgguhit</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>bli motivert</re>
-            <t pos="V" src="fad">movttiidit</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -11471,6 +11465,26 @@
          <tg xml:lang="sme">
             <t pos="V" usage="vd">reaškkihit</t>
             <t pos="V" usage="vd">čaimmahit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">bli inspirert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">movttiidit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">bli motivert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">movttiidit</t>
          </tg>
       </mg>
    </e>

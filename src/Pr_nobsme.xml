@@ -2,6 +2,25 @@
 <r id="nobsme" xml:lang="nob">
    <e>
       <lg>
+         <l pos="phrase">som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="CS" usage="vd">dego</t>
+            <t pos="CS" usage="vd">dugo</t>
+            <xg>
+               <x>Du spiser som en gris.</x>
+               <xt>Don borat dego spiidni.</xt>
+            </xg>
+            <xg>
+               <x>Hva er rund som en ball og lang som en kirkevegg?</x>
+               <xt>Mii lea jorbbas dego spábba ja guhkki dego girkoseaidni?</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Pr">utenom</l>
       </lg>
       <mg>
@@ -421,7 +440,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>som har</re>
-            <t type="expl">xxx</t>
+            <t type="expl">relativsetning</t>
             <xg>
                <x>en mann med skjegg</x>
                <xt>almmái geas leat skávžžát</xt>
@@ -782,6 +801,15 @@
             <xg>
                <x>Han står bak døra.</x>
                <xt>Son čuožžu uvssa duohken/duohkin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pr" usage="vd">duogábealde</t>
+            <xg>
+               <x>Hele årsmøtet er bak dette vedtaket.</x>
+               <xt>Olles jahkečoahkkin lea duogábealde dán mearrádusa.</xt>
             </xg>
          </tg>
       </mg>
