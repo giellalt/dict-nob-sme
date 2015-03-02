@@ -2,6 +2,72 @@
 <r id="nobsme" xml:lang="nob">
    <e usage="vd">
       <lg>
+         <l pos="Pron" type="Dem">noe</l>
+      </lg>
+       <mg>
+         <tg xml:lang="sme">
+            <t pos="Pron" type="Dem">juoga</t>
+            <xg>
+               <x>Ny nominasjon kan man kreve hvis det er gjort noe formelt feil.</x>
+               <xt>Ođđa nominašuvnna sáhttá gáibidit jus lea juoga dahkkon formálalaččat boastut.</xt>
+            </xg>
+            <xg>
+               <x>Det har ryktes at på denne konserten fikk folk høre noe som man aldri har hørt før.</x>
+               <xt>Lea beaggán dán konsearttas olbmot besset gullat juoidá mii ii leat ovdal gullon.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>   
+   <e usage="vd">
+      <lg>
+         <l pos="Pron" type="Dem">ingen</l>
+      </lg>
+       <mg>
+         <tg xml:lang="sme">
+            <t pos="phrase">ii oktage</t>
+            <xg>
+               <x>Fra de siste årene fantes ikke ingen bilder.</x>
+               <xt>Dáin maŋimuš jagiin ii gávdnon oktage govva.</xt>
+            </xg>
+            <xg>
+               <x>Elle kjenner ingen på den nye skolen.</x>
+               <xt>Elle ii dovdda ovttage ođđa skuvllas.</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+         <re>om personer</re>
+            <t pos="phrase">ii giige</t>
+            <xg>
+               <x>Ii min eallindilli buorrán jus giige ii viša maidege bargat.</x>
+               <xt>Vår livssituasjon blir ikke bedre hvis ingen gidder å arbeide noe.</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+          <re>ingen av flere muligheter</re>
+           <t pos="phrase">ii guhtege</t> 
+            <xg>
+               <x>Heldigvis så ble ingen alvorlig skadd.</x>
+               <xt>Lihkus ii guhtege bahuid roasmmohuvvan.</xt>
+            </xg>
+         </tg>
+      </mg>
+     <mg>
+         <tg xml:lang="sme">
+         <re>ingen av to muligheter</re>
+            <t pos="phrase">ii goabbáge</t>
+            <xg>
+               <x>Ingen av de to hadde lenger krefter til å slåss.</x>
+               <xt>Ii lean šat doarrunvuoibmi goappásge.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e usage="vd">
+      <lg>
          <l pos="Pron" type="Recipr" til_ref="hverandre">hverandre</l>
       </lg>
       <mg>
@@ -592,79 +658,79 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Indef">mii nu</t>
-            <xg>
-               <x>Ingen er i livsfare, men noe har trolig skjedd.</x>
-               <xt>Ii oktage leat heakkaheađis, muhto mii nu dáidá leat dáhpáhuvvan.</xt>
-            </xg>
+<!--            <xg>																		  -->
+<!--               <x>Ingen er i livsfare, men noe har trolig skjedd.</x>					  -->
+<!--               <xt>Ii oktage leat heakkaheađis, muhto mii nu dáidá leat dáhpáhuvvan.</xt> -->
+<!--            </xg>																		  -->
             <xg>
                <x>Fra låven hørtes noe som raslet.</x>
                <xt>Láđus gullui mii nu skoahpamin.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>akkusativ</re>
-            <t pos="Pron" type="Indef">maid nu</t>
+<!--         </tg>									   -->
+<!--      </mg>										   -->
+<!--      <mg>										   -->
+<!--         <tg xml:lang="sme">					   -->
+<!--			<re>akkusativ</re>					   -->
+<!--            <t pos="Pron" type="Indef">maid nu</t> -->
             <xg>
                <x>Vi har sett spor etter noe i Jorbavárri, vi tror det er en bjørn.</x>
                <xt>Leat vuohttán maid nu Jorbaváris, jáhkkit ahte lea guovža.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Indef">man nu</t>
+<!--         </tg>									  -->
+<!--      </mg>										  -->
+<!--      <mg>										  -->
+<!--         <tg xml:lang="sme">					  -->
+<!--            <t pos="Pron" type="Indef">man nu</t> -->
             <xg>
                <x>En foreleser kommer for å fortelle om et eller annet interessant tema.</x>
                <xt>Muhtin logaldalli boahtá muitalit man nu miellagiddevaš fáttá birra.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>til noe</re>
-            <t pos="Pron" type="Indef">masa nu</t>
-            <xg>
-               <x>Pengegaven ønsker jeg å bruke på noe annet, slik som reising.</x>
-               <xt>Ruhtaskeaŋkka gal háliidan geavahit masa nu earái, nu go mátkkošteapmái.</xt>
-            </xg>
+<!--         </tg> -->
+<!--      </mg>																						 -->
+<!--      <mg>																						 -->
+<!--         <tg xml:lang="sme">																	 -->
+<!--			<re>til noe</re>																	 -->
+<!--            <t pos="Pron" type="Indef">masa nu</t>												 -->
+<!--            <xg>																				 -->
+<!--               <x>Pengegaven ønsker jeg å bruke på noe annet, slik som reising.</x>				 -->
+<!--               <xt>Ruhtaskeaŋkka gal háliidan geavahit masa nu earái, nu go mátkkošteapmái.</xt> -->
+<!--            </xg>																				 -->
             <xg>
                <x>Det er bra at jeg i det minste ser ut til å kunne brukes til noe.</x>
                <xt>Lea buorre ahte juoba masa nu orun dohkkemin.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>av noe</re>
-            <t pos="Pron" type="Indef">mas nu</t>
+<!--          </tg> -->
+<!--      </mg>										  -->
+<!--      <mg>										  -->
+<!--         <tg xml:lang="sme">					  -->
+<!--			<re>av noe</re>						  -->
+<!--            <t pos="Pron" type="Indef">mas nu</t> -->
             <xg>
                <x>Dette hjelpemiddelet er laget av noe. men jeg vet ikke hva det er.</x>
                <xt>Dát veahkkeneavvu lea mas nu ráhkaduvvon, muhto mun in dieđe mii dat lea.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>med noe</re>
-            <t pos="Pron" type="Indef">mainna nu</t>
+<!--         </tg>										 -->
+<!--      </mg>											 -->
+<!--      <mg>											 -->
+<!--         <tg xml:lang="sme">						 -->
+<!--			<re>med noe</re>						 -->
+<!--            <t pos="Pron" type="Indef">mainna nu</t> -->
             <xg>
                <x>Med noe har Elle vel kommet med.</x>
                <xt>Mainna nu Elle dáidá gal leat boahtán.</xt>
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>som noe</re>
-            <t pos="Pron" type="Indef">manin nu</t>
-            <xg>
-               <x>Noe skal han bli, når han blir ferdig med skolen.</x>
-               <xt>Manin nu dat áigu šaddat, go geargá skuvllas.</xt>
-            </xg>
-         </tg>
-      </mg>
+<!--      <mg>															    -->
+<!--         <tg xml:lang="sme">										    -->
+<!--			<re>som noe</re>										    -->
+<!--            <t pos="Pron" type="Indef">manin nu</t>					    -->
+<!--            <xg>													    -->
+<!--               <x>Noe skal han bli, når han blir ferdig med skolen.</x> -->
+<!--               <xt>Manin nu dat áigu šaddat, go geargá skuvllas.</xt>   -->
+<!--            </xg>													    -->
+<!--         </tg>														    -->
+<!--      </mg>															    -->
    </e>
    <e>
       <lg>
@@ -787,46 +853,46 @@
                <x>Fra låven hørtes noen som raslet. Tro om det var Elle?</x>
                <xt>Láđus gullui gii nu skoahpamin. Lei go son dat Elle?</xt>
             </xg>
-            <xg>
-               <x>Noen har anmeldt den ulovlige bilkjøringen til politiet.</x>
-               <xt>Gii nu lea váidán lobihis biilavuodjima politiijaide.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>akkusativ</re>
-            <t pos="Pron" type="Indef">gean nu</t>
+<!--            <xg>															   -->
+<!--               <x>Noen har anmeldt den ulovlige bilkjøringen til politiet.</x> -->
+<!--               <xt>Gii nu lea váidán lobihis biilavuodjima politiijaide.</xt>  -->
+<!--            </xg>															   -->
+<!--         </tg>																   -->
+<!--      </mg>																	   -->
+<!--      <mg>																	   -->
+<!--         <tg xml:lang="sme">												   -->
+<!--			<re>akkusativ</re>												   -->
+<!--            <t pos="Pron" type="Indef">gean nu</t>							   -->
             <xg>
                <x>Bygdefolket trenger noen som fort kan løse denne saken.</x>
                <xt>Gili olbmot dárbbašit gean nu gii sáhtášii jođánit čoavdit dán ášši.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>til noen</re>
-            <t pos="Pron" type="Indef">geasa nu</t>
+<!--         </tg> -->
+<!--      </mg>										    -->
+<!--      <mg>										    -->
+<!--         <tg xml:lang="sme">					    -->
+<!--			<re>til noen</re>					    -->
+<!--            <t pos="Pron" type="Indef">geasa nu</t> -->
             <xg>
                <x>Endelig var Elle til nytte for noen.</x>
                <xt>Viimmat son ge lei geasa nu ávkin.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>noen har eller fra noen</re>
-            <t pos="Pron" type="Indef">geas nu</t>
+<!--         </tg> -->
+<!--      </mg>										   -->
+<!--      <mg>										   -->
+<!--         <tg xml:lang="sme">					   -->
+<!--			<re>noen har eller fra noen</re>	   -->
+<!--            <t pos="Pron" type="Indef">geas nu</t> -->
             <xg>
                <x>Det hadde vært dumt å tro at jeg eller noen andre har lyst til å gjøre det.</x>
                <xt>Livččii jallodat gáddit ahte mus dahje geas nu earás livčče miella dan bargat.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>med noen</re>
-            <t pos="Pron" type="Indef">geainna nu</t>
+<!--         </tg>										  -->
+<!--      </mg>											  -->
+<!--      <mg>											  -->
+<!--         <tg xml:lang="sme">						  -->
+<!--			<re>med noen</re>						  -->
+<!--            <t pos="Pron" type="Indef">geainna nu</t> -->
             <xg>
                <x>Hvis noen har behov for å prate med noen om hendelsen, så har vi folk der som man kan ta kontakt
                med.</x>
@@ -835,16 +901,16 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-			<re>som noen</re>
-            <t pos="Pron" type="Indef">geanin nu</t>
-            <xg>
-               <x>Jeg vil være en eller annen.</x>
-               <xt>Háliidan leat geanin nu.</xt>
-            </xg>
-         </tg>
-      </mg>
+<!--      <mg>											 -->
+<!--         <tg xml:lang="sme">						 -->
+<!--			<re>som noen</re>						 -->
+<!--            <t pos="Pron" type="Indef">geanin nu</t> -->
+<!--            <xg>									 -->
+<!--               <x>Jeg vil være en eller annen.</x>	 -->
+<!--               <xt>Háliidan leat geanin nu.</xt>	 -->
+<!--            </xg>									 -->
+<!--         </tg>										 -->
+<!--      </mg>											 -->
    </e>
    <e mg_c="6">
       <lg>
@@ -3224,15 +3290,19 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="4">
-      <lg>
-         <l pos="Pron">hvilken av de to</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Interr">goabbá</t>
-         </tg>
-      </mg>
+<!--   <e mg_c="4">												   -->
+<!--      <lg>													   -->
+<!--         <l pos="Pron">hvilken av de to</l>					   -->
+<!--      </lg>													   -->
+<!--      <mg>													   -->
+<!--         <tg xml:lang="sme">								   -->
+<!--            <t pos="Pron" type="Interr">goabbá</t>			   -->
+<!--            <xg>											   -->
+<!--               <x>Hvilken av de to tar du? Ingen av de to!</x> -->
+<!--               <xt>Goappá don válddát? In goappáge!</xt>	   -->
+<!--            </xg>											   -->
+<!--         </tg>												   -->
+<!--      </mg>													   -->
 <!--      <mg>										 -->
 <!--         <tg xml:lang="sme">					 -->
 <!--            <re>om flertallsord</re>			 -->
@@ -3250,7 +3320,7 @@
 <!--            <t pos="Pron" type="Rel">goappáid</t> -->
 <!--         </tg>									 -->
 <!--      </mg>										 -->
-   </e>
+<!--   </e> -->
    <e mg_c="2">
       <lg>
          <l pos="Pron">hvilken</l>
@@ -3288,6 +3358,16 @@
             <xg>
                <x>Jeg har ikke bestemt meg for hvilken presidentkandidat jeg skal stemme på.</x>
                <xt>In leat mearridan guđe presideantaevttohasa jienastan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+             <re>av to muligheter</re>
+           <t pos="Pron" type="Interr">goabbá</t>
+            <xg>
+               <x>Hvilken av de to tar du? Ingen av de to!</x>
+               <xt>Goappá don válddát? In goappáge!</xt>
             </xg>
          </tg>
       </mg>
