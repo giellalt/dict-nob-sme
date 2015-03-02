@@ -2411,10 +2411,11 @@
    </e>
    <e mg_c="3">
       <lg>
-         <l pos="Pron" type="Refl">til meg selv</l>
+         <l pos="Pron" type="Refl">til .. selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>til meg selv</re>
             <t pos="Pron" type="Refl">alccesan</t>
             <xg>
                <x>Jeg sa til meg selv.</x>
@@ -2424,23 +2425,85 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccan</t>
-            <xg>
-               <x>Jeg sa til meg selv.</x>
-               <xt>Mun dadjen alccan.</xt>
+         <re>til deg selv</re>
+            <t pos="Pron" type="Refl">alccesat</t>
+           <xg>
+               <x>Du kjøper til deg selv.</x>
+               <xt>Don oasttát alccesat.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccen</t>
+          <re>til seg selv, om en person</re>
+           <t pos="Pron" type="Refl">alccesis</t>
             <xg>
-               <x>Jeg sa til meg selv.</x>
-               <xt>Mun dadjen alccen.</xt>
+               <x>Mor kjøper til seg selv.</x>
+               <xt>Eadni oastá alccesis.</xt>
             </xg>
          </tg>
       </mg>
-   </e>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til seg selv, om to personer</re>
+            <t pos="Pron" type="Refl">alcceseaskka</t>
+            <xg>
+               <x>De to kjøper til seg selv.</x>
+               <xt>Soai oastiba alcceseaskka.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til seg selv, om flere</re>
+            <t pos="Pron" type="Refl">alcceseaset</t>
+            <xg>
+               <x>De kjøper til seg selv.</x>
+               <xt>Sii ostet alcceseaset.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til oss selv, om to</re>
+            <t pos="Pron" type="Refl">alcceseame</t>
+            <xg>
+               <x>Vi to kjøper til oss selv.</x>
+               <xt>Moai oste alcceseame.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til oss selv, om flere</re>
+            <t pos="Pron" type="Refl">alcceseamet</t>
+           <xg>
+               <x>Vi sa til oss selv.</x>
+               <xt>Mii dajaimet alcceseamet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til dere selv, om to</re>
+            <t pos="Pron" type="Refl">alcceseatte</t>
+            <xg>
+               <x>Dere to kjøper til dere selv.</x>
+               <xt>Doai oastibeahtti alcceseatte.</xt>
+            </xg>
+         </tg>
+       </mg>
+     <mg>
+         <tg xml:lang="sme">
+             <re>til dere selv, om flere</re>
+           <t pos="Pron" type="Refl">alcceseattet</t>
+           <xg>
+               <x>Dere kjøper til dere selv.</x>
+               <xt>Dii oastibehtet alcceseattet.</xt>
+            </xg>
+         </tg>
+      </mg>
+  </e>
    <e>
       <lg>
          <l pos="Pron" type="Refl">jeg har selv</l>
@@ -2483,38 +2546,6 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
-      <lg>
-         <l pos="Pron" type="Refl">til deg selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccesat</t>
-            <xg>
-               <x>Du kjøper til deg selv.</x>
-               <xt>Don oasttát alccesat.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccat</t>
-            <xg>
-               <x>Du kjøper til deg selv.</x>
-               <xt>Don oasttát alccat.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccet</t>
-            <xg>
-               <x>Du kjøper til deg selv.</x>
-               <xt>Don oasttát alccet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e>
       <lg>
          <l pos="Pron" type="Refl">du har selv</l>
@@ -2553,98 +2584,6 @@
             <xg>
                <x>Du var der alene.</x>
                <xt>Don ledjet doppe iehčanat.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="9">
-      <lg>
-         <l pos="Pron" type="Refl">til seg selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccesis</t>
-            <xg>
-               <x>Mor kjøper til seg selv.</x>
-               <xt>Eadni oastá alccesis.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccis</t>
-            <xg>
-               <x>Mor kjøper til seg selv.</x>
-               <xt>Eadni oastá alccis.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alcces</t>
-            <xg>
-               <x>Mor kjøper til seg selv.</x>
-               <xt>Eadni oastá alcces.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">alcceseaskka</t>
-            <xg>
-               <x>De to kjøper til seg selv.</x>
-               <xt>Soai oastiba alcceseaskka.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">alcciska</t>
-            <xg>
-               <x>De to kjøper til seg selv.</x>
-               <xt>Soai oastiba alcciska.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">alcceska</t>
-            <xg>
-               <x>De to kjøper til seg selv.</x>
-               <xt>Soai oastiba alcceska.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om flere</re>
-            <t pos="Pron" type="Refl">alcceseaset</t>
-            <xg>
-               <x>De kjøper til seg selv.</x>
-               <xt>Sii ostet alcceseaset.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om flere</re>
-            <t pos="Pron" type="Refl">alcceset</t>
-            <xg>
-               <x>De kjøper til seg selv.</x>
-               <xt>Sii ostet alcceset.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om flere</re>
-            <t pos="Pron" type="Refl">alcciset</t>
-            <xg>
-               <x>De kjøper til seg selv.</x>
-               <xt>Sii ostet alcciset.</xt>
             </xg>
          </tg>
       </mg>
@@ -2763,68 +2702,6 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="6">
-      <lg>
-         <l pos="Pron" type="Refl">til oss selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">alcceseame</t>
-            <xg>
-               <x>Vi to kjøper til oss selv.</x>
-               <xt>Moai oste alcceseame.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">alcceme</t>
-            <xg>
-               <x>Vi to kjøper til oss selv.</x>
-               <xt>Moai oste alcceme.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">alccame</t>
-            <xg>
-               <x>Vi to kjøper til oss selv.</x>
-               <xt>Moai oste alccame.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alcceseamet</t>
-            <xg>
-               <x>Vi sa til oss selv.</x>
-               <xt>Mii dajaimet alcceseamet.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccamet</t>
-            <xg>
-               <x>Vi sa til oss selv.</x>
-               <xt>Mii dajaimet alccamet.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccemet</t>
-            <xg>
-               <x>Vi sa til oss selv.</x>
-               <xt>Mii dajaimet alccemet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="2">
       <lg>
          <l pos="Pron" type="Refl">vi to har selv</l>
@@ -2892,68 +2769,6 @@
             <xg>
                <x>Vi var der alene.</x>
                <xt>Mii leimmet doppe iehčaneamet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="6">
-      <lg>
-         <l pos="Pron" type="Refl">til dere selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">alcceseatte</t>
-            <xg>
-               <x>Dere to kjøper til dere selv.</x>
-               <xt>Doai oastibeahtti alcceseatte.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">alccade</t>
-            <xg>
-               <x>Dere to kjøper til dere selv.</x>
-               <xt>Doai oastibeahtti alccade.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">alccede</t>
-            <xg>
-               <x>Dere to kjøper til dere selv.</x>
-               <xt>Doai oastibeahtti alccede.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alcceseattet</t>
-            <xg>
-               <x>Dere kjøper til dere selv.</x>
-               <xt>Dii oastibehtet alcceseattet.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccadet</t>
-            <xg>
-               <x>Dere kjøper til dere selv.</x>
-               <xt>Dii oastibehtet alccadet.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">alccedet</t>
-            <xg>
-               <x>Dere kjøper til dere selv.</x>
-               <xt>Dii oastibehtet alccedet.</xt>
             </xg>
          </tg>
       </mg>
