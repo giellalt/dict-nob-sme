@@ -131,36 +131,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på framsiden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">ovddabealde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på skyggesiden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">ijabealde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">til skyggesiden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">ijabeallái</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">rundt halsen</l>
       </lg>
       <mg>
@@ -1074,26 +1044,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til samisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">sámás</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på samisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">sámás</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">i ro</l>
       </lg>
       <mg>
@@ -1148,16 +1098,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd">veagal</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på kreditt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">vealggás</t>
          </tg>
       </mg>
    </e>
@@ -1595,26 +1535,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på østsiden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">nuorttabealde</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på vestkanten</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">oarjjil</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">lengre frem</l>
       </lg>
       <mg>
@@ -1675,8 +1595,47 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>ved nekting</re>
+            <re>ved nekting, til noe sted</re>
             <t pos="Adv" usage="vd">gosage</t>
+            <xg>
+               <x>Med samisk kom man seg ikke noe sted i verden, det sa dem da.</x>
+               <xt>Sámegielain ii beassan gosage dán máilmmis, nu lohke dalle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ved nekting, på eller fra noe sted</re>
+            <t pos="Adv" usage="vd">gostege</t>
+            <xg>
+               <x>Statistikken viser at ikke noe sted i Norge røyker så mange som i Finnmark.</x>
+               <xt>Statistihkka čájeha ahte eai gostege Norggas borggut nu oallugat go Finnmárkkus.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ingen sted</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til ingen sted</re>
+            <t pos="Adv" usage="vd">ii gosage</t>
+            <xg>
+               <x>Med samisk kom man seg ingen sted i verden, det sa dem da.</x>
+               <xt>Sámegielain ii beassan gosage dán máilmmis, nu lohke dalle.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på eller fra ingen sted</re>
+            <t pos="Adv" usage="vd">ii gostege</t>
+            <xg>
+               <x>Statistikken viser at ingen sted i Norge røyker så mange som i Finnmark.</x>
+               <xt>Statistihkka čájeha ahte eai gostege Norggas borggut nu oallugat go Finnmárkkus.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1832,16 +1791,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">juohke ládje</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på den andre siden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">nuppe bealde</t>
          </tg>
       </mg>
    </e>
