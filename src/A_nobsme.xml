@@ -1,5 +1,482 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r id="nobsme" xml:lang="nob">
+    <e>
+      <lg>
+         <l pos="A">gyllen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være gyllen</re>
+            <t pos="V" usage="vd">gollát</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">nærgående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være nærgående</re>
+            <t pos="V" src="nj" usage="vd">bahkket</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">påståelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være påståelig</re>
+            <t pos="V" usage="vd">viissástallat</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="A">døsig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være døsig</re>
+            <t pos="V" usage="vd">šlieddát</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">forskrekket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">hirpmástuvvan</t>
+            <t pos="V" usage="vd">hirpmahuvvan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli forskrekket</re>
+            <t pos="V" usage="vd">hirpmástuvvat</t>
+            <t pos="V" usage="vd">hirpmahuvvat</t>
+         </tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
+         <l pos="A">andpusten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">šieđđaluvvan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli andpusten</re>
+            <t pos="V" src="nj" usage="vd">šieđđaluvvat</t>
+         </tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
+         <l pos="A">sinnsforvirret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">seahkanan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli sinnsforvirret</re>
+            <t pos="V" src="nj" usage="vd">seahkanit</t>
+         </tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
+         <l pos="A">kvalm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ha kvalmefornemmelse</re>
+            <t pos="V" usage="vd">moiddodit</t>
+            <xg>
+               <x>Plutselig følte jenta kvalme og måtte rope på mor.</x>
+               <xt>Fáhkka nieida dovddai váimmu moiddodeame ja fertii čurvet eatni.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ha kvalmefornemmelse</re>
+            <t pos="V" usage="vd">vuovssihit</t>
+            <xg>
+               <x>En slik saksbehandling gjør meg direkte kvalm.</x>
+               <xt>Dákkár áššemeannudeapmi njulgestaga vuovssiha mu.</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+            <re>kvalmefornemmelse</re>
+            <t pos="N">váibmogákkahat</t>
+            <xg>
+               <x>Pasienten kan også ha kvalme.</x>
+               <xt>Buohccis sáhttá maiddái leat váibmogákkahat.</xt>
+            </xg>
+         </tg>
+      </mg>
+     <mg>
+         <tg xml:lang="sme">
+         <re>bli kvalm</re>
+            <t pos="V" src="nj" usage="vd">rapmaduvvat</t>
+         </tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
+         <l pos="A">fri for</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">nohkkon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli fri for</re>
+            <t pos="V" src="nj" usage="vd">nohkkot</t>
+            <xg>
+               <x>Hun ble fri for kaffe.</x>
+               <xt>Eadni nohkkui gáfes.</xt>
+            </xg>
+         </tg>
+      </mg>
+    </e>
+    <e>
+      <lg>
+         <l pos="A">rasende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">moaráskan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli rasende</re>
+            <t pos="V" src="nj" usage="vd">moaráskit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli rasende på noen</re>
+            <t pos="V" src="nj" usage="vd">vašáskit</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">knusktørr</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">jakŋan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli knusktørr</re>
+            <t pos="V" src="nj" usage="vd">jakŋat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">avbeitet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">guorban</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli avbeitet</re>
+            <t pos="V" src="nj" usage="vd">guorbat</t>
+            <xg>
+               <x>Jorda blir avbeitet.</x>
+               <xt>Eanan guorbá.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">utmagret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">guorban</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli utmagret</re>
+            <t pos="V" src="nj" usage="vd">guorbat</t>
+            <xg>
+               <x>Jorda blir utmagret.</x>
+               <xt>Eanan guorbá.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">forfordelt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">govssáhallan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli forfordelt</re>
+            <t pos="V" src="nj" usage="vd">govssáhallat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">harm</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">hárbman</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli harm</re>
+            <t pos="V" src="nj" usage="vd">hárbmat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">fornærmet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">hárbman</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli fornærmet</re>
+            <t pos="V" usage="vd">hárbmat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">ergerlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">eddon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli ergerlig</re>
+            <t pos="V" src="nj" usage="vd">eaddut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">gretten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">duskkástuvvan</t>
+            <t pos="V" src="nj" usage="vd">erdon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli gretten</re>
+            <t pos="V" src="nj" usage="vd">duskkástuvvat</t>
+            <t pos="V" src="nj" usage="vd">eardut</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">utmattet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">denen</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli utmattet</re>
+            <t pos="V" src="nj" usage="vd">denet</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">rørt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">njuorrasan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli rørt</re>
+            <t pos="V" usage="vd">njuorrasit</t>
+            <t pos="V" usage="vd">njuorasmuvvat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="A">lemster</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">boatkuluvvan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli lemster</re>
+            <t pos="V" src="nj" usage="vd">boatkuluvvat</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="A">skuffet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">behtohallan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli skuffet</re>
+            <t pos="V" src="nj" usage="vd">beahtahallat</t>
+            <t pos="V" src="nj" usage="vd">behtohallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">blodfattig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">varahuvvan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli blodfattig</re>
+            <t pos="V" usage="vd">varahuvvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ødelagt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="nj" usage="vd">billašuvvan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli ødelagt</re>
+            <t pos="V" src="nj" usage="vd">billašuvvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nedsnødd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">addjon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli nedsnødd</re>
+            <t pos="V" usage="vd">addjot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">skjelven</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">dorggiidan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli skjelven</re>
+            <t pos="V" usage="vd">dorggiidit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">såret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">bávččagahttan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli såret</re>
+            <t pos="V" usage="vd">bávččagahttit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">forvirret</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" usage="vd">jorbbodan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli forvirret</re>
+            <t pos="V" usage="vd">jorbbodit</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="A">likt</l>
@@ -100,16 +577,6 @@
    </e>
    <e>
       <lg>
-         <l pos="A">gråhåret</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" usage="vd">čuorgat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">rotet</l>
       </lg>
       <mg>
@@ -126,6 +593,17 @@
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">ovttaoaivilis</t>
             <t pos="A" src="fad">ovttamielalaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli enig</re>
+            <t pos="V" src="nj" usage="vd">soahpat</t>
+            <t pos="V" src="nj" usage="vd">šiehttat</t>
+            <xg>
+               <x>Vi to ble enige om det.</x>
+               <xt>Moai soabaime dasa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -272,6 +750,19 @@
          <tg xml:lang="sme">
             <re>om mennesker og steder</re>
             <t pos="A" src="fad">liekkus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli varm</re>
+            <t pos="V" src="nj" usage="vd">liegganit</t>
+            <t pos="V" src="nj" usage="vd">báhkkanit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli varmere, om luft</re>
+            <t pos="V" usage="vd">liehmudit</t>
          </tg>
       </mg>
    </e>
@@ -503,6 +994,13 @@
             <t pos="A" src="fad">čoaskkis</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli kaldere</re>
+            <t pos="V" src="nj" usage="vd">čoaskut</t>
+            <t pos="V" usage="vd">čoskkiidit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -611,6 +1109,12 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli sein</re>
+            <t pos="V" src="nj" usage="vd">maŋŋánit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -647,6 +1151,8 @@
          <tg xml:lang="sme">
             <re>gretten</re>
             <t pos="A" src="nj" usage="vd">suvrris</t>
+            <t pos="V" src="nj" usage="vd">duskkástuvvan</t>
+            <t pos="V" src="nj" usage="vd">erdon</t>
          </tg>
       </mg>
       <mg>
@@ -657,8 +1163,26 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bli sur</re>
+            <t pos="V" src="nj" usage="vd">suvrut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>om melk</re>
             <t pos="A" src="nj" usage="vd">jiesas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli sur</re>
+            <t pos="V" src="nj" usage="vd">jiessut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+             <re>være sur, om mennesker</re>
+           <t pos="V" src="nj" usage="vd">nárrohaddat</t>
          </tg>
       </mg>
    </e>
@@ -1256,6 +1780,14 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>bli glad</re>
+            <t pos="V" usage="vd">movttáskit</t>
+            <t pos="V" usage="vd">illosit</t>
+            <t pos="V" usage="vd">ilosmuvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
          <re>være glad i noen</re>
             <t pos="V" src="nj" usage="vd">ráhkistit</t>
             <xg>
@@ -1416,6 +1948,12 @@
             <t pos="A">govdat</t>
             <t pos="A" src="gt;fad">čeavlái</t>
             <t pos="A" src="fad">vuovdnái</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være stolt</re>
+            <t pos="V" usage="vd">čevllohallat</t>
          </tg>
       </mg>
    </e>
@@ -2359,6 +2897,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>bli trang</re>
+            <t pos="V" src="nj" usage="vd">gáržut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>med liten åpning</re>
             <t pos="A" usage="vd" src="nj;fad">baski</t>
             <xg>
@@ -2415,6 +2959,13 @@
             <t pos="A" usage="vd" src="nj;fad">oahpis</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli kjent</re>
+            <t pos="V" usage="vd">oahpásmuvvat</t>
+            <t pos="V" usage="vd">oahpástuvvat</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2433,6 +2984,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" src="nj;fad">buoidi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli feit</re>
+            <t pos="V" src="nj" usage="vd">buoidut</t>
          </tg>
       </mg>
    </e>
@@ -2462,6 +3019,18 @@
 	      <x>Hva hvis du blir syk?</x>
 	      <xt>Naba jus buohccát?</xt>
 	    </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være syk</re>
+            <t pos="V" src="nj" usage="vd">buohcat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være syk ei kort tid</re>
+            <t pos="V">buozastit</t>
          </tg>
       </mg>
    </e>
@@ -2592,6 +3161,13 @@
             <t pos="A" usage="vd" src="nj;fad">divrras</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>forlange for høy pris</re>
+            <t pos="V">divrrastaddat</t>
+            <t pos="V">divrrastallat</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2644,6 +3220,16 @@
          <tg xml:lang="sme">
             <t pos="A" usage="vd" src="nj;fad">duhtavaš</t>
             <t pos="A" usage="vd" src="nj;fad">duđavaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være fornøyd</re>
+            <t pos="V" src="nj" usage="vd">duhtat</t>
+            <xg>
+               <x>Jeg er fornøyd med det svaret.</x>
+               <xt>Mun duđan dien vástádussii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2726,6 +3312,12 @@
          <tg xml:lang="sme">
             <re>avskyelig</re>
             <t pos="A" src="nj" usage="vd">eatnjehas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>være ubehagelig</re>
+            <t pos="V" usage="vd">unohastit</t>
          </tg>
       </mg>
    </e>
@@ -2980,6 +3572,12 @@
             <t pos="A" usage="vd" src="nj;fad">geafi</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli fattig</re>
+            <t pos="V" src="nj" usage="vd">gefot</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3131,6 +3729,13 @@
             <t pos="A" src="nj" usage="vd">válmmas</t>
             <t pos="A" src="nj" usage="vd">válmmaš</t>
             <t pos="A" usage="vd" src="nj;fad">gárvvis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli ferdig</re>
+            <t pos="V" src="nj" usage="vd">geargat</t>
+            <t pos="V" src="nj" usage="vd">válbmanit</t>
          </tg>
       </mg>
    </e>
@@ -3421,6 +4026,18 @@
             <t pos="A" usage="vd" src="nj;fad">loikkas</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli lunken, om noe som tines opp</re>
+            <t pos="V" src="nj" usage="vd">máizat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli lunken, om noe som har vært kaldt</re>
+            <t pos="V" src="nj" usage="vd">loikat</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3496,6 +4113,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" src="nj;fad">njuoskkas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli våt</re>
+            <t pos="V" src="nj" usage="vd">njuoskat</t>
          </tg>
       </mg>
    </e>
@@ -3637,6 +4260,12 @@
             <t pos="A" usage="vd" src="nj;fad">ruoksat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli rød</re>
+            <t pos="V" src="nj" usage="vd">ruvssodit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3655,6 +4284,12 @@
                <x>Gress og planter er grønne.</x>
                <xt>Rásit ja šattut leat ruotnasat.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli grønn</re>
+            <t pos="V" usage="vd">runiidit</t>
          </tg>
       </mg>
    </e>
@@ -3862,6 +4497,12 @@
             <t pos="A" usage="vd">čeaskat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli hvit</re>
+            <t pos="V" src="nj" usage="vd">vilggodit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3890,6 +4531,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd" src="nj;fad">váibbas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli trøtt</re>
+            <t pos="V" src="nj" usage="vd">váibat</t>
+            <t pos="V" src="nj" usage="vd">viessat</t>
+            <xg>
+               <x>Jeg ble trøtt av jobben.</x>
+               <xt>Mun váiben barggus.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5171,6 +5823,13 @@
             <t pos="A" src="fad">fásta</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>sette seg fast</re>
+            <t pos="V" src="nj" usage="vd">darvánit</t>
+            <t pos="V" src="nj" usage="vd">giddanit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5288,6 +5947,16 @@
             <xg>
                <x>Skåla er full.</x>
                <xt>Lihtti lea dievva.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli full</re>
+            <t pos="V" src="nj" usage="vd">dievvat</t>
+            <xg>
+               <x>Karet blir fullt.</x>
+               <xt>Lihtti dievvá.</xt>
             </xg>
          </tg>
       </mg>
@@ -5808,6 +6477,12 @@
             <t pos="A" src="nj" usage="vd">háhppil</t>
             <t pos="A" src="fad">johtil</t>
             <t pos="A" src="fad">jođán</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være snar nok</re>
+            <t pos="V" src="nj" usage="vd">háhppehit</t>
          </tg>
       </mg>
    </e>
@@ -6553,6 +7228,24 @@
             <t pos="A" src="fad">unohas</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>være uheldig</re>
+            <t pos="V" src="nj" usage="vd">bártidit</t>
+            <t pos="V" src="nj" usage="vd">bártašuvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>være så uheldig å</re>
+            <t pos="V" src="nj" usage="vd">nisttihit</t>
+            <t pos="V" src="nj" usage="vd">ribahit</t>
+            <xg>
+               <x>Jeg var så uheldig å flire.</x>
+               <xt>Nisttihin bohkosit.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -6845,6 +7538,13 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" usage="vd">čurgesvuovttat</t>
+            <t pos="A" usage="vd">čuorgat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>>bli gråhåret</re>
+            <t pos="V" src="nj" usage="vd">čurggodit</t>
          </tg>
       </mg>
    </e>
@@ -6986,6 +7686,12 @@
          <tg xml:lang="sme">
             <t pos="A" usage="vd">ruškat</t>
             <t pos="A" usage="vd">fiskesruškat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli gulbrun</re>
+            <t pos="V" src="nj" usage="vd">guvggodit</t>
          </tg>
       </mg>
    </e>
@@ -7258,6 +7964,19 @@
             <t pos="A" usage="vd">skurtnjas</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli motløs</re>
+            <t pos="V" src="nj" usage="vd">šlundát</t>
+            <t pos="V" src="nj" usage="vd">šlundut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være motløs</re>
+            <t pos="V" usage="vd">skurdnját</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -7516,8 +8235,29 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>Kvinnelig person med høy temperament</re>
+            <re>om kvinne med temperament</re>
             <t pos="A" src="nj" usage="vd">buošši</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli sint</re>
+            <t pos="V" usage="vd">suhttat</t>
+             <t pos="V" usage="vd">eattehit</t>
+           <xg>
+               <x>Hun ble sint på meg.</x>
+               <xt>Son suhtai munnje.</xt>
+            </xg>
+            <xg>
+               <x>Noen var så sta ahte til og med vennlige Lemet brukte å bli sint.</x>
+               <xt>Soapmásat ledje nu nággárat ahte buorredáhtolaš Lemetge lávii ain eattehit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli sint på hverandre</re>
+            <t pos="V" usage="vd">suhtadit</t>
          </tg>
       </mg>
    </e>
@@ -7709,6 +8449,12 @@
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">buhtis</t>
             <t pos="A" src="nj" usage="vd">ráinnas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli rein</re>
+            <t pos="V" src="nj" usage="vd">buhtásmuvvat</t>
          </tg>
       </mg>
    </e>
@@ -7916,6 +8662,16 @@
             <t pos="A" src="nj" usage="vd">čavddis</t>
             <t pos="A" src="nj" usage="vd">divttis</t>
             <t pos="A" src="nj" usage="vd">teahtis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være tett</re>
+            <t pos="V" src="nj" usage="vd">jeahkit</t>
+            <xg>
+               <x>Den er vanntett.</x>
+               <xt>Dat jeahká čázi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8313,6 +9069,12 @@
             <t pos="A" src="nj" usage="vd">gallás</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli mett</re>
+            <t pos="V" src="nj" usage="vd">gallánit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8434,6 +9196,12 @@
             <t pos="A" src="nj" usage="vd">gieris</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>være kjærlig mot noen eller noe</re>
+            <t pos="V" src="nj" usage="vd">eahccit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8444,6 +9212,12 @@
             <t pos="A" src="nj" usage="vd">hearki</t>
             <t pos="A" src="nj" usage="vd">njuoras</t>
             <t pos="A" src="nj" usage="vd">gieris</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>være øm mot noen eller noe</re>
+            <t pos="V" src="nj" usage="vd">eahccit</t>
          </tg>
       </mg>
    </e>
@@ -8552,6 +9326,12 @@
          <tg xml:lang="sme">
             <re>om vær</re>
             <t pos="A" src="nj" usage="vd">čoasus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli kjøligere</re>
+            <t pos="V" src="nj" usage="vd">čoaskut</t>
          </tg>
       </mg>
    </e>
@@ -8692,6 +9472,12 @@
             <t pos="A" src="nj" usage="vd">gáhcci</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være gjerrig</re>
+            <t pos="V">hánástaddat</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8814,6 +9600,12 @@
             <t pos="A" src="nj" usage="vd">villas</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være vilter</re>
+            <t pos="V" src="nj" usage="vd">gievvudit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8861,6 +9653,28 @@
                <x>Ungen er redd for hunden.</x>
                <xt>Mánná ballá beatnagis.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli redd, skvette</re>
+            <t pos="V" src="nj" usage="vd">suorganit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli skremt</re>
+            <t pos="V" src="nj" usage="vd">ballát</t>
+            <xg>
+               <x>Fienden ble redd da de oppdaget at kongen hadde så stor hær.</x>
+               <xt>Vašálaččat ballájedje go fuobmájedje ahte gonagasas lea nie stuora veahka.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli litt redd flere ganger</re>
+            <t pos="V" usage="vd">ballástallat</t>
          </tg>
       </mg>
    </e>
@@ -9260,6 +10074,13 @@
             <t pos="A" src="nj" usage="vd">lámis</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli vanfør</re>
+            <t pos="V" src="nj" usage="vd">lápmašuvvat</t>
+            <t pos="V" src="nj" usage="vd">lápmut</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -9288,6 +10109,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">lávttas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli fuktig</re>
+            <t pos="V" src="nj" usage="vd">láktat</t>
          </tg>
       </mg>
    </e>
@@ -9593,6 +10420,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">njálbmái</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være storkjeftet</re>
+            <t pos="V" src="nj" usage="vd">njálbmut</t>
          </tg>
       </mg>
    </e>
@@ -10063,6 +10896,22 @@
             <t pos="A" src="nj" usage="vd">suokkis</t>
          </tg>
       </mg>
+       <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N" usage="vd">ráige-</t>
+            <xg>
+               <x>hullet sokk</x>
+               <xt>ráigesuohkku</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>få hull</re>
+            <t pos="V" src="nj" usage="vd">ráigánit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -10132,11 +10981,35 @@
    </e>
    <e>
       <lg>
+         <l pos="A">blyg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" src="nj" usage="vd">udju</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være blyg</re>
+            <t pos="V" usage="vd">jieppadit</t>
+            <t pos="V" usage="vd">ujostallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">sjenert</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">udju</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være sjenert</re>
+            <t pos="V" usage="vd">jieppadit</t>
+            <t pos="V" usage="vd">ujostallat</t>
          </tg>
       </mg>
    </e>
@@ -10617,6 +11490,12 @@
             <t pos="A" src="nj" usage="vd">čalmmeheapme</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli blind</re>
+            <t pos="V" src="nj" usage="vd">čalmmehuvvat</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -10635,6 +11514,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">čeavlái</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være overlegen</re>
+            <t pos="V" src="nj" usage="vd">čevllohaddat</t>
          </tg>
       </mg>
    </e>
@@ -10725,6 +11610,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="nj" usage="vd">šliettas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være dorsk</re>
+            <t pos="V" usage="vd">šlieddát</t>
          </tg>
       </mg>
    </e>
@@ -11810,6 +12701,16 @@
             <xg>
                <x>Med dagens TV-bilder kan man se alt: folk som er blodige og også lik, forklarer Sárá.</x>
                <xt>Dán áigásaš TV-govain oaidná visot; olbmuid geat leat varranaga ja maiddai liikkaid, čilge Sárá.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli blodig</re>
+            <t pos="V" usage="vd">varahuvvat</t>
+            <xg>
+               <x>Ánte vasket det reinskinnet som var blitt blodig.</x>
+               <xt>Ánte basai dan duolji mii lei varahuvvan.</xt>
             </xg>
          </tg>
       </mg>
@@ -13720,6 +14621,12 @@
             <t pos="A">eahperehálaš</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være uælig</re>
+            <t pos="V" src="nj" usage="vd">verrošit</t>
+         </tg>
+      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -14317,6 +15224,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">bahánihkkán</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være slem</re>
+            <t pos="V" src="nj" usage="vd">nevrošit</t>
          </tg>
       </mg>
    </e>
@@ -15898,6 +16811,13 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">muittoheapme</t>
+            <t pos="V" usage="vd">muittohuvvan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli glemsk</re>
+            <t pos="V" usage="vd">muittohuvvat</t>
          </tg>
       </mg>
    </e>

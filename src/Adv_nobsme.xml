@@ -2,6 +2,21 @@
 <r id="nobsme" xml:lang="nob">
    <e>
       <lg>
+         <l pos="Adv">ne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være i ne</re>
+            <t pos="V" src="nj" usage="vd">nuossat</t>
+            <xg>
+               <x>Månen er i ne nå.</x>
+               <xt>Mánnu nuossá dál.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="phrase">midt</l>
       </lg>
       <mg>
@@ -144,20 +159,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">beaivválaččat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="ADv">galt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">endor</t>
-            <xg>
-               <x>Det var åpenbart at noe hadde gått helt galt.</x>
-               <xt>Lei čielgasit oaidnimis, ahte juoga lei mannan endorii.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1201,6 +1202,12 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli stående</re>
+            <t pos="V" usage="vd">čuččodit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1220,6 +1227,16 @@
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd">boastut</t>
             <t pos="Adv" src="nj" usage="vd">vearrut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om å gå galt</re>
+            <t pos="N" src="nj" usage="vd">endor</t>
+            <xg>
+               <x>Det var åpenbart at noe hadde gått helt galt.</x>
+               <xt>Lei čielgasit oaidnimis, ahte juoga lei mannan endorii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1893,7 +1910,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>være eller gjøre noe sammen</re>
+            <re>sammen med</re>
             <t pos="Adv" usage="vd">ovttas</t>
             <t pos="Adv" usage="vd">fárrolaga</t>
             <xg>
@@ -1904,6 +1921,12 @@
                <x>Det blir veldig morsomt å spille fotball mot dem som vi har trent sammen med.</x>
                <xt>Šaddá hui somá čiekčat sin vuostá geaiguin mii leat fárrolaga hárjehallan.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være sammen</re>
+            <t pos="V" usage="vd">ovttastallat</t>
          </tg>
       </mg>
       <mg>

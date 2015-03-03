@@ -2,6 +2,38 @@
 <r id="nobsme" xml:lang="nob">
    <e>
       <lg>
+         <l pos="V">stor i kjeften</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" usage="vd">heajos miella</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være i dårlig humør</re>
+            <t pos="V" src="nj" usage="vd">šlundát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">dårlig humør</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" usage="vd">heajos miella</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være i dårlig humør</re>
+            <t pos="V" src="nj" usage="vd">šlundát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">godt humør</l>
       </lg>
       <mg>
@@ -843,31 +875,17 @@
    </e>
    <e>
       <lg>
-         <l pos="N">voksen hannlaks</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">goadjin</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">voksen hunnlaks</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" src="nj" usage="vd">duovvi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">vindstille vær</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="N" src="nj" usage="vd">goalki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli vindstille</re>
+            <t pos="V" usage="vd">golket</t>
          </tg>
       </mg>
    </e>
