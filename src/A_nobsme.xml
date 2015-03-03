@@ -589,7 +589,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" type="Prfprc" usage="vd">bávččagahttan</t>
+            <t pos="V" type="Prfprc" usage="vd">bávččagahttán</t>
          </tg>
       </mg>
       <mg>
@@ -1824,6 +1824,12 @@
          <tg xml:lang="sme">
             <t pos="A" usage="vd" src="nj;fad">oainnus</t>
             <t pos="A" src="fad">oinnolaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>gjøre synlig</re>
+            <t pos="V" usage="vd">čalmmustahttit</t>
          </tg>
       </mg>
    </e>
@@ -3209,6 +3215,13 @@
             <t pos="A" usage="vd" src="nj;fad">bávččas</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>gjøre vondt</re>
+            <t pos="V" src="nj" usage="vd">bávččagit</t>
+            <t pos="V" src="nj" usage="vd">bávččastit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3253,6 +3266,12 @@
             <t pos="A" usage="vd" src="nj;fad">dehálaš</t>
             <t pos="A" usage="vd" src="nj;fad">deaŧalaš</t>
             <t pos="A" usage="vd" src="nj;fad">mávssolaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>gjøre seg viktig</re>
+            <t pos="V" usage="vd">viissástallat</t>
          </tg>
       </mg>
    </e>
@@ -3408,6 +3427,12 @@
             <t pos="A" usage="vd" src="nj;fad">duolbbas</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>gjøre flate</re>
+            <t pos="V" src="nj" usage="vd">dulbet</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3548,6 +3573,12 @@
                <x>vide bukser</x>
                <xt>galjes buvssat</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>gjøre videre</re>
+            <t pos="V" usage="vd">galjedit</t>
          </tg>
       </mg>
      <mg>
@@ -3904,6 +3935,12 @@
          <re>bli ferdig</re>
             <t pos="V" src="nj" usage="vd">geargat</t>
             <t pos="V" src="nj" usage="vd">válbmanit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>gjøre ferdig</re>
+            <t pos="V" src="nj" usage="vd">gárvvistit</t>
          </tg>
       </mg>
    </e>
@@ -4716,6 +4753,12 @@
                <x>Jeg ble trøtt av jobben.</x>
                <xt>Mun váiben barggus.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>gjøre trøtt</re>
+            <t pos="V" usage="vd">váibbadit</t>
          </tg>
       </mg>
    </e>
@@ -8489,7 +8532,13 @@
             </xg>
          </tg>
       </mg>
-  </e>
+       <mg>
+         <tg xml:lang="sme">
+         <re>gjøre sint</re>
+            <t pos="V" usage="vd">suhttadit</t>
+         </tg>
+      </mg>
+ </e>
    <e>
       <lg>
          <l pos="A">mistroisk</l>

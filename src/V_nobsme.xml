@@ -29,11 +29,17 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>gjøre sterk</re>
+             <t pos="V" usage="vd">gievrudahttit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>bli styrket</re>
             <t pos="V" src="fad">nanosmuvvat</t>
          </tg>
       </mg>
-   </e>
+  </e>
    <e>
       <lg>
          <l pos="V">plage</l>
@@ -222,6 +228,7 @@
          <tg xml:lang="sme">
             <t pos="V" usage="vd">čalmmustit</t>
             <t pos="V" src="fad">čalmmustuhttit</t>
+            <t pos="V" usage="vd">čalmmustahttit</t>
          </tg>
       </mg>
    </e>
@@ -949,6 +956,13 @@
             <t pos="V" src="fad">healbat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+             <re>gjøre at noe forsvinner</re>
+           <t pos="V">áibadit</t>
+         </tg>
+      </mg>
+   </e>
    </e>
    <e>
       <lg>
@@ -4185,6 +4199,13 @@
             <t pos="V" usage="vd" src="nj;fad">gohčodit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+          <re>bruke økenavn</re>
+           <t pos="V">buddostaddat</t>
+         </tg>
+      </mg>
+   </e>
    </e>
    <e>
       <lg>
@@ -12381,16 +12402,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre gymnastikk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">lášmmohallat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">bade</l>
       </lg>
       <mg>
@@ -12418,7 +12429,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre ferdig</l>
+         <l pos="V">ferdiggjøre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -13290,16 +13301,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre synlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">čalmmustahttit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">rote</l>
       </lg>
       <mg>
@@ -13333,16 +13334,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre videre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">galjedit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">dømmes</l>
       </lg>
       <mg>
@@ -13358,16 +13349,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd">jávohuhttit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gjøre sterk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">gievrudahttit</t>
          </tg>
       </mg>
    </e>
@@ -15031,17 +15012,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre ondt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">bávččagit</t>
-            <t pos="V" src="nj" usage="vd">bávččastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">støtte opp</l>
       </lg>
       <mg>
@@ -16166,16 +16136,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">duktet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gjøre flat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">dulbet</t>
          </tg>
       </mg>
    </e>
@@ -18445,16 +18405,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre klar</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">gárvvistit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">kle på</l>
       </lg>
       <mg>
@@ -18691,7 +18641,7 @@
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">hilbošit</t>
             <xg>
-               <x>Ikke vær slem mot bestefar!</x>
+               <x>Ikke gjør spillopper med bestefar!</x>
                <xt>Ale hilboš ádjáin!</xt>
             </xg>
          </tg>
@@ -18906,7 +18856,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre noen glad</l>
+         <l pos="V">glede noen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -19195,7 +19145,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre et notkast</l>
+         <l pos="V">kaste not</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -20371,16 +20321,6 @@
                <x>Klokka saktner.</x>
                <xt>Diibmu maŋida.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gjøre en feil</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">meaddádit</t>
          </tg>
       </mg>
    </e>
@@ -22094,7 +22034,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre seg klar</l>
+         <l pos="V">klargjøre seg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -23497,7 +23437,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre motstand</l>
+         <l pos="V">motstå</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -24640,16 +24580,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre sint</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">suhttadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">holde møte</l>
       </lg>
       <mg>
@@ -25140,16 +25070,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre trøtt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">váibbadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">trøtte ut</l>
       </lg>
       <mg>
@@ -25631,7 +25551,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre lei</l>
+         <l pos="V">trettes</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -26107,16 +26027,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre trygg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">oadjudit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">kjenne stikkende smerte</l>
       </lg>
       <mg>
@@ -26303,16 +26213,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd">viegahit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gjøre seg viktig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">viissástallat</t>
          </tg>
       </mg>
    </e>
@@ -28504,16 +28404,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre piketjeneste</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">biigostit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">legge noe på stillas</l>
       </lg>
       <mg>
@@ -28645,17 +28535,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre innsnitt på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bohkket</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">feste grime på</l>
+         <l pos="V">legge grime på</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28705,10 +28585,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">begynne å kaste frø</l>
+         <l pos="V">kaste frø</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>begynne å kaste frø</re>
             <t pos="V">botkkiidit</t>
          </tg>
       </mg>
@@ -28730,26 +28611,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">buddet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sette synkestein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">buddet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bruke økenavn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">buddostaddat</t>
          </tg>
       </mg>
    </e>
@@ -29597,16 +29458,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre at noe forsvinner</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">áibadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">komme med argumenter</l>
       </lg>
       <mg>
@@ -29957,16 +29808,6 @@
          <tg xml:lang="sme">
             <t pos="V">nummárastit</t>
             <t pos="V">nummarastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="V">ha møte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">čoahkkinastit</t>
          </tg>
       </mg>
    </e>
