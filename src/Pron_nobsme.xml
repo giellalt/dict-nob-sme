@@ -2520,10 +2520,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Pron" type="Refl">med meg selv</l>
+         <l pos="Pron" type="Refl">med ... selv</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>med meg selv</re>
             <t pos="Pron" type="Refl">iežainan</t>
             <xg>
                <x>Jeg snakket med meg selv.</x>
@@ -2531,17 +2532,83 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Refl">som meg selv</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iehčanan</t>
+            <re>med deg selv</re>
+            <t pos="Pron" type="Refl">iežainat</t>
             <xg>
-               <x>Jeg var der alene.</x>
-               <xt>Mun ledjen doppe iehčanan.</xt>
+               <x>Du snakket med selv.</x>
+               <xt>Don hupmet iežainat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med seg selv</re>
+            <t pos="Pron" type="Refl">iežainis</t>
+            <xg>
+               <x>Mor snakket med seg selv.</x>
+               <xt>Eadni humai iežainis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med seg selv, om to</re>
+            <t pos="Pron" type="Refl">iežaineaskka</t>
+            <xg>
+               <x>De to snakket med seg selv.</x>
+               <xt>Soai humaiga iežaineaskka.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med seg selv, om flere</re>
+            <t pos="Pron" type="Refl">iežaineaset</t>
+            <xg>
+               <x>De snakket med seg selv.</x>
+               <xt>Sii hupme iežaineaset.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med oss selv, om to</re>
+            <t pos="Pron" type="Refl">iežaineame</t>
+            <xg>
+               <x>Vi to snakket med oss selv.</x>
+               <xt>Moai humaime iežaineame.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med oss selv, om flere</re>
+            <t pos="Pron" type="Refl">iežaineamet</t>
+            <xg>
+               <x>Vi snakket med oss selv.</x>
+               <xt>Mii humaimet iežaineamet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med dere selv, om to</re>
+            <t pos="Pron" type="Refl">iežaineatte</t>
+            <xg>
+               <x>Dere to snakket med dere selv.</x>
+               <xt>Doai humaide iežaineatte.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med dere selv, om flere</re>
+            <t pos="Pron" type="Refl">iežaineattet</t>
+            <xg>
+               <x>Dere snakket med dere selv.</x>
+               <xt>Dii humaidet iežaineattet.</xt>
             </xg>
          </tg>
       </mg>
@@ -2556,34 +2623,6 @@
             <xg>
                <x>Du har bil selv.</x>
                <xt>Dus lea alddát biila.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Refl">med deg selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iežainat</t>
-            <xg>
-               <x>Du snakket med selv.</x>
-               <xt>Don hupmet iežainat.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Pron" type="Refl">som deg selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iehčanat</t>
-            <xg>
-               <x>Du var der alene.</x>
-               <xt>Don ledjet doppe iehčanat.</xt>
             </xg>
          </tg>
       </mg>
@@ -2634,74 +2673,6 @@
          </tg>
       </mg>
    </e>
-   <e mg_c="3">
-      <lg>
-         <l pos="Pron" type="Refl">med seg selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iežainis</t>
-            <xg>
-               <x>Mor snakket med seg selv.</x>
-               <xt>Eadni humai iežainis.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">iežaineaskka</t>
-            <xg>
-               <x>De to snakket med seg selv.</x>
-               <xt>Soai humaiga iežaineaskka.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om flere</re>
-            <t pos="Pron" type="Refl">iežaineaset</t>
-            <xg>
-               <x>De snakket med seg selv.</x>
-               <xt>Sii hupme iežaineaset.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="3">
-      <lg>
-         <l pos="Pron" type="Refl">som seg selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iehčanis</t>
-            <xg>
-               <x>Mor var der alene.</x>
-               <xt>Eadni lei doppe iehčanis.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">iehčaneaskka</t>
-            <xg>
-               <x>De to var der alene.</x>
-               <xt>Soai leigga doppe iehčaneaskka.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om flere</re>
-            <t pos="Pron" type="Refl">iehčaneaset</t>
-            <xg>
-               <x>De var der alene.</x>
-               <xt>Sii ledje doppe iehčaneaset.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e mg_c="2">
       <lg>
          <l pos="Pron" type="Refl">vi to har selv</l>
@@ -2727,54 +2698,6 @@
    </e>
    <e mg_c="2">
       <lg>
-         <l pos="Pron" type="Refl">med oss selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">iežaineame</t>
-            <xg>
-               <x>Vi to snakket med oss selv.</x>
-               <xt>Moai humaime iežaineame.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iežaineamet</t>
-            <xg>
-               <x>Vi snakket med oss selv.</x>
-               <xt>Mii humaimet iežaineamet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron" type="Refl">som oss selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">iehčaneame</t>
-            <xg>
-               <x>Vi to var der alene.</x>
-               <xt>Moai leimme doppe iehčaneame.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iehčaneamet</t>
-            <xg>
-               <x>Vi var der alene.</x>
-               <xt>Mii leimmet doppe iehčaneamet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
          <l pos="Pron" type="Refl">dere to har selv</l>
       </lg>
       <mg>
@@ -2792,54 +2715,6 @@
             <xg>
                <x>Dere to har bil selv.</x>
                <xt>Dudnos lea alddiineatte biila.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron" type="Refl">med dere selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">iežaineatte</t>
-            <xg>
-               <x>Dere to snakket med dere selv.</x>
-               <xt>Doai humaide iežaineatte.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iežaineattet</t>
-            <xg>
-               <x>Dere snakket med dere selv.</x>
-               <xt>Dii humaidet iežaineattet.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e mg_c="2">
-      <lg>
-         <l pos="Pron" type="Refl">som dere selv</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om to</re>
-            <t pos="Pron" type="Refl">iehčaneatte</t>
-            <xg>
-               <x>Dere to var der alene.</x>
-               <xt>Doai leidde doppe iehčaneatte.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pron" type="Refl">iehčaneattet</t>
-            <xg>
-               <x>Dere var der alene.</x>
-               <xt>Dii leiddet doppe iehčaneattet.</xt>
             </xg>
          </tg>
       </mg>

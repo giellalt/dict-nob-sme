@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r id="nobsme" xml:lang="nob">
-   <e>
+    <e>
+      <lg>
+         <l pos="Adv">fri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+          <re>bli fri for mat</re>
+           <t pos="V" usage="vd">niesttehuvvat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="Adv">værfast</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" type="PrfPrc" src="nj" usage="vd">biggehaddan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli liggende værfast</re>
+            <t pos="V" src="nj" usage="vd">biggehaddat</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l pos="Adv">ne</l>
       </lg>
@@ -180,7 +207,13 @@
             <t pos="Adv" src="nj" usage="vd">nannosit</t>
          </tg>
       </mg>
-   </e>
+       <mg>
+         <tg xml:lang="sme">
+         <re>bli sittende fast</re>
+            <t pos="V" src="nj" usage="vd">vavdat</t>
+         </tg>
+      </mg>
+  </e>
    <e>
       <lg>
          <l pos="Adv">av</l>
@@ -645,6 +678,96 @@
             <xg>
                <x>Så måtte alle arbeide alene, og jeg hjalp alle etter hvert som de trengte det.</x>
                <xt>De fertejedje buohkat bargat iehčanassii, ja mun veahkehin buohkaid dađi mielde go sii dárbbašedje.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om meg</re>
+            <t pos="Pron" type="Refl">iehčanan</t>
+            <xg>
+               <x>Jeg var der alene.</x>
+               <xt>Mun ledjen doppe iehčanan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om deg</re>
+            <t pos="Pron" type="Refl">iehčanat</t>
+            <xg>
+               <x>Du var der alene.</x>
+               <xt>Don ledjet doppe iehčanat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om en person</re>
+            <t pos="Pron" type="Refl">iehčanis</t>
+            <xg>
+               <x>Mor var der alene.</x>
+               <xt>Eadni lei doppe iehčanis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om to personer</re>
+            <t pos="Pron" type="Refl">iehčaneaskka</t>
+            <xg>
+               <x>De to var der alene.</x>
+               <xt>Soai leigga doppe iehčaneaskka.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om flere personer</re>
+            <t pos="Pron" type="Refl">iehčaneaset</t>
+            <xg>
+               <x>De var der alene.</x>
+               <xt>Sii ledje doppe iehčaneaset.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om oss to</re>
+            <t pos="Pron" type="Refl">iehčaneame</t>
+            <xg>
+               <x>Vi to var der alene.</x>
+               <xt>Moai leimme doppe iehčaneame.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+          <re>om oss</re>
+           <t pos="Pron" type="Refl">iehčaneamet</t>
+            <xg>
+               <x>Vi var der alene.</x>
+               <xt>Mii leimmet doppe iehčaneamet.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om dere to</re>
+            <t pos="Pron" type="Refl">iehčaneatte</t>
+            <xg>
+               <x>Dere to var der alene.</x>
+               <xt>Doai leidde doppe iehčaneatte.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om dere</re>
+            <t pos="Pron" type="Refl">iehčaneattet</t>
+            <xg>
+               <x>Dere var der alene.</x>
+               <xt>Dii leiddet doppe iehčaneattet.</xt>
             </xg>
          </tg>
       </mg>
@@ -2845,6 +2968,16 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli for lenge</re>
+            <t pos="V" src="nj" usage="vd">dalvat</t>
+            <xg>
+               <x>Hun ble der for lenge.</x>
+               <xt>Dat dalvvai dohko.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3501,6 +3634,13 @@
                <x>å se etter</x>
                <xt>bearrái geahččat</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+          <re>bli etter</re>
+           <t pos="V" usage="vd">bázahallat</t>
+            <t pos="V" usage="vd">bázadit</t>
          </tg>
       </mg>
    </e>
