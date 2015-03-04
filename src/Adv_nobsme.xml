@@ -33,12 +33,29 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>måne i ne</re>
+            <t pos="phrase" usage="vd">nuossi mánnu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
          <re>være i ne</re>
             <t pos="V" src="nj" usage="vd">nuossat</t>
             <xg>
                <x>Månen er i ne nå.</x>
                <xt>Mánnu nuossá dál.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="Adv">ny</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>nymåne</re>
+            <t pos="phrase" usage="vd">šaddi mánnu</t>
          </tg>
       </mg>
    </e>
