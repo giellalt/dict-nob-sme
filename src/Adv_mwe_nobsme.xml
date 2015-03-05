@@ -193,16 +193,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i snurr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">botnjut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">med strømmen</l>
       </lg>
       <mg>
@@ -230,16 +220,6 @@
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd">luoikkas</t>
             <t pos="Adv" src="nj" usage="vd">loanas</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i alfabetisk rekkefølge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">alfabehtalaččat</t>
          </tg>
       </mg>
    </e>
@@ -290,22 +270,6 @@
             <xg>
                <x>Det var en gang slik.</x>
                <xt>Dat lei geardde nu.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i begynnelsen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">vuosttažettiin</t>
-            <t pos="Adv" src="nj" usage="vd">vuohččan</t>
-            <t pos="Adv" src="nj" usage="vd">álggos</t>
-            <xg>
-               <x>I begynnelsen forsto jeg ingenting.</x>
-               <xt>Álggos mun in ipmirdan maidege.</xt>
             </xg>
          </tg>
       </mg>
@@ -947,6 +911,12 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>til i dag</re>
+            <t pos="Adv" src="nj" usage="vd">otnážii</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -965,16 +935,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd">oppanassii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">til i dag</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">otnážii</t>
          </tg>
       </mg>
    </e>
@@ -1025,16 +985,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i orden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">reaida</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">i ro</l>
       </lg>
       <mg>
@@ -1054,20 +1004,6 @@
             <xg>
                <x>Læreren hadde valgt assistenter på slump.</x>
                <xt>Oahpaheaddji lei summal válljen vehkiid.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i hemmelighet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">suoli</t>
-            <xg>
-               <x>Fabrikkarbeiderne hadde holdt et møte i hemmelighet.</x>
-               <xt>Fabrihkkabargit ledje suoli doallan čoahkkima.</xt>
             </xg>
          </tg>
       </mg>
@@ -1154,16 +1090,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i kryss</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">ruossalassii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">i alt</l>
       </lg>
       <mg>
@@ -1205,26 +1131,6 @@
                <x>Elle sier at hit kommer vi kanskje en gang til.</x>
                <xt>Elle lohká ahte deike mii gal soaitit boahtit nuppes.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">til da</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">dassážii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">til nå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">dássážii</t>
          </tg>
       </mg>
    </e>
@@ -1456,20 +1362,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til sist</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">maŋemussii</t>
-            <xg>
-               <x>Jeg ble igjen til sist på skolen.</x>
-               <xt>Mun báhcen maŋemussii skuvlii.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">på ingen måte</l>
       </lg>
       <mg>
@@ -1590,35 +1482,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i sørenden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">lulágeahčen</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">lenger bak</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">maŋŋelii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i kor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">oktii njálmmiid</t>
-            <xg>
-               <x>De skriker i kor.</x>
-               <xt>Sii čirrot oktii njálmmiid.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
