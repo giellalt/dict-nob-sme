@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r id="nobsme" xml:lang="nob">
+   <e>
+      <lg>
+         <l pos="A">smilende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd">mojunjálmmiid</t>
+            <xg>
+               <x>Ánte sa smilende at han har bestått eksamen.</x>
+               <xt>Ánte dajai mojunjálmmiid ahte son lea ceavzán eksámena.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
     <e>
       <lg>
          <l pos="A">lei</l>
@@ -2899,6 +2913,16 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>om hår, skjegg, fjær</re>
+            <t pos="A" usage="vd">čuorgat</t>
+            <xg>
+               <x>Selv om han hadde lite hår og grått skjegg, så brant likevel ungdommens ild i blodet hans.</x>
+               <xt>Vaikko ledje ge unnán vuovttat ja čurges skávžžat, de goitge bulii nuorravuođa dolla su varas.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
          <re>se grå ut</re>
             <t pos="V" usage="vd">rádnát</t>
             <xg>
@@ -4534,7 +4558,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>bli rød</re>
+         <re>rødme</re>
             <t pos="V" src="nj" usage="vd">ruvssodit</t>
          </tg>
       </mg>

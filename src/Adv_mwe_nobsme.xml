@@ -116,16 +116,28 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd">eanas</t>
+            <xg>
+               <x>Jeg må nok innrømme at de fleste lytterne ikke er enige med meg.</x>
+               <xt>Ferten gal mieđihit ahte eanas guldaleaddjit eai leat seamma oaivilis go mun.</xt>
+            </xg>
+            <xg>
+               <x>Jeg må nok innrømme at de fleste ikke er enige med meg.</x>
+               <xt>Ferten gal mieđihit ahte eatnasat eai leat seamma oaivilis go mun.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Adv">lengre ned</l>
+         <l pos="Adv">lenger ned</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">vuollelis</t>
+            <xg>
+               <x>Noen kilometer lenger ned i Tanadalen ser man bussen på en privat gårdsplass.</x>
+               <xt>Muhtin kilomehtera vuollelis Deanuleagis oidno busse priváhta dálu šiljus.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -147,6 +159,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">dobbelaččas</t>
+            <xg>
+               <x>Litt lenger unna holder to karer på å rydde med traktor.</x>
+               <xt>Veahá dobbelaččas leat guokte olbmá traktorin čorgeme.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1208,6 +1224,20 @@
    </e>
    <e>
       <lg>
+         <l pos="Adv">med åpen munn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd">cakkasnjálmmiid</t>
+             <xg>
+               <x>Jenta så på henne med åpen munn.</x>
+               <xt>Nieida geahčai su cakkasnjálmmiid.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">med ørene på stilk</l>
       </lg>
       <mg>
@@ -1217,16 +1247,6 @@
                <x>Bestemor forteller mange morsomme fortellinger og vi sitter med lytter med ørene på stilk.</x>
                <xt>Áhkku muitala ollu somás muitalusaid ja mii čohkkát ceakkobeljiid ja guldalit.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">med ryggen mot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">sealggát</t>
          </tg>
       </mg>
    </e>
@@ -1299,22 +1319,16 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">med ansiktet vendt mot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">čalmmát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">i hverandres favn</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">sallalaga</t>
             <t pos="Adv" usage="vd">sallalagaid</t>
+            <xg>
+               <x>Han så gjennom vinduet meg og en annen vandrende i hverandres favn fra bilen og bak huset.</x>
+               <xt>Son oinnii láseráigge mu ja muhtuma sallalagaid vázzimin biillas ja viesu duogábeallái.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1573,6 +1587,10 @@
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">duohkut deike</t>
             <t pos="Adv" usage="vd">duohkot deike</t>
+            <xg>
+               <x>Med iver ringte hun hit og dit og intervjuet folk.</x>
+               <xt>Áŋgirvuođain riŋgii duohkut deike jearahallat olbmuid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1633,6 +1651,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">earret eará</t>
+            <xg>
+               <x>Hun har arbeidet blant annet på Sametinget.</x>
+               <xt>Son lea bargan earret eará Sámedikkis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
