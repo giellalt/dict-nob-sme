@@ -4791,6 +4791,36 @@
             <t pos="V" usage="vd" src="nj;fad">moddját</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>en gang</re>
+            <t pos="V" usage="vd">moddjet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>nå og da</re>
+            <t pos="V" usage="vd">mojohallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kort, plutselig</re>
+            <t pos="V" usage="vd">moddjestit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>en gang</re>
+            <t pos="V" usage="vd">moddjet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>en gang</re>
+            <t pos="V" usage="vd">moddjet</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -11718,17 +11748,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">være vrien</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om en handling</re>
-            <t pos="V" src="nj" usage="vd">verrošit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">grumset</l>
       </lg>
       <mg>
@@ -12455,7 +12474,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lysne av dag</l>
+         <l pos="V">gryne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -12568,16 +12587,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">klemme litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">cipmastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">sitre</l>
       </lg>
       <mg>
@@ -12618,16 +12627,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd">čusket</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sukke plutselig eller en gang</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">šuohkihit</t>
          </tg>
       </mg>
    </e>
@@ -12812,16 +12811,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smile en gang</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">moddjet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">lene</l>
       </lg>
       <mg>
@@ -12875,31 +12864,6 @@
             <re>en gang</re>
             <t pos="V" usage="vd">lihkastit</t>
             <t pos="V" usage="vd">lihkahit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">holde kaffepause</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">gáfestallat</t>
-            <t pos="V" usage="vd">káfestallat</t>
-            <xg>
-               <x>Etter messa samles vi for å holde kaffepause, synge salmer, og nyte Wimmes musikk.</x>
-               <xt>Meassu maŋŋá čoahkkanit káfestallat, lávlut sálmmaid ja návddašit vel Wimme musihkas.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vende om</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">jorgalahttit</t>
          </tg>
       </mg>
    </e>
@@ -13147,6 +13111,7 @@
          <tg xml:lang="sme">
             <re>en gang</re>
             <t pos="V" usage="vd">čárvet</t>
+            <t pos="V" usage="vd">buorrestit</t>
          </tg>
       </mg>
       <mg>
@@ -13157,8 +13122,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>en gang</re>
-            <t pos="V" usage="vd">buorrestit</t>
+            <re>litt</re>
+            <t pos="V" usage="vd">cipmastit</t>
          </tg>
       </mg>
    </e>
@@ -13968,16 +13933,6 @@
          <tg xml:lang="sme">
             <re>avstå</re>
             <t pos="V" src="nj" usage="vd">biehtadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gi avslag</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" src="nj" usage="vd">biehttalit</t>
          </tg>
       </mg>
    </e>
@@ -20261,16 +20216,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smile nå og da</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">mojohallat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">våkne</l>
       </lg>
       <mg>
@@ -24085,6 +24030,12 @@
             <t pos="V" src="nj" usage="vd">čuvggodit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lysne av dag</re>
+            <t pos="V">ránodit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -24265,6 +24216,12 @@
             <t pos="V" src="nj" usage="vd">šuohkkit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>plutselig eller en gang</re>
+            <t pos="V" usage="vd">šuohkihit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -24283,16 +24240,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="nj" usage="vd">šuđđat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tenke en tanke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">jurdilit</t>
          </tg>
       </mg>
    </e>
@@ -25618,26 +25565,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" usage="vd">meahcástit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">smile kort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">moddjestit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">smile plutselig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" usage="vd">moddjestit</t>
          </tg>
       </mg>
    </e>
