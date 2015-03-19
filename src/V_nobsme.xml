@@ -1916,12 +1916,6 @@
             <t pos="V" usage="vd">ájahallat</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>pusle</re>
-            <t pos="V" src="fad">buđaldit</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -2042,7 +2036,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>klare</re>
+            <re>klare en test</re>
             <t pos="V">nagodit</t>
             <t pos="V" src="gt;fad">ceavzit</t>
          </tg>
@@ -2079,12 +2073,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="gt;fad">dohkkehit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>duge</re>
-            <t pos="V" src="fad">dohkket</t>
          </tg>
       </mg>
    </e>
@@ -2335,12 +2323,6 @@
          <tg xml:lang="sme">
             <re>utsette for påkjenning</re>
             <t pos="V" src="gt;fad">noađuhit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>betale</re>
-            <t pos="V" src="fad">máksit</t>
          </tg>
       </mg>
    </e>
@@ -8231,8 +8213,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>ødelegge</re>
-            <t pos="V" src="fad">billistit</t>
+            <re>ødelegge for andre</re>
+            <t pos="V" usage="vd">bidilit earáid ovddas</t>
          </tg>
       </mg>
       <mg>
@@ -10015,12 +9997,6 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>miste</re>
-            <t pos="V" src="fad">manahit</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -10151,7 +10127,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>glemmes</re>
+            <re>bli glemt</re>
             <t pos="V" src="fad">vajálduvvat</t>
          </tg>
       </mg>
@@ -28551,16 +28527,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">belastet med for mye arbeid</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">heavganit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">skjemme ut</l>
       </lg>
       <mg>
@@ -29910,7 +29876,7 @@
    </e>
    <e src="fad">
       <lg>
-         <l pos="V">nøye</l>
+         <l pos="V">nøye seg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -30949,7 +30915,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>tilsette midlertidlig</re>
-            <t pos="V">virgáibidjat</t>
+            <t pos="V">virgáibidjat gaskaáigásaččat</t>
             <xg>
                <x>Jeg var konstituert lærer fra januar og ut skoleåret.</x>
                <xt>Mun ledjen gaskaáigásaččat virgáibiddjon oahpaheaddjin ođđajagemánus gitta dan skuvlajagi lohppii.</xt>
@@ -31062,16 +31028,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">goallostit</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="V">påkjøre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">vuodjat</t>
          </tg>
       </mg>
    </e>
@@ -31367,17 +31323,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">guhkidit</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="V">orde</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">hállat</t>
-            <t pos="V">ságastit</t>
          </tg>
       </mg>
    </e>
@@ -31793,6 +31738,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>om å sprenge grenser</re>
             <t pos="V">cuvket</t>
             <t pos="V">njeaidit</t>
             <xg>
@@ -31864,16 +31810,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">jođihit</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="V">nedfelle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">cealkit</t>
          </tg>
       </mg>
    </e>
@@ -31954,16 +31890,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">áidut</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="V">tilføre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">namuhit</t>
          </tg>
       </mg>
    </e>
