@@ -502,17 +502,11 @@
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd">duvle</t>
             <t pos="Adv" src="nj" usage="vd">dádjat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">ganske mye</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">eatnat</t>
-         </tg>
+            <xg>
+               <x>Jeg traff for en tid siden den som er skoledirektør i Finnmark nå.</x>
+               <xt>Gávnnadeimme duvle Finnmárkku dálá skuvladirektevrrain.</xt>
+            </xg>
+         </tg> 
       </mg>
    </e>
    <e>
@@ -563,6 +557,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd">gasku</t>
+            <xg>
+               <x>Hun banken på med staven på kanten av tua, og midt i tua åpnet det seg ei dør.</x>
+               <xt>Son skoalkalii soppiinis bovdnaravdii, gasku bovnna rahpasii uksa.</xt>
+            </xg>
+            <xg>
+               <x>Bygdefolket krevde at skolen flyttes mer midt i bygda.</x>
+               <xt>Gili olbmot gáibidedje ahte skuvla sirdojuvvo eanet gasku gili.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -573,19 +575,9 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" src="nj" usage="vd">goavkkil</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">langt bort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">guhkás</t>
             <xg>
-               <x>Du hopper ikke langt.</x>
-               <xt>Don it njuike guhkás.</xt>
+               <x>Dodøra sto på gløtt.</x>
+               <xt>Hivssetuksa lei goavkkil.</xt>
             </xg>
          </tg>
       </mg>
@@ -722,6 +714,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="Adv" usage="vd">lahkalaga</t>
             <t pos="Adv" src="nj" usage="vd">lahkalagaid</t>
          </tg>
       </mg>
@@ -795,7 +788,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">luoikkas</t>
+            <t pos="Adv" usage="vd">láigomassii</t>
+            <xg>
+               <x>Ti rom har vært til leie denne sommeren.</x>
+               <xt>Logi lanja leat leamaš láigumassii dán geasi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -805,6 +802,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="phrase" usage="vd">ovdamearkka dihte</t>
+            <t pos="Adv" usage="vd">omd.</t>
             <t pos="Adv" src="nj" usage="vd">mahká</t>
          </tg>
       </mg>
@@ -1187,7 +1186,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">eahketbeallái</t>
-            <t pos="Adv" usage="vd">eahketbeallai</t>
          </tg>
       </mg>
    </e>
@@ -1349,7 +1347,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">moktege</t>
+            <t pos="Adv" usage="vd">ii moktege</t>
             <xg>
                <x>Innholdet i filmen er ikke endret på noen måte.</x>
                <xt>Filmma sisdoallu ii leat gal moktege rievdaduvvon.</xt>
@@ -1555,7 +1553,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv" usage="vd">duohkut deike</t>
-            <t pos="Adv" usage="vd">duohkot deike</t>
             <xg>
                <x>Med iver ringte hun hit og dit og intervjuet folk.</x>
                <xt>Áŋgirvuođain riŋgii duohkut deike jearahallat olbmuid.</xt>

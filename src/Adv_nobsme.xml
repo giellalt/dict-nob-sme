@@ -2,6 +2,35 @@
 <r id="nobsme" xml:lang="nob">
    <e>
       <lg>
+         <l pos="Adv">langt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" src="nj" usage="vd">guhkás</t>
+            <xg>
+               <x>Du hopper ikke langt.</x>
+               <xt>Don it njuike guhkás.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">liksom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd">mahkáš</t>
+            <t pos="Adv" usage="vd">mahká</t>
+            <xg>
+               <x>Hun leker at dukkene liksom er læreren og internatets husmor.</x>
+               <xt>Son stoahká ahte dohkát leat mahkáš skuvlarivgu ja internáhta husmora.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">tvers</l>
       </lg>
       <mg>
@@ -2730,9 +2759,9 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>nært i tid</re>
             <t pos="Adv" src="nj" usage="vd">easkka</t>
             <t pos="Adv" src="nj" usage="vd">easka</t>
-            <t pos="Adv" src="nj" usage="vd">gieskat</t>
             <xg>
                <x>Vi to har nylig kommet.</x>
                <xt>Moai letne easka boahtán.</xt>
@@ -2741,7 +2770,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+         	<re>for ikke så lenge siden</re>
             <t pos="Adv" src="nj" usage="vd">gieskat</t>
+            <xg>
+               <x>Det var nylig kommet ny prest dit.</x>
+               <xt>Dohko lei gieskat boahtán ođđa báhppa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
