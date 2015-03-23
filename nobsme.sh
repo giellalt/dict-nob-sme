@@ -15,7 +15,7 @@ echo "It writes a lexc file to bin, containing the line	 "
 echo "LEXICON Root										 "
 echo "Thereafter, it picks lemma and first translation	 "
 echo "of the dictionary, adds them to this lexc file,	 "
-echo "and compiles a transducer bin/smenob.fst		 "
+echo "and compiles a transducer bin/nobsme.fst		 "
 echo ""
 echo "Usage:"
 echo "lookup bin/nobsme.fst"
@@ -26,26 +26,21 @@ echo ""
 
 
 
-echo "LEXICON Root" > bin/smenob.lexc
-
-cat  src/*_smenob.xml | \
 
 echo "LEXICON Root" > bin/nobsme.lexc
 
 cat src/*_nobsme.xml   | \
-tr '\n' '™'            | \ 
+tr '\n' '™'            | \
 sed 's/<e/£/g;'        | \
 tr '£' '\n'            | \
 sed 's/<re>[^>]*>//g;' | \
 tr '<' '>'             | \
-cut -d">" -f6,16|      | \
-tr ' ' '_'             | \ 
+cut -d">" -f6,16       | \
+tr ' ' '_'             | \
 sed 's/:/%/g;'         | \
 tr '>' ':'             | \
 grep -v '__'           | \
 sed 's/$/ # ;/g'       >> bin/nobsme.lexc
-
-xfst -e "read lexc < bin/nobsme.lexc"
 
 
 printf "read lexc < bin/nobsme.lexc \n\
