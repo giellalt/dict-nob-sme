@@ -78,18 +78,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>bort fra</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">lokativ</t>
+            <re>bort fra; av et materiale</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">bruk lokativ</t>
             <xg>
                <x>Han datt av hesten.</x>
                <xt>Son gahčai heasttas.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>av materiale</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">lokativ</t>
             <xg>
                <x>Jeg laget et knivhylster av horn.</x>
                <xt>Mun ráhkadin čoarvvis dohpaid.</xt>
@@ -99,7 +93,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>opphav</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Genitiv">genitiv</t>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Genitiv">bruk genitiv</t>
             <xg>
                <x>et maleri av Iver Jåks</x>
                <xt>Iver Jåksa maleriija</xt>
@@ -108,7 +102,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t type="grammar" href="http://oahpa.no/sme/gramm/syntaks.nob.html#Passive+setninger">i passiv</t>
+            <re>verb i passiv + av</re>
+            <t type="expl">snu til aktiv</t>
             <xg>
                <x>Skuteren ble kjørt av Marit.</x>
                <xt>Skuteriin vujii Máret.</xt>
@@ -209,7 +204,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">lokativ</t>
+         <re>om hvor lang tid man bruker</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">bruk lokativ</t>
             <xg>
                <x>Han laget maten ferdig på to timer.</x>
                <xt>Son gárvii biepmu guovtti diimmus.</xt>
@@ -218,8 +214,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>tidspunkt</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Genitiv">genitiv</t>
+            <re>om tidspunkt</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Genitiv">bruk genitiv</t>
             <xg>
                <x>Hun kom på søndag.</x>
                <xt>Son bođii sotnabeaivvi.</xt>
@@ -229,7 +225,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>om mengde og størrelse</re>
-            <t type="expl">adjektivsavledning</t>
+            <t type="expl">bruk adjektivsavledning</t>
             <xg>
                <x>et barn på to år</x>
                <xt>guovttejahkásaš mánná</xt>
@@ -247,7 +243,16 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>intervall</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">bruk lokativ</t>
+            <xg>
+               <x>Hun kom fra Kautokeino i dag.</x>
+               <xt>Son bođii Guovdageainnus odne.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om intervall</re>
             <t pos="Po" src="nj" usage="vd">rájes</t>
             <xg>
                <x>Det er 40 slektsledd fra David til Babylons fangenskap.</x>
@@ -257,20 +262,11 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>opphav</re>
+            <re>om opphav</re>
             <t pos="Adv" src="nj" usage="vd">eret</t>
             <xg>
                <x>Hun kommer opprinnelig fra Tana.</x>
                <xt>Son lea Deanus eret.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">lokativ</t>
-            <xg>
-               <x>Hun kom fra Kautokeino i dag.</x>
-               <xt>Son bođii Guovdageainnus odne.</xt>
             </xg>
          </tg>
       </mg>
@@ -324,6 +320,16 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>om bevegelse til</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Illativ">bruk illativ</t>
+            <xg>
+               <x>Vi drar til Karasjok.</x>
+               <xt>Mii vuolgit Kárášjohkii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="Po" src="nj" usage="vd">lusa</t>
             <xg>
                <x>Han gikk til far.</x>
@@ -348,16 +354,6 @@
             <xg>
                <x>Kom hjem til oss!</x>
                <xt>Boađe min geahčai!</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om bevegelse til</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Illativ">illativ</t>
-            <xg>
-               <x>Vi drar til Karasjok.</x>
-               <xt>Mii vuolgit Kárášjohkii.</xt>
             </xg>
          </tg>
       </mg>
@@ -397,8 +393,8 @@
       </mg>
     <mg>
          <tg xml:lang="sme">
-            <re>tilhørighet</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Genitiv">genitiv</t>
+            <re>om å eie</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Genitiv">bruk genitiv</t>
             <xg>
                <x>Det er bilen til far.</x>
                <xt>Dat lea áhči biila.</xt>
@@ -451,8 +447,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>som har</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/syntaks.nob.html#Relative+setninger">relativsetning</t>
+            <re>som har noe</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/syntaks.nob.html#Relative+setninger">bruk relativsetning</t>
             <xg>
                <x>en mann med skjegg</x>
                <xt>almmái geas leat skávžžát</xt>
@@ -465,8 +461,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>hos, ved</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Komitativ">komitativ</t>
+            <re>hos; ved hjelp av</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Komitativ">bruk komitativ</t>
             <xg>
                <x>en hund med hvalpene sine</x>
                <xt>beana vielpáiguin</xt>
@@ -480,7 +476,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>med noe som hører til</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Komitativ">oktan + komitativ</t>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Komitativ">bruk oktan + komitativ</t>
             <xg>
                <x>Jeg hadde kastet ut blomsten med blomsterpotta.</x>
                <xt>Ledjen bálkestan rási oktan rásselihtiin olggos.</xt>
@@ -595,6 +591,16 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>til nytte for noen eller noe</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Illativ">bruk illativ</t>
+            <xg>
+               <x>Tran er godt for helsa.</x>
+               <xt>Guolevuodja lea buorre dearvvašvuhtii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="Po" src="nj" usage="vd">ektui</t>
             <xg>
                <x>Sametinget har ikke det formelle ansvaret for reindriften i Norge.</x>
@@ -604,31 +610,32 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>for noes eller noens skyld</re>
             <t pos="Po" src="nj" usage="vd">dihte</t>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Illativ">bruk illativ</t>
             <xg>
                <x>Jeg gjør det for din skyld.</x>
                <xt>Mun dagan dan du dihte.</xt>
             </xg>
-         </tg>
+             <xg>
+               <x>Jeg gjorde det for henne.</x>
+               <xt>Mun dahken dan sutnje.</xt>
+            </xg>
+        </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>om penger</re>
             <t pos="Po" src="nj" usage="vd">ovddas</t>
             <xg>
                <x>Han kjøper godter for 20 kroner.</x>
                <xt>Son oastá njálgáid 20 ruvnnu ovddas.</xt>
             </xg>
          </tg>
-         <tg xml:lang="sme">
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Illativ">illativ</t>
-            <xg>
-               <x>Tran er godt for helsa.</x>
-               <xt>Guolevuodja lea buorre dearvvašvuhtii.</xt>
-            </xg>
-         </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>takk for noe</re>
             <t pos="Po" src="nj" usage="vd">ovddas</t>
             <xg>
                <x>Takk for den!</x>
@@ -657,11 +664,17 @@
       <mg>
          <tg xml:lang="sme">
             <re>om tid</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Genitiv">genitiv</t>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Genitiv">bruk genitiv</t>
             <xg>
                <x>nå for tiden</x>
                <xt>dán áigge</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>for en tid siden</re>
+            <t pos="Po" usage="vd">áigi</t>
             <xg>
                <x>for to år siden</x>
                <xt>guokte jagi áigi</xt>
@@ -955,8 +968,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>hvor</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">lokativ</t>
+            <re>hvor; om tidsrom; om egenskap</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">bruk lokativ</t>
             <xg>
                <x>i Finland</x>
                <xt>Suomas</xt>
@@ -965,10 +978,10 @@
                <x>Hun arbeidet i Tromsø den gangen.</x>
                <xt>Son barggai Romssas dalle.</xt>
             </xg>
-         </tg>
-         <tg xml:lang="sme">
-            <re>egenskap</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">lokativ</t>
+            <xg>
+               <x>i mai</x>
+               <xt>miessemánus</xt>
+            </xg>
             <xg>
                <x>Har dere denne kjolen i blått?</x>
                <xt>Lea go dis dát čuvla alit ivnnis?</xt>
@@ -977,8 +990,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>bevegelse til</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Illativ">illativ</t>
+            <re>om bevegelse til</re>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Illativ">bruk illativ</t>
             <xg>
                <x>Han skal gå i teateret.</x>
                <xt>Son galgá teáhterii.</xt>
@@ -986,16 +999,6 @@
             <xg>
                <x>Foreldrene vil sette barna sine i barnehagen.</x>
                <xt>Váhnemat háliidit bidjat mánáset mánáidgárdái.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om tid</re>
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Lokativ">lokativ</t>
-            <xg>
-               <x>i mai</x>
-               <xt>miessemánus</xt>
             </xg>
          </tg>
       </mg>
@@ -1312,7 +1315,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Illativ">illativ</t>
+            <t type="grammar" href="http://oahpa.no/sme/gramm/substantiv.nob.html#Illativ">bruk illativ</t>
             <xg>
                <x>Vi må gjøre det innen fredag.</x>
                <xt>Mii fertet dan dahkat bearjadahkii.</xt>
