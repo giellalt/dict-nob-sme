@@ -853,26 +853,6 @@
     </e>
     <e>
       <lg>
-         <l pos="A">fri for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V" type="Prfprc" src="nj" usage="vd">nohkkon</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-         <re>bli fri for</re>
-            <t pos="V" src="nj" usage="vd">nohkkot</t>
-            <xg>
-               <x>Hun ble fri for kaffe.</x>
-               <xt>Eadni nohkkui gáfes.</xt>
-            </xg>
-         </tg>
-      </mg>
-    </e>
-    <e>
-      <lg>
          <l pos="A">rasende</l>
       </lg>
       <mg>
@@ -2675,6 +2655,16 @@
          <tg xml:lang="sme">
             <re>ulydig</re>
             <t pos="A" src="fad">jeagoheapme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som første ledd i sammensetninger</re>
+            <t pos="A" usage="vd">doares-</t>
+            <xg>
+               <x>tverrelv</x>
+               <xt>doaresjohka</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10402,16 +10392,6 @@
    </e>
    <e>
       <lg>
-         <l pos="A">angående</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" src="nj" usage="vd">guoskevaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">brungul</l>
       </lg>
       <mg>
@@ -17865,16 +17845,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">germánalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="A">føre var</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">várrugas</t>
          </tg>
       </mg>
    </e>

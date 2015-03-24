@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r id="nobsme" xml:lang="nob">
+   <e src="fad">
+      <lg>
+         <l pos="Adv">føre var</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">várrugas</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="Adv">nå får tiden</l>
@@ -163,6 +173,15 @@
             <xg>
                <x>Noen kilometer lenger ned i Tanadalen ser man bussen på en privat gårdsplass.</x>
                <xt>Muhtin kilomehtera vuollelis Deanuleagis oidno busse priváhta dálu šiljus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv" usage="vd">vuolleliidda</t>
+            <xg>
+               <x>Festivalområdet og spesielt scenen er flyttet litt lenger ned i forhold til i fjor.</x>
+               <xt>Festiválasadji ja erenomážit lávdi lea veháš vuolleliidda sirdon diimmá ektui.</xt>
             </xg>
          </tg>
       </mg>
@@ -546,16 +565,6 @@
                <x>Jeg så deg i sted.</x>
                <xt>Mun oidnen du eske.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">hvor mange</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">galle</t>
          </tg>
       </mg>
    </e>
@@ -985,7 +994,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">ovddas</t>
+            <t pos="Po" src="nj" usage="vd">ovddas</t>
             <xg>
                <x>Du står i veien for meg.</x>
                <xt>Don čuoččut mu ovddas.</xt>
@@ -1066,20 +1075,6 @@
             <xg>
                <x>Alle reindriftssamene dro deretter hvor som helst, noen til russiske og noen til norske områder.</x>
                <xt>Buot boazosápmelaččat johtaledje dasto feara gos, muhtumin ruošša ja muhtumin norgga eatnamis.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">ved siden av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" src="nj" usage="vd">gurrii</t>
-            <xg>
-               <x>Sett den ved siden av veien.</x>
-               <xt>Bija dan geaidnogurrii.</xt>
             </xg>
          </tg>
       </mg>
@@ -1201,6 +1196,15 @@
             <xg>
                <x>Nillá tenkte å dra innom og gi beskjed om saken i alle fall til Pente og Ánde.</x>
                <xt>Nillá jurdilii fitnat dieđiheamen áššis juoba Pente- ja Ánde-guoktái.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Pcle" src="nj" usage="vd">goit</t>
+            <xg>
+               <x>Marit kommer i alle fall.</x>
+               <xt>Máret goit boahtá.</xt>
             </xg>
          </tg>
       </mg>
@@ -1391,20 +1395,6 @@
             <xg>
                <x>Elle er tre sider lengre frem i engelskboka enn jeg.</x>
                <xt>Elle lea golbma siiddu ovdalis eŋgelasgirjjis go mun.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">lenger ned</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv" usage="vd">vuolleliidda</t>
-            <xg>
-               <x>Festivalområdet og spesielt scenen er flyttet litt lenger ned i forhold til i fjor.</x>
-               <xt>Festiválasadji ja erenomážit lávdi lea veháš vuolleliidda sirdon diimmá ektui.</xt>
             </xg>
          </tg>
       </mg>

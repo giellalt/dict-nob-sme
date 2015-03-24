@@ -53,7 +53,23 @@
            <t pos="V" usage="vd">niesttehuvvat</t>
          </tg>
       </mg>
-   </e>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være fri for</re>
+            <t pos="V" type="Prfprc" src="nj" usage="vd">nohkkon</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli fri for</re>
+            <t pos="V" src="nj" usage="vd">nohkkot</t>
+            <xg>
+               <x>Hun ble fri for kaffe.</x>
+               <xt>Eadni nohkkui gáfes.</xt>
+            </xg>
+         </tg>
+      </mg>
+  </e>
     <e>
       <lg>
          <l pos="Adv">værfast</l>
