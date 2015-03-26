@@ -1,11 +1,40 @@
+<!ELEMENT r ( e+ ) >
+<!ATTLIST r 
+xml:lang ( nob ) #IMPLIED
+>
+<!ATTLIST r 
+      id ( nobsme ) #IMPLIED >
 
-<!ELEMENT r  ( e+ )>
-<!ATTLIST r
-id CDATA #REQUIRED
-xml:lang CDATA #REQUIRED
+<!ELEMENT e  ( lg , mg* )>
+<!ATTLIST e
+src CDATA #IMPLIED
+usage CDATA #IMPLIED
+mg_c CDATA #IMPLIED
 >
 
-<!ELEMENT tg  ( #PCDATA | re? , t+ , xg* , mg? )>
+<!ELEMENT lg  ( l , lsub? )>
+
+<!ELEMENT l  ( #PCDATA )>
+<!ATTLIST l
+pos CDATA #REQUIRED
+alt_str CDATA #IMPLIED
+nr CDATA #IMPLIED
+type CDATA #IMPLIED
+til_ref CDATA #IMPLIED
+orig_entry CDATA #IMPLIED
+>
+
+<!ELEMENT lsub  ( #PCDATA )>
+<!ATTLIST lsub
+pos CDATA #REQUIRED
+>
+
+<!ELEMENT mg  ( re? , tg+ )>
+<!ATTLIST mg
+xml:lang CDATA #IMPLIED
+>
+
+<!ELEMENT tg  ( re? , t+ , xg* )>
 <!ATTLIST tg
 xml:lang CDATA #IMPLIED
 >
@@ -31,38 +60,11 @@ pers CDATA #IMPLIED
 mod CDATA #IMPLIED
 >
 
-<!ELEMENT e  ( lg? , mg* , xg? )>
-<!ATTLIST e
-src CDATA #IMPLIED
-usage CDATA #IMPLIED
-mg_c CDATA #IMPLIED
->
-
-<!ELEMENT lsub  ( #PCDATA )>
-<!ATTLIST lsub
-pos CDATA #REQUIRED
->
+<!ELEMENT xg  ( re? , x , xt )>
 
 <!ELEMENT x  ( #PCDATA )>
 <!ATTLIST x
 src CDATA #IMPLIED
->
-
-<!ELEMENT mg  ( re? , tg+ , mg? , xg* )>
-<!ATTLIST mg
-xml:lang CDATA #IMPLIED
->
-
-<!ELEMENT lg  ( l , lsub? )>
-
-<!ELEMENT l  ( #PCDATA )>
-<!ATTLIST l
-pos CDATA #REQUIRED
-alt_str CDATA #IMPLIED
-nr CDATA #IMPLIED
-type CDATA #IMPLIED
-til_ref CDATA #IMPLIED
-orig_entry CDATA #IMPLIED
 >
 
 <!ELEMENT xt  ( #PCDATA )>
@@ -70,4 +72,3 @@ orig_entry CDATA #IMPLIED
 src CDATA #IMPLIED
 >
 
-<!ELEMENT xg  ( re? , x , xt )>
