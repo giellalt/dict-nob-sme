@@ -30,10 +30,12 @@ echo ""
 echo "LEXICON Root" > bin/nobsme.lexc
 
 cat src/*_nobsme.xml   | \
+grep -v '<r id='       | \
 tr '\n' '™'            | \
 sed 's/<e/£/g;'        | \
 tr '£' '\n'            | \
 sed 's/<re>[^>]*>//g;' | \
+sed 's/xml:lang//g;'   | \
 tr '<' '>'             | \
 cut -d">" -f6,16       | \
 tr ' ' '_'             | \
