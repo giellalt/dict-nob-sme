@@ -7797,6 +7797,30 @@
             <t pos="V" src="fad">njoarostit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kaste terning en gang</re>
+            <t pos="V" src="fad">birccostit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kaste terninger</re>
+            <t pos="V" src="fad">bircut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>begynne å kaste frø</re>
+            <t pos="V" src="fad">botkkiidit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kaste med pinne</re>
+            <t pos="V" src="fad">behtostit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -27879,26 +27903,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kaste med pinne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">behtostit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gjøre at noe blir rimbelagt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bihcudit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">rimbelegges</l>
       </lg>
       <mg>
@@ -27908,6 +27912,12 @@
                <x>Bakken er dekket av rim.</x>
                <xt>Eana lea bihcon.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>gjøre at noe blir rimbelagt</re>
+            <t pos="V">bihcudit</t>
          </tg>
       </mg>
    </e>
@@ -27953,27 +27963,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kaste terning</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>en gang</re>
-            <t pos="V">birccostit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kaste terninger</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bircut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">gå på jakt</l>
       </lg>
       <mg>
@@ -27984,20 +27973,16 @@
    </e>
    <e>
       <lg>
-         <l pos="V">svette oftere</l>
+         <l pos="V">svette</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">bivastuddat</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">svette litt</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>svette litt</re>
             <t pos="V">bivastustit</t>
          </tg>
       </mg>
@@ -28099,17 +28084,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">boruhuvvat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kaste frø</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-         <re>begynne å kaste frø</re>
-            <t pos="V">botkkiidit</t>
          </tg>
       </mg>
    </e>
@@ -28689,16 +28663,6 @@
    <e>
       <lg>
          <l pos="V">dra not på land</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">njuohpat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">dra noten helt på land</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
