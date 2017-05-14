@@ -683,16 +683,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" type="Prfprc">jierásmuvvan</t>
-            <xg>
-               <x>Ordføreren mener at det er viktig at de begynner å granske saken slik at folk ikke blir engstelige.</x>
-               <xt>Sátnejođiheaddji mielas lea dehálaš ahte iskagohtet ášši vai olbmot eai jierásmuva.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
          <re>bli nervøs</re>
             <t pos="V">jierásmuvvat</t>
+            <xg>
+               <x>Ordføreren mener at det er viktig at de begynner å granske saken slik at folk ikke blir engstelige.</x>
+               <xt>Sátnejođiheaddji mielas lea dehálaš ahte iskagohtet ášši vai olbmot eai jierásmuva.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4308,6 +4308,12 @@
             <t pos="A">váfi</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli tykk, om mennesker</re>
+            <t pos="V">gassut</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4581,6 +4587,7 @@
          <tg xml:lang="sme">
          <re>gjøre ferdig</re>
             <t pos="V">gárvvistit</t>
+            <t pos="V">válmmastit</t>
          </tg>
       </mg>
    </e>
@@ -4638,6 +4645,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">hálbi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli billigere</re>
+            <t pos="V">hálbut</t>
          </tg>
       </mg>
    </e>
@@ -5654,6 +5667,13 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">berošteaddji</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>være interessert</re>
+            <t pos="V">beroštuvvat</t>
+            <t pos="V">beroštit</t>
          </tg>
       </mg>
    </e>
@@ -10790,6 +10810,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">jidnii</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli høyrøstet</re>
+            <t pos="V">riejáskit</t>
          </tg>
       </mg>
    </e>
@@ -18668,25 +18694,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Num">moadde</t>
-            <xg>
-               <x>Målene må være få og konkrete.</x>
-               <xt>Mihttomearit fertejit leat dušše moadde ja konkrehta.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Num">moadde</t>
-            <xg>
-               <x>Målene må være få og konkrete.</x>
-               <xt>Mihttomearit fertejit leat dušše moadde ja konkrehta.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>sjelden</re>
             <t pos="A">hárvenaš</t>
+            <xg>
+               <x>Målene må være få og konkrete.</x>
+               <xt>Mihttomearit fertejit leat dušše moadde ja konkrehta.</xt>
+            </xg>
             <xg>
                <x>Det betyr stadig mer rikdom og større utbytte for de få aktørene som allerede tjener seg rike på fellesskapets fiskeressurser.</x>
                <xt>Dát mearkkaša eanet ja eanet riggodaga ja stuorát vuoittu daidda hárvenaš oassálastiide, geat dál jo riggot searvevuođa guolleresurssaiguin.</xt>

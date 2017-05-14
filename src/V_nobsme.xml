@@ -233,8 +233,8 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">čalmmustit</t>
-            <t pos="V" src="fad">čalmmustuhttit</t>
             <t pos="V">čalmmustahttit</t>
+            <t pos="V">oainnusmahttit</t>
          </tg>
       </mg>
    </e>
@@ -2622,6 +2622,46 @@
             <t pos="V" src="fad">guolástit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>med garn</re>
+            <t pos="V">fierpmástit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">gjøre noe ulovlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">lobihuššat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">skilte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">galbet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">fri</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">irgalit</t>
+             <xg>
+               <x>Olbmot álget vel navdigoahtit ahte irgalat munnje.</x>
+               <xt>Folk begynner vel å tro at du frir til meg.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3411,6 +3451,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>stoppe opp litt</re>
+            <t pos="V">bisánastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>tette noe</re>
             <t pos="V">notkat</t>
          </tg>
@@ -3749,6 +3795,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="fad">deavdit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>på flaske</re>
+            <t pos="V">boahtalastit</t>
          </tg>
       </mg>
    </e>
@@ -4707,6 +4759,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">stellet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>ordne seg</re>
+            <t pos="V">ordnašuvvat</t>
          </tg>
       </mg>
    </e>
@@ -6476,6 +6534,12 @@
          <tg xml:lang="sme">
             <re>gi slag</re>
             <t pos="V" src="fad">časkit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>slå sammen</re>
+            <t pos="V">časkit oktii</t>
          </tg>
       </mg>
       <mg>
@@ -8516,8 +8580,16 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>tøye, gjøre lengre</re>
-            <t pos="V" src="fad">vanahit</t>
+         <re>med et rykk</re>
+            <t pos="V">rohttestit</t>
+             <xg>
+               <x>Son coggalii gieđa lummii ja rohttestii mobiilla bajás.</x>
+               <xt>Han putta handa i lomma og dro opp mobilen.</xt>
+            </xg>
+             <xg>
+               <x>Dál orui guolleveaigi, go duos dás muhtun rohttestii guoli.</x>
+               <xt>Nå virket det å være fiskevær, når noen her og der dro fisk.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -8527,6 +8599,12 @@
                <x>Gutten dro i gang motoren.</x>
                <xt>Bárdni ravgii mohtora johtui.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>tøye, gjøre lengre</re>
+            <t pos="V" src="fad">vanahit</t>
          </tg>
       </mg>
    </e>
@@ -10081,6 +10159,10 @@
          <tg xml:lang="sme">
             <re>kjempe for: med beale</re>
             <t pos="V" src="fad">čuolahit</t>
+             <xg>
+               <x>Sámediggi čuolaha álbmotrievtti beale.</x>
+               <xt>Sametinget kjemper for folkeretten.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -18690,11 +18772,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forundres</l>
+         <l pos="V">forundre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">imaštallat</t>
+            <t pos="V">imaštahttit</t>
          </tg>
       </mg>
    </e>
@@ -18705,6 +18787,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">imaštit</t>
+            <t pos="V">imaštallat</t>
          </tg>
       </mg>
    </e>
@@ -19324,6 +19407,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">guvnnjádit</t>
+            <t pos="V">guoggut</t>
          </tg>
       </mg>
    </e>
@@ -21375,11 +21459,71 @@
    </e>
    <e>
       <lg>
+         <l pos="V">antenne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">bullehit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">omringe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">birastit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">marginalisere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">birzzehit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">grafse til seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">háhpohallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">knirke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">gižaidit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">rakne</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="V">gárganit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>resultatet er to deler</re>
             <t pos="V">rahtasit</t>
+             <xg>
+               <x>Sávdnji rahtasii.</x>
+               <xt>Sømmen raknet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21390,6 +21534,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">rahtat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">slanke seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">ruoidnadit</t>
          </tg>
       </mg>
    </e>
@@ -22274,7 +22428,20 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">čuodjat</t>
+             <xg>
+               <x>Jazz og joik klinger pent sammen.</x>
+               <xt>Jazz ja luohti čuodjaba čábbát ovttas.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="V">skillat</t>
+            <t pos="V">skilihit</t>
+             <xg>
+               <x>Bjellene klinger.</x>
+               <xt>Biellut skillet</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23156,6 +23323,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">vuollánit</t>
+            <t pos="V">duššástuvvat</t>
          </tg>
       </mg>
    </e>
@@ -23608,6 +23776,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">čagalduhttit</t>
+            <t pos="V">čagarduhttit</t>
          </tg>
       </mg>
    </e>
@@ -27564,6 +27733,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">lágastit</t>
+            <t pos="V">gearregastit</t>
          </tg>
       </mg>
    </e>
@@ -30629,6 +30799,46 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">saksbehandle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">áššemeannudit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vaksinere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">boahkuhit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">smiske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">njálggistit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">gestikulere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">láhttadit</t>
+         </tg>
+      </mg>
+   </e>
    <e src="fad">
       <lg>
          <l pos="V">kjede seg</l>
@@ -30636,6 +30846,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">láittastuvvat</t>
+            <t pos="V">dolkkástuvvat</t>
          </tg>
       </mg>
    </e>
@@ -30991,6 +31202,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">goallostit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>legge til lenke på internett</re>
+            <t pos="V">liŋket</t>
          </tg>
       </mg>
    </e>
@@ -34311,6 +34528,46 @@
              <x>Dette legemiddelet kan irritere urinblæra.</x>
              <xt>Dát dálkkas sáhttá eardudit gužžaráhku.</xt>
           </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ergre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">hárbmadit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">reduseres</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">uhccánit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sykemelde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">buohccindieđihit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">forkjæle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">uhcahastit</t>
          </tg>
       </mg>
    </e>
