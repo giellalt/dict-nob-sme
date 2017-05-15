@@ -690,7 +690,7 @@
          <re>bli nervøs</re>
             <t pos="V">jierásmuvvat</t>
             <xg>
-               <x>Ordføreren mener at det er viktig at de begynner å granske saken slik at folk ikke blir engstelige.</x>
+               <x>Ordføreren mener at det er viktig at de begynner å granske saken slik at folk ikke blir nervøse.</x>
                <xt>Sátnejođiheaddji mielas lea dehálaš ahte iskagohtet ášši vai olbmot eai jierásmuva.</xt>
             </xg>
          </tg>
@@ -2025,6 +2025,12 @@
          <tg xml:lang="sme">
             <t pos="A" src="fad">oanehaš</t>
             <t pos="A" src="fad">oatni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>bli kortere</re>
+            <t pos="V">oatnut</t>
          </tg>
       </mg>
    </e>
@@ -4284,7 +4290,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om runde gjenstander</re>
+            <re>om runde gjenstander eller dyr/mennesker</re>
             <t pos="A">gassat</t>
             <xg>
                <x>Lásse har en tykk stokk.</x>
@@ -4304,13 +4310,16 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>også om ting</re>
             <t pos="A">váfi</t>
+            <xg>
+               <x>Blant samer han man tidligere ansett som et bra merke at en kvinne er tykk, hun har nok mat og er frisk.</x>
+               <xt>Sámiid gaskkas lea ovdal adnon buorre mearkan go nisu lei buoidi, váfis nisu lea nana sámi nisu, sus lea doarvái biebmu ja lea dearvvas.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>bli tykk, om mennesker</re>
+            <re>bli tykk, om runde ting eller dyr/mennesker</re>
             <t pos="V">gassut</t>
          </tg>
       </mg>
@@ -8457,6 +8466,10 @@
          <tg xml:lang="sme">
             <re>tykk</re>
             <t pos="A" src="fad">váfi</t>
+            <xg>
+               <x>Blant samer han man tidligere ansett som et bra merke at en kvinne er frodig, hun har nok mat og er frisk.</x>
+               <xt>Sámiid gaskkas lea ovdal adnon buorre mearkan go nisu lei buoidi, váfis nisu lea nana sámi nisu, sus lea doarvái biebmu ja lea dearvvas.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10067,7 +10080,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>om flytende væske</re>
-            <t pos="A">suohkat</t>
+            <t pos="A" src="fad">suohkat</t>
          </tg>
       </mg>
       <mg>
@@ -10075,17 +10088,17 @@
             <re>om flate gjenstander</re>
             <t pos="A">assái</t>
             <xg>
-               <x>Hun har tjukk hud.</x>
-               <xt>Sus lea assás náhkki.</xt>
+               <x>Hun leser en tykk bok.</x>
+               <xt>Son lohká assás girjji.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om runde gjenstander</re>
+            <re>om runde gjenstander eller dyr/mennesker</re>
             <t pos="A">gassat</t>
             <xg>
-               <x>Lásse har en tjukk stokk.</x>
+               <x>Lásse har en tykk stokk.</x>
                <xt>Lásses lea gassa soabbi.</xt>
             </xg>
          </tg>
@@ -10095,7 +10108,7 @@
             <re>om runde ting</re>
             <t pos="Po">gasu</t>
             <xg>
-               <x>Tømmerstokkene er tjukke som et menneske.</x>
+               <x>Tømmerstokkene er tykke som et menneske.</x>
                <xt>Dimbarat leat olbmo gasu.</xt>
             </xg>
          </tg>
@@ -10103,6 +10116,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">váfi</t>
+            <xg>
+               <x>Blant samer han man tidligere ansett som et bra merke at en kvinne er tjukk, hun har nok mat og er frisk.</x>
+               <xt>Sámiid gaskkas lea ovdal adnon buorre mearkan go nisu lei buoidi, váfis nisu lea nana sámi nisu, sus lea doarvái biebmu ja lea dearvvas.</xt>
+             </xg>
+        </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli tykk, om runde ting eller dyr/mennesker</re>
+            <t pos="V">gassut</t>
          </tg>
       </mg>
    </e>
