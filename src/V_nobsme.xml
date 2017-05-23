@@ -3416,7 +3416,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv</re>
+            <re>transitiv: stoppe noe</re>
             <t pos="V" src="fad">bissehit</t>
             <xg>
                <x>Jeg stoppet den.</x>
@@ -3451,7 +3451,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>stoppe opp litt</re>
+            <re>intransitiv, stoppe opp litt</re>
             <t pos="V">bisánastit</t>
          </tg>
       </mg>
@@ -3492,7 +3492,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>være i brann</re>
+            <re>intransitiv</re>
             <t pos="V" src="fad">buollit</t>
             <xg>
                <x>Ilden brenner.</x>
@@ -3502,7 +3502,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>brenne noe</re>
+            <re>transitiv: brenne noe</re>
             <t pos="V" src="fad">boaldit</t>
             <xg>
                <x>Jeg brenner gamle papirer.</x>
@@ -4322,20 +4322,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>fjerne med klut, gjøre tørr</re>
-            <t pos="V">sihkkut</t>
-            <xg>
-               <x>Jeg tørker av bordet.</x>
-               <xt>Mun sihkun beavddi.</xt>
-            </xg>
-            <xg>
-               <x>Barnet tørket tårene.</x>
-               <xt>Mánná sihkui gatnjaliid.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>bli tørr</re>
             <t pos="V">goikat</t>
             <xg>
@@ -4356,11 +4342,69 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>en gang</re>
+            <re>tørke bort noe</re>
+            <t pos="V">sihkkut</t>
+            <xg>
+               <x>Jeg tørker av bordet.</x>
+               <xt>Mun sihkun beavddi.</xt>
+            </xg>
+            <xg>
+               <x>Barnet tørket tårene.</x>
+               <xt>Mánná sihkui gatnjaliid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>tørke bort noe bare en gang</re>
             <t pos="V">sihkastit</t>
             <xg>
                <x>Etter måltidet må man rydde og tørke av bordet.</x>
                <xt>Boradeami maŋŋel ferte čorget ja beavddi sihkastit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bokne</re>
+            <t pos="V">boahkkut</t>
+            <xg>
+               <x>Fisk og kjøtt tørker litt.</x>
+               <xt>Guolli ja biergu boahkku.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bokne litt</re>
+            <t pos="V">boahkkudit</t>
+            <xg>
+               <x>Tørke fisk og kjøtt litt.</x>
+               <xt>Guoli ja bierggu boahkkudit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">bokne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">boahkkut</t>
+            <xg>
+               <x>Fisk og kjøtt bokner.</x>
+               <xt>Guolli ja biergu boahkku.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bokne noe</re>
+            <t pos="V">boahkkudit</t>
+            <xg>
+               <x>Bokne fisk og kjøtt.</x>
+               <xt>Guoli ja bierggu boahkkudit.</xt>
             </xg>
          </tg>
       </mg>
@@ -4519,7 +4563,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-         <re>lukte noe</re>
+         <re>transitiv: lukte noe</re>
             <t pos="V" src="fad">haksit</t>
             <xg>
                <x>Jeg lukter roser.</x>
@@ -4529,7 +4573,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-          <re>intransitivt</re>
+          <re>intransitiv</re>
            <t pos="V">haksot</t>
             <xg>
                <x>Dessuten luktet det en god lukt av brevet.</x>
@@ -4539,7 +4583,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-          <re>lukte stygt</re>
+          <re>intransitiv: lukte stygt</re>
            <t pos="V">háisut</t>
             <xg>
                <x>Disse skoene lukter.</x>
@@ -5288,7 +5332,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv; bøye noe</re>
+            <re>transitiv: bøye noe</re>
             <t pos="V" src="fad">sojahit</t>
          </tg>
       </mg>
@@ -6016,7 +6060,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv</re>
+            <re>transitiv: smelte noe</re>
             <t pos="V" src="fad">suddadit</t>
          </tg>
       </mg>
@@ -6041,7 +6085,7 @@
     </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv</re>
+            <re>transitiv: smelte noe</re>
             <t pos="V">šolget</t>
          </tg>
       </mg>
@@ -13093,7 +13137,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>i små dråper</re>
+            <re>intransitiv, i små dråper</re>
             <t pos="V">riššat</t>
          </tg>
       </mg>
@@ -13109,21 +13153,11 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>sprute vann med vilje</re>
+            <re>transitiv: sprute noe</re>
             <t pos="V">cirgguhit</t>
             <xg>
                <x>På flyplassen spruter arbeideren på glykol, for å hindre flydelene fra å fryse.</x>
                <xt>Girdingiettis bargi cirgguha glykola, vai eastá girdi osiid jiekŋumis.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>fosse eller bruse</re>
-            <t pos="V">boršut</t>
-            <xg>
-               <x>De to begynte å bli redde da vannet begynte å fosse over framenden.</x>
-               <xt>Soai ballagođiiga go čáhci boršugođii ovdageaži badjel.</xt>
             </xg>
          </tg>
       </mg>
@@ -14182,13 +14216,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>intransitiv</re>
             <t pos="V">bissut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv</re>
             <t pos="V">healbat</t>
             <xg>
                <x>Hun ble værende der.</x>
@@ -14277,31 +14309,6 @@
          <tg xml:lang="sme">
             <re>mindre vanlig; flire på en ubehagelig måte og stille</re>
             <t pos="V">nilkkistit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tørke litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>bokne</re>
-            <t pos="V">boahkkut</t>
-            <xg>
-               <x>Fisk og kjøtt tørker litt.</x>
-               <xt>Guolli ja biergu boahkku.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>tørke litt</re>
-            <t pos="V">boahkkudit</t>
-            <xg>
-               <x>Tørke fisk og kjøtt litt.</x>
-               <xt>Guoli ja bierggu boahkkudit.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -17794,7 +17801,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>intransitiv, ting som står</re>
+            <re>intransitiv, om ting som står</re>
             <t pos="V">gahččat</t>
             <xg>
                <x>Stolpen velter.</x>
@@ -17804,7 +17811,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv, om ting som står</re>
+            <re>transitiv: velte ting som står</re>
             <t pos="V">njeaidit</t>
             <xg>
                <x>Jeg velter stolpen.</x>
@@ -17814,7 +17821,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv, ting med innhold</re>
+            <re>transitiv: velte ting med innhold</re>
             <t pos="V">gomihit</t>
             <xg>
                <x>Jeg velter koppen.</x>
@@ -17828,7 +17835,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>intransitiv, ting med innhold</re>
+            <re>intransitiv, om ting med innhold</re>
             <t pos="V">gopmánit</t>
             <xg>
                <x>Stolen velter.</x>
@@ -19131,7 +19138,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>sette i bevegelse</re>
+            <re>transitiv: dreie noe</re>
             <t pos="V">jorahit</t>
          </tg>
       </mg>
@@ -21924,14 +21931,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv: skrape, skubbe</re>
-            <t pos="V">ruohkkat</t>
+            <re>intransitiv</re>
+            <t pos="V">sakŋidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>intransitiv</re>
-            <t pos="V">sakŋidit</t>
+            <re>transitiv: klø noe</re>
+            <t pos="V">ruohkkat</t>
          </tg>
       </mg>
    </e>
@@ -22263,7 +22270,7 @@
       </mg>
     <mg>
       <tg xml:lang="sme">
-         <re>få noe til å tine</re>
+         <re>transitiv: få noe til å tine</re>
         <t pos="V">suddadit</t>
             <xg>
                <x>Jeg tiner snøen mellom hendene.</x>
@@ -22273,7 +22280,7 @@
     </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>intransitiv: om isbelegg</re>
+            <re>intransitiv, om isbelegg</re>
             <t pos="V">salgat</t>
             <xg>
                <x>Isen tiner av kaffekjelen.</x>
@@ -22283,13 +22290,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>intransitiv: om fisk og kjøtt</re>
+            <re>intransitiv, om fisk og kjøtt</re>
             <t pos="V">máizat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv: om fisk og kjøtt</re>
+            <re>transitiv, om fisk og kjøtt</re>
             <t pos="V">máizadit</t>
          </tg>
       </mg>
@@ -22733,7 +22740,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv; sikle på, sleve til</re>
+            <re>transitiv: sikle til noe</re>
             <t pos="V">soalssidit</t>
          </tg>
       </mg>
@@ -25920,7 +25927,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv</re>
+            <re>transitiv: klø noe</re>
             <t pos="V">ruohkastit</t>
          </tg>
       </mg>
@@ -26061,7 +26068,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv</re>
+            <re>transitiv: koke noe</re>
             <t pos="V">vuoššastit</t>
          </tg>
       </mg>
@@ -26442,7 +26449,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv</re>
             <t pos="V">bivdit</t>
             <xg>
                <x>Men med posegarnstengsel blei det fiska laks langs heile Tana.</x>
@@ -28674,7 +28680,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv</re>
+            <re>transitiv: hvelve noe</re>
             <t pos="V">gomihit</t>
          </tg>
       </mg>
