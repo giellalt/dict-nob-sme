@@ -3532,7 +3532,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>røyk av bål</re>
+            <re>røyke over bål</re>
             <t pos="V" src="fad">suovastit</t>
             <xg>
                <x>Man røyker kjøtt og fisk.</x>
@@ -4005,8 +4005,32 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>få til å koke</re>
+         <re>transitivt: å få noe til å koke</re>
             <t pos="V">duolddahit</t>
+            <xg>
+               <x>I gamle dager kokte de surmelk veldig lenge, til den minket i gryta og blei brun.</x>
+               <xt>Dološ áigge duolddahedje bimi hui guhká, dassá go coagui ja ruškkodii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>intransitivt: noe koker opp</re>
+            <t pos="V">duldet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>transitivt: få noe til å koke opp, eller koke kort tid</re>
+            <t pos="V">duldehit</t>
+            <xg>
+               <x>Mor, kan du koke kakao?</x>
+               <xt>Eadni, sáhtát go duldehit kakao?</xt>
+            </xg>
+            <xg>
+               <x>Hans påstand fikk blodet vårt til å koke.</x>
+               <xt>Su čuoččuhus	duldehii min vara.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11375,12 +11399,27 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>løfte</re>
+            <re>transitivt: å heve noe</re>
             <t pos="V" src="fad">bajidit</t>
             <t pos="V" src="fad">loktet</t>
             <xg>
                <x>Mor trenger da ikke heve stemmen.</x>
                <xt>Eadni ii dárbbaš gal jiena bajidit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>intransitivt: noe heves</re>
+            <t pos="V">badjánit</t> 
+            <t pos="V">geavvat</t>  
+            <xg>
+               <x>Deigen hadde ikke hevet ordentlig eller Risten hadde ikke latt brødene steike nok.</x>
+               <xt>Dáigi ii lean leamaš albmaláhka i badjánan dahje Risten ii lean diktán doarvái goikat daid láibbiid.</xt>
+            </xg>
+            <xg>
+               <x>Han må tilsette mer gjær slik at deigen begynner å heve.</x>
+               <xt>Son ferte bidjat eanet jeastta vai dáigi geavvagoahtá.</xt>
             </xg>
          </tg>
       </mg>
@@ -13778,25 +13817,49 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>i bål</re>
+            <re>transitivt: steike noe i bål</re>
             <t pos="V">bassit</t>
+            <xg>
+               <x>De to koker kaffe og stiker pølser.</x>
+               <xt>Soai vuoššaba káfe ja bassiba márffiid.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>varme i sterk varme av bål eller i sola</re>
-            <t pos="V">goardit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>i steikepanne</re>
+            <re>transitivt: steike noe i steikepanne</re>
             <t pos="V">steiket</t>
             <t pos="V">báistit</t>
             <xg>
                <x>Bestemor steker pannekaker i pannen.</x>
                <xt>Áhkku báistá bánnegáhkuid bánnos.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>transitivt: steike bakverk</re>
+            <t pos="V">goikadit</t>
+            <xg>
+               <x>I ovnen stekte de brød.</x>
+               <xt>Oapmanis	goikadedje láibbiid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>intransitivt: noe steiker i ovn</re>
+            <t pos="V">goikat</t>
+            <xg>
+               <x>Deigen hadde ikke hevet ordentlig eller Risten hadde ikke latt brødene steike nok.</x>
+               <xt>Dáigi ii lean leamaš albmaláhka i badjánan dahje Risten ii lean diktán doarvái goikat daid láibbiid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>transitivt: varme fra bål eller sola steiker</re>
+            <t pos="V">goardit</t>
          </tg>
       </mg>
    </e>
@@ -17735,16 +17798,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">gohččut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">steke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">goikadit</t>
          </tg>
       </mg>
    </e>
@@ -29387,17 +29440,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">áktet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">koke opp</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">duldet</t>
-            <t pos="V">duldehit</t>
          </tg>
       </mg>
    </e>
