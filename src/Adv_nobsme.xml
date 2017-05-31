@@ -2337,12 +2337,16 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">løst</l>
+         <l pos="Adv">løs</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">loažža</t>
             <t pos="Adv">bođuid</t>
+            <xg>
+               <x>Også bamser må man remme fast, og ikke la dem være løse i bilen.</x>
+               <xt>Litnaguovžžaid maid ferte garcut gitta, iige diktit bođuid leat biillas.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2402,9 +2406,7 @@
          <tg xml:lang="sme">
             <t pos="Adv">dakkaviđe</t>
             <t pos="Adv">dakka</t>
-            <t pos="Adv">dalán</t>
             <t pos="Adv">dallánaga</t>
-            <t pos="Adv">dalánaga</t>
             <xg>
                <x>Kom inn straks!</x>
                <xt>Boađe sisa dakkaviđe!</xt>
@@ -2543,6 +2545,10 @@
          <tg xml:lang="sme">
          <re>til da</re>
             <t pos="Adv">dassážii</t>
+            <xg>
+               <x>Og det er enda ti måneder til da.</x>
+               <xt>Ja lea vel logi mánu dassážii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2726,6 +2732,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">duojásii</t>
+            <xg>
+               <x>Hun understreker at barn ikke skal behøve å se slike bilder ustanselig og at man kan slå av TVen når barna er i nærheten.</x>
+               <xt>Son deattuha ahte mánát eai galgga dárbbašit oaidnit dakkár govaid duojásii ja ahte olmmoš sáhttá jáddadit TV go mánát leat lahkosis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2786,7 +2796,6 @@
          <tg xml:lang="sme">
          <re>nært i tid</re>
             <t pos="Adv">easkka</t>
-            <t pos="Adv">easka</t>
             <xg>
                <x>Vi to har nylig kommet.</x>
                <xt>Moai letne easka boahtán.</xt>
@@ -2853,7 +2862,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">fargga</t>
-            <t pos="Adv">farga</t>
             <t pos="Adv">hoahpus</t>
          </tg>
       </mg>
@@ -2922,7 +2930,6 @@
          <tg xml:lang="sme">
             <t pos="Adv">fas</t>
             <t pos="Adv">vuot</t>
-            <t pos="Adv">ohpit</t>
             <xg>
                <x>Så begynte det igjen.</x>
                <xt>De fas álggii.</xt>
@@ -2940,6 +2947,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">ohpit</t>
+            <xg>
+               <x>Det er et problem som er kommet igjen og igjen.</x>
+               <xt>Dat lea čuolbma mii lea boahtán ohpit ahte ohpit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2965,7 +2976,7 @@
          <tg xml:lang="sme">
             <t pos="Adv">ii goassege</t>
             <xg>
-               <x>Hun kommer ldri.</x>
+               <x>Hun kommer aldri.</x>
                <xt>Son ii boađe goassege.</xt>
             </xg>
          </tg>
@@ -3118,7 +3129,6 @@
          <tg xml:lang="sme">
             <t pos="Adv">masá</t>
             <t pos="Adv">illá</t>
-            <t pos="Adv">ille</t>
          </tg>
       </mg>
    </e>
@@ -3149,7 +3159,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">jitnosit</t>
-            <t pos="Adv">jitnosii</t>
          </tg>
       </mg>
    </e>
@@ -3336,10 +3345,20 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">ovdan</t>
-            <t pos="Adv">ovddos</t>
             <xg>
                <x>I svenske jordebøker fra årene 1738-1741 kommer det fram at privat eie av jord var vanlig i hele Finnmark.</x>
                <xt>Ruoŧa eanagirjjiin jagiin 1738-1741 boahtá ovdan ahte priváhta eananoamasteapmi lei dábálaš olles Finnmárkkus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">ovddas</t>
+            <t pos="Adv">ovddos</t>
+            <re>om bevegelse</re>
+            <xg>
+               <x>Huskene gikk fram og tilbake.</x>
+               <xt>Suhkosat	manne ovddas maŋos.</xt>
             </xg>
             <xg>
                <x>Det var så glatt at hver gang jeg tok et skritt fram, gled jeg to tilbake.</x>
@@ -3347,6 +3366,39 @@
             </xg>
             <xg>
                <x>Ovllá kjørte bilen fram og tilbake flere ganger før han fikk den plassert midt i mellom strekene.</x>
+               <xt>Ovllá vujii máŋgii ovddos maŋos biillain ovdal go deaivvai njuolga sázuid gaskii.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">frem</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">ovdan</t>
+            <xg>
+               <x>I svenske jordebøker fra årene 1738-1741 kommer det frem at privat eie av jord var vanlig i hele Finnmark.</x>
+               <xt>Ruoŧa eanagirjjiin jagiin 1738-1741 boahtá ovdan ahte priváhta eananoamasteapmi lei dábálaš olles Finnmárkkus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">ovddas</t>
+            <t pos="Adv">ovddos</t>
+            <re>om bevegelse</re>
+            <xg>
+               <x>Huskene gikk frem og tilbake.</x>
+               <xt>Suhkosat	manne ovddas maŋos.</xt>
+            </xg>
+            <xg>
+               <x>Det var så glatt at hver gang jeg tok et skritt frem, gled jeg to tilbake.</x>
+               <xt>Lei nu njalkkas ahte juohke háve go lávkejin ovtta lávkki ovddos, de čessen guokte maŋos.</xt>
+            </xg>
+            <xg>
+               <x>Ovllá kjørte bilen frem og tilbake flere ganger før han fikk den plassert midt i mellom strekene.</x>
                <xt>Ovllá vujii máŋgii ovddos maŋos biillain ovdal go deaivvai njuolga sázuid gaskii.</xt>
             </xg>
          </tg>
@@ -3362,8 +3414,6 @@
             <t pos="Adv">ná</t>
             <t pos="Pcle">na</t>
             <t pos="Adv">nie</t>
-            <t pos="Adv">nuvt</t>
-            <t pos="Adv">lágan</t>
             <xg>
                <x>Heaika hadde slått kneet sitt slik at han haltet i flere dager.</x>
                <xt>Heaika lei bávččagahttán čippi, nu ahte skierpmui máŋga beaivve.</xt>
@@ -4241,11 +4291,15 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">oppned</l>
+         <l pos="Adv">opp ned</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">vulos oivviid</t>
+            <xg>
+               <x>Kunstneren har snudd kartet opp ned og tegnet den fra nord mot sør.</x>
+               <xt>Dáiddár lea jorgalan kártta vulos oivviid ja tevdnen dan davil máttás.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4377,6 +4431,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Po">bajábeallai</t>
+            <xg>
+               <x>Båten stopper ovenfor stryket.</x>
+               <xt>Fanas bisána guoikka bajábeallai.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4447,8 +4505,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="Adv">goassege</t>
             <t pos="Adv">agibeaivvis</t>
-            <t pos="Adv">agibeaivves</t>
+            <xg>
+               <x>Jeg har ikke noen gang slått på trommer.</x>
+               <xt>In leat agibeaivvis dearpan rumbbuid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4459,21 +4521,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">goassege</t>
-            <t pos="Adv">goasse</t>
             <t pos="Adv">agibeaivvis</t>
-            <t pos="Adv">agibeaivves</t>
             <xg>
                <x>Har du noensinne vært der?</x>
                <xt>Leat go goassege leamaš doppe?</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">goassige</t>
-            <xg>
-               <x>Har du noensinne vært der?</x>
-               <xt>Leat go goassige leamaš doppe?</xt>
             </xg>
          </tg>
       </mg>
@@ -4498,7 +4549,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">maŋemus</t>
+            <t pos="Adv">maŋimus</t>
+            <xg>
+               <x>Helt til sist modner tyttebær.</x>
+               <xt>Buot maŋimus laddet joŋat.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -4519,16 +4574,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">dušše</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">frem</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">ovddas</t>
          </tg>
       </mg>
    </e>

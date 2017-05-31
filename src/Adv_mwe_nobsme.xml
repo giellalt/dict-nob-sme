@@ -2,6 +2,20 @@
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/nobsme.dtd">
 <r id="nobsme" xml:lang="nob">
+   <e>
+      <lg>
+         <l pos="Adv">i vegen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">ovddas</t>
+            <xg>
+               <x>Hun høre ikke, og så heller ikke lenger, tankene var i vegen	.</x>
+               <xt>Son ii gullan, ii ge oaidnán šat, jurdagat ledje ovddas.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="fad">
       <lg>
          <l pos="Adv">føre var</l>
@@ -194,8 +208,16 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">čeabetbirra</t>
-            <t pos="Adv">birračeabeha</t>
+            <t pos="Adv">čeabeha birra</t>
+            <t pos="Adv">birra čeabeha</t>
+            <xg>
+               <x>Kátjá sprang og holdt henne rundt halsen og ropte gråtende: — Bestemor!</x>
+               <xt>Kátjá viegai ja dollii su čeabeha birra ja čurvii bárgumiin: — Áhkku!</xt>
+            </xg>
+            <xg>
+               <x>Far tok meg rundt halsen og sa at verden noen ganger kan kjennes urettferdig.</x>
+               <xt>Áhčči válddii mu birra čeabeha ja logai ahte máilbmi sáhttá muhtomin dovdot eahpevuoigadin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -221,10 +243,7 @@
          <tg xml:lang="sme">
             <t pos="Adv">dakkaviđe</t>
             <t pos="Adv">ovttatmano</t>
-            <t pos="Adv">dalán</t>
             <t pos="Adv">dallánaga</t>
-            <t pos="Adv">dalánaga</t>
-            <t pos="Adv">ovttatmanu</t>
             <xg>
                <x>Kom inn med en gang!</x>
                <xt>Boađe sisa dakkaviđe!</xt>
@@ -232,10 +251,6 @@
             <xg>
                <x>De sender melding med en gang.</x>
                <xt>Sii sáddejit dieđu ovttatmano.</xt>
-            </xg>
-            <xg>
-               <x>De sender melding med en gang.</x>
-               <xt>Sii sáddejit dieđu ovttatmanu.</xt>
             </xg>
          </tg>
       </mg>
@@ -317,6 +332,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">áiggil</t>
+            <xg>
+               <x>Hvis hun kommer i tide, så tar jeg henne med når jeg kommer til dere.</x>
+               <xt>Jos son boahtá áiggil, de válddán su mielde go boađán din lusa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -329,7 +348,6 @@
             <t pos="Adv">oktii</t>
             <t pos="Adv">okte</t>
             <t pos="Adv">geardde</t>
-            <t pos="Adv">aktii</t>
             <xg>
                <x>Det var en gang slik.</x>
                <xt>Dat lei geardde nu.</xt>
@@ -345,7 +363,6 @@
          <tg xml:lang="sme">
             <t pos="Adv">vitnjut</t>
             <t pos="Adv">állut</t>
-            <t pos="Adv">hállut</t>
          </tg>
       </mg>
    </e>
@@ -366,6 +383,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">báikkohagaid</t>
+            <xg>
+               <x>Nå er det her og der over to meter snø.</x>
+               <xt>Dál lea báikkohagaid badjel guokte mehtera muohta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
