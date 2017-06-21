@@ -21,7 +21,7 @@ while (<>)
 	my ($lemma, $POS, $trans) = split /\t/ ;
 #	my ($lemma, $POS, $trans, $trans2) = split /\t/ ;
 #	my ($lemma, $POS, $trans, $trans2, $trans3) = split /\t/ ;
-	print STDOUT "   <e usage=\"vd\">\n";
+	print STDOUT "   <e>\n";
 	print STDOUT "      <lg>\n";
 	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
 	print STDOUT "      </lg>\n";
@@ -45,7 +45,7 @@ print STDOUT "</r>\n";
 
 # Output
 # <r>
-#    <e usage="vd">
+#    <e>
 #       <lg>
 #          <l pos="N">null</l>
 #       </lg>
