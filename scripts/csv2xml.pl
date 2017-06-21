@@ -40,27 +40,21 @@ print STDOUT "</r>\n";
 
 
 
-# Example input (_ instead of <tab>):
-#
-# се̄ййп_N_ANIMAL_хвост длинный, длинный хвост
-# кӣдтжэва_N_ANIMAL, LIVING-PLACE_животное домашнее, домашнее животное
-# оа̄к_N_ANIMAL_лосиха
+# Example input:
+# null	N	nolla
+
+# Output
+# <r>
+#    <e usage="vd">
+#       <lg>
+#          <l pos="N">null</l>
+#       </lg>
+#       <mg>
+#          <tg>
+#             <t pos="N">nolla</t>
+#          </tg>
+#       </mg>
+#    </e>
+# </r>
 
 
-#Target output:
-#
-#  <e>
-#    <l>на̄ввьт</l>
-#    <pos class="N"/>
-#    <t>
-#      <tr xml:lang="rus">животное домашнее</tr>
-#      <tr xml:lang="rus">домашнее животное</tr>
-#    </t>
-#    <semantics>
-#      <sem class="ANIMAL"/>
-#      <sem class="LIVING-PLACE"/>
-#    </semantics>
-#    <sources>
-#      <book name="l1"/>
-#    </sources>
-#  </e>
