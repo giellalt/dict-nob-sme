@@ -22,7 +22,7 @@ while (<>)
 	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
 	print STDOUT "      </lg>\n";
 	print STDOUT "      <mg>\n";
-	print STDOUT "         <tg>\n";
+	print STDOUT "         <tg xml:lang=\"sme\">\n";
 	print STDOUT "            <re>$res</re>\n";
 	print STDOUT "            <t pos=\"$POS\">$trans</t>\n";
 	print STDOUT "            <xg>\n";
