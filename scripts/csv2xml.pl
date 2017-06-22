@@ -18,7 +18,7 @@ print STDOUT "<r>\n";
 while (<>) 
 {
 	chomp ;
-	my ($lemma, $POS, $trans) = split /\t/ ;
+	my ($lemma, $POS, $res, $trans, $ex, $tex) = split /_/ ;
 #	my ($lemma, $POS, $trans, $trans2) = split /\t/ ;
 #	my ($lemma, $POS, $trans, $trans2, $trans3) = split /\t/ ;
 	print STDOUT "   <e>\n";
@@ -26,10 +26,15 @@ while (<>)
 	print STDOUT "         <l pos=\"$POS\">$lemma</l>\n";
 	print STDOUT "      </lg>\n";
 	print STDOUT "      <mg>\n";
-	print STDOUT "         <tg>\n";
+	print STDOUT "         <tg xml:lang=\"sme\">\n";
+	print STDOUT "            <re>$res</re>\n";
 	print STDOUT "            <t pos=\"$POS\">$trans</t>\n";
 #	print STDOUT "            <t pos=\"$POS\">$trans2</t>\n";
 #	print STDOUT "            <t pos=\"$POS\">$trans3</t>\n";
+	print STDOUT "            <xg>\n";
+	print STDOUT "               <x>$ex</x>\n";
+	print STDOUT "               <xt>$tex</xt>\n";
+	print STDOUT "            </xg>\n";
 	print STDOUT "         </tg>\n";
 	print STDOUT "      </mg>\n";
 	print STDOUT "   </e>\n";
@@ -41,7 +46,7 @@ print STDOUT "</r>\n";
 
 
 # Example input:
-# null	N	nolla
+# null_N_om tall_nolla
 
 # Output
 # <r>
@@ -50,7 +55,8 @@ print STDOUT "</r>\n";
 #          <l pos="N">null</l>
 #       </lg>
 #       <mg>
-#          <tg>
+#          <tg xml:lang="sme">
+#          <re>om tall</re>
 #             <t pos="N">nolla</t>
 #          </tg>
 #       </mg>

@@ -49,7 +49,7 @@ print STDOUT "</r>\n";
 #         <l pos="A">opptatt</l>
 #      </lg>
 #      <mg>
-#         <tg>
+#         <tg xml:lang="sme">
 #            <re>(ikke ledig)</re>   <====== you can remove ( ) afterwards
 #            <t pos="A">várrejuvvon</t>
 #            <xg>
