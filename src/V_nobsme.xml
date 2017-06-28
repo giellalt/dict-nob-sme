@@ -4,41 +4,6 @@
 <r id="nobsme" xml:lang="nob">
    <e>
       <lg>
-         <l pos="V">late</l>      
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-         <re>late som</re>
-         <t pos="V">dahkaluddat</t>	
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vedrøre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">guoskat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">videreutvikle</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">ovddidit</t>
-            <xg>
-               <x>Dette må man ivareta og videreutvikle videre fremover.</x>
-               <xt>Dán ferte bisuhit ja ovddidit das ovddasguvlui.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">fly</l>
       </lg>
       <mg>
@@ -2240,17 +2205,7 @@
             <t pos="V" src="fad">refereret</t>
          </tg>
       </mg>
-     <mg>
-         <tg xml:lang="sme">
-         <re>referere til</re>
-            <t pos="V">čujuhit</t>
-            <xg>
-               <x>Kapitlet refererer også til noen utvalgte enkeltstudier.</x>
-               <xt>Kapihtal čujuha maiddái soames ovttaskas iskkademiide.</xt>
-            </xg>
-           </tg>
-      </mg>
- </e>
+   </e>
    <e>
       <lg>
          <l pos="V">respektere</l>
@@ -7974,10 +7929,6 @@
          <tg xml:lang="sme">
             <re>øve innflytelse på</re>
             <t pos="V" src="fad">váikkuhit</t>
-            <xg>
-               <x>Hvordan påvirker dette ungdom?</x>
-               <xt>Mo dát váikkuha nuoraide?</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -9432,40 +9383,9 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitivt: å fortsette noe</re>
-            <t pos="V">joatkit</t>
-            <xg>
-               <x>De to bare smiler, vinker til takk og fortsetter reisa.</x>
-               <xt>Soai dušše moddjesteaba, seavviba giittusin ja joatkiba mátkki.</xt>
-            </xg>
-            <xg>
-               <x>Det er noe som gjør at man må fortsette å lese, og etterhvert blir leseren hektet av fortellinga.</x>
-               <xt>Das lea juoga mii dagaha ahte ferte joatkit lohkama, ja dađistaga lohkki fáhtehallá muitalussii.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>intransitivt: noe fortsetter</re>
+            <re>forbli, vedvare</re>
             <t pos="V" src="fad">joatkit</t>
-            <xg>
-               <x>Stien fortsetter nordover.</x>
-               <xt>Bálggis joatká davás.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>intransitivt: noe fortsetter uendret</re>
             <t pos="V" src="fad">bissut</t>
-            <xg>
-               <x>Størrelsen av støtta har fortsatt på samme nivå siden 1993.</x>
-               <xt>Doarjaga sturrodat leat bisson seamma dásis 1993 rájes.</xt>
-            </xg>
-            <xg>
-               <x>Dette er viktig for urfolks utvikling og fortsatte eksistens som folk.</x>
-               <xt>Dát lea deaŧalaš eamiálbmogiid ovdáneapmái ja bissumii álbmogin.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -15324,35 +15244,21 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>gnage kjøtt av beinet</re>
+            <t pos="V">sohpat</t>
+            <xg>
+               <x>Son láve sohpat dávttiid albma láhkai go lea boradeamen.</x>
+               <xt>Han bruker å gnage beina grundig når han spiser.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
          <re>transitivt</re>
             <t pos="V">gahkit</t>
             <xg>
                <x>Skoen gnager foten.</x>
                <xt>Gáma gahká juolggi.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-         <re>intransitivt: gnages</re>
-            <t pos="V">skohpalastit</t>
-            <xg>
-               <x>Store raggsokker kan gjøre slik at foten får gnagsår.</x>
-               <xt>Stuora lurvesuohkut sáhttet dahkat nu ahte juolgi skohpalaste.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vrenge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">jorgut</t>
-            <xg>
-               <x>De diskuterer om det er riktig å vrenge kofta.</x>
-               <xt>Sii digaštallet leago riekta gávtti jorgut.</xt>
             </xg>
          </tg>
       </mg>
@@ -22986,16 +22892,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gnage kjøtt av beinet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">sohpat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">vase sammen</l>
       </lg>
       <mg>
@@ -23603,10 +23499,6 @@
          <tg xml:lang="sme">
             <t pos="V">vuollánit</t>
             <t pos="V">duššástuvvat</t>
-            <xg>
-               <x>Mannen sier han har resignert og vurderer å arrangere kurs i en annen kommune.</x>
-               <xt>Dievdu lohká iežas duššástuvvan ja árvvoštallá kurssa lágidit eará gielddas.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -26582,7 +26474,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>la gå gjennom sikt</re>
+            <re>la gå igjennom sikt</re>
             <t pos="V">sevlet</t>
          </tg>
       </mg>
