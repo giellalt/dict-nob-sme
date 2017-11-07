@@ -9,10 +9,36 @@
 
   <!-- The natural language name(s) for the dictionary -->
   <name xml:lang="no">Norsk-nordsamisk ordbok</name>
-  <name xml:lang="swe">Norsk-nordsamisk ordbok</name>
+  <name xml:lang="se">Dáru-davvisámi sátnegirji</name>
+  <name xml:lang="sma">Daaroen-Noerhtesaemien baakoegærja</name>
+  <name xml:lang="smj">Dárro-nuorttasáme báhkogirjje</name>
 
   <!-- Whether the dictionary should be publicly visible or not: -->
   <public>yes</public>
+
+  <!-- License and copyright: -->
+  <license>Uspesifisert</license>
+  <copyright>Uspesifisert</copyright>
+
+  <!-- Short, free description -->
+  <description xml:lang="no">
+    <p>Ordboka er utvikla av Giellatekno og Divvun ved UiT Norges arktiske
+    universitet, og er basert på Nordsamisk-norsk ordbok.</p>
+  </description>
+  
+  <description xml:lang="se">
+    <p>Sátnegirjji leat Giellatekno ja Divvun buvttadan UiT Norgga árktalaš
+    universitehtas ja dat vuođđuduvva Davvisámi-dáru sátnegirjái.</p>
+  </description>
+  
+  <description xml:lang="sma">
+    <p>Giellatekno jïh Divvun Norgga árktalaš univeristehtesne lea dam baakoegærjam dorjeme! Noerhtesaemien-daaroen baakoegærja lij jarngense daeenie barkosne.</p>
+  </description>
+  
+    <description xml:lang="smj">
+    <p>Báhkogirjje l åvddånahtedum Giellateknos ja Divvunis Vuona arktalasj Universitehtan, Nuorttasáme-dárro báhkogirjje l vuodon dán bargguj.</p>
+  </description>
+
 
   <!-- List of languages supported by the dictionary. -->
   <!-- Each language is identified with ISO 639-2 three-letter codes. -->
