@@ -11,4 +11,4 @@ term.fst: term.lexc
 	rm -f f-fst-script
 
 clean:
-        @rm -f term.fst
+	@rm -f term.fst
