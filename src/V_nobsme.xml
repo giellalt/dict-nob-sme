@@ -2520,14 +2520,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>transitivt: gjemme noe</re>
             <t pos="V">čiehkat</t>
-            <t pos="V" src="fad">čiegadit</t>
+            <xg>
+               <x>De har gjemt sølv og penger under jorda.</x>
+               <xt>Sii leat čiehkan silbbaid ja ruđaid eatnamiid sisa.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>gjemme seg</re>
+            <re>intransitivt: gjemme seg</re>
             <t pos="V" src="fad">čiehkádit</t>
+            <xg>
+               <x>Rypene har gjemt seg under snåøen for å vente på morgendagen.</x>
+               <xt>Rievssahat leat muohttaga vuollái čiehkádan vuordit ihttáža.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -30525,8 +30533,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">čiehkat</t>
-            <t pos="V">čiegadit</t>
+	         <re>transitivt: skjule noe</re>
+            <t pos="V" >čiegadit</t>
+            <xg>
+               <x>Mange samer har skjult at de er samer.</x>
+               <xt>Ollu sámit leat čiegadan ahte sii leat sámit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
