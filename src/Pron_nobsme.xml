@@ -6,7 +6,7 @@
       <lg>
          <l pos="Pron" type="Indef">ingen</l>
       </lg>
-       <mg>
+      <mg>
          <tg xml:lang="sme">
             <t pos="phrase">ii oktage</t>
             <xg>
@@ -19,9 +19,9 @@
             </xg>
          </tg>
       </mg>
-       <mg>
+      <mg>
          <tg xml:lang="sme">
-         <re>om personer</re>
+            <re>om personer</re>
             <t pos="phrase">ii giige</t>
             <xg>
                <x>Vår livssituasjon blir ikke bedre hvis ingen gidder å arbeide noe.</x>
@@ -29,19 +29,19 @@
             </xg>
          </tg>
       </mg>
-       <mg>
+      <mg>
          <tg xml:lang="sme">
-          <re>ingen av flere muligheter</re>
-           <t pos="phrase">ii guhtege</t>
+            <re>ingen av flere muligheter</re>
+            <t pos="phrase">ii guhtege</t>
             <xg>
                <x>Heldigvis så ble ingen alvorlig skadd.</x>
                <xt>Lihkus ii guhtege bahuid roasmmohuvvan.</xt>
             </xg>
          </tg>
       </mg>
-     <mg>
+      <mg>
          <tg xml:lang="sme">
-         <re>ingen av to muligheter</re>
+            <re>ingen av to muligheter</re>
             <t pos="phrase">ii goabbáge</t>
             <xg>
                <x>Ingen av de to hadde lenger krefter til å slåss.</x>
@@ -57,13 +57,15 @@
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="omtopersoner">om to personer</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="omflerepersoner">om flere enn to personer</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
    </e>
@@ -74,31 +76,36 @@
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="2hverandrelok">fra hverandre (lokativ)</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="2hverandreill">til hverandre (illativ)</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="2hverandreess">som hverandre (essiv)</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="2hverandreakkgen">hverandre (akkusativ-genitiv)</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="2hverandrekom">med hverandre (komitativ eller adverb)</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
    </e>
@@ -109,31 +116,36 @@
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="flerehverandrelok">fra hverandre (lokativ)</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="flerehverandreill">til hverandre (illativ)</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="flerehverandreess">som hverandre (essiv)</re>
-            <t />
+            <t>
+            </t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="flerehverandreakkgen">hverandre (akkusativ-genitiv)</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re fra_ref="flerehverandrekom">med hverandre (komitativ eller adverb)</re>
-            <t/>
+            <t>
+            </t>
          </tg>
       </mg>
    </e>
@@ -214,9 +226,8 @@
             <xg>
                <x>Dere to forteller nytt til hverandre.</x>
                <xt>Doai muitaleahppi ságaid goabbat guoibmáseatte.</xt>
-                           </xg>
+            </xg>
             <xg>
-
                <x>Dere to forteller nytt til hverandre.</x>
                <xt>Doai muitaleahppi ságaid nubbi nubbái.</xt>
             </xg>
@@ -652,7 +663,7 @@
       <lg>
          <l pos="Pron" type="Indef">noe</l>
       </lg>
-       <mg>
+      <mg>
          <tg xml:lang="sme">
             <t pos="Pron" type="Indef">juoga</t>
             <xg>
@@ -761,7 +772,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-			<re>akkusativ</re>
+            <re>akkusativ</re>
             <t pos="Pron" type="Indef">vaikko maid</t>
             <xg>
                <x>Reven fører hva som helst til hiet, sier Eriksen.</x>
@@ -807,7 +818,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-			<re>til hva som helst</re>
+            <re>til hva som helst</re>
             <t pos="Pron" type="Indef">vaikko masa</t>
             <xg>
                <x>Nå må du være klar for hva som helst.</x>
@@ -999,7 +1010,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>den har noe</re>
+            <re>den har noe</re>
             <t pos="Pron" type="Dem">das</t>
             <xg>
                <x>Hva slags konsekvenser har den for skolen?</x>
@@ -1054,7 +1065,7 @@
                <x>Reindrifta har solide rettigheter til de områdene.</x>
                <xt>Boazodoalus leat nana vuoigatvuođat daidda eatnamiidda.</xt>
             </xg>
-             <xg>
+            <xg>
                <x>Det er ett av de samiske husene som skal bygges i landet.</x>
                <xt>Dat lea okta dain sámi viesuin mat galget huksejuvvot riikkas.</xt>
             </xg>
@@ -1092,7 +1103,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>der borte</re>
+            <re>der borte</re>
             <t nr="Pl" pos="Pron" type="Dem">duot</t>
             <xg>
                <x>Hvem er så de to der? spurte mor.</x>
@@ -1106,7 +1117,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>lengst borte</re>
+            <re>lengst borte</re>
             <t nr="Pl" pos="Pron" type="Dem">dot</t>
          </tg>
       </mg>
@@ -1149,16 +1160,16 @@
             </xg>
          </tg>
       </mg>
-     <mg>
+      <mg>
          <tg xml:lang="sme">
-         <re>de har noe</re>
+            <re>de har noe</re>
             <t pos="Pron" type="Pers">sis</t>
             <xg>
                <x>Nå har de god tid å snakke.</x>
                <xt>Dál sis lei buorre dilli háleštit.</xt>
             </xg>
          </tg>
-    </mg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1270,14 +1281,14 @@
          </tg>
       </mg>
    </e>
-    <e>
+   <e>
       <lg>
          <l pos="Det" type="Dem">slik</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t nr="Sg" pos="Pron" type="Dem">dakkár</t>
-             <xg>
+            <xg>
                <x>Jeg fikk en slik merkelig følelse.</x>
                <xt>Mun ožžon dakkár ártegis dovddu.</xt>
             </xg>
@@ -1289,29 +1300,29 @@
                <x>Vi har 500 slike.</x>
                <xt>Mis leat 500 dakkára.</xt>
             </xg>
-           <xg>
-              <x>Ikke selg bilen til en slik som ikke betaler.</x>
-              <xt>Ale vuovdde biilla dakkárii gii ii mávsse.</xt>
-           </xg>
-           <xg>
-              <x>Jeg har samme rett til å fiske som en slik har som kjøper fiskekort.</x>
-              <xt>Mus lea seammá vuoigatvuohta oaggut go dakkáris gii oastá lobi.</xt>
-           </xg>
-           <xg>
-              <x>Jeg kan ikke samarbeide med en slik en.</x>
-              <xt>In mun sáhte ovttasbargat dakkáriin.</xt>
-           </xg>
-           <xg>
-              <x>I tillegg så lager hun søljer og knapper akkurat slik som kundene ønsker.</x>
-              <xt>Dasa lassin ráhkada son riskkuid ja boaluid juste dakkárin go kundarat háliidit.</xt>
-           </xg>
+            <xg>
+               <x>Ikke selg bilen til en slik som ikke betaler.</x>
+               <xt>Ale vuovdde biilla dakkárii gii ii mávsse.</xt>
+            </xg>
+            <xg>
+               <x>Jeg har samme rett til å fiske som en slik har som kjøper fiskekort.</x>
+               <xt>Mus lea seammá vuoigatvuohta oaggut go dakkáris gii oastá lobi.</xt>
+            </xg>
+            <xg>
+               <x>Jeg kan ikke samarbeide med en slik en.</x>
+               <xt>In mun sáhte ovttasbargat dakkáriin.</xt>
+            </xg>
+            <xg>
+               <x>I tillegg så lager hun søljer og knapper akkurat slik som kundene ønsker.</x>
+               <xt>Dasa lassin ráhkada son riskkuid ja boaluid juste dakkárin go kundarat háliidit.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>om noe akkurat som er nevnt eller er nærmere motparten enn taleren</re>
+            <re>om noe akkurat som er nevnt eller er nærmere motparten enn taleren</re>
             <t nr="Sg" pos="Pron" type="Dem">diekkár</t>
-             <xg>
+            <xg>
                <x>Hvor fikk dyrlegen slik informasjon fra?</x>
                <xt>Gos šibitdoavttir oaččui diekkár dieđuid?</xt>
             </xg>
@@ -1334,7 +1345,6 @@
          </tg>
       </mg>
    </e>
-
    <e>
       <lg>
          <l pos="Det" type="Dem">denne</l>
@@ -1418,11 +1428,11 @@
                <x>Det der som er lengst borte kan ikke brukes til noe.</x>
                <xt>Dot ii sáhte masage geavahuvvot.</xt>
             </xg>
-             <xg>
+            <xg>
                <x>Og i den forbindelse trenger de ikke å være redd for hva det ene eller det andre landsdekkende partiet sier hvis de mener slik eller slik.</x>
                <xt>Ja dan dáfus eai dárbbaš ballat maid duot dahje dot riikabellodat dadjá jus sii oaivvildit nuo dahje ná.</xt>
             </xg>
-        </tg>
+         </tg>
       </mg>
    </e>
    <e>
@@ -1506,8 +1516,6 @@
          </tg>
       </mg>
    </e>
-
-
    <e>
       <lg>
          <l pos="Pron" type="Pers">jeg</l>
@@ -1520,7 +1528,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>jeg har noe</re>
+            <re>jeg har noe</re>
             <t pos="Pron" type="Pers">mus</t>
             <xg>
                <x>jeg har en hund</x>
@@ -1540,7 +1548,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>du har noe</re>
+            <re>du har noe</re>
             <t pos="Pron" type="Pers">dus</t>
             <xg>
                <x>Du har sannelig en stor hund.</x>
@@ -1575,7 +1583,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>han har noe</re>
+            <re>han har noe</re>
             <t pos="Pron" type="Pers">sus</t>
             <xg>
                <x>han har en hund</x>
@@ -1600,7 +1608,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>hun har noe, om begge kjønn</re>
+            <re>hun har noe, om begge kjønn</re>
             <t pos="Pron" type="Pers">sus</t>
             <xg>
                <x>hun har en hund</x>
@@ -1630,7 +1638,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>vi to har noe</re>
+            <re>vi to har noe</re>
             <t pos="Pron" type="Pers">munnos</t>
             <xg>
                <x>I byen har vi to både slektninger og kjente.</x>
@@ -1655,7 +1663,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>dere to har noe</re>
+            <re>dere to har noe</re>
             <t pos="Pron" type="Pers">dudnos</t>
             <xg>
                <x>Hva slags planer har dere to for framtida?</x>
@@ -1696,7 +1704,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>de to har noe</re>
+            <re>de to har noe</re>
             <t pos="Pron" type="Pers">sudnos</t>
             <t pos="N">guoktásis</t>
             <xg>
@@ -1721,7 +1729,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>vi har noe</re>
+            <re>vi har noe</re>
             <t pos="Pron" type="Pers">mis</t>
             <xg>
                <x>Vi har vår egen historie, tradisjoner, kultur og språk.</x>
@@ -1741,7 +1749,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>dere har noe</re>
+            <re>dere har noe</re>
             <t pos="Pron" type="Pers">dis</t>
             <xg>
                <x>Dere har et ungt lag i år, hvordan vil det slå ut på spillet?</x>
@@ -2430,7 +2438,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-         <re>til meg selv</re>
+            <re>til meg selv</re>
             <t pos="Pron" type="Refl">alccesan</t>
             <xg>
                <x>Jeg sa til meg selv.</x>
@@ -2440,9 +2448,9 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>til deg selv</re>
+            <re>til deg selv</re>
             <t pos="Pron" type="Refl">alccesat</t>
-           <xg>
+            <xg>
                <x>Du kjøper til deg selv.</x>
                <xt>Don oasttát alccesat.</xt>
             </xg>
@@ -2450,8 +2458,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-          <re>til seg selv, om en person</re>
-           <t pos="Pron" type="Refl">alccesis</t>
+            <re>til seg selv, om en person</re>
+            <t pos="Pron" type="Refl">alccesis</t>
             <xg>
                <x>Mor kjøper til seg selv.</x>
                <xt>Eadni oastá alccesis.</xt>
@@ -2492,7 +2500,7 @@
          <tg xml:lang="sme">
             <re>til oss selv, om flere</re>
             <t pos="Pron" type="Refl">alcceseamet</t>
-           <xg>
+            <xg>
                <x>Vi sa til oss selv.</x>
                <xt>Mii dajaimet alcceseamet.</xt>
             </xg>
@@ -2507,18 +2515,18 @@
                <xt>Doai oastibeahtti alcceseatte.</xt>
             </xg>
          </tg>
-       </mg>
-     <mg>
+      </mg>
+      <mg>
          <tg xml:lang="sme">
-             <re>til dere selv, om flere</re>
-           <t pos="Pron" type="Refl">alcceseattet</t>
-           <xg>
+            <re>til dere selv, om flere</re>
+            <t pos="Pron" type="Refl">alcceseattet</t>
+            <xg>
                <x>Dere kjøper til dere selv.</x>
                <xt>Dii oastibehtet alcceseattet.</xt>
             </xg>
          </tg>
       </mg>
-  </e>
+   </e>
    <e>
       <lg>
          <l pos="Pron" type="Refl">jeg har selv</l>
@@ -2850,7 +2858,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-         <re>nominativ</re>
+            <re>nominativ</re>
             <t pos="Pron" type="Interr">mii</t>
             <xg>
                <x>Hva er så der?</x>
@@ -2878,7 +2886,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>akkusativ</re>
+            <re>akkusativ</re>
             <t nr="Sg" pos="Pron" type="Interr">maid</t>
             <xg>
                <x>Hva gjør du her?</x>
@@ -2897,7 +2905,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>til hva</re>
+            <re>til hva</re>
             <t pos="Pron" type="Rel">masa</t>
             <xg>
                <x>Hva skal du bruke den til?</x>
@@ -2905,7 +2913,7 @@
             </xg>
          </tg>
       </mg>
-  </e>
+   </e>
    <e>
       <lg>
          <l pos="Pron" type="Interr">hvem</l>
@@ -3067,8 +3075,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-             <re>av to muligheter</re>
-           <t pos="Pron" type="Interr">goabbá</t>
+            <re>av to muligheter</re>
+            <t pos="Pron" type="Interr">goabbá</t>
             <xg>
                <x>Hvilken av de to tar du? Ingen av de to!</x>
                <xt>Goappá don válddát? In goappáge!</xt>
