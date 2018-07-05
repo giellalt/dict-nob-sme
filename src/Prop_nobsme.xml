@@ -48,7 +48,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="prop" freq="0">Stuorra Británnia</t>
+            <t pos="N" type="prop" src="gg">Stuorra-Británnia</t>
          </tg>
       </mg>
    </e>
@@ -254,6 +254,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="Prop" src="sk" freq="0">Rivtták</t>
+            <t pos="N" type="Prop">Rivttát</t>
          </tg>
       </mg>
    </e>
@@ -739,11 +740,21 @@
    </e>
    <e>
       <lg>
+         <l pos="N" type="Prop">Europa</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Eurohpa</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N" type="Prop">Europaveg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Eurohpáluodda</t>
+            <t pos="N" type="Prop" freq="0">Eurohpaluodda</t>
          </tg>
       </mg>
    </e>
@@ -1789,7 +1800,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Viestarbađaeana</t>
+            <t pos="N" type="Prop" freq="0">Viesttarbađaeana</t>
          </tg>
       </mg>
    </e>
@@ -1874,7 +1885,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Albania</t>
+            <t pos="N" type="Prop" src="gg">Albánia</t>
          </tg>
       </mg>
    </e>
@@ -1924,7 +1935,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Belgia</t>
+            <t pos="N" type="Prop" src="gg">Belgia</t>
          </tg>
       </mg>
    </e>
@@ -1964,7 +1975,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Dánmárku</t>
+            <t pos="N" type="Prop" src="gg">Dánmárku</t>
          </tg>
       </mg>
    </e>
@@ -2024,7 +2035,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Greika</t>
+            <t pos="N" type="Prop" src="gg">Greika</t>
          </tg>
       </mg>
    </e>
@@ -2044,7 +2055,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Nederlánda</t>
+            <t pos="N" type="Prop" src="gg">Nederlánda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Holland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Hollánda</t>
          </tg>
       </mg>
    </e>
@@ -2064,7 +2085,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Islánda</t>
+            <t pos="N" type="Prop" src="gg">Islánda</t>
          </tg>
       </mg>
    </e>
@@ -2125,7 +2146,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Latvia</t>
+            <t pos="N" type="Prop" src="gg">Látvia</t>
          </tg>
       </mg>
    </e>
@@ -2135,7 +2156,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Lietuva</t>
+            <t pos="N" type="Prop" src="gg">Lietuva</t>
          </tg>
       </mg>
    </e>
@@ -2165,7 +2186,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" freq="0">Ránská</t>
+            <t pos="N" type="Prop" src="gg">Frankriika</t>
          </tg>
       </mg>
    </e>
@@ -5775,7 +5796,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS,SA" freq="0">Duiska</t>
+            <t pos="N" type="Prop" src="PS,SA,gg" freq="0">Duiska</t>
          </tg>
       </mg>
    </e>
@@ -5785,7 +5806,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS,SA" freq="0">Estteeana</t>
+            <t pos="N" type="Prop" src="PS,SA,gg" freq="0">Estteeana</t>
          </tg>
       </mg>
    </e>
@@ -5951,11 +5972,245 @@
    </e>
    <e>
       <lg>
+         <l pos="N" type="Prop">Tyrkia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Durka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Ukraina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Ukraina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Slovenia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Slovenia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">San Marino</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">San Marino</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Monaco</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Monaco</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Liechtenstein</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Liechtenstein</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Bosnia og Hercegovina</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Bosnia ja Hercegovina</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Hviterussland</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Vilges-Ruošša</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Andorra</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Andorrá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Serbia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Serbia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Portugal</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Portugála</t>
+         </tg>
+      </mg>
+   </e>
+
+
+
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Polen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Polska</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Montenegro</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Montenegro</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Malta</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Máltá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Luxemburg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Luxemburga</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Tsjekkia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Čehkkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Bulgaria</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Bulgária</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Kroatia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Kroáhtia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Vatikanet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Vatikána</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Moldovia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Moldova</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Slovakia</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Slováhkia</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Spania</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Espánnja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Ungarn</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop" src="gg">Ungára</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N" type="Prop">Østerrike</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS,SA" freq="0">Nuortariika</t>
+            <t pos="N" type="Prop" src="PS,SA,gg">Nuortariika</t>
+            <t pos="N" type="Prop" src="gg">Lulleriika</t>
          </tg>
       </mg>
    </e>
@@ -6105,7 +6360,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS,SA" freq="0">Sveica</t>
+            <t pos="N" type="Prop" src="gg">Šveica</t>
+<!--            <t pos="N" type="Prop" src="PS,SA" freq="0">Sveica</t> -->
          </tg>
       </mg>
    </e>
