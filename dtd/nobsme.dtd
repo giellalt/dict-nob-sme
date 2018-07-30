@@ -1,8 +1,8 @@
 <!ELEMENT r ( e+ ) >
-<!ATTLIST r 
+<!ATTLIST r
 xml:lang ( nob ) #IMPLIED
 >
-<!ATTLIST r 
+<!ATTLIST r
       id ( nobsme ) #IMPLIED >
 
 <!ELEMENT e  ( lg , mg* )>
@@ -59,6 +59,7 @@ freq CDATA #IMPLIED
 pers CDATA #IMPLIED
 mod CDATA #IMPLIED
 >
+<!ATTLIST t re CDATA #IMPLIED>
 
 <!ELEMENT xg  ( re? , x , xt )>
 
