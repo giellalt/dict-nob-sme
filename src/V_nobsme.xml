@@ -24334,7 +24334,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">árkkálmastit</t>
             <t pos="V">árkkášit</t>
             <xg>
                <x>Jeg synes synd på deg.</x>
@@ -30336,6 +30335,16 @@
             <t pos="V">márrat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om sending</re>
+            <t pos="V">rávdnjet</t>
+            <xg>
+               <x>I november begynner NRK å sende programmet direkte/strømme over LAN.</x>
+               <xt>Skábmamánus NRK sáddegoahtá prográmma njuolgga/rávdnjet LAN.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -33387,6 +33396,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">lokaliseret</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">bane</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bane veg</re>
+            <t pos="V">jalget luotta</t>
          </tg>
       </mg>
    </e>
