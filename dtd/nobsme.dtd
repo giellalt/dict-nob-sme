@@ -36,7 +36,7 @@ xml:lang CDATA #IMPLIED
 
 <!ELEMENT tg  ( re? , t+ , xg* )>
 <!ATTLIST tg
-xml:lang CDATA #IMPLIED
+xml:lang CDATA #REQUIRED
 >
 
 <!ELEMENT re  ( #PCDATA )>
