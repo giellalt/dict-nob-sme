@@ -761,8 +761,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="stenge 56ed8178-ec25-4789-a8e0-0276ef780625">
-            <t pos="V">dahppat</t>
             <t pos="V" src="fad">giddet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="stenge 56ed8178-ec25-4789-a8e0-0276ef780625">
+         <re>om rørlignende åpning</re>
+            <t pos="V">dahppat</t>
          </tg>
       </mg>
    </e>
@@ -2101,7 +2106,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="montere 8c9fa494-5e90-484e-875e-433a416c1a84">
             <t pos="V">čohkket</t>
-            <t pos="V" src="fad">giddet</t>
          </tg>
       </mg>
    </e>
@@ -3020,6 +3024,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="dekke 896a96bc-9856-4cc4-9932-bc157bff9ed6">
             <t pos="V" src="fad">gokčat</t>
+            <xg>
+               <x>Svarte skyer dekker fullstendig tinder og fjell.</x>
+               <xt>Čáhpes balvvat gokčet álfárot gáissaid ja váriid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3804,6 +3812,11 @@
          <tg xml:lang="sme" tw_id="stoppe 54103edf-2185-4d45-b774-d56782dcc505">
             <re>tette noe</re>
             <t pos="V">notkat</t>
+            <t pos="V">dahppat</t>
+            <xg>
+               <x>Ovttain sániin dahppen su njálmmi.</x>
+               <xt>Med ett ord stoppet jeg munnen hennes.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15992,8 +16005,17 @@
          <l pos="V">lukke</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="lukke e3d7ba58-b7d8-4423-b240-410ad1a81747">
-            <t pos="V">dahppat</t>
+         <tg xml:lang="sme">
+            <t pos="V">gokčat</t>
+            <t pos="V">giddet</t>
+            <xg>
+               <x>Lukk døra!</x>
+               <xt>Govčča uvssa!</xt>
+            </xg>
+            <xg>
+               <x>Jenta lukket døra, og la seg igjen på senga.</x>
+               <xt>Nieida giddii uvssa, fas velledii seŋgii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16004,7 +16026,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="feste 6f4f5031-1c21-41e6-87e2-e7107a991a9b">
             <t pos="V">giddet</t>
-            <t pos="V">darvehit</t>
+            <xg>
+               <x>Jeg festet papiret på veggen.</x>
+               <xt>Giddejin báhpára	seaidnái.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -30397,7 +30422,18 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="bre 6519168a-9996-4efa-8fde-c535c6b36ca3">
+            <re>bre seg</re>
             <t pos="V">leavvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="bre 6519168a-9996-4efa-8fde-c535c6b36ca3">
+            <re>bre over</re>
+            <t pos="V">gokčat</t>
+            <xg>
+               <xt>Mor pynter seg og dekker skulderpartiet med en silke.</xt>
+               <x>Eadni čiŋada ja gokčá hárduidis silkkiin.</x>
+            </xg>
          </tg>
       </mg>
    </e>
