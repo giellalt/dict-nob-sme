@@ -1699,7 +1699,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="fremme 20829e6c-0f84-460a-bad9-9383ebf28926">
             <t pos="V" src="fad">ovddidit</t>
-            <t pos="V" src="fad">ovdanbuktit</t>
          </tg>
       </mg>
    </e>
@@ -2262,14 +2261,25 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="starte ae9f1bf1-2e1d-41b3-a22d-ea6294414e13">
-            <re>begynne, sette av sted</re>
-            <t pos="V" src="fad">álgit</t>
+            <t pos="V">álgit</t>
+            <xg>
+               <x>Duommá har akkurat begynt på skolen.</x>
+               <xt>Duommá lea aiddo	álgán skuvlii.</xt>
+            </xg>
+            <xg>
+               <x>Og så fant jeg på å begynne å selge reinkjøtt.</x>
+               <xt>Ja de fuobmájin álgit vuovdit bohccobierggu.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="starte 22429c11-5f7c-4727-bed0-6314b6ddc711">
-            <re>sette i gang</re>
+            <re>sette i gang noe</re>
             <t pos="V" src="fad">álggahit</t>
+            <xg>
+               <x>Du kan starte din egen bedrift.</x>
+               <xt>Don sáhtát álggahit iežat fitnodaga.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2280,12 +2290,24 @@
       <mg>
          <tg xml:lang="sme" tw_id="søke b7d4d813-a537-48ff-bdb5-1ea82b25a9f1">
             <t pos="V" src="fad">ohcat</t>
+            <xg>
+               <x>Du kan søke om utdanningsstønad.</x>
+               <xt>Sáhtát ohcat oahppodoarjaga.</xt>
+            </xg>
+            <xg>
+               <x>Jeg vurderer å søke på skole.</x>
+               <xt>Mun árvvoštalan ohcat skuvlii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="søke 7c2bf8e6-613a-4834-9c37-48785240a5c5">
             <re>søke etter, savne</re>
             <t pos="V" src="fad">ohcalit</t>
+            <xg>
+               <x>Sammen skal vi søke lyset og gleden igjen.</x>
+               <xt>Ovttas mii galgat ohcalit čuovgga ja ilu fas.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -2412,7 +2434,6 @@
          <tg xml:lang="sme" tw_id="ansette 30b1960f-33e1-4d89-89b6-353ebca4ada2">
             <t pos="V" src="fad">virgádit</t>
             <t pos="V" src="fad">virgáibidjat</t>
-            <t pos="V" src="fad">engašeret</t>
          </tg>
       </mg>
    </e>
@@ -3655,7 +3676,11 @@
             <t pos="V" src="fad">dahkat</t>
             <xg>
                <x>Jeg skal gjøre det.</x>
-               <xt>Mun galggan dan bargat.</xt>
+               <xt>Mun áiggun dan bargat.</xt>
+            </xg>
+            <xg>
+               <x>Det gjør ingenting.</x>
+               <xt>Ii daga maidege.</xt>
             </xg>
          </tg>
       </mg>
@@ -4198,6 +4223,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="vite e440a41d-5a3d-4885-9277-720468587dd2">
             <t pos="V" src="fad">diehtit</t>
+            <xg>
+               <x>Hvordan vet du hva jeg har i sekken?</x>
+               <xt>Mas dieđát mii mus lea seahkas?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7279,6 +7308,16 @@
          </tg>
       </mg>
       <mg>
+         <tg>
+            <re>berøre</re>
+            <t pos="V">guoskat</t>
+              <xg>
+                 <x>Barnet spiste mange loffskiver, men rørte ikke kjekspakken.</x>
+                 <xt>Mánná borai máŋga nisoláibevajahasa, muhto ii guoskan keaksapáhkkii.</xt>
+              </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="røre f195b8ff-40b8-4bbb-98d6-cf4779b1c5a2">
             <re>bevege, lee, en gang</re>
             <t pos="V">lihkahit</t>
@@ -7812,6 +7851,10 @@
          <tg xml:lang="sme" tw_id="bruke 8d6f8d7b-5054-4486-95a9-1da05304fd8e">
             <re>pleie, ha for vane</re>
             <t pos="V">lávet</t>
+            <xg>
+               <x>Aline bruker å holde kurs for ungdom og barn.</x>
+               <xt>Aline láve doallat kurssaid nuoraide ja mánáide.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -8474,7 +8517,6 @@
             <re>si noe kort</re>
             <t pos="V" src="fad">jienádit</t>
             <t pos="V" src="fad">dadjalit</t>
-            <t pos="V" src="fad">cealkilit</t>
          </tg>
       </mg>
    </e>
@@ -10481,7 +10523,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="presentere 8569c638-d4b5-431d-a29e-dc943f7b3aec">
             <t pos="V" src="fad">ovdanbuktit</t>
-            <t pos="V" src="fad">presenteret</t>
             <t pos="V" src="fad">ovdandivvut</t>
          </tg>
       </mg>
@@ -13482,6 +13523,16 @@
             <t pos="V">lihkahit</t>
          </tg>
       </mg>
+      <mg>
+         <tg>
+            <re>bevege sjelelig</re>
+            <t pos="V">njuorasmahttit</t>
+              <xg>
+                 <x>Pirttijärvi sine joiker kan bevege og oppmuntre.</x>
+                 <xt>Pirttijärvi luođit sáhttet njuorasmahttit ja movttiidahttit.</xt>
+              </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15198,31 +15249,27 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hilse på hverandre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="hilse på hverandre b1fc304e-cfa8-464d-a354-1cef11e2c5e4">
-            <t pos="V">buorástahttalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">hilse på flere etter hverandre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="hilse på flere etter hverandre 9feb3d3e-9d7b-4fca-ae74-dfdc31f74cf5">
-            <t pos="V">buorástahttalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">handhilse</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="handhilse eda486ae-7f6d-455c-afb8-cae60c815aae">
             <t pos="V">buorástahttit</t>
+            <xg>
+               <x>Etter talen hilste hun på Persen og ga blomster til kunstneren.</x>
+               <xt>Maŋŋá sártni son buorástahtii Persena ja attii liđiid dáiddárii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="hilse på hverandre b1fc304e-cfa8-464d-a354-1cef11e2c5e4">
+         <re>handhilse på hverandre</re>
+            <t pos="V">buorástahttalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="hilse på flere etter hverandre 9feb3d3e-9d7b-4fca-ae74-dfdc31f74cf5">
+         <re>handhilse på flere etter hverandre</re>
+            <t pos="V">buorástahttalit</t>
          </tg>
       </mg>
    </e>
@@ -16120,6 +16167,28 @@
       <mg>
          <tg xml:lang="sme" tw_id="hilse på c6647a1b-e37a-4c7e-b181-b6163f54e4ed">
             <t pos="V">dearvvahit</t>
+            <xg>
+               <x>Kom og hils på tante!</x>
+               <xt>Boađe dearvvahit muoŧá!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg>
+         <re>handhilse</re>
+            <t pos="V">buorástahttit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="hilse på hverandre b1fc304e-cfa8-464d-a354-1cef11e2c5e4">
+         <re>handhilse på hverandre</re>
+            <t pos="V">buorástahttalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="hilse på flere etter hverandre 9feb3d3e-9d7b-4fca-ae74-dfdc31f74cf5">
+         <re>handhilse på flere etter hverandre</re>
+            <t pos="V">buorástahttalit</t>
          </tg>
       </mg>
    </e>
@@ -16935,7 +17004,6 @@
          <tg xml:lang="sme" tw_id="ville 3f7ba5b5-b9e5-4212-aa32-bdb79e563907">
             <t pos="V">áigut</t>
             <t pos="V">háliidit</t>
-            <t pos="V">dáhttut</t>
             <xg>
                <x>Hvis du vil lære spansk, kan du bli med på kveldskurset vårt.</x>
                <xt>Jus áiggut oahppat spánskkagiela, de sáhtát searvat min eahketkursii.</xt>
@@ -17280,12 +17348,24 @@
          <tg xml:lang="sme" tw_id="få 59cb07be-b6ee-4906-9213-240102513760">
             <t pos="V">oažžut</t>
             <t pos="V">fidnet</t>
+            <xg>
+               <x>På morgensida av natt til torsdag fikk politiet melding om en ulykke.</x>
+               <xt>Duorastatčuovganeapmái ožžo politiijat dieđu muhtun lihkohisvuođa birra.</xt>
+            </xg>
+            <xg>
+               <x>Nå får dere prøve.</x>
+               <xt>Dál oažžubehtet geahččalit.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="få 073f8868-4cf7-4dcd-809c-3f794998478e">
             <re>prøve å få</re>
             <t pos="V">oččodit</t>
+            <xg>
+               <x>Sametinget må prøve å få samiske menn inn i barnehagene.</x>
+               <xt>Sámediggi ferte oččodit eanet sámi albmáid mánáidgárddiide.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17576,10 +17656,23 @@
       <mg>
          <tg xml:lang="sme" tw_id="skulle c4e7b64c-26d1-41dd-9137-2db4f605276c">
             <t pos="V">galgat</t>
-            <t pos="V">áigut</t>
             <xg>
                <x>De skal ha nok ressurser.</x>
                <xt>Sis galget leat doarvái resurssat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="skulle c4e7b64c-26d1-41dd-9137-2db4f605276c">
+         <re>av egen vilje</re>
+            <t pos="V">áigut</t>
+            <xg>
+               <x>Hun skulle begynne å gå, men følelsene stoppet henne.</x>
+               <xt>Son áiggui vázzát, muhto dovddut bissehe su.</xt>
+            </xg>
+            <xg>
+               <x>Jeg skal så hvete i åkeren der borte.</x>
+               <xt>Mun áiggun gilvit nisuid duon beldui.</xt>
             </xg>
          </tg>
       </mg>
@@ -21142,6 +21235,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="kunne 13159604-c2db-413e-9ee7-03b780959d44">
+			<re>ha anledning til</re>
             <t pos="V">sáhttit</t>
             <xg>
                <x>Der kan man spille biljard, danse og treffe andre ungdommer.</x>
@@ -21151,6 +21245,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="kunne f44e48f8-bc81-4786-a958-ef8f4987ae85">
+			<re>ha evne eller kunnskap til</re>
             <t pos="V">máhttit</t>
             <xg>
                <x>Vi søker en person som kan samisk både skriftlig og muntlig.</x>
@@ -26905,7 +27000,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="tilhøre 069f3912-c23d-48b6-8251-8d0e0c0244f3">
-            <t pos="V">gullat</t>
+            <t pos="V">gullat, med illativ</t>
             <xg>
                <x>For postbetjenter er det av og til umulig å vite hvem brevene tilhører.</x>
                <xt>Boastajuogadeddjiide lea muhtumin veadjemeahttun diehtit geasa reivvet gullet.</xt>
@@ -30948,11 +31043,6 @@
       <lg>
          <l pos="V">hilse</l>
       </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="hilse 132dba5e-d3a5-4490-a2a5-6956656f6989">
-            <t pos="V">dearvvahit</t>
-         </tg>
-      </mg>
       <mg>
          <tg xml:lang="sme" tw_id="hilse 6d7884c4-812f-45b7-938c-99d417c17ae2">
             <t pos="V">cealkit</t>
