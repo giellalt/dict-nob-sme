@@ -18890,11 +18890,11 @@
             <t pos="Pron" type="Indef">unnán</t>
             <xg>
                <x>På noen skoler er det få elever.</x>
-               <xt>Muhtun skuvllain leat unnán oahppit.</xt>
+               <xt>Muhtun skuvllain leat unnán oahppit.</xt>  
             </xg>
          </tg>
       </mg>
-      <mg>
+     <mg>
          <tg xml:lang="sme" tw_id="få 9234c1ac-dc30-4eb6-8a0f-d91d4d6c3e78">
             <t pos="Adv">vánit</t>
             <xg>
@@ -18917,37 +18917,14 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">større</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="større 978053e3-ac9b-40da-a64a-284521a4a66c">
-            <re>bli større</re>
-            <t pos="V">stuorrut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">færre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="færre 557e37e4-3d0d-4e00-985f-089531c852d2">
-            <re>bli færre</re>
-            <t pos="V">geahppánit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">færre</l>
-      </lg>
-      <mg>
+       <mg>
          <tg>
+	         <re>færre</re>
             <t pos="A">unnit</t>
-            <t pos="A">uhcit</t>
+            <xg>
+               <x>Det er to flere enn i fjor, men tre færre enn forrige år.</x>
+               <xt>Dat lea guokte eanet go diibmá, muhto golbma unnit go ovddit jagi.</xt>  
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -18961,7 +18938,7 @@
          </tg>
       </mg>
       <mg>
-         <tg>
+         <tg xml:lang="sme" tw_id="færre 557e37e4-3d0d-4e00-985f-089531c852d2">
 	         <re>bli færre</re>
             <t pos="V">geahppánit</t>
             <xg>
