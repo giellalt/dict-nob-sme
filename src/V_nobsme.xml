@@ -5394,6 +5394,12 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="komme til å huske på cc4b7087-4692-4df7-b643-276b6e331baa">
+         <re>komme til å huske på</re>
+            <t pos="V">muitát</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -6106,6 +6112,12 @@
       <mg>
          <tg xml:lang="sme" tw_id="argumentere 928836d3-f7e4-4c82-a1ee-c07b451e2192">
             <t pos="V" src="fad">ákkastallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="komme med argumenter 045197ed-c316-48d2-a059-b6e05bc4109c">
+            <re>komme med argumenter</re>
+            <t pos="V">ákkastit</t>
          </tg>
       </mg>
    </e>
@@ -8169,18 +8181,39 @@
             <re>ankomme</re>
             <t pos="V" src="fad">ollet</t>
             <t pos="V" src="fad">joavdat</t>
+            <xg>
+               <x>Klokka halv fire på natta kommer de til Sørøya.</x>
+               <xt>Diibmu beal njealjis ihkku sii ollejit Sállanii.</xt>
+            </xg>
+            <xg>
+               <x>Undommene har enda ikke kommet til Karasjok, men de er på veg nordover med fly.</x>
+               <xt>Nuorat eai lean vel joavdán Kárášjohkii, muhto leat jođus davás girdi mielde.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="komme f16ebe96-453d-4ec0-b71e-01ebb395390b">
             <re>komme tilbake</re>
             <t pos="V" src="fad">máhccat</t>
+            <xg>
+               <x>Barna var kommet tilbake til lavvoen.</x>
+               <xt>Mánát ledje fas máhccan lávu lusa.</xt>
+            </xg>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">komme ut</l>
+      </lg>
       <mg>
          <tg xml:lang="sme" tw_id="komme 7468a6b8-2e1a-4367-942d-f23a59564470">
-            <re>komme ut, f.eks. utgivelse</re>
+            <re>om utgivelse</re>
             <t pos="V" src="fad">ilbmat</t>
+            <xg>
+               <x>Tekstene kommer snart ut som bok.</x>
+               <xt>Čállosat ilbmet fargga girjin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14500,7 +14533,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme seg inn</l>
+         <l pos="V">komme inn</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="komme seg inn 57d656ac-815d-4535-8e57-4a200604fd39">
@@ -18756,6 +18789,20 @@
       <mg>
          <tg xml:lang="sme" tw_id="komme bort i 396b4407-c1a6-4ec7-80fb-179f7a7e2b37">
             <t pos="V">guoskat</t>
+            <xg>
+               <x>Lassoen kom ikke bort i jorda.</x>
+               <xt>Suohpan ii guoskan eatnamii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="komme bort i noe 4546785a-660f-4d09-aaec-3648f487ba5c">
+         <re>komme bort i noe</re>
+            <t pos="V">guoskkehit</t>
+            <xg>
+               <x>No kom bort i Máhtes hand.</x>
+               <xt>Juoga guoskkehii Máhte gihtii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19181,16 +19228,6 @@
          <tg xml:lang="sme" tw_id="drukne 9904cae0-4a0f-4954-bfd1-f33ef2437e4c">
             <t pos="V">heavvanit</t>
             <t pos="V">hávkat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">komme i nød</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="komme i nød 80f30d31-34f1-4c13-8c3a-684d7846402c">
-            <t pos="V">heađástuvvat</t>
          </tg>
       </mg>
    </e>
@@ -25542,16 +25579,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme en regnskur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="komme en regnskur fa998fb2-0050-42dc-821b-ebf582ad41d6">
-            <t pos="V">oaktut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">blåse opp til storm</l>
       </lg>
       <mg>
@@ -25976,16 +26003,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme ut for spøkelser</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="komme ut for spøkelser 51d0f279-627d-434f-92e1-88712b033aca">
-            <t pos="V">ihttohallat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">flagre</l>
       </lg>
       <mg>
@@ -26326,16 +26343,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme bort i noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="komme bort i noe 4546785a-660f-4d09-aaec-3648f487ba5c">
-            <t pos="V">guoskkehit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">bite litt</l>
       </lg>
       <mg>
@@ -26506,16 +26513,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="legge egg 71bf8ac9-1cff-4dc5-a5dc-f65015fae8f1">
             <t pos="V">monnet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">komme til å huske på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="komme til å huske på cc4b7087-4692-4df7-b643-276b6e331baa">
-            <t pos="V">muitát</t>
          </tg>
       </mg>
    </e>
@@ -29670,16 +29667,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">komme i likviditetsvansker</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="komme i likviditetsvansker c1374aa9-64a2-4f43-af57-e9e65e556e06">
-            <t pos="V">ruđahuvvat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">sette ut drivgarn</l>
       </lg>
       <mg>
@@ -29755,16 +29742,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="koke over 832457ed-9ef9-4db8-9333-a9c9b074a9af">
             <t pos="V">ábbut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">komme med argumenter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="komme med argumenter 045197ed-c316-48d2-a059-b6e05bc4109c">
-            <t pos="V">ákkastit</t>
          </tg>
       </mg>
    </e>
