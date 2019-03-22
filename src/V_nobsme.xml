@@ -3246,6 +3246,10 @@
          <tg xml:lang="sme" tw_id="oppdage 5ac87bd9-8608-4c36-b771-e5330a971777">
             <re>komme på</re>
             <t pos="V">fuobmát</t>
+            <xg>
+               <x>Så oppdaget han stigen som var satt opp mot låven.</x>
+               <xt>De son fuobmái ráidalasa mii lei ceggejuvvon láđu vuostá.</xt>
+            </xg>
             <t pos="V" src="fad">fuomášit</t>
          </tg>
       </mg>
@@ -13739,6 +13743,12 @@
             <t pos="V">bidjalit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="legge noe på stillas 9a6979b1-e0c0-4480-a9de-f2e7bb236889">
+         <re>legge noe på stillas</re>
+            <t pos="V">bildadit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -16948,16 +16958,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bli borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="bli borte a1c2cc77-b355-44a2-be4e-252638b21f63">
-            <t pos="V">duššat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">annullere</l>
       </lg>
       <mg>
@@ -18298,24 +18298,14 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge seg ned</l>
+         <l pos="V">legge ned</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="legge seg ned 960b7d7d-20f9-41c1-9995-2a7a3170016e">
-            <t pos="V">velledit</t>
+         <tg xml:lang="nob">
+            <t pos="V">heaittihit</t>
             <xg>
-               <x>Heaika gikk hjem og la seg ned i senga for å tenke.</x>
-               <xt>Heaika váccii ruoktot ja velledii seŋgii smiehttat.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="legge seg ned 6dfe567f-54d5-4f38-bb82-a1dcb721f2d8">
-            <re>om hund, rev osv.</re>
-            <t pos="V">goarjut</t>
-            <xg>
-               <x>Hunden legger seg ned.</x>
-               <xt>Beana goarju.</xt>
+               <x>Kommunen skal legge ned skolen.</x>
+               <xt>Suohkan áiggu heaittihit skuvlla.</xt>
             </xg>
          </tg>
       </mg>
@@ -20170,6 +20160,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="legge til 00e0ca42-d2e9-462a-bfc4-cf18d8efe3c4">
             <t pos="V">lasihit</t>
+            <xg>
+               <x>Deretter la han til at det ikke er annet enn gammel overtro.</x>
+               <xt>Dasto lasihii ahte ii leat eará go boares diida.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20438,6 +20432,10 @@
          <tg xml:lang="sme" tw_id="legge seg 04675b03-cfe7-4cff-82b7-d2e97e784674">
             <re>om mennesker</re>
             <t pos="V">velledit</t>
+            <xg>
+               <x>Heaika gikk hjem og la seg i senga for å tenke.</x>
+               <xt>Heaika váccii ruoktot ja velledii seŋgii smiehttat.</xt>
+            </xg>
             <t pos="V">veallánit</t>
          </tg>
       </mg>
@@ -20445,6 +20443,16 @@
          <tg xml:lang="sme" tw_id="legge seg afc231e2-9829-47ac-9287-629124305201">
             <re>om dyr</re>
             <t pos="V">livvut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="legge seg ned 6dfe567f-54d5-4f38-bb82-a1dcb721f2d8">
+            <re>om hund, rev osv.</re>
+            <t pos="V">goarjut</t>
+            <xg>
+               <x>Hunden legger seg ned.</x>
+               <xt>Beana goarju.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21043,7 +21051,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="legge merke til 5f59ac9f-7f93-4960-ba8d-392267bc9bd7">
-            <t pos="V">merkot</t>
+            <t pos="V">fuomášit</t>
+            <t pos="V">fuobmát</t> 
+            <xg>
+               <x>Så la han merke til stigen som var satt opp mot låven.</x>
+               <xt>De son fuobmái ráidalasa mii lei ceggejuvvon láđu vuostá.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -22170,6 +22183,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="legge fram 0e012f94-3754-413a-9414-ed39ff32d242">
             <t pos="V">ovdanbuktit</t>
+            <xg>
+               <x>Nillá begynte å tenke på hvordan han skulle legge fram saka.</x>
+               <xt>Nillá smiehttagođii mo galggai ovdanbuktit ášši.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23907,16 +23924,6 @@
          <tg xml:lang="sme" tw_id="mørkne ba611fa4-98e7-44f3-9b4d-e21da867cee9">
             <re>på ettermiddagen</re>
             <t pos="V">veiggodit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">legge seg litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="legge seg litt 8eddcfec-9bc0-41c7-91ca-6b009a4c702f">
-            <t pos="V">velledit</t>
          </tg>
       </mg>
    </e>
@@ -26513,6 +26520,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="legge egg 71bf8ac9-1cff-4dc5-a5dc-f65015fae8f1">
             <t pos="V">monnet</t>
+            <xg>
+               <x>Nå har igjen svartbakene sluttet å legge egg, og eggene er blitt til unger.</x>
+               <xt>Dál leat fas gáirrut heaitán monnemis ja monit leat čivgan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -28800,16 +28811,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="tjærebre 519b5d1e-1f99-42e5-a47a-2441b1c1e789">
             <t pos="V">bihkkadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">legge noe på stillas</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="legge noe på stillas 9a6979b1-e0c0-4480-a9de-f2e7bb236889">
-            <t pos="V">bildadit</t>
          </tg>
       </mg>
    </e>
@@ -34947,6 +34948,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="framføre e2b853a6-d031-4463-adf2-cc4353b6eca1">
             <t pos="V">ovdanbuktit</t>
+            <xg>
+               <x>Siden 2005 har hun skrevet og framført sanger på samisk.</x>
+               <xt>2005 rájes lea son čállán ja ovdanbuktán lávlagiid sámegillii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
