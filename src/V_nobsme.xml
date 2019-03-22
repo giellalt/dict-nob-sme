@@ -3001,16 +3001,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gjøre noe ulovlig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gjøre noe ulovlig 4ef40db2-47fa-4abb-88fd-0d31f8c46d09">
-            <t pos="V">lobihuššat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">skilte</l>
       </lg>
       <mg>
@@ -3676,16 +3666,36 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="gjøre 4c6ecbb7-3ad5-458b-b024-cdb9432dfe90">
-            <t pos="V">bargat</t>
             <t pos="V" src="fad">dahkat</t>
-            <xg>
-               <x>Jeg skal gjøre det.</x>
-               <xt>Mun áiggun dan bargat.</xt>
-            </xg>
             <xg>
                <x>Det gjør ingenting.</x>
                <xt>Ii daga maidege.</xt>
             </xg>
+            <xg>
+               <x>Jeg vet hva jeg gjør.</x>
+               <xt>Dieđán maid dagan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gjøre 4c6ecbb7-3ad5-458b-b024-cdb9432dfe90">
+            <t pos="V">bargat</t>
+            <xg>
+               <x>Jeg skal gjøre det.</x>
+               <xt>Mun áiggun dan bargat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gjøre håndarbeid 1170298e-d2ec-45b7-b534-9c9c45d0db3e">
+         <re>gjøre håndarbeid</re>
+            <t pos="V">duddjot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gjøre noe ulovlig 4ef40db2-47fa-4abb-88fd-0d31f8c46d09">
+         <re>gjøre noe ulovlig</re>
+            <t pos="V">lobihuššat</t>
          </tg>
       </mg>
    </e>
@@ -10260,14 +10270,18 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="fortelle e428deea-e5f0-41fa-94b1-9003bf61eba0">
-            <re>holde på å muitalit</re>
+            <re>holde på å fortelle</re>
             <t pos="V" src="fad">muitaladdat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="fortelle ee67024b-5b9c-4201-8ca3-6fc266e8f61b">
-            <re>sagn, eventyr, historie</re>
+            <re>om sagn, eventyr, historie</re>
             <t pos="V" src="fad">máinnastit</t>
+            <xg>
+               <x>Når du holder på med duodji, så kan du samtidig fortelle eventyr, joike eller synge.</x>
+               <xt>Go leat duddjomin, de don sáhtát vel seammás máinnastit, juoigat dahje lávlut.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16625,16 +16639,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta fort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ta fort 20fdd8ac-d618-4f9e-af12-5f5f77946192">
-            <t pos="V">dohppestit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">brenne bål</l>
       </lg>
       <mg>
@@ -16761,16 +16765,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="dramatisere 09512891-3769-4c8f-b7ac-387377ed10a9">
             <t pos="V">dramatiseret</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gjøre håndarbeid</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gjøre håndarbeid 1170298e-d2ec-45b7-b534-9c9c45d0db3e">
-            <t pos="V">duddjot</t>
          </tg>
       </mg>
    </e>
@@ -17504,6 +17498,12 @@
                <x>Jeg tok meg en tur dit.</x>
                <xt>Mun fitnen doppe.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+      <re>ta en snartur</re>
+         <tg xml:lang="sme" tw_id="ta en snartur f0355148-ff81-4828-a15e-4719064bb4c1">
+            <t pos="V">girddašit</t>
          </tg>
       </mg>
    </e>
@@ -24267,6 +24267,17 @@
             <t pos="V">váldit</t>
          </tg>
       </mg>
+      <mg>
+      <re>ta fort</re>
+         <tg xml:lang="sme" tw_id="ta fort 20fdd8ac-d618-4f9e-af12-5f5f77946192">
+            <t pos="V">dohppestit</t>
+           
+            <xg>
+               <x>Jeg tok fort i full fart med med strikketøyet.</x>
+               <xt>Dohppestin gođđaga mielde.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -25990,16 +26001,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta en snartur</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ta en snartur f0355148-ff81-4828-a15e-4719064bb4c1">
-            <t pos="V">girddašit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">se syner</l>
       </lg>
       <mg>
@@ -26734,16 +26735,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="sette avgårde på ski cad21ca2-ec76-4b5b-a971-8001bb916c2e">
             <t pos="V">čuoigát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gjøre penere</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gjøre penere 368f8f0c-9db4-4f5a-ad1a-29abdde0308c">
-            <t pos="V">čábbudit</t>
          </tg>
       </mg>
    </e>
