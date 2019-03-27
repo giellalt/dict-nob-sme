@@ -1003,16 +1003,6 @@
          <l pos="V">fryse</l>
       </lg>
       <mg>
-         <tg>
-         <re>om å fryse til is</re>
-            <t pos="V">galbmot</t>
-            <xg>
-               <x>I jorda er det tele når det fryser på.</x>
-               <xt>Eatnamis lea duollu go galbmo.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme" tw_id="fryse c3326631-8c6f-4f6b-9472-6f9a505ab0b8">
             <t pos="V" src="fad">galbmot</t>
             <xg>
@@ -1040,9 +1030,49 @@
          </tg>
       </mg>
       <mg>
+         <tg>
+         <re>om å fryse til is</re>
+            <t pos="V">galbmot</t>
+            <xg>
+               <x>I jorda er det tele når det fryser på.</x>
+               <xt>Eatnamis lea duollu go galbmo.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="fryse 2816f410-d491-4434-8fe8-4d9219ddba4f">
-            <re>fryse ned mat, få til å fryse</re>
+            <re>få til å fryse</re>
             <t pos="V" src="fad">galmmihit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg">
+            <re>fryse ned noe</re>
+            <t pos="V">galmmihit</t>
+            <xg>
+               <x>Jeg hadde allerede partert skrottene, og nå holdt jeg på å skære dem i mindre biter før jeg fryser dem.</x>
+               <xt>Ledjen juo rihtten gorudiid ja dál ledjen smávveme ovdalgo galmmihan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">kjøle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>kjøle ned noe</re>
+            <t pos="V">galmmihit</t>
+            <t pos="V">čoaskudit</t>
+            <xg>
+               <x>Alt etter været kjøler reinens nesebor ned eller varmer lufta.</x>
+               <xt>Dálkki mielde bohcco njunnehoallu galmmiha dahje ligge áimmu.</xt>
+            </xg>
+            <xg>
+               <x>Vindene fra øst hadde raskt kjølt ned den nordligste delen av Sameland.</x>
+               <xt>Nuortebiekkat ledje johtilit čoaskudan davimus Sámi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
