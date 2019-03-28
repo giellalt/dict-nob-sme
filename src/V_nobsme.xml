@@ -7513,7 +7513,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="sette c5431a59-55ac-4da0-9275-5aa76e8e4293">
-            <re>plassere, anbringe; en gang</re>
+            <re>plassere, anbringe</re>
             <t pos="V" src="fad">bidjat</t>
             <xg>
                <x>Sett den under bordet!</x>
@@ -7527,8 +7527,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="sette cbf27939-6a0a-47c5-8285-94dae0591d36">
-            <re>i hast el. en gang bidjat</re>
+            <re>i hast el. en gang</re>
             <t pos="V">bidjalit</t>
+            <xg>
+               <x>Han satte flaska mot munnen.</x>
+               <xt>Son bidjalii bohttala njálmmi vuostá.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -7553,14 +7557,22 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="sette 4b73e9ba-6819-4ffa-a4fa-7a56c8c1a829">
-            <re>typografi</re>
+            <re>om typografi</re>
             <t pos="V" src="fad">bordit</t>
+            <xg>
+               <x>Typografen setter teksten.</x>
+               <xt>Typográfa bordá teavstta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="sette 9e5208c4-5f12-474a-af72-006895d17ed6">
-            <re>plante</re>
+            <re>sette planter</re>
             <t pos="V" src="fad">gilvit</t>
+            <xg>
+               <x>De oppfordrer å ikke sette poteter i samme åker mer enn to år.</x>
+               <xt>Eai ávžžut gilvit buđehiid seamma beldui eanet go guokte jagi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -29253,6 +29265,21 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="få skrekk i seg for fiskegarn 93540490-7ba4-41ef-b084-2c682cbfef27">
             <t pos="V">fierpmástuvvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sette ut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>sette ut fisk</re>
+            <t pos="V" src="fad">gilvit</t>
+            <xg>
+               <x>På 1960-tallet kunne hvem som helst sette ut sik i fjellvann.</x>
+               <xt>1960-logus gii beare sáhtii gilvit čuovžžaid duottarjávrriide.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
