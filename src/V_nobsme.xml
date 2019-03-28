@@ -3048,14 +3048,44 @@
       <mg>
          <tg xml:lang="sme" tw_id="fiske 8e57cc27-7d69-4495-887f-a050e3705b93">
             <t pos="V">bivdit</t>
-            <t pos="V">oaggut</t>
             <t pos="V" src="fad">guolástit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="fiske 8e57cc27-7d69-4495-887f-a050e3705b93">
+         <re>med stang eller dorg</re>
+            <t pos="V">oaggut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="fiske 3abbee50-0dd2-4046-b3e5-c30dcaa032a6">
             <re>med garn</re>
             <t pos="V">fierpmástit</t>
+            <t pos="V">fierpmástallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="fiske med drivgarn 15997068-30d7-48b9-ba8f-392560776966">
+            <re>med drivgarn</re>
+            <t pos="V">golgadit</t>
+            <t pos="V">goldit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="fiske med garn under isen b472fed7-79e3-45fc-a2d8-65c0807a7740">
+            <re>med garn under isen</re>
+            <t pos="V">juoŋastit</t>
+            <xg>
+               <x>Da bestefar levde, pleide vi å fiske med garn under isen.</x>
+               <xt>Dalle go áddjá elii, láviimet juoŋastit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="fiske med not bb0d8463-8fed-40aa-a34b-01613d85724e">
+            <re>med not</re>
+            <t pos="V">nuohttut</t>
+            <t pos="V">nuohtástallat</t>
          </tg>
       </mg>
    </e>
@@ -18527,17 +18557,6 @@ s      <mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fiske med drivgarn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="fiske med drivgarn 15997068-30d7-48b9-ba8f-392560776966">
-            <t pos="V">golgadit</t>
-            <t pos="V">goldit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">drive med rovfiske</l>
       </lg>
       <mg>
@@ -20085,20 +20104,6 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="vakle 0071e9d0-64e9-4af8-90e6-a1cf5b44d8c3">
             <t pos="V">livzzistit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">fiske med garn under isen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="fiske med garn under isen b472fed7-79e3-45fc-a2d8-65c0807a7740">
-            <t pos="V">juoŋastit</t>
-            <xg>
-               <x>Da bestefar levde, pleide vi å fiske med garn under isen.</x>
-               <xt>Dalle go áddjá elii, láviimet juoŋastit.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -29250,16 +29255,6 @@ s      <mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fiske med garn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="fiske med garn 26aa3a50-a1a4-4ad4-962b-0e76aec1776c">
-            <t pos="V">fierpmástallat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">få skrekk i seg for fiskegarn</l>
       </lg>
       <mg>
@@ -29927,17 +29922,6 @@ s      <mg>
          <tg xml:lang="sme" tw_id="plages 00418c42-0892-4410-9b48-da8be577742f">
             <re>pines</re>
             <t pos="V" src="fad">giksašuvvat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">fiske med not</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="fiske med not bb0d8463-8fed-40aa-a34b-01613d85724e">
-            <t pos="V">nuohttut</t>
-            <t pos="V">nuohtástallat</t>
          </tg>
       </mg>
    </e>
