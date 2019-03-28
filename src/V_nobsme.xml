@@ -1046,7 +1046,7 @@
          </tg>
       </mg>
       <mg>
-         <tg">
+         <tg>
             <re>fryse ned noe</re>
             <t pos="V">galmmihit</t>
             <xg>
@@ -7516,8 +7516,8 @@
             <re>plassere, anbringe; en gang</re>
             <t pos="V" src="fad">bidjat</t>
             <xg>
-               <x>Sett den under bordet.</x>
-               <xt>Bija dan beavddi vuollái.</xt>
+               <x>Sett den under bordet!</x>
+               <xt>Bija dan beavddi vuollái!</xt>
             </xg>
             <xg>
                <x>Foreldrene vil sette barna sine i barnehagen.</x>
@@ -7561,6 +7561,64 @@
          <tg xml:lang="sme" tw_id="sette 9e5208c4-5f12-474a-af72-006895d17ed6">
             <re>plante</re>
             <t pos="V" src="fad">gilvit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette rypesnarer aab68788-8275-4155-aa34-bd300ee276c6">
+          <re>sette rypesnarer</re>  
+            <t pos="V">gárdut</t>
+            <xg>
+               <x>Elevene lærte å sette rypesnarer.</x>
+               <xt>Oahppit ohppe gárdut.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette ut f9c61a9b-33cb-42f6-85c7-ddbf4956a1c5">
+         <re>sette bruk eller line</re>
+            <t pos="V">suohpput</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette ut f9c61a9b-33cb-42f6-85c7-ddbf4956a1c5">
+         <re>sette bruk eller line en gang</re>
+            <t pos="V">suhppet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette ut drivgarn e90e44e1-919c-45a1-b472-f48a2dd1aa04">
+         <re>sette drivgarn</re>
+            <t pos="V">suhpodit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette ut f9c61a9b-33cb-42f6-85c7-ddbf4956a1c5">
+         <re>sette garn</re>
+            <t pos="V">fierbmut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette ut not 0525cb5a-5434-4be0-9cae-10a70f6a824f">
+         <re>sette not</re>
+            <t pos="V">nuohttut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette stengsel b2b93016-f0e6-4488-81a7-d2dff670dc49">
+         <re>sette stengsel</re>
+            <t pos="V">oazistit</t>
+         </tg>
+      </mg>
+s      <mg>
+         <tg xml:lang="sme" tw_id="sette tråd i garnnål 1b78afe4-b00a-4169-9f22-67868e2e0d74">
+         <re>sette tråd i garnnål</re>
+            <t pos="V">geahpadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette synkestein på not eller garn c7ba57ba-ba61-411d-b903-dbf5c1c8e1e1">
+         <re>sette synkestein på not eller garn</re>
+            <t pos="V">giktadit</t>
          </tg>
       </mg>
    </e>
@@ -10958,12 +11016,6 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme" tw_id="utvide cba508d1-0395-4320-824c-d2657d74c788">
-            <re>gjøre bedre</re>
-            <t pos="V" src="fad">buoredit</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme" tw_id="utvide 2bb504e4-5e69-429c-b4f6-13807cf38977">
             <re>gjøre større</re>
             <t pos="V" src="fad">stuoridit</t>
@@ -11642,7 +11694,6 @@
          <tg xml:lang="sme" tw_id="motta 126e0e45-46a4-4fe1-9c3f-fa5a5afa3002">
             <re>ta imot</re>
             <t pos="V" src="fad">vuostáváldit</t>
-            <t pos="V" src="fad">vuostáiváldit</t>
          </tg>
       </mg>
    </e>
@@ -17477,16 +17528,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette ut garn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette ut garn f016ab04-0a76-4bc6-a234-00809f5c1528">
-            <t pos="V">fierbmut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">falle overende</l>
       </lg>
       <mg>
@@ -19056,16 +19097,6 @@
                <x>På nordsiden av huset lønner det seg ikke å bygge en veranda.</x>
                <xt>Davábeallái viesu ii gánnát hukset veránda.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sette rypesnarer</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette rypesnarer aab68788-8275-4155-aa34-bd300ee276c6">
-            <t pos="V">gárdut</t>
          </tg>
       </mg>
    </e>
@@ -20781,6 +20812,12 @@
             <t pos="V">luvdet</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette flåer på garn eller not 25227da3-d354-474f-b55a-452bc900472d">
+            <re>på garn eller not</re>
+            <t pos="V">luovdádit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -21556,7 +21593,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="nettobudsjettere d8da93a4-368d-421d-afa5-6bb5bc82bbc0">
-            <t pos="V">nettobušetteret</t>
+            <t pos="V">nettobušeteret</t>
          </tg>
       </mg>
    </e>
@@ -22017,16 +22054,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="dytte igjen 004d89a1-072b-4780-b12b-87c70db997fe">
             <t pos="V">notkat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sette ut not</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette ut not 0525cb5a-5434-4be0-9cae-10a70f6a824f">
-            <t pos="V">nuohttut</t>
          </tg>
       </mg>
    </e>
@@ -23711,31 +23738,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette ut</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette ut f9c61a9b-33cb-42f6-85c7-ddbf4956a1c5">
-            <t pos="V">suhppet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">senne</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="senne 2668781c-cf48-4a18-8682-7634a7c1351c">
             <t pos="V">suidnet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sette ut bruk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette ut bruk 59d88f20-f43d-426f-9716-b240eac47930">
-            <t pos="V">suohpput</t>
          </tg>
       </mg>
    </e>
@@ -27072,7 +27079,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="tilhøre 069f3912-c23d-48b6-8251-8d0e0c0244f3">
-            <t pos="V">gullat, med illativ</t>
+         <re>med illativ</re>
+            <t pos="V">gullat</t>
             <xg>
                <x>For postbetjenter er det av og til umulig å vite hvem brevene tilhører.</x>
                <xt>Boastajuogadeddjiide lea muhtumin veadjemeahttun diehtit geasa reivvet gullet.</xt>
@@ -29290,16 +29298,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette tråd i garnnål</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette tråd i garnnål 1b78afe4-b00a-4169-9f22-67868e2e0d74">
-            <t pos="V">geahpadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">dra not med notspill</l>
       </lg>
       <mg>
@@ -29325,16 +29323,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="blendes b773d7b7-4503-45e8-8ce2-185e7bc98155">
             <t pos="V">geđđot</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sette synkestein på not eller garn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette synkestein på not eller garn c7ba57ba-ba61-411d-b903-dbf5c1c8e1e1">
-            <t pos="V">giktadit</t>
          </tg>
       </mg>
    </e>
@@ -29541,16 +29529,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette flåer på garn eller not</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette flåer på garn eller not 25227da3-d354-474f-b55a-452bc900472d">
-            <t pos="V">luovdádit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">legge seg mer eller mindre flatt i vannet</l>
       </lg>
       <mg>
@@ -29692,16 +29670,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sette stengsel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette stengsel b2b93016-f0e6-4488-81a7-d2dff670dc49">
-            <t pos="V">oazistit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">sette til side</l>
       </lg>
       <mg>
@@ -29727,16 +29695,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="yte et lite bidrag f6c8f880-15b8-4d21-b7c2-83fc4e80712b">
             <t pos="V">riškalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sette ut drivgarn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette ut drivgarn e90e44e1-919c-45a1-b472-f48a2dd1aa04">
-            <t pos="V">suhpodit</t>
          </tg>
       </mg>
    </e>
@@ -30107,7 +30065,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="nummerere 0e6c3f8f-0fdf-436b-8266-7dbfcfbff851">
-            <t pos="V">nummárastit</t>
             <t pos="V">nummarastit</t>
          </tg>
       </mg>
@@ -34662,7 +34619,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="børste 3e8dbcdb-d956-4d0a-9c6b-2280b394010b">
-            <t pos="N">čohkut</t>
+            <t pos="V">čohkut</t>
             <xg>
                <x>Mamma børster håret sitt.</x>
                <xt>Eadni čohku vuovttaidis.</xt>
@@ -34752,7 +34709,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="basere 2c003b39-2396-41df-bc6b-da805969af64">
+         <re>med illativ</re>
             <t pos="V">vuođđudit</t>
+            <xg>
+               <x>I følge forskeren baserer den tradisjonelle naturforståelsen seg på at naturen regnes som et levende organ.</x>
+               <xt>Dutki mielde árbevirolaš luondduáddejupmi vuođđuda dasa, ahte luondu adnojuvvo ealli orgánan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -34981,7 +34943,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="fortvile 7439e745-4d2f-4e7d-8b83-c00a6d762970">
             <t pos="V">heađásmuvvat</t>
-            <t pos="V">heađásnuvvat</t>
             <xg>
                <x>Han fortvilte over de nye forskriftene.</x>
                <xt>Son heađásmuvai ođđa njuolggadusaid dihte.</xt>
@@ -36908,7 +36869,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-    <t pos="V">iskkat</t>
+    <t pos="V">iskat</t>
     <xg>
       <x>Husk å sjekke om du må forhåndsstemme i år.</x>
       <xt>Muitte fal iskat fertet go ovddalgihtii jienastit dán jagi.</xt>
