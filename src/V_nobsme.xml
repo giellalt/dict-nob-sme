@@ -8025,6 +8025,22 @@ s      <mg>
             <t pos="V" src="fad">juolludit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gi litt 0635c7a5-4d2e-4c0e-a041-cca00c03082f">
+            <re>gi litt</re>
+            <t pos="V">attestit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gi mat f8d7a5d3-bce4-424c-9ea0-8d303c6e2c52">
+            <re>gi mat</re>
+            <t pos="V">biebmat</t>
+            <xg>
+               <x>Det er bedre å gi mat til ei katt enn til mange mus.</x>
+               <xt>Buoret lea ovtta bussá biebmat go ollu sáhpániid.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -14298,16 +14314,6 @@ s      <mg>
    </e>
    <e>
       <lg>
-         <l pos="V">gi litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gi litt 0635c7a5-4d2e-4c0e-a041-cca00c03082f">
-            <t pos="V">attestit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">forakte</l>
       </lg>
       <mg>
@@ -14810,26 +14816,6 @@ s      <mg>
    </e>
    <e>
       <lg>
-         <l pos="V">fø</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="fø f6c5051a-d0eb-47a9-bc53-85856c9ba078">
-            <t pos="V">biebmat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gi mat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gi mat f8d7a5d3-bce4-424c-9ea0-8d303c6e2c52">
-            <t pos="V">biebmat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">vugge</l>
       </lg>
       <mg>
@@ -15277,8 +15263,13 @@ s      <mg>
          <l pos="V">fore</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="fore e9b4873e-7e93-47c5-9fe5-c39b53b3581e">
+         <tg xml:lang="sme" tw_id="fø f6c5051a-d0eb-47a9-bc53-85856c9ba078">
+            <t pos="V">biebmat</t>
             <t pos="V">borahit</t>
+            <xg>
+               <x>Den gang foret vi husdyra bare med tørrhøy.</x>
+               <xt>Dalle biepmaimet omiid dušše goikesuinniiguin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15289,6 +15280,10 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="mate d659145d-b633-4cc3-bc3a-784b20469504">
             <t pos="V">borahit</t>
+            <xg>
+               <x>Mor løfter barnet opp i fanget slik at hun kan mate det ved bordet.</x>
+               <xt>Eadni bajida máná sallasis vai beassá su borahit beavdeguoras.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16623,6 +16618,7 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="ta hensyn til 20af509e-ed90-4c8a-9851-b4da91e68c7a">
             <t pos="V">vuhtiiváldit</t>
+            <t pos="V">váldit vuhtii</t>
             <t pos="V">doahttalit</t>
          </tg>
       </mg>
@@ -17702,17 +17698,6 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="hore d003e93b-8292-474b-a6d7-33bb14c16840">
             <t pos="V">furrošit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ta tak</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ta tak 8ad0399a-9040-4aca-adec-d1f5aa6a1cde">
-            <t pos="V">heaibut</t>
-            <t pos="V">fággádit</t>
          </tg>
       </mg>
    </e>
@@ -22642,16 +22627,6 @@ s      <mg>
    </e>
    <e>
       <lg>
-         <l pos="V">ta med makt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ta med makt f4e7b247-1c5d-4185-a8be-95f8d03aed1d">
-            <t pos="V">rivvet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">tackle</l>
       </lg>
       <mg>
@@ -24370,8 +24345,24 @@ s      <mg>
             <t pos="V">dohppestit</t>
            
             <xg>
-               <x>Jeg tok fort i full fart med med strikketøyet.</x>
+               <x>Jeg tok fort i full fart strikketøyet med.</x>
                <xt>Dohppestin gođđaga mielde.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="ta med makt f4e7b247-1c5d-4185-a8be-95f8d03aed1d">
+      <re>ta med makt</re>
+            <t pos="V">rivvet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="ta fram c405c0df-29ca-43c3-8240-482e5dda7529">
+      <re>ta fram</re>
+            <t pos="V">rokkastit</t>  
+            <xg>
+               <x>Máhtte tok fram mobilen fra lomma.</x>
+               <xt>Máhtte rokkastii mobiilla lummas.</xt>
             </xg>
          </tg>
       </mg>
@@ -26662,16 +26653,6 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="kjenne stikkende smerte f7779484-1e00-412f-b22a-441e1d01576a">
             <t pos="V">reaggut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ta fram</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ta fram c405c0df-29ca-43c3-8240-482e5dda7529">
-            <t pos="V">rokkastit</t>
          </tg>
       </mg>
    </e>
