@@ -2655,8 +2655,8 @@
          <tg xml:lang="sme">
             <t pos="V">mohkkasit</t>
             <xg>
-               <x>Fra firehjulingssporet går en grein, som svinger seg mot Čárajohka.</x>
-               <xt>Njealljejuvllatmáđijas earrána suorri, mii mohkkasa Čárajohkii.</xt>
+               <x>Fra stien går en forgreining, som svinger seg mot Čárajohka.</x>
+               <xt>Bálgás earrána suorri, mii mohkkasa Čárajohkii.</xt>
             </xg>
          </tg>
       </mg>
@@ -2695,7 +2695,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>svinge</re>
+         <re>svinge </re>
             <t pos="V">rievddadit</t>
             <xg>
                <x>Elevtallet svinger nokså mye fra år til år.</x>
@@ -11986,6 +11986,14 @@ s      <mg>
          <tg xml:lang="sme" tw_id="skilles 58af3d1c-cfd4-4b12-8629-48fa2bdf7fd6">
             <re>separeres</re>
             <t pos="V" src="fad">earránit</t>
+            <xg>
+               <x>Ektefeller kan skilles.</x>
+               <xt>Náittosguimmežagat sáhttet earránit.</xt>
+            </xg>
+            <xg>
+               <x>Mennene skiltes og blei enige om å treffes igjen i fem-tida.</x>
+               <xt>Albmát earránedje ja sohpe deaivvadit fas viđa áigge.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11995,7 +12003,11 @@ s      <mg>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="separeres e7fad01d-c601-46d7-9d86-fa3718947085">
-            <t pos="V" src="fad">earránit</t>
+            <t pos="V">sierranit</t>
+            <xg>
+               <x>Dette gjelder den som er ugift, skilt eller separert.</x>
+               <xt>Dát guoská sutnje gii lea náitalkeahttá, earránan dahje sierranan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -12394,7 +12406,11 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="isolere 8c8b75dc-df52-49dd-8268-6a12c03a4e30">
             <re>skille seg ut</re>
-            <t pos="V">sierranastit</t>
+            <t pos="V">sierranit</t>
+            <xg>
+               <x>Her skiller kartleggingsprøvene seg ut fra de najonale prøvene.</x>
+               <xt>Diekko sierranit kártengeahččaleamit nationála geahččalemiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -14703,6 +14719,21 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="forfekte 17666c44-a81f-4403-846d-a7825d39a1f4">
             <t pos="V">bealuštit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ta av</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om retning</re>
+            <t pos="V">earránit</t>
+            <xg>
+               <x>Det skjedde der hvor Niitonárgavegen tar av fra Tanavegen.</x>
+               <xt>Dáhpáhuvai doppe gos Niitonjárgeaidnu earrána Deanogeidnui.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23281,6 +23312,16 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="skille seg ut f378b4c3-4920-4c32-85f4-90f9c4242ce9">
             <t pos="V">sierranit</t>
+            <t pos="V">spiehkkasit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="nob">
+            <t pos="V">earránit</t>
+            <xg>
+               <x>Østsamenes kofte skiller seg mest ut fra andre samekofter.</x>
+               <xt>Nuortalaččaid gákti earrána eanemus eará sámegávttiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
