@@ -2652,6 +2652,15 @@
          <l pos="V">svinge seg</l>
       </lg>
       <mg>
+         <tg xml:lang="sme">
+            <t pos="V">mohkkasit</t>
+            <xg>
+               <x>Fra firehjulingssporet går en grein, som svinger seg mot Čárajohka.</x>
+               <xt>Njealljejuvllatmáđijas earrána suorri, mii mohkkasa Čárajohkii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="svinge seg 0ca2d046-ac7f-481a-9a84-c3d1c8d6da3a">
             <t pos="V">mohkkasaddat</t>
             <xg>
@@ -2668,7 +2677,30 @@
       <mg>
          <tg xml:lang="sme" tw_id="svinge f5da0fad-132c-4598-9a47-fd5846cb1cda">
             <t pos="V">mohkastit</t>
-            <t pos="V" src="fad">skirvehit</t>
+            <xg>
+               <x>Máhtte svingte bort fra raiden.</x>
+               <xt>Máhtte mohkastii eret ráiddus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>svinge brått</re>
+            <t pos="V">skirvehit</t>
+            <xg>
+               <x>Nillá klarte ikke å la være og svingte brått inn på Ánde sin gårdsplass.</x>
+               <xt>Nillá ii máššan ja skirvehii Ándde šilljui.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>svinge</re>
+            <t pos="V">rievddadit</t>
+            <xg>
+               <x>Elevtallet svinger nokså mye fra år til år.</x>
+               <xt>Ohppiidlohku rievddada oalle ollu jagis jahkái.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10475,7 +10507,7 @@ s      <mg>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="endre d41ab53e-fec2-49b2-a9e1-478f27721593">
-            <re>forandre, gjøre annerledes</re>
+            <re>endre noe</re>
             <t pos="V" src="fad">rievdadit</t>
             <t pos="V" src="fad">earáhuhttit</t>
             <t pos="V" src="fad">nuppástuhttit</t>
@@ -10490,7 +10522,7 @@ s      <mg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="endre d4ccfe18-6e0c-4058-a150-201a082f1124">
-            <re>forandres</re>
+            <re>endres</re>
             <t pos="V" src="fad">earáhuvvat</t>
             <t pos="V" src="fad">nuppástuvvat</t>
          </tg>
@@ -23353,16 +23385,6 @@ s      <mg>
       <mg>
          <tg xml:lang="sme" tw_id="klirre 46f7b06f-5fe6-4cbb-a4e4-85c2de9ce220">
             <t pos="V">skillat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">svinge brått</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="svinge brått fdb35647-bfc5-43fc-bd99-02fc86f49344">
-            <t pos="V">skirvehit</t>
          </tg>
       </mg>
    </e>
