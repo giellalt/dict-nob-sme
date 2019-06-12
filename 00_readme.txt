@@ -26,7 +26,7 @@ DONE: Svaret er framleis: Under <mg>.
 DONE: 
 DONE: __Men__ vi vil at dei ulike ordbökene skal vere mest mogleg lik. 
 DONE: Som bm minnar oss på har vi faktisk dokumentasjon for dette, 
-DONE: http://giellatekno.uit.no/doc/dicts/dictionarywork.html
+DONE: https://giellalt.uit.no/dicts/dictionarywork.html
 DONE: 
 DONE: Der går det fram at <re> ligg under <tg>.
 DONE: 
