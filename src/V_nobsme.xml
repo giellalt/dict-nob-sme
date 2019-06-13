@@ -12184,7 +12184,11 @@
          <tg xml:lang="sme" tw_id="fordele 895c4b9f-5e27-47bb-802c-191e8436b3dd">
             <re>bli fordelt</re>
             <t pos="V" src="fad">juohkásit</t>
-         </tg>
+            <xg>
+               <x>Slik fordelte støtten seg fra Samisk kulturfond i 2000.</x>
+               <xt>Ná juohkásii Sámi kulturfoandda doarjja jagi 2000:s.</xt>
+            </xg>
+        </tg>
       </mg>
    </e>
    <e>
@@ -24013,11 +24017,20 @@
    </e>
    <e>
       <lg>
-         <l pos="V">lekke luft</l>
+         <l pos="V">lekke</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="lekke luft 695a119c-6753-4f4e-9ced-1458ce799fbe">
+         <re>om luft, gass og opplysninger</re>
             <t pos="V">suođđat</t>
+            <xg>
+               <x>Det skal ikke få lekke noe radongass inn.</x>
+               <xt>Ii galgga ii veahášge beassat suođđat radongássa sisa.</xt>
+            </xg>
+            <xg>
+               <x>En anonym kilde har lekket det til avisa.</x>
+               <xt>Namukeahtes gáldu lea suođđan dan aviisii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24028,6 +24041,15 @@
       <mg>
          <tg xml:lang="sme" tw_id="dele seg 2a06e531-0d24-454c-8811-6f97daff28e0">
             <t pos="V">surggiidit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">juohkásit</t>
+            <xg>
+               <x>Høyesterett delte seg i et flertall og et mindretall (9–6).</x>
+               <xt>Alimusriekti juohkásii eanetlohkun ja unnitlohkun (9–6).</xt>
+            </xg>
          </tg>
       </mg>
    </e>
