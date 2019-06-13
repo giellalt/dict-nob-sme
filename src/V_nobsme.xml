@@ -1222,12 +1222,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="høres e952901c-0227-473c-b864-0c569fd91e9d">
             <t pos="V" src="fad">gullot</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="høres bd37ab78-c502-4276-a0e8-73b56648854c">
-            <re>lytte</re>
-            <t pos="V" src="fad">guldalit</t>
+            <xg>
+               <x>Alle lyttet, men ingenting hørtes.</x>
+               <xt>Buohkat guldaledje, muhto ii gullon mihkkege.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5093,6 +5091,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="lytte 2b244aae-fd95-45ce-b3e9-0d0305fbeadb">
             <t pos="V" src="fad">guldalit</t>
+            <xg>
+               <x>Alle lyttet, men ingenting hørtes.</x>
+               <xt>Buohkat guldaledje, muhto ii gullon mihkkege.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7427,13 +7429,21 @@
          <tg xml:lang="sme" tw_id="se f5d2f6bf-5254-495c-99ab-59f0bfeb259b">
             <re>oppfatte med øyet</re>
             <t pos="V" src="fad">oaidnit</t>
+              <xg>
+                 <x>Iŋgá og Mihkkal ser en rev i bjørkeskogen.</x>
+                 <xt>Iŋgá ja Mihkkal oaidniba riebana soahkemeahcis.</xt>
+              </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="se cd931b8c-67ed-4a9f-923a-e027579eadd8">
-            <re>rette blikket mot; betrakte</re>
+            <re>rette blikket mot; se på</re>
             <t pos="V" src="fad">geahččat</t>
             <t pos="V" src="fad">geahčadit</t>
+              <xg>
+                 <x>Før i tiden så barn på barne-tv klokka seks.</x>
+                 <xt>Ovdalis áiggi mánát gehčče mánáid-tv diibmu guđas.</xt>
+              </xg>
          </tg>
       </mg>
       <mg>
@@ -9749,6 +9759,20 @@
             <t pos="V" src="fad">gulahit</t>
             <t pos="V" src="fad">almmuhit</t>
             <t pos="V" src="fad">dieđihit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">høre på</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="fad">guldalit</t>
+            <xg>
+               <x>Han hører på radio spesielt på grunn av samisk, og ikke så mye for nyhetene.</x>
+               <xt>Son guldala rádio earenoamážit sámegiela dihtii iige nuge ođđasiid dihtii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -18231,6 +18255,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="se på 5b6be0b0-a898-44cc-bfa7-1e1efd808ab9">
             <t pos="V">geahččat</t>
+              <xg>
+                 <x>Før i tiden så barn på barne-tv klokka seks.</x>
+                 <xt>Ovdalis áiggi mánát gehčče mánáid-tv diibmu guđas.</xt>
+              </xg>
          </tg>
       </mg>
       <mg>
@@ -18278,11 +18306,6 @@
          <tg xml:lang="sme" tw_id="spenne 6f2842a2-63ef-47d1-b11c-1fdde00d997f">
             <re>flere ganger</re>
             <t pos="V">čiekčat</t>
-            <xg>
-               <x>
-               </x>
-               <xt>Ánte čiekčá spáppa.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
