@@ -184,16 +184,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">rik på rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="rik på rein e1ee0841-a464-4569-913b-013f80f45af1">
-            <t pos="N">boazorikkis</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">svigersønns eller -datters søsken</l>
       </lg>
       <mg>
@@ -270,17 +260,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="nase fra rundaktig haug f17ffee0-7ac4-45c7-bfd8-c3797caaabcc">
             <t pos="N">dievvanjunni</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">krokete tre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="krokete tre 43988af4-00b1-4989-9276-123d25350455">
-            <t pos="N">roaŋkemuorra</t>
-            <t pos="N">moalkemuorra</t>
          </tg>
       </mg>
    </e>
@@ -367,31 +346,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">streng mellom juksas snøre og jernstein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="streng mellom juksas snøre og jernstein 6637fa3a-ccf0-4c06-a9d0-5945d3e5a045">
-            <t pos="N">azzil</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">oppsvulmet gjenstand</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="oppsvulmet gjenstand 47c0ea26-615f-47f4-81c3-58064db19f9e">
             <t pos="N">baggi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">dekkspile på slede</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="dekkspile på slede 0793c1cf-9270-4a78-af9d-bf0f16e274a8">
-            <t pos="N">bajildusmuorra</t>
          </tg>
       </mg>
    </e>
@@ -422,16 +381,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="ytre øre 0bce9cb3-9927-4a46-ace4-b3a6ae130d68">
             <t pos="N">bealljelasta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">reinmage fylt med reintalg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="reinmage fylt med reintalg a8e1148c-10a4-4182-b83e-f520b9bf5674">
-            <t pos="N">bierta</t>
          </tg>
       </mg>
    </e>
@@ -499,6 +448,17 @@
    </e>
    <e>
       <lg>
+         <l pos="N">skallet person</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="fleinskallet person 7abe9d11-f7c7-410c-b6f9-422c597c5d4f">
+	         <re>fleinskallet</re>
+            <t pos="N">boalči</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">ugift kvinne</l>
       </lg>
       <mg>
@@ -509,7 +469,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">den innerste plassen i telt eller gamme</l>
+         <l pos="N">innerste plassen i telt eller gamme</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="den innerste plassen i telt eller gamme 54ae3af7-748a-4289-84fb-e837a8ff3f29">
@@ -593,21 +553,12 @@
    </e>
    <e>
       <lg>
-         <l pos="N">flettet snor til komagbånd</l>
+         <l pos="N">flettet snor</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="flettet snor til komagbånd 67376446-c93c-45d6-9c62-f310cc1deb77">
+	         <re>til komagbånd</re>
             <t pos="N">bárggeš</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ungt kjærestepar</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ungt kjærestepar 7bad503f-0394-4836-8a76-55e29c63724e">
-            <t pos="N">nuorrabárra</t>
          </tg>
       </mg>
    </e>
@@ -653,16 +604,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">ved bålet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ved bålet 7ac15f23-9ea1-42d7-970b-a645317c9628">
-            <t pos="N">dollagáddi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">flytte- og beiteområde</l>
       </lg>
       <mg>
@@ -683,51 +624,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">godt beite</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="godt beite 3d5dd943-8e65-4a2a-ae38-bb47b7785198">
-            <t pos="N" nr="Pl">ealát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">område langt unna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="område langt unna a30b4ece-66bb-4c74-a959-c13deaf8cd61">
-            <t pos="N">endor</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">skinnbrem på mannslue</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="skinnbrem på mannslue 38a30bb3-c26e-47fb-83a2-163778f92be2">
-            <t pos="N">fiergi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">staselig person</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="staselig person 8f663c9c-734a-492a-a2ce-1f5cba56a4c3">
             <t pos="N">fávru</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">nederste del av reinhorn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="nederste del av reinhorn 90064d07-9dbf-4d78-bbd6-3b23add30dc7">
-            <t pos="N">galba</t>
          </tg>
       </mg>
    </e>
@@ -764,30 +665,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="koftekledd person dd6d7779-1344-4da6-b830-178d94cd0df4">
             <t pos="N">gávttehas</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">med følge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="med følge 528cc183-2612-4ad9-8f31-17d4c622aa90">
-            <t pos="N">gázzi</t>
-            <xg>
-               <x>I går var jeg innom Máhtte og dem.</x>
-               <xt>Mun fitnen ikte Máhte gácci luhtte.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">høygrind til slede</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="høygrind til slede 0b62d37b-f799-493e-912a-7bbb329c3a14">
-            <t pos="N">hehkke</t>
          </tg>
       </mg>
    </e>
@@ -834,31 +711,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">ryggen mellom skulderbladene</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ryggen mellom skulderbladene 80b63798-400d-4d42-ae8e-9ad9df28edac">
-            <t pos="N">hárdu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">gaffelformet bjørkegrein</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="gaffelformet bjørkegrein 1bc92b68-0da8-4133-89b4-a037296eb05d">
             <t pos="N">hárččet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">sammenheftet risved</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sammenheftet risved 4964a96e-3d8f-4887-b295-40788efaef36">
-            <t pos="N">háŋgu</t>
          </tg>
       </mg>
    </e>
@@ -925,51 +782,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">garn i laksestengsel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="garn i laksestengsel 7ff6b42e-12bc-4137-a91b-6de30e269f27">
-            <t pos="N">joddofierbmi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">inngang til et stengselsgarn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="inngang til et stengselsgarn fbd9c033-d27c-43e3-8737-c80cc87cbc2e">
-            <t pos="N">joddonjálbmi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">dødelig sykdom</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="dødelig sykdom 5cd71ae1-1e8c-4677-8031-5e452df9a07e">
             <t pos="N">jápmindávda</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">firkantet ramme av tre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="firkantet ramme av tre 83d588e4-7cb4-45fa-bc9a-3462392f299f">
-            <t pos="N">lassá</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">flettverk på laksestengsel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="flettverk på laksestengsel 6695e8e6-bb74-4660-82a2-eb8654ec2797">
-            <t pos="N" nr="Pl">leaipput</t>
          </tg>
       </mg>
    </e>
@@ -990,16 +807,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="stilnet vind ef09a266-36a1-4ffa-8660-6bd680511d31">
             <t pos="N">loažži</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">høy som er slått og ligger på marka</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="høy som er slått og ligger på marka a12b85fe-2919-4576-b97a-b1a269875c24">
-            <t pos="N">luohku</t>
          </tg>
       </mg>
    </e>
@@ -1076,16 +883,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">tau i overkant og underkant av fiskegarn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="tau i overkant og underkant av fiskegarn 1ee216a6-3f23-46e5-b778-617b1100747b">
-            <t pos="N">reašmi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">ikke-samisk kvinne</l>
       </lg>
       <mg>
@@ -1151,52 +948,12 @@
    </e>
    <e>
       <lg>
-         <l pos="N">djup trang kløft</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="djup trang kløft 68785ee1-15e0-423c-9a03-9205001d497e">
-            <t pos="N">ružžu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">brent trekubbe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="brent trekubbe 9f4e0f19-e5c3-4abe-9896-571d1a6bd5f9">
-            <t pos="N">ráddi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">brennende trekubbe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="brennende trekubbe 01f68c6e-03db-4c1f-9d8c-71d794841aaf">
-            <t pos="N">ráddi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">haltende person</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="haltende person c736b802-3707-47d7-bbff-6a7013910060">
             <t pos="N">skierbmá</t>
             <t pos="N">rámbi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">innmat av skjell</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="innmat av skjell ba5344c6-79c8-4dab-8e5a-e9c0ccd1fef0">
-            <t pos="N">siellu</t>
          </tg>
       </mg>
    </e>
@@ -1267,85 +1024,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">utemmet kastrert rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="utemmet kastrert rein ab0e5240-87b5-4f1b-ba5d-9861195207ec">
-            <t pos="N">spáillit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">råtten trestokk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="råtten trestokk 829aded3-bed4-4e0b-860d-c270409fa931">
-            <t pos="N">stohkki</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">tverrstang over ildsted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="tverrstang over ildsted 92a0df8e-d16a-41da-893e-f2699e1d7d8b">
-            <t pos="N">suomuorra</t>
-            <xg>
-               <x>Suomuorra er en tverrstang over ildstedet i telt eller gamme.</x>
-               <xt>Suomuorra lea doaresmuorra árrana bajil goađis dahje lávus.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gjelle på fisk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gjelle på fisk eed81f55-2117-4914-acaa-3cd72fbfeeb2">
-            <t pos="N">suovdi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">sur myse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sur myse 43943243-9601-42e3-887e-d08c79f4b6a2">
-            <t pos="N">suvri</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">åpning i notpose</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="åpning i notpose 047ee8d6-319f-41d9-825f-d92404433521">
             <t pos="N">sáhpán</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gjenføket vintervei</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gjenføket vintervei 07fe2781-1de0-449a-85c6-07905522d004">
-            <t pos="N">ulahat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">utemmet rein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="utemmet rein 40edd079-fd3f-4604-b88b-b32981d31f44">
-            <t pos="N">uđámat</t>
          </tg>
       </mg>
    </e>
@@ -1380,36 +1063,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="hannrein i treårsalderen 5e1fad8f-5762-4e96-a418-cba58c456d05">
             <t pos="N">vuobirs</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">livmor på dyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="livmor på dyr 0f92bc6e-b0ac-4d08-bec3-97474a6e8473">
-            <t pos="N">vuossa</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">marg i tre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="marg i tre a94b655c-77f6-48ad-9388-98eff489864a">
-            <t pos="N">váimmus</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ubehagelig hendelse</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ubehagelig hendelse 6fd2e24f-f8dc-4bba-b41f-cf2138e455ae">
-            <t pos="N">válbi</t>
          </tg>
       </mg>
    </e>
@@ -1481,47 +1134,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">høydedrag mellom to fjell</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="høydedrag mellom to fjell 91f90790-7d9b-4151-b46b-b9522990bc8a">
-            <t pos="N">čahca</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">hemmelig øyeblikk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="hemmelig øyeblikk d5e816ca-cd78-4246-9481-d9a642098e87">
-            <t pos="N">čalbmeliiba</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">ubevoktet øyeblikk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ubevoktet øyeblikk 8e0389f6-a5a5-4627-9e18-1db62636d322">
-            <t pos="N">čalbmevealla</t>
-            <t pos="N">čalmmivealla</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">sjanse mens noen er opptatt med noe annet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sjanse mens noen er opptatt med noe annet a167ee3c-2d30-4ff9-b6f8-76447624a290">
-            <t pos="N">čalmmivealla</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">fjorårs reinkalv</l>
       </lg>
       <mg>
@@ -1562,55 +1174,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">lassoring av horn</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="lassoring av horn 5e1ef694-d813-4e1e-8581-06a65f71fd8d">
-            <t pos="N">čoarvegiella</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">drektig sau</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="drektig sau f23d0e43-fe11-4441-8805-56f8941026eb">
             <t pos="N">čoavjjet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">isskorpe på beitemark</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="isskorpe på beitemark 71a22ac9-9ea2-4c41-9dcf-01ab0691b437">
-            <t pos="N">čuohki</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">gårdsbruk med husdyr</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gårdsbruk med husdyr 7a3e58fe-e7fc-4a35-8f7f-dec0b3988d20">
-            <t pos="N">šibitdállu</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kvitt skjerf</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="kvitt skjerf e93a5607-13ff-4e55-9520-8537a757ea94">
-            <t pos="N">šoalkaliidni</t>
-            <xg>
-               <x>Brudgommen hadde et tradisjonelt kvitt skjerf da han giftet seg.</x>
-               <xt>Irggis lei šoalkaliidni go náitalii.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -1662,36 +1230,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="skinn som mister hårene 7e63fa35-b701-411c-8e68-eaa70c4a7c3b">
             <t pos="N">botkánáhkki</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">søknad om støtte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="søknad om støtte a637771e-c5f3-4279-a189-e040a42cb527">
-            <t pos="N">doarjjaohcan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">lyst til å kjempe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="lyst til å kjempe 2ee8553b-e5ae-4997-be5a-ec5c30cb1718">
-            <t pos="N">doarrunvuoibmi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">skittent klesplagg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="skittent klesplagg ae4926c2-329e-4ba0-a79b-395dcf11582c">
-            <t pos="N">durdebivttas</t>
          </tg>
       </mg>
    </e>
@@ -1789,16 +1327,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">pinne med glo</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="pinne med glo 7b028c4a-65fd-44a1-8f30-5c05becea568">
-            <t pos="N">hillaráddi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">siden av en haug</l>
       </lg>
       <mg>
@@ -1838,16 +1366,6 @@
                <x>De kom hjem tidlig på morgenen.</x>
                <xt>Sii ollejedje ruoktot iđđesija.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">kvise på øyelokksranden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="kvise på øyelokksranden 6795af71-fb2b-401b-9365-f4de8c92aad9">
-            <t pos="N">lottáš</t>
          </tg>
       </mg>
    </e>
@@ -1911,16 +1429,6 @@
    </e>
    <e>
       <lg>
-         <l pos="N">mekanisert transportmiddel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="mekanisert transportmiddel 9ed52ff8-1e2a-4556-b538-3e9a30c19ea1">
-            <t pos="N">mášinfievru</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="N">utløper av et fjell</l>
       </lg>
       <mg>
@@ -1948,6 +1456,12 @@
             <t pos="N">suomabealli</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på eller fra finsk side</re>
+            <t pos="Adv">Suoma bealde</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1968,6 +1482,12 @@
             <t pos="N">ruoššabealli</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på eller fra russisk side</re>
+            <t pos="Adv">Ruošša bealde</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1978,6 +1498,12 @@
             <t pos="N">ruoŧabealli</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på eller fra svensk side</re>
+            <t pos="Adv">Ruoŧa bealde</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1986,6 +1512,12 @@
       <mg>
          <tg xml:lang="sme" tw_id="norsk side 7674ee59-7606-4d16-954a-5b43edc1daf2">
             <t pos="N">norggabealli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på eller fra norsk side</re>
+            <t pos="Adv">Norgga bealde</t>
          </tg>
       </mg>
    </e>
