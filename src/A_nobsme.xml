@@ -1148,6 +1148,12 @@
             <t pos="V">denet</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="utmattet arbeidsrein f1867ae8-2584-4cf8-9e63-b48fd0332255">
+         <re>utmattet arbeidsrein</re>
+            <t pos="N">ártnot</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1350,6 +1356,36 @@
       <mg>
          <tg xml:lang="sme" tw_id="fjorårets 372b7f0e-7d10-4394-ab8a-d73177d9614d">
             <t pos="A">diimmá</t>
+            <xg>
+               <x>Dommen er avsagt etter fjorårets NM-konkurranser.</x>
+               <xt>Duopmu lea celkon maŋŋel diimmá NM-gilvvuid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="fjorårs reinkalv ecbb5789-3037-4837-b7b4-348ca9f74fed">
+         <re>fjorårets reinkalv</re>
+            <t pos="N">čearpmat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">drektig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">čoavjjis</t>
+            <xg>
+               <x>I februar var bare 30 prosent av hunndyrene drektige.</x>
+               <xt>Guovvamánus ledje dušše 30 proseantta njiŋŋelasain čoavjjis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="drektig sau f23d0e43-fe11-4441-8805-56f8941026eb">
+         <re>drektig sau eller simle</re>
+            <t pos="N">čoavjjet</t>
          </tg>
       </mg>
    </e>
@@ -1953,6 +1989,41 @@
          <tg xml:lang="sme" tw_id="sein 8b7177ab-6ee1-44c7-bd73-bed56e6db451">
             <re>bli sein</re>
             <t pos="V">maŋŋánit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kulørt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">ivdnái</t>
+            <xg>
+               <x>Dukkene har kulørte klær.</x>
+               <xt>Dohkáin leat ivdnás biktasat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="kulørte klær 5528f9e6-3117-4ad1-bb8e-ae0040f2dfd5">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N">ivdne-</t>
+            <xg>
+               <x>kulørte klær</x>
+               <xt>ivdnebiktasat</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gaffelformet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gaffelformet bjørkegrein 1bc92b68-0da8-4133-89b4-a037296eb05d">
+	         <re>gaffelformet bjørkegrein</re>
+            <t pos="N">hárččet</t>
          </tg>
       </mg>
    </e>
@@ -3513,12 +3584,45 @@
    </e>
    <e>
       <lg>
+         <l pos="A">koftekledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="koftekledd person dd6d7779-1344-4da6-b830-178d94cd0df4">
+            <re>koftekledd person</re>
+            <t pos="N">gávttehas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vindstille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="vindstille vær 2c9aca9d-5563-4a66-ae57-f68c5384a7eb">
+            <t pos="N">goalki</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="vindstille vær a8b96e18-5c0e-4ff2-b2ed-e5e934919f58">
+            <re>bli vindstille</re>
+            <t pos="V">golket</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">stille</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="stille c61cf9c3-359b-46ca-acb1-82f6ce6f57db">
             <re>rolig, taus</re>
             <t pos="A" src="fad">jaskat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="den stille uke 9ccc402e-c6cc-4ab7-8040-fc9e3ec53c73">
+         <re>den stille uke</re>
+            <t pos="N">biidnovahkku</t>
          </tg>
       </mg>
    </e>
@@ -5969,6 +6073,20 @@
       <mg>
          <tg xml:lang="sme" tw_id="fargerik fc3ea9de-b2ac-4134-96ed-ce9c78f7770f">
             <t pos="A" src="fad">ivdnái</t>
+            <xg>
+               <x>Dukkene har fargerike klær.</x>
+               <xt>Dohkáin leat ivdnás biktasat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N">ivdne-</t>
+            <xg>
+               <x>fargerike klær</x>
+               <xt>ivdnebiktasat</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6664,6 +6782,28 @@
    </e>
    <e>
       <lg>
+         <l pos="A">ustødig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">skivžžas</t>
+            <t pos="A">livzzas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="ustødig bord 62c5d6cd-72d5-40b8-884e-e83c8647534c">
+            <re>som førsteledd i sammensetninger</re>
+            <t pos="N">skivžže-</t>
+            <t pos="N">livze-</t>
+            <xg>
+               <x>ustøtt bord</x>
+               <xt>skivžžebeavdi, livzebeavdi</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">ustabil</l>
       </lg>
       <mg>
@@ -6692,7 +6832,7 @@
             <t pos="A" src="fad">ovddit</t>
             <xg>
                <x>Det er to flere enn i fjor, men tre færre enn foregående år.</x>
-               <xt>Dat lea 2 eanet go diibmá, muhto golbma unnit go ovddit jagi.</xt>
+               <xt>Dat lea guokte eanet go diibmá, muhto golbma unnit go ovddit jagi.</xt>
             </xg>
          </tg>
       </mg>
@@ -9653,6 +9793,12 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="loddent eller bustete dyr c10706ab-b50d-4f28-bf10-4206832db4e4">
+         <re>loddent eller bustete dyr</re>
+            <t pos="N">barfi</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -11298,10 +11444,10 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="ustø 21289402-6562-43ad-99ef-1508130a42a5">
-            <t pos="A">jurbolaš</t>
+            <t pos="A">skivžžas</t>
+            <t pos="A">livzzas</t>
             <t pos="A">juovzzas</t>
             <t pos="A">jurbolas</t>
-            <t pos="A">livzzas</t>
             <xg>
                <x>Elvebåten er ustø.</x>
                <xt>Eatnovanas lea jurbolas.</xt>
@@ -11311,10 +11457,11 @@
       <mg>
          <tg xml:lang="sme" tw_id="ustø e0af1544-c24b-4d75-9355-0daf4510bac0">
             <re>som førsteledd i sammensetninger</re>
+            <t pos="N">skivžže-</t>
             <t pos="N">livze-</t>
             <xg>
                <x>ustøtt bord</x>
-               <xt>livzebeavdi</xt>
+               <xt>skivžžebeavdi, livzebeavdi</xt>
             </xg>
          </tg>
       </mg>
@@ -12450,8 +12597,8 @@
       <mg>
          <tg xml:lang="sme" tw_id="sjenert 6f2f465b-ed00-4b24-b086-8170272fa8ec">
             <re>være sjenert</re>
-            <t pos="V">jieppadit</t>
             <t pos="V">ujostallat</t>
+            <t pos="V">jieppadit</t>
          </tg>
       </mg>
    </e>
@@ -15060,11 +15207,104 @@
    </e>
    <e>
       <lg>
+         <l pos="A">skjeløyd</l>
+      </lg>
+       <mg>
+         <tg xml:lang="sme">
+            <t pos="A">skielggas</t>
+         </tg>
+      </mg>
+     <mg>
+         <tg xml:lang="sme" tw_id="skjeløyd person ec2b36dc-d907-4d20-b812-79d4f6fff349">
+         <re>skjeløyd person</re>
+            <t pos="N">skielgá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">haltende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="haltende person c736b802-3707-47d7-bbff-6a7013910060">
+         <re>haltende person</re>
+            <t pos="N">skierbmá</t>
+            <t pos="N">rámbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kortbent</l>
+      </lg>
+       <mg>
+         <tg xml:lang="sme">
+            <t pos="A">geatkkas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="kortbent person dba6d436-bb1d-4c11-9742-e316f06a106f">
+         <re>kortbent person</re>
+            <t pos="N">loaggi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">krum</l>
+      </lg>
+       <mg>
+         <tg xml:lang="sme">
+            <t pos="A">moakkas</t>
+            <t pos="A">leaggái</t>
+            <t pos="A">skoalmmas</t>
+            <xg>
+               <x>krumkake</x>
+               <xt>moaggegáhkku</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">krumneset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="krum nese f9d34cff-7ff3-48ee-99c2-ec9810c7f464">
+            <t pos="A">skoalmmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ukvass</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">bastteheapme</t>
+            <t pos="A">ávjjoheapme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="ukvass øks 32662965-d15f-4958-8fae-ab5d25846b9a">
+         <re>ukvass øks</re>
+            <t pos="N">ákšogorka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">dødelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="dødelig 27b7b4a8-79ea-4efe-a230-f415c9b384e4">
             <t pos="A">jámolaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="dødelig sykdom 5cd71ae1-1e8c-4677-8031-5e452df9a07e">
+         <re>dødelig sykdom</re>
+            <t pos="N">jápmindávda</t>
          </tg>
       </mg>
    </e>

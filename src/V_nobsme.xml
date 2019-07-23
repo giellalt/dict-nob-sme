@@ -3447,6 +3447,23 @@
             <t pos="V" src="fad">nuppástuhttit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="forandre seg e26ec995-8bc9-4431-b829-0f2ffea4552a">
+         <re>forandre seg</re>
+            <t pos="V">rievdat</t>
+            <t pos="V">nuppástuvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>forandre seg plutselig</re>
+            <t pos="V" src="fad">rievddihit</t> 
+            <xg>
+               <x>Da væren hadde drukket kaffe, så forandret den seg plutselig til en gammel mann.</x>
+               <xt>Go fierca lei juhkan gáfe, de rievddihii son fáhkkestaga boares dievdoolmmožin.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -9669,6 +9686,10 @@
                <x>Reisa hjem gikk fort.</x>
                <xt>Mátki ruoktot manihii jođánit.</xt>
             </xg>
+            <xg>
+               <x>Det har allerede gått fem år siden jeg flyttet til Kautokeino.</x>
+               <xt>Vihtta jagi leat juo golihan dan rájes go fárrejin Guovdageidnui.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -10703,13 +10724,18 @@
          <tg xml:lang="sme" tw_id="endre 40db88a5-6bcd-4b3e-b9b9-2c345e8b62e1">
             <re>endre seg</re>
             <t pos="V" src="fad">rievdat</t>
+            <t pos="V" src="fad">earáhuvvat</t>
+            <t pos="V" src="fad">nuppástuvvat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme" tw_id="endre d4ccfe18-6e0c-4058-a150-201a082f1124">
-            <re>endres</re>
-            <t pos="V" src="fad">earáhuvvat</t>
-            <t pos="V" src="fad">nuppástuvvat</t>
+         <tg xml:lang="sme">
+            <re>endre seg plutselig</re>
+            <t pos="V" src="fad">rievddihit</t> 
+            <xg>
+               <x>Livet endret seg plutselig.</x>
+               <xt>Eallin rievddihii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -22210,17 +22236,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forandre seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="forandre seg e26ec995-8bc9-4431-b829-0f2ffea4552a">
-            <t pos="V">rievdat</t>
-            <t pos="V">nuppástuvvat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">jule opp</l>
       </lg>
       <mg>
@@ -30183,6 +30198,12 @@
       <mg>
          <tg xml:lang="sme" tw_id="stilne 9dc0f3a6-61d7-4c02-8bc1-1430de527a0e">
             <t pos="V">jaskkodit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="stilnet vind ef09a266-36a1-4ffa-8660-6bd680511d31">
+         <re>stilnet vind</re>
+            <t pos="N">loažži</t>
          </tg>
       </mg>
    </e>
