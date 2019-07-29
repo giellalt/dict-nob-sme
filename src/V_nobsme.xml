@@ -4376,6 +4376,26 @@
             <t pos="V">čoalkit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om hjerteslag</re>
+            <t pos="V">ravkit</t>
+            <xg>
+               <x>Hjertet banker i brystet.</x>
+               <xt>Váibmu ravká rattis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om harde hjerteslag</re>
+            <t pos="V">julkit</t>
+            <xg>
+               <x>Hjertet mitt banker hardt som om noen slår med slegge.</x>
+               <xt>Mus váibmu julká dego muhtin dearppašii šluppohiin.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -6915,6 +6935,10 @@
             <t pos="V">gaivát</t>
             <t pos="V">gaifát</t>
             <t pos="V" src="fad">gávkat</t>
+            <xg>
+               <x>Elevene glantes på meg.</x>
+               <xt>Oahppit gávke munnje.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -7347,6 +7371,10 @@
          <tg xml:lang="sme" tw_id="slå 40251d92-64f5-41db-9de0-b681002599a0">
             <re>slå med redskap</re>
             <t pos="V">dearpat</t>
+            <xg>
+               <x>Hjertet mitt slår hardt som om noen slår med slegge.</x>
+               <xt>Mus váibmu julká dego muhtin dearppašii šluppohiin.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -7377,11 +7405,21 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå 6f0a8f19-e115-49a3-b82e-447acf6fc178">
-            <re>hjerteslag</re>
+            <re>om hjerteslag</re>
             <t pos="V">ravkit</t>
             <xg>
                <x>Hjertet slår i brystet.</x>
                <xt>Váibmu ravká rattis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om harde hjerteslag</re>
+            <t pos="V">julkit</t>
+            <xg>
+               <x>Hjertet mitt slår hardt som om noen slår med slegge.</x>
+               <xt>Mus váibmu julká dego muhtin dearppašii šluppohiin.</xt>
             </xg>
          </tg>
       </mg>
@@ -13251,6 +13289,10 @@
          <tg xml:lang="sme" tw_id="glo b11e3027-d559-4a38-8b9a-35cb7835b464">
             <t pos="V">gaivát</t>
             <t pos="V">gávkat</t>
+            <xg>
+               <x>Elevene glodde på meg.</x>
+               <xt>Oahppit gávke munnje.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13830,14 +13872,30 @@
    </e>
    <e>
       <lg>
+         <l pos="V">overanstrenge seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">gievdat</t>
+            <xg>
+               <x>Dere har overanstrengt dere med hardt arbeid.</x>
+               <xt>Dii lehpet garra bargguin gievdan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">sveve</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="sveve d70de391-faba-42b3-b51b-16673d6ad24b">
-            <re>lande</re>
-            <t pos="V">seaivut</t>
-            <t pos="V">skirvehallat</t>
             <t pos="V">sattáhaddat</t>
+            <t pos="V">skirvehallat</t>
+            <xg>
+               <x>De første snøfnuggene svevet i høstlufta.</x>
+               <xt>Vuosttas muohtačalmmit sattáhalle čakčaáimmus.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -15973,13 +16031,22 @@
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme">
+            <t pos="V">bánccardit</t>
+            <xg>
+               <x>Ballen spratt hvor som helst bortsett fra mot meg.</x>
+               <xt>Spábba bánccardii gosa beare earret mu guvlui.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="sprette 3fd1c05b-44a7-4bcb-aa81-21d144046061">
             <t pos="V">báhccat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="sprette f1198123-c389-489f-b546-3b53b7140d9e">
-            <re>drepe ve å stanse lufttilførsel til lungene</re>
+            <re>drepe ved å stanse lufttilførsel til lungene</re>
             <t pos="V">galkat</t>
          </tg>
       </mg>
@@ -16118,6 +16185,10 @@
             <t pos="V">bánccardit</t>
             <t pos="V">gišvvardit</t>
             <t pos="V">gincut</t>
+            <xg>
+               <x>Fisken spreller voldsomt.</x>
+               <xt>Guolli bánccarda sakka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20206,6 +20277,11 @@
             <re>om lyden som oppstår når noe støter mot noe annet</re>
             <t pos="V">julkit</t>
             <t pos="V">jullat</t>
+            <t pos="V">jupmat</t>
+            <xg>
+               <x>Lyden drønner i ørene mine.</x>
+               <xt>Jietna jupmá mu beljiide.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26492,6 +26568,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="forestille a9f5d551-7d0f-4039-8bb6-f3a68ce80bed">
             <t pos="V">govahallat</t>
+            <xg>
+               <x>Slik forestiller jordsalgssjefen i Finnmark situasjonen i framtida.</x>
+               <xt>Dán láhkai govahallá Finnmárkku eananvuovdinhoavda boahtteáiggi dili.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -32066,7 +32146,7 @@
       <mg>
          <tg xml:lang="sme" tw_id="felle 029b9baf-9ff5-40c8-8284-70c0440b95af">
             <re>få til å falle med øks</re>
-            <t pos="V">čuollat</t>
+            <t pos="V">čuohppat</t>
          </tg>
       </mg>
       <mg>
