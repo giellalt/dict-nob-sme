@@ -526,6 +526,7 @@
          <tg xml:lang="sme" tw_id="sitte d7501eec-ec49-48e2-b0a8-f0c0aea44e08">
             <re>sitte lenge</re>
             <t pos="V" src="fad">čohkohallat</t>
+            <t pos="V" src="fad">čohkohaddat</t>
             <t pos="V" src="fad">čohkkádit</t>
          </tg>
       </mg>
@@ -8417,6 +8418,16 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om stemmen</re>
+            <t pos="V">gálget</t>
+            <xg>
+               <x>Læreren klarer stemmen.</x>
+               <xt>Oahpaheaddji gálge čoddaga.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -13054,10 +13065,42 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="rekke c379a56f-c749-462d-881c-d204bc89c235">
+         <re>rekke fram fysisk</re>
             <t pos="V">olahit</t>
+            <xg>
+               <x>Ryggen rekker du ikke selv å vaske så godt.</x>
+               <xt>Sealggi don gal it olat ieš bassat nu bures.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>rekke i omfang</re>
             <t pos="V">ollit</t>
+            <xg>
+               <x>Markasamisk område rekker fra Ballangen i sør til Malangen i nord.</x>
+               <xt>Márkosámi guovlu ollá Bálága rájes máddin gitta Málatvuona rádjai davás.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>rekke i tid</re>
             <t pos="V">háhppehit</t>
-            <t pos="V">buvttihit</t>
+            <xg>
+               <x>Eleven rekker ikke å gjøre alle arbeidsoppgavene.</x>
+               <xt>Oahppi ii háhppet bargat buot bargobihtáid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>rekke mot noen</re>
+            <t pos="V">geaigguhit</t>
+            <xg>
+               <x>Jenta rakte igjen handa til henne.</x>
+               <xt>Nieida geaigguha vuot gieđa sutnje.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -16728,12 +16771,54 @@
    </e>
    <e>
       <lg>
+         <l pos="V">vrenge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">jorgut</t>
+            <xg>
+               <x>Mest interesse fikk de da de vrengte koftene sine.</x>
+               <xt>Eanemus beroštumi ožžo go jorgo gávttideaset.</xt>
+            </xg>
+            <xg>
+               <x>Hun hadde vrengt øynene, og så ut som et spøkelse der hun satt.</x>
+               <xt>Son lei jorgon čalmmiid, orui dego balddonas go nie čohkkái.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">folde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>om hender</re>
+            <t pos="V">roahkuhit</t>
+            <xg>
+               <x>Hver kveld foldet mor hendene hans, og Ábo sa etter mor si "Fader vår".</x>
+               <xt>Juohke eahket roahkuhii eadni su gieđaid, ja Ábo logai eatnis maŋis “Áhčči min”</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">glinse</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="glinse c5d50b83-2211-4af8-9c00-3459ad3ecee9">
             <t pos="V">šealgát</t>
             <t pos="V">deadjut</t>
+            <t pos="V">šoavvut</t>
+            <xg>
+               <x>Čáhcegiera šoavvu vuodjagoalkin ja šalladin dego speajal.</x>
+               <xt>Vannskorpa glinser blikkstille og slett som et speil.</xt>
+            </xg>
+            <xg>
+               <x>Bártnis leat guhkes čáhppes vuovttat mat šovvot go beaivvaš daidda báitá.</x>
+               <xt>Gutten har langt svart hår som glinser når sola skinner på det.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -17394,6 +17479,20 @@
          <tg xml:lang="sme" tw_id="godtgjøre 25642292-fa96-434b-b8f7-fac2ff2a31e0">
             <t pos="V">duođaštit</t>
          </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">søle til</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">durddidit</t>
+             <xg>
+               <x>Lillebroren hans har sølt kaviar på papirene hans.</x>
+               <xt>Su unnavieljaš lea durddidan su báhpáriidda kaviára.</xt>
+            </xg>
+        </tg>
       </mg>
    </e>
    <e>
@@ -30170,6 +30269,10 @@
          <tg xml:lang="sme" tw_id="summe seg d013c2c5-555a-4351-a7a8-f3512a872dcd">
             <t pos="V">dáikkihit</t>
             <t pos="V">dárránit</t>
+            <xg>
+               <x>Du må betale med penger, summet jeg meg å si.</x>
+               <xt>Don fertet ruđain máksit, dáikkihin dadjat.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
