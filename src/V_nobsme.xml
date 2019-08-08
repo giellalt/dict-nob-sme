@@ -3931,6 +3931,40 @@
    </e>
    <e>
       <lg>
+         <l pos="V">glippe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ut av handa</re>
+            <t pos="V">njalppehit</t>
+            <xg>
+               <x>Kniven kan glippe ut av handa hvis man er uheldig å hogge forkjært når kniven er ukvass.</x>
+               <xt>Niibi sáhttá njalppehit jos ribaha čuohpadettiin šleaivalit go niibi lea bastteheapme.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">komme til å gjøre noe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ufrivillig</re>
+            <t pos="V" src="fad">ribahit</t>
+            <xg>
+               <x>I går kveld mistet jeg å sove og ble derfor ikke å komme.</x>
+               <xt>Ikte eahkes mun ribahin nohkkat, inge šaddan boahtit.</xt>
+            </xg>
+            <xg>
+               <x>Elle mistet å le i kirka.</x>
+               <xt>Elle ribahii boagustit girkus.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">miste</l>
       </lg>
       <mg>
@@ -3945,7 +3979,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="miste 15cb46ae-287d-4c2d-b66d-03c9470c078f">
-            <re>komme til å gjøre noe mot sin vilje</re>
+            <re>komme til å gjøre noe ufrivillig</re>
             <t pos="V" src="fad">ribahit</t>
             <xg>
                <x>I går kveld mistet jeg å sove og ble derfor ikke å komme.</x>
@@ -4081,6 +4115,11 @@
       <mg>
          <tg xml:lang="sme" tw_id="beholde bfb29874-583b-4e80-a7f4-528b23fb6c2a">
             <t pos="V" src="fad">bisuhit</t>
+            <t pos="V">doalahit</t>
+            <xg>
+               <x>Dette er verdier som det er svært viktig å beholde også i framtida.</x>
+               <xt>Dát leat árvvut maid lea hui dehálaš bisuhit maid boahtteáiggis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10087,6 +10126,7 @@
          <tg xml:lang="sme" tw_id="bevare 678ab22e-618c-4efb-aea9-50b7c9d9e1aa">
             <re>opprettholde</re>
             <t pos="V" src="fad">bisuhit</t>
+            <t pos="V">doalahit</t>
          </tg>
       </mg>
       <mg>
@@ -12429,6 +12469,10 @@
             <re>holde fast på</re>
             <t pos="V" src="fad">doalahit</t>
             <t pos="V" src="fad">bisuhit</t>
+            <xg>
+               <x>Sametinget har likevel opprettholdt kravet sitt.</x>
+               <xt>Sámediggi lea dattege doalahan gáibádusas.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
