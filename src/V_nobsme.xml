@@ -7364,6 +7364,22 @@
             <t pos="V" src="fad">čuoččahit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>reise noe opp</re>
+            <t pos="V">cegget</t>
+            <xg>
+               <x>I tillegg foreslås det å reise et minnesmerke i Vardø for dem som ble dømt for hekseri.</x>
+               <xt>Dasa lassin evttohuvvo cegget muitobácci Várggáide sidjiide geat dubmehalle noaiddástallan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="reise noe opp fort 8ee0ec73-58fb-4f73-a9f5-0c38c92948bf">
+          <re>reise opp noe fort</re>  
+            <t pos="V">ceggestit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -22679,16 +22695,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gå framover</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gå framover 58d49c57-b614-4f1f-a150-6d3b4cd2e5a0">
-            <t pos="V">ovdánit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">avansere</l>
       </lg>
       <mg>
@@ -26568,10 +26574,20 @@
    </e>
    <e>
       <lg>
-         <l pos="V">reise noe opp fort</l>
+         <l pos="V">sette opp</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="reise noe opp fort 8ee0ec73-58fb-4f73-a9f5-0c38c92948bf">
+         <tg xml:lang="sme">
+            <t pos="V">cegget</t>
+            <xg>
+               <x>I de områdene er det vanskelig å sette opp gjerde.</x>
+               <xt>Dáidda eatnamiidda lea váttis cegget áiddi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+          <re>sette opp noe fort</re>  
             <t pos="V">ceggestit</t>
          </tg>
       </mg>
@@ -32367,6 +32383,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="stille a11ad850-4bc1-4d59-a4c3-a837b99ec0f8">
             <t pos="V">cegget</t>
+            <xg>
+               <x>Frie valg innebærer at man faktisk har rett til å stille hva slags lister man enn vil.</x>
+               <xt>Friija válggat dagahit ahte olbmos duohtavuođas lea vuoigatvuohta cegget justa dakkár listtu maid dáhttu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
