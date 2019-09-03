@@ -6059,12 +6059,6 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme" tw_id="løpe 135a1449-2530-41c3-9616-6a5d4bc70e84">
-            <re>få noen til å løpe</re>
-            <t pos="V">viegahit</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme" tw_id="løpe dbb56754-932e-444c-bfbe-bd6326a28574">
             <re>om firbeinte dyr</re>
             <t pos="V">ruohttat</t>
@@ -6072,6 +6066,30 @@
                <x>Hunden løp til skogs.</x>
                <xt>Beana ruohtai meahccái.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="løpe avgårde c4d6cd34-3cda-423f-8a94-30df2b8d6685">
+            <re>løpe avgårde, om tobeinte</re>
+            <t pos="V">viehkalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="løpe avgårde 023ceeae-d905-411d-ab39-56acd54c52ab">
+            <re>løpe avgårde, om firbeinte</re>
+            <t pos="V">ruohtastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>løpe avgårde, om tobeinte og firbeinte</re>
+            <t pos="V">čusket</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="løpe 135a1449-2530-41c3-9616-6a5d4bc70e84">
+            <re>få noen til å løpe</re>
+            <t pos="V">viegahit</t>
          </tg>
       </mg>
    </e>
@@ -9017,18 +9035,44 @@
          <tg xml:lang="sme" tw_id="springe 43e300d9-d59e-4f00-abb4-2086326a7285">
             <re>om tobeinte</re>
             <t pos="V" src="fad">viehkat</t>
+            <xg>
+               <x>Elle sprang over haugen.</x>
+               <xt>Elle viegai dievá badjel.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="springe eb24924e-8b1f-4040-90c4-d9abf69d89aa">
             <re>om firbeinte</re>
             <t pos="V" src="fad">ruohttat</t>
+            <xg>
+               <x>Hunden løp til skogs.</x>
+               <xt>Beana ruohtai meahccái.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="springe 8e2c5a25-f6bb-4fc7-b3e8-335b7f68b050">
             <re>springe avsted: om tobeinte</re>
             <t pos="V" src="fad">viehkalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>springe avgårde, om firbeinte</re>
+            <t pos="V">ruohtastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="springe av sted befc0f23-1080-4e63-9b0d-c084bc337584">
+            <re>springe avgårde, om tobeinte og firbeinte</re>
+            <t pos="V">čusket</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>få noen til å springe</re>
+            <t pos="V">viegahit</t>
          </tg>
       </mg>
       <mg>
@@ -13996,16 +14040,6 @@
                <x>Politiet vinket bilen til parkeringen.</x>
                <xt>Politiija seavvilii biilla luoddagurrii.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">springe av sted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="springe av sted befc0f23-1080-4e63-9b0d-c084bc337584">
-            <t pos="V">čusket</t>
          </tg>
       </mg>
    </e>
@@ -23131,23 +23165,6 @@
          <tg xml:lang="sme" tw_id="klø 51bbcd93-49f1-47a2-9f80-dc3ad0b02313">
             <re>transitiv: å klø noe litt</re>
             <t pos="V">ruohkastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">løpe avgårde</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="løpe avgårde c4d6cd34-3cda-423f-8a94-30df2b8d6685">
-            <re>om tobeinte</re>
-            <t pos="V">viehkalit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="løpe avgårde 023ceeae-d905-411d-ab39-56acd54c52ab">
-            <re>om firebeinte</re>
-            <t pos="V">ruohtastit</t>
          </tg>
       </mg>
    </e>
