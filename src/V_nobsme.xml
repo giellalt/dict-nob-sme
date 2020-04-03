@@ -9828,11 +9828,15 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="gå c156ca7a-b849-4ba6-8f64-e94d6c34d9be">
-            <re>fare</re>
+            <re>fare, passere</re>
             <t pos="V" src="fad">mannat</t>
             <xg>
                <x>Gå hjem!</x>
                <xt>Mana ruoktot!</xt>
+            </xg>
+            <xg>
+               <x>Veien går forbi både skolen og ungdomsklubben.</x>
+               <xt>Luodda manná sihke skuvlla ja nuoraidklubba meaddel.</xt>
             </xg>
          </tg>
       </mg>
@@ -9843,6 +9847,20 @@
             <xg>
                <x>I dag går jeg fort til jobb, fordi jeg har det travelt.</x>
                <xt>Odne mun váccán johtilit bargui, go mus lea hoahppu.</xt>
+            </xg>
+            <xg>
+               <x>Langs denne veien går det mange barn og unge.</x>
+               <xt>Dán luotta mielde vázzet olu mánát ja nuorat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå 58b595e8-f39d-432f-b12c-5a0364e18fc8">
+            <re>gå på skole</re>
+            <t pos="V" src="fad">vázzit</t>
+            <xg>
+               <x>Elle går på skole i nabobygda.</x>
+               <xt>Elle vázza skuvlla ránnjágilis.</xt>
             </xg>
          </tg>
       </mg>
@@ -9877,18 +9895,6 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme" tw_id="gå 915d033a-7d87-4174-a56a-4116407c45ed">
-            <re>gå fra en stilling, slutte</re>
-            <t pos="V" src="fad">luohpat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gå fc198a6f-2926-4c51-b1a7-82b60fe9a8f5">
-            <re>gå avsted</re>
-            <t pos="V" src="fad">vázzilit</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme" tw_id="gå 1568d28c-5570-4d82-bd40-d875e254ad98">
             <re>gå fort, om tid</re>
             <t pos="V">golihit</t>
@@ -9904,16 +9910,73 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme" tw_id="gå a8a1c151-6d9a-4122-ac07-69c18283e0e5">
-            <re>gå sakte, om firbeinte dyr</re>
-            <t pos="V">oahkut</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme" tw_id="gå 034de402-5e57-4c25-87e1-464cff374032">
             <re>begynne å gå</re>
             <t pos="V">vázzilit</t>
             <t pos="V">vázzát</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
+            <re>gå i mot</re>
+            <t pos="V">vuostálastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
+            <re>gå på ski</re>
+            <t pos="V">čuoigat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
+            <re>gå på skøyter</re>
+            <t pos="V">luistet</t>
+            <t pos="V">skeittástallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
+            <re>gå ned</re>
+            <t pos="V">njiedjat</t>
+            <t pos="V">luoitádit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
+            <re>gå opp</re>
+            <t pos="V">loktanit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
+            <re>gå ned i vekt</re>
+            <t pos="V">geahpput</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
+            <re>gå opp i vekt</re>
+            <t pos="V">lossut</t>
+         </tg>
+      </mg>      
+      <mg>
+         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
+            <re>gå konkurs</re>
+            <t pos="V">reastaluvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
+            <re>gå i stykker</re>
+            <t pos="V">bieđganit</t>
+            <t pos="V">cuovkanit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="gå 915d033a-7d87-4174-a56a-4116407c45ed">
+            <re>gå fra en stilling, slutte</re>
+            <t pos="V" src="fad">luohpat</t>
          </tg>
       </mg>
       <mg>
@@ -9924,9 +9987,9 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme" tw_id="gå i mot caf35a0e-8c90-4f77-a8b4-d52f61ab85b0">
-            <re>gå i mot</re>
-            <t pos="V">vuostálastit</t>
+         <tg xml:lang="sme" tw_id="gå a8a1c151-6d9a-4122-ac07-69c18283e0e5">
+            <re>gå sakte, om firbeinte dyr</re>
+            <t pos="V">oahkut</t>
          </tg>
       </mg>
    </e>
