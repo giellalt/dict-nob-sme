@@ -10,28 +10,24 @@
             <t pos="V">leat</t>
             <t pos="V">leahkit</t>
             <xg>
-               <x>Jeg er forfatter og fotograf.</x>
-               <xt>Mun lean girječálli ja govvejeaddji.</xt>
-            </xg>
-            <xg>
-               <x>Jeg er sulten.</x>
-               <xt>Mus lea borranmiella.</xt>
-            </xg>
-            <xg>
-               <x>Du er 15 år.</x>
-               <xt>Don leat 15 jagi boaris.</xt>
+               <x>Jeg er 15 år.</x>
+               <xt>Mun lean 15 jagi boaris.</xt>
             </xg>
             <xg>
                <x>Du er flink.</x>
                <xt>Don leat čeahppi.</xt>
             </xg>
             <xg>
-               <x>Han var redaktør for Nuorttanaste i 32 år.</x>
-               <xt>Son lei Nuorttanaste doaimmaheaddji 32 jagi.</xt>
+               <x>Dere er flinke.</x>
+               <xt>Dii lehpet čeahpit.</xt>
             </xg>
             <xg>
                <x>Søstera mi er sametingsrepresentant.</x>
                <xt>Mu oabbá lea sámediggeáirras.</xt>
+            </xg>
+            <xg>
+               <x>Han var redaktør for Nuorttanaste i 32 år.</x>
+               <xt>Son lei Nuorttanaste doaimmaheaddji 32 jagi.</xt>
             </xg>
             <xg>
                <x>Boken er min.</x>
@@ -50,20 +46,24 @@
                <xt>Lea leamaš guhkes dálvi.</xt>
             </xg>
             <xg>
-               <x>Du må være forsiktig.</x>
-               <xt>Don fertet leahkit várrogas.</xt>
+               <x>Jeg er sulten.</x>
+               <xt>Mus lea borranmiella.</xt>
             </xg>
             <xg>
-               <x>Dere må være forsiktige.</x>
-               <xt>Dii fertebehtet leahkit várrogasat.</xt>
+               <x>Du må være forsiktig.</x>
+               <xt>Don fertet leahkit várrogas.</xt>
             </xg>
             <xg>
                <x>Bedriften skal være en lokal avdeling.</x>
                <xt>Fitnodat galgá leat báikkálaš ossodat.</xt>
             </xg>
             <xg>
-               <x>vær så snill</x>
-               <xt>leage nu siivui</xt>
+               <x>Vær så snill og fortell meg et eventyr til, ba Petter bestemor.</x>
+               <xt>Leage nu siivui ja muital munnje ovtta vel muitalusa, logai Biera áhkkui.</xt>
+            </xg>
+            <xg>
+               <x>Vær så snill og hjelp meg, sa pasienten til legene.</x>
+               <xt>Lehket nu siivut ja veahkehehket mu, logai pasieanta doaktáriidda.</xt>
             </xg>
          </tg>
       </mg>
@@ -13651,22 +13651,44 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="ha 08d219ed-20e3-4534-b126-ad0ab8a041e6">
-            <t pos="V">lea</t>
+            <t pos="V">leat</t>
             <xg>
                <x>Jeg har en bil.</x>
                <xt>Mus lea biila.</xt>
             </xg>
             <xg>
+               <x>Jeg har et hus.</x>
+               <xt>Mus lea viessu.</xt>
+            </xg>
+            <xg>
+               <x>Anne har tre barn.</x>
+               <xt>Ánnes leat golbma máná.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t type="expl">(hjelpeverb)</t>
+            <xg>
                <x>Jeg har kjøpt bil.</x>
                <xt>Mun lean oastán biilla.</xt>
+            </xg>
+            <xg>
+               <x>De hadde sovet lenge.</x>
+               <xt>Sii ledje oađđán guhká.</xt>
+            </xg>
+            <xg>
+               <x>Han har blitt rik.</x>
+               <xt>Son lea riggon.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="ha cd6a1090-9b0a-4421-b15e-d764312d84f5">
+            <re>om å eie</re>
             <t pos="V">oamastit</t>
             <xg>
-               <x>Jeg har (eier) et hus.</x>
+               <x>Jeg har et hus.</x>
                <xt>Mun oamastan viesu.</xt>
             </xg>
          </tg>
