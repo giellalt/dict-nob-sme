@@ -10,6 +10,7 @@ xml:lang ( nob ) #IMPLIED
 src CDATA #IMPLIED
 usage CDATA #IMPLIED
 mg_c CDATA #IMPLIED
+note CDATA #IMPLIED
 >
 
 <!ELEMENT lg  ( l , lsub? )>
