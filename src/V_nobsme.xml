@@ -1187,7 +1187,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="besøke 5d5f98d8-8b2b-43c8-8027-0b88ba8b382b">
             <t pos="V">gallestallat</t>
-            <t pos="V">gallet</t>
             <t pos="V" src="fad">galledit</t>
             <t pos="V" src="fad">finadit</t>
          </tg>
@@ -3393,7 +3392,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="vare 81bff9be-1a72-4401-9673-b888693e2694">
-            <t pos="V">bindit</t>
             <t pos="V" src="fad">bistit</t>
             <xg>
                <x>Arrangementet begynner kl. 12 og varer til halv fem.</x>
@@ -4964,12 +4962,20 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="oppleve bcc186df-3ce5-4c1c-ab11-1bcd1d981fae">
-            <t pos="V">feret</t>
             <t pos="V" src="fad">vásihit</t>
-            <t pos="V" src="fad">muosáhit</t>
             <xg>
-               <x>Han har opplevd mye rart.</x>
-               <xt>Dat lea máŋgga láhkai feren.</xt>
+               <x>Men jenta hadde opplevd dette så ofte, ante hun visste hvordan det er.</x>
+               <xt>Muhto nieida lei vásihan dán nu dávjá, ahte diđii movt lea.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="fad">muosáhit</t>
+         <re>smake, prøve</re>
+            <xg>
+               <x>Mor sitter ja venter på å få oppleve smålaks som har kommet opp elva denne våren.</x>
+               <xt>Eadni čohkohallá ja vuorddaša muosáhit dán giđa gorgŋon ditti.</xt>
             </xg>
          </tg>
       </mg>
@@ -4977,6 +4983,16 @@
          <tg xml:lang="sme" tw_id="oppleve noe ubehagelig dc0a5a35-fe79-4822-9e02-33195e78eb28">
          <re>oppleve noe ubehagelig</re>
             <t pos="V">válbbáskit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>oppleve litt av hvert</re>
+            <t pos="V">feret</t>
+            <xg>
+               <x>Han har opplevd mye rart.</x>
+               <xt>Dat lea máŋgga láhkai feren.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8686,9 +8702,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="holde seg 3ecfe1fe-ff69-415b-b48c-79280135482f">
-            <re>vare, holde ut</re>
+            <re>vare</re>
             <t pos="V">bissut</t>
-            <t pos="V">bindit</t>
          </tg>
       </mg>
       <mg>
@@ -8707,7 +8722,17 @@
             </xg>
          </tg>
       </mg>
-   </e>
+       <mg>
+         <tg xml:lang="sme" tw_id="holde seg 3ecfe1fe-ff69-415b-b48c-79280135482f">
+            <re>holde seg til tross for</re>
+            <t pos="V">bindit</t>
+            <xg>
+               <x>Man holder seg ikke lenge når man er i hardt arbeid.</x>
+               <xt>Ii olmmoš bindde guhká garra bargguid siste.</xt>
+            </xg>
+         </tg>
+      </mg>
+  </e>
    <e>
       <lg>
          <l pos="V">stanse</l>
@@ -20035,19 +20060,21 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="kle på seg 04652aa6-df7c-4bd7-954c-b9a313f70756">
+	         <re>intransitivt</re>
             <t pos="V">gárvodit</t>
             <xg>
-               <x>Go lea buolaš, de ferte bures gárvodit.</x>
-               <xt>Når det er frost, så må man kle på seg godt.</xt>
+               <x>Når det er frost, så må man kle på seg godt.</x>
+               <xt>Go lea buolaš, de ferte bures gárvodit.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="kle på seg 04652aa6-df7c-4bd7-954c-b9a313f70756">
+	         <re>transitivt</re>
             <t pos="V">coggat</t>
             <xg>
-               <x>Mun cokkan báiddi ja buvssaid.</x>
-               <xt>Jeg kler på meg skjorte og bukser.</xt>
+               <x>Jeg kler på meg skjorte og bukser.</x>
+               <xt>Cokkan báiddi ja buvssaid.</xt>
             </xg>
          </tg>
       </mg>
@@ -25108,7 +25135,20 @@
       <mg>
          <tg xml:lang="sme" tw_id="erfare bff4d62d-37fb-4bb1-a255-3a0ebf3644c4">
             <t pos="V">vásihit</t>
+            <xg>
+               <x>Men jenta hadde opplevd dette så ofte, ante hun visste hvordan det er.</x>
+               <xt>Muhto nieida lei vásihan dán nu dávjá, ahte diđii movt lea.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="erfare bff4d62d-37fb-4bb1-a255-3a0ebf3644c4">
+	         <re>lære å kjenne</re>
             <t pos="V">dovddiidit</t>
+            <xg>
+               <x>Jeg har erfart lydene i naturen i nordområdene.</x>
+               <xt>Mun lean dovddiidan davviguovllu luonddu jienaide.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
