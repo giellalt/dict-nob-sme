@@ -1163,18 +1163,41 @@
    </e>
    <e>
       <lg>
-         <l pos="A">rørt</l>
+         <l pos="A">beveget</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="rørt 90947b2e-9bc0-4d91-9e81-c558d3a3b5bb">
-            <t pos="V" type="Prfprc">njuorrasan</t>
+         <tg xml:lang="sme" tw_id="rørt 752d3d63-8fc6-4937-8e16-28e7dbf20a17">
+            <re>bli beveget</re>
+            <t pos="V">njuorrasit</t>
+            <t pos="V">njuorasmuvvat</t>
+            <xg>
+               <x>Jeg blir så beveget nå jeg ser og hører hvor flink hun er.</x>
+               <xt>Mun nu njuorrasan go oainnán ja gulan man čeahppi son lea.</xt>
+            </xg>
+            <xg>
+               <x>Ordføreren i Tromsø blei beveget da han fikk gaven.</x>
+               <xt>Romssa sátnejođiheaddji njuorasmuvai go oaččui skeaŋkka.</xt>
+            </xg>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rørt</l>
+      </lg>
       <mg>
          <tg xml:lang="sme" tw_id="rørt 752d3d63-8fc6-4937-8e16-28e7dbf20a17">
             <re>bli rørt</re>
             <t pos="V">njuorrasit</t>
             <t pos="V">njuorasmuvvat</t>
+            <xg>
+               <x>Jeg blir så rørt nå jeg ser og hører hvor flink hun er.</x>
+               <xt>Mun nu njuorrasan go oainnán ja gulan man čeahppi son lea.</xt>
+            </xg>
+            <xg>
+               <x>Ordføreren i Tromsø blei rørt da han fikk gaven.</x>
+               <xt>Romssa sátnejođiheaddji njuorasmuvai go oaččui skeaŋkka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -4755,6 +4778,32 @@
    </e>
    <e>
       <lg>
+         <l pos="A">mismodig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="mismodig 892899ee-118f-4714-b83c-5313082e0e27">
+            <re>bli mismodig</re>
+            <t pos="A">hurvvagit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">betent</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="betent 59eab437-f04a-49f8-b6e0-f8ac56d388e9">
+            <re>bli betent</re>
+            <t pos="V">vuolšut</t>
+            <xg>
+               <x>Nå er det ikke annet enn å håpe at såret gror og ikke blir betent.</x>
+               <xt>Dál ii leat go sávvat, ahte hávvi savvo iige vuolššo.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">fattig</l>
       </lg>
       <mg>
@@ -7305,6 +7354,20 @@
             <re>sette seg fast</re>
             <t pos="V">darvánit</t>
             <t pos="V">giddanit</t>
+            <xg>
+               <x>I torskegarnene satte bare krabber seg fast.</x>
+               <xt>Dorskefirpmiide darvánedje dušše reappát.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="sette seg fast 747fb329-0a5c-46ff-b8fb-b148725fec7d">
+            <re>sette seg fast i botn av vann, sjø eller elv</re>
+            <t pos="V">vievgŋat</t>
+            <xg>
+               <x>Sluken satte seg fast i botn.</x>
+               <xt>Vuogga vievŋŋai.</xt>
+            </xg>
          </tg>
       </mg>
    </e>

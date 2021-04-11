@@ -165,21 +165,6 @@
    </e>
    <e>
       <lg>
-         <l pos="A">betent</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="betent 59eab437-f04a-49f8-b6e0-f8ac56d388e9">
-            <re>bli betent</re>
-            <t pos="V">vuolšut</t>
-            <xg>
-               <x>Nå er det ikke annet enn å håpe at såret gror og ikke blir betent.</x>
-               <xt>Dál ii leat go sávvat, ahte hávvi savvo iige vuolššo.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">jåle</l>
       </lg>
       <mg>
@@ -199,17 +184,6 @@
                <x>Den siste delen av turen babler de sammen med gretten stemme.</x>
                <xt>Loahppamátkki soai buljardeaba gaskaneaskka erdon jienain.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">mismodig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="mismodig 892899ee-118f-4714-b83c-5313082e0e27">
-            <re>bli mismodig</re>
-            <t pos="A">hurvvagit</t>
          </tg>
       </mg>
    </e>
@@ -251,30 +225,6 @@
             <xg>
                <x>Gutten nøler, men følger likevel vennen sin.</x>
                <xt>Bárdni mahkaluššá, muhto čuovvula goittot verddes.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">sette seg fast</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">darvánit</t>
-            <xg>
-               <x>I torskegarnene satte bare krabber seg fast.</x>
-               <xt>Dorskefirpmiide darvánedje dušše reappát.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="sette seg fast 747fb329-0a5c-46ff-b8fb-b148725fec7d">
-            <re>i botn av vann, sjø eller elv</re>
-            <t pos="V">vievgŋat</t>
-            <xg>
-               <x>Sluken satte seg fast i botn.</x>
-               <xt>Vuogga vievŋŋai.</xt>
             </xg>
          </tg>
       </mg>
@@ -552,7 +502,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="rulle 4b846e6d-23e3-4a05-ba2c-800bbe3b584f">
-            <re>rulle av seg selv</re>
+            <re>intransitiv: rulle av seg selv</re>
             <t pos="V">fierrat</t>
             <t pos="V" src="fad">jorrat</t>
             <xg>
@@ -563,7 +513,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="rulle a1628268-d000-48db-bc91-3b74862b3f2b">
-            <re>få noe til å rulle</re>
+            <re>transitiv: få noe til å rulle</re>
             <t pos="V">fierahit</t>
             <xg>
                <x>Inga ruller ballen.</x>
@@ -573,13 +523,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="rulle 60ecfedf-4ed0-4857-a7ce-0c7aa6c89a3a">
-            <re>rulle seg</re>
+            <re>intransitiv: rulle seg</re>
             <t pos="V">fieradit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="rulle 09b7b8ac-445e-4925-b72c-a695d7610d06">
-            <re>plutselig rulle av seg selv</re>
+            <re>intransitiv: plutselig rulle av seg selv</re>
             <t pos="V">fierralit</t>
          </tg>
       </mg>
@@ -950,6 +900,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="knekke 6bec1383-6c4c-4c31-a692-6e3be24cd526">
+            <re>transitivt</re>
             <t pos="V">doadjit</t>
          </tg>
       </mg>
@@ -957,6 +908,12 @@
          <tg xml:lang="sme" tw_id="knekke b4907c1b-7b23-438b-a668-6b19e62f7766">
             <re>få noen til å føle seg mislykket</re>
             <t pos="V" src="fad">vuollánahttit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>intransitivt</re>
+            <t pos="V">doddjot</t>
          </tg>
       </mg>
    </e>
@@ -1094,6 +1051,11 @@
             <t pos="V" src="fad">gahččat</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">falde</l>
+      </lg>
       <mg>
          <tg xml:lang="sme" tw_id="falle 0c4bb60e-7645-44b0-8fae-aace61bec62a">
           <re>om søm</re>
@@ -1145,13 +1107,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="fryse 2816f410-d491-4434-8fe8-4d9219ddba4f">
-            <re>få til å fryse</re>
+            <re>transitiv: få til å fryse</re>
             <t pos="V" src="fad">galmmihit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>fryse ned noe</re>
+            <re>transitiv: fryse ned noe</re>
             <t pos="V">galmmihit</t>
             <xg>
                <x>Jeg hadde allerede partert skrottene, og nå holdt jeg på å skære dem i mindre biter før jeg fryser dem.</x>
@@ -1427,6 +1389,36 @@
          <tg xml:lang="sme" tw_id="forsvinne c1b866c8-8803-43c3-a9b3-f8321732f192">
             <re>gjøre at noe forsvinner</re>
             <t pos="V">áibadit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">grynne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">gállit</t>
+            <xg>
+               <x>Det var ganske tungt å grynne i dypsnøen.</x>
+               <xt>Lei oba lossat obbasa gállit.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vade</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="fad">gállit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>holde på å vade</re>
+            <t pos="V">gálašit</t>
          </tg>
       </mg>
    </e>
@@ -2435,6 +2427,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="klikke 1a333f02-e997-41ce-9d2b-60cc737231e6">
+	         <re>transitivt</re>
             <t pos="V">coahkkalit</t>
             <t pos="V" src="fad">deaddilit</t>
          </tg>
@@ -2446,6 +2439,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="starte ae9f1bf1-2e1d-41b3-a22d-ea6294414e13">
+            <re>intransitivt</re>
             <t pos="V">álgit</t>
             <xg>
                <x>Duommá har akkurat begynt på skolen.</x>
@@ -2459,7 +2453,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="starte 22429c11-5f7c-4727-bed0-6314b6ddc711">
-            <re>sette i gang noe</re>
+            <re>transitiv: sette i gang noe</re>
             <t pos="V" src="fad">álggahit</t>
             <xg>
                <x>Du kan starte din egen bedrift.</x>
@@ -2819,7 +2813,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-         <re>svinge </re>
+         <re>endre seg</re>
             <t pos="V">rievddadit</t>
             <xg>
                <x>Elevtallet svinger nokså mye fra år til år.</x>
@@ -2897,6 +2891,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="pumpe 135db039-770e-4620-b57f-781245812b3a">
+	         <re>transitivt</re>
             <t pos="V">bumpet</t>
             <t pos="V" src="fad">bohčit</t>
          </tg>
@@ -3406,7 +3401,18 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="stemme 47a1808a-3321-4c0a-ac0f-f3b2fe7a49c2">
+	         <re>om å avgi stemme</re>
             <t pos="V" src="fad">jienastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="stemme 47a1808a-3321-4c0a-ac0f-f3b2fe7a49c2">
+	         <re>om å være korrekt</re>  
+            <t pos="Phrase">doallat deaivása</t>
+            <xg>
+               <x>Det der stemmer ikke, det er bare sladder.</x>
+               <xt>Diet ii doallan deaivása, dat lei dušše golgosáhka.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -3416,13 +3422,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="leie av noen 0e70861a-32eb-42db-8a81-b0bcfcacb191">
-            <re>leie noe av noen</re>
+            <re>om å leie noe av noen</re>
             <t pos="V">láigohit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="leie 50f3897c-5c96-4cf8-b0bc-0e2aa73257de">
-            <re>holde i hånden</re>
+            <re>om å holde i hånden</re>
             <t pos="V" src="fad">láidet</t>
          </tg>
       </mg>
@@ -6011,7 +6017,7 @@
    </e>
    <e>
       <lg>
-         <l pos="">gifte seg</l>
+         <l pos="Phrase">gifte seg</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="gifte seg 7108d8c2-bd32-4cf5-a6d7-9abaeab0fcc2">
@@ -7549,7 +7555,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="reise a3106550-6f75-49c1-a5d2-127908e19375">
-            <re>refleksivt: reise seg opp</re>
+            <re>refleksiv: reise seg opp</re>
             <t pos="V" src="fad">čuoččahit</t>
          </tg>
       </mg>
@@ -7886,14 +7892,14 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="røre 4744da8e-6b5d-44a9-984b-bfd39dd49118">
-            <re>berøre, ta i, en gang</re>
+            <re>transitiv: berøre en gang</re>
             <t pos="V">guoskkahit</t>
             <t pos="V">lihkahit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>berøre</re>
+            <re>transitivt</re>
             <t pos="V">guoskat</t>
               <xg>
                  <x>Barnet spiste mange loffskiver, men rørte ikke kjekspakken.</x>
@@ -7903,7 +7909,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="røre f195b8ff-40b8-4bbb-98d6-cf4779b1c5a2">
-            <re>bevege, lee, en gang</re>
+            <re>transitiv: bevege en gang</re>
             <t pos="V">lihkahit</t>
             <t pos="V">lihkastit</t>
          </tg>
@@ -7912,6 +7918,16 @@
          <tg xml:lang="sme" tw_id="røre 80bc0677-3689-4197-b58f-fe44b4978753">
             <re>gripe, bevege sjelelig</re>
             <t pos="V" src="fad">njuorasmahttit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="røre 80bc0677-3689-4197-b58f-fe44b4978753">
+            <re>transitiv: røre rundt</re>
+            <t pos="V">fierrut</t> 
+            <xg>
+               <x>Deretter rører jeg tyttebæra med sokker og legger dem i fryseren.</x>
+               <xt>Dasto fierun joŋaid sohkkariin ja bijan daid galmmihanbumbái.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8723,7 +8739,7 @@
    </e>
    <e>
       <lg>
-         <l pos="">holde seg</l>
+         <l pos="Phrase">holde seg</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="holde seg 3ecfe1fe-ff69-415b-b48c-79280135482f">
@@ -8919,14 +8935,9 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="">komme ut</l>
-      </lg>
       <mg>
          <tg xml:lang="sme" tw_id="komme 7468a6b8-2e1a-4367-942d-f23a59564470">
-            <re>om utgivelse</re>
+            <re>komme ut, om utgivelse</re>
             <t pos="V" src="fad">ilbmat</t>
             <xg>
                <x>Tekstene kommer snart ut som bok.</x>
@@ -14564,7 +14575,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="bevege b6e372d1-1757-462f-8e27-93238b6000d0">
-            <re>flere ganger</re>
+            <re>transitiv: bevege noe flere ganger</re>
             <t pos="V">lihkahallat</t>
             <xg>
                <x>Katten beveget på ørene.</x>
@@ -14580,14 +14591,18 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="bevege cde4365a-a704-47af-86d9-42bb89bec89a">
-            <re>en gang</re>
-            <t pos="V">lihkastit</t>
+            <re>transitiv: bevege noe en gang</re>
             <t pos="V">lihkahit</t>
+            <t pos="V">lihkastit</t>
+            <xg>
+               <x>Den ene foten min var gipset og jeg kunne ikke bevege den foten.</x>
+               <xt>Mus lei gipsejuvvon nubbi juolgi in ge sáhttán lihkahit dan juolggi.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>bevege sjelelig</re>
+            <re>transitiv: bevege noe sjelelig</re>
             <t pos="V">njuorasmahttit</t>
               <xg>
                  <x>Pirttijärvi sine joiker kan bevege og oppmuntre.</x>
