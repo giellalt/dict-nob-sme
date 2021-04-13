@@ -4003,6 +4003,18 @@
             <t pos="V" src="fad">bassat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="vaske seg 3d751ff0-f310-42b6-a1cd-4fad2640c898">
+            <re>om å vaske seg</re>
+            <t pos="V">basadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="vaske tøy ffae466c-d65d-4696-a24c-8f2f41d2f086">
+            <re>om å vaske tøy</re>
+            <t pos="V">bassaladdat</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15397,26 +15409,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="sysselsette 885975f5-7842-4cac-a4e1-f842bd8baef4">
             <t pos="V">barggahit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">vaske seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="vaske seg 3d751ff0-f310-42b6-a1cd-4fad2640c898">
-            <t pos="V">basadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">vaske tøy</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="vaske tøy ffae466c-d65d-4696-a24c-8f2f41d2f086">
-            <t pos="V">bassaladdat</t>
          </tg>
       </mg>
    </e>
@@ -27378,7 +27370,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ta seg en blund</l>
+         <l pos="V">blunde</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="ta seg en blund cead3fea-46c2-4be4-82ab-774d260eb3b7">
@@ -27463,16 +27455,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="krype gjennom 2a7ae10c-2489-4b62-9f21-20c7f7a5a361">
             <t pos="V">suotnjat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">lukte på lenge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="lukte på lenge 1048bf61-5baa-416e-a5de-03d6f049d55e">
-            <t pos="V">susttašit</t>
          </tg>
       </mg>
    </e>
@@ -30725,6 +30707,12 @@
          <tg xml:lang="sme" tw_id="snuse på 92834341-6129-49ba-910c-1a0c8c4bda9b">
             <re>lukte på</re>
             <t pos="V">sustilit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="lukte på lenge 1048bf61-5baa-416e-a5de-03d6f049d55e">
+            <re>lukte på lenge</re>
+            <t pos="V">susttašit</t>
          </tg>
       </mg>
    </e>
@@ -36678,7 +36666,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="snuse ec920dd2-75ff-4ced-9070-305f6c2678db">
-            <re>om tobakk</re>
+            <re>om å tobakk</re>
             <t pos="V">snuvsset</t>
          </tg>
       </mg>
