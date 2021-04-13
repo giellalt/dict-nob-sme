@@ -4901,17 +4901,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">trenge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="trenge ddb9209a-58db-42c1-bc2f-70a273f17587">
-            <t pos="V">dárbbahit</t>
-            <t pos="V" src="fad">dárbbašit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">svare</l>
       </lg>
       <mg>
@@ -5402,7 +5391,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="kastrere rein b1766e9a-c2b6-4228-b418-37a99417576b">
-         <re>kastrere rein</re>
+         <re>om å kastrere rein</re>
             <t pos="V">gáskit</t>
          </tg>
       </mg>
@@ -7548,20 +7537,20 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme" tw_id="reise eb2b8de0-be0d-4fc6-8113-acb3bba906ae">
-            <re>rette, sette opp; stille</re>
-            <t pos="V" alt_str="čuoččaldahttit" src="fad">čuoččáldahttit</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme" tw_id="reise a3106550-6f75-49c1-a5d2-127908e19375">
             <re>refleksiv: reise seg opp</re>
             <t pos="V" src="fad">čuoččahit</t>
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme" tw_id="reise eb2b8de0-be0d-4fc6-8113-acb3bba906ae">
+            <re>transitiv: rette, sette opp; stille</re>
+            <t pos="V" alt_str="čuoččaldahttit" src="fad">čuoččáldahttit</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme">
-         <re>reise noe opp</re>
+         <re>transitiv: reise noe opp</re>
             <t pos="V">cegget</t>
             <xg>
                <x>I tillegg foreslås det å reise et minnesmerke i Vardø for dem som ble dømt for hekseri.</x>
@@ -7571,7 +7560,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="reise noe opp fort 8ee0ec73-58fb-4f73-a9f5-0c38c92948bf">
-          <re>reise opp noe fort</re>
+          <re>transitiv: reise opp noe fort</re>
             <t pos="V">ceggestit</t>
          </tg>
       </mg>
@@ -7622,31 +7611,31 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="slå 4eb68dac-df70-4a6f-a521-e41c137ba0e1">
-            <re>gi slag</re>
+            <re>transitiv: gi slag</re>
             <t pos="V" src="fad">časkit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå 49ff6c4e-7122-43bb-b045-324b656b10ba">
-            <re>slå sammen</re>
+            <re>transitiv: slå sammen</re>
             <t pos="Phrase">časkit oktii</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå f674f8b4-3477-479a-b30f-da93284c9643">
-            <re>gi slag flere ganger</re>
+            <re>transitiv: gi slag flere ganger</re>
             <t pos="V">huškut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå 0d311ec7-7654-4530-aedc-e1412d639360">
-            <re>beseire</re>
+            <re>transitiv: beseire</re>
             <t pos="V" src="fad">časkit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå 40251d92-64f5-41db-9de0-b681002599a0">
-            <re>slå med redskap</re>
+            <re>transitiv: slå med redskap</re>
             <t pos="V">dearpat</t>
             <xg>
                <x>Hjertet mitt slår hardt som om noen slår med slegge.</x>
@@ -7656,7 +7645,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå 948eb466-0c29-4368-a708-7825dc8cba46">
-            <re>slå, jule, banke</re>
+            <re>transitiv: slå, jule, banke</re>
             <t pos="V" src="fad" alt_str="cápmit">cábmit</t>
             <xg>
                <x>Vi må slå sennagresset mot spikerfjøl, for å myke de opp.</x>
@@ -7666,23 +7655,23 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå 5e54a5f5-91ea-48b2-87c8-439c53ff6e54">
-            <re>applaudere</re>
+            <re>transitiv: klappe, daske</re>
             <t pos="V">speažžut</t>
             <xg>
-               <x/>
-               <xt/>
+               <x>Folk lo og klappet i hendene.</x>
+               <xt>Olbmot boagustedje ja spežžo gieđaid.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå c47c7fc9-6cd9-4f85-8b21-56e93758b7cd">
-            <re>gi slag en gang</re>
+            <re>transitiv: gi slag en gang</re>
             <t pos="V">huškkastit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå 6f0a8f19-e115-49a3-b82e-447acf6fc178">
-            <re>om hjerteslag</re>
+            <re>intransitiv: om hjerteslag</re>
             <t pos="V">ravkit</t>
             <xg>
                <x>Hjertet slår i brystet.</x>
@@ -7692,7 +7681,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om harde hjerteslag</re>
+            <re>intransitiv: om harde hjerteslag</re>
             <t pos="V">julkit</t>
             <xg>
                <x>Hjertet mitt slår hardt som om noen slår med slegge.</x>
@@ -7702,26 +7691,40 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå adc07454-258d-4fcc-b6b3-c695d3663ba2">
-            <re>slå el. hamre svært høylytt</re>
+            <re>transitiv: slå el. hamre svært høylytt</re>
             <t pos="V">meaidit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå 4ca88d4d-60cb-4b3a-92cb-58e11df32c19">
-            <re>slå ut en gang</re>
+            <re>transitiv: slå ut en gang</re>
             <t pos="V">šávget</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå f5a19fb3-175b-4943-9d53-3c0373dca28b">
-            <re>slå ut store mengder</re>
+            <re>transitiv: slå ut store mengder</re>
             <t pos="V">šávgut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="slå eb944c2d-0879-42bd-a921-ab96e452804c">
-            <re>slå så det smeller</re>
+            <re>transitiv: slå så det smeller</re>
             <t pos="V">roaškut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">applaudere</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Phrase">speažžut gieđaid</t>
+            <xg>
+               <x>Folk lo og applauderte.</x>
+               <xt>Olbmot boagustedje ja spežžo gieđaid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10515,7 +10518,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="henge 2b57df92-4168-4f03-b990-507a607b6019">
-            <re>være festet</re>
+            <re>intransitiv: være festet</re>
             <t pos="V">sorját</t>
             <t pos="V" src="fad">heaŋgát</t>
             <xg>
@@ -10526,7 +10529,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="henge c0316682-7b5c-4f6a-8a12-47e29a6b354f">
-            <re>få til å henge</re>
+            <re>transitiv: få til å henge</re>
             <t pos="V" src="fad">heŋget</t>
             <t pos="V" src="fad">heaŋgut</t>
             <t pos="V">sorjalit</t>
@@ -10534,7 +10537,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="henge a7b69b99-9ed6-4dbf-8cf5-cdad521e972b">
-            <re>drepe ved henging</re>
+            <re>transitiv: drepe ved henging</re>
             <t pos="V">harcet</t>
          </tg>
       </mg>
@@ -10878,12 +10881,6 @@
             <re>helt og holdent</re>
             <t pos="V">jáddadit</t>
             <t pos="V">čáskadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="slukke c281f6ca-5027-4b3b-8726-074e2e058f04">
-            <re>slukne</re>
-            <t pos="V" src="fad">jáddat</t>
          </tg>
       </mg>
    </e>
@@ -11756,34 +11753,133 @@
    </e>
    <e>
       <lg>
+         <l pos="V">sulte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="strekke 5341608a-65ca-4dd3-b424-9a7908fd3e28">
+            <re>intransitiv</re>
+            <t pos="V">nealgut</t> 
+            <xg>
+               <x>Her sulter den ihjel, når det er så lite mat.</x>
+               <xt>Dáppe dat gal nealgu jámas, go nu lea uhccán biebmu.</xt>
+            </xg>
+            <xg>
+               <x>Jeg er sulten.</x>
+               <xt>Mun lean nelgon.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="strekke 5341608a-65ca-4dd3-b424-9a7908fd3e28">
+            <re>transitiv</re>
+            <t pos="V">nealgudit</t> 
+            <xg>
+               <x>Han sultet seg selv hele uka for å demonstrere.</x>
+               <xt>Son nealgudii iežas olles vahkku miellačájáhussan.</xt>
+            </xg>
+            <xg>
+               <x>Jeg er sulten.</x>
+               <xt>Mun lean nelgon.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="V">sultestreike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Phrase">nealgudit iežas</t> 
+            <xg>
+               <x>Jeg sultestreiket hele uka for å demonstrere.</x>
+               <xt>Mun nealgudin iežan olles vahkku miellačájáhussan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="V">sultefore</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">nealgudit</t> 
+            <xg>
+               <x>Jeg sultestreiket hele uka for å demonstrere.</x>
+               <xt>Mun nealgudin iežan olles vahkku miellačájáhussan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
          <l pos="V">strekke</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="strekke 5341608a-65ca-4dd3-b424-9a7908fd3e28">
-            <re>tøye</re>
+            <re>transitiv: tøye</re>
             <t pos="V" src="fad">vanahit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">strekke seg</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">faŋuhit</t> 
+            <xg>
+               <x>Risten strekte seg over bordet, men den store magen hindret henne å se, slik at hun måtte gå til vinduet.</x>
+               <xt>Risten faŋuhii badjel beavddi, muhto stuorra čoavji hehttii su oaidnimis, nu ahte šattai vázzit lássagurrii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>strekke seg etter noe en gang</re> 
+            <t pos="V">faŋádit</t>
+            <xg>
+               <x>Jeg strekte meg etter stanga og løftet føttene fra bakken.</x>
+               <xt>Faŋádin holgii ja loktejin julggiid eatnamis.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="strekke f8d46d02-91c0-47d4-ae7d-ab7fcdd5d55d">
             <re>strekke seg flere ganger</re>
             <t pos="V" src="fad">vakŋut</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="strekke 7650bca1-fe63-424d-a7a1-0ef7b2fccd4d">
-            <re>strekke til, rekke</re>
-            <t pos="V" src="fad">ollit</t>
+            <t pos="V">fakŋut</t> 
             <xg>
-               <x>Sameland strekker seg fra Kola i Russland til Engerdal i Sør-Norge og til Idre i Sør-Sverige.</x>
-               <xt>Sápmi ollá Guoládagas Ruoššas Lulli-Norgii Engerdala rádjai ja Lulli-Ruŧŧii Idre rádjai.</xt>
+               <x>Bjørnen strekte seg så mye som den klarte, men treet ga ikke noe etter.</x>
+               <xt>Guovža faŋui nu eatnat go nagodii, muhto muorra ii mieđihan ii veaháš ge.</xt>
             </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="strekke c0102857-273d-4913-98ed-efce380ed657">
-            <re>strekke seg; strekkes</re>
-            <t pos="V" src="fad">fatnat</t>
+            <re>intransitiv: strekkes</re>
+            <t pos="V" src="fad">fatnat</t> 
+             <t pos="V">vatnat</t> 
+            <xg>
+               <x>Beltet er laget av gummi, og strekker seg når det brukes.</x>
+               <xt>Boagán lea dahkkon gummes, ja fatná go geavahuvvo.</xt>
+            </xg>
+            <xg>
+               <x>Den ene etter den andre sa fra fra talerstolen og saka strakk seg til tre og en halv time.</x>
+               <xt>Okta nubbi sárdnestuolus dieđihii ja ášši fanai bealnjealját diibmui.</xt>
+            </xg>
+        </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="strekke 7650bca1-fe63-424d-a7a1-0ef7b2fccd4d">
+            <re>intransitiv: rekke</re>
+            <t pos="V" src="fad">ollit</t>
+            <xg>
+               <x>Sameland strekker seg fra Kola i Russland til Engerdal i Sør-Norge og til Idre i Sør-Sverige.</x>
+               <xt>Sápmi ollá Guoládagas Ruoššas Lulli-Norgii Engerdala rádjai ja Lulli-Ruŧŧii Idre rádjai.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13370,17 +13466,6 @@
          <tg xml:lang="sme" tw_id="spise en skjefull 9dbd0980-af6f-4238-8cbf-f28514ab2305">
             <t pos="V">gaccestit</t>
             <t pos="V">gaccastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">strekke seg etter noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="strekke seg etter noe 3766fce1-1ffd-4381-9c35-bbf73571d8f8">
-            <re>en gang</re>
-            <t pos="V">faŋádit</t>
          </tg>
       </mg>
    </e>
@@ -15206,11 +15291,19 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">trenge på</l>
+         <l pos="V">trenge</l>
       </lg>
       <mg>
+         <tg xml:lang="sme" tw_id="trenge ddb9209a-58db-42c1-bc2f-70a273f17587">
+	         <re>transitiv</re>
+            <t pos="V">dárbbahit</t>
+            <t pos="V" src="fad">dárbbašit</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="trenge på 5bfe68a3-9713-4528-b2ba-47046615da45">
-            <t pos="V">bahkket</t>
+ 	         <re>intransitiv: trenge på eller fram</re>
+           <t pos="V">bahkket</t>
             <xg>
                <x>Mesteparten av året er det kjølig og kaldt, likevel så trenger hele verden seg på hit!</x>
                <xt>Eanas áigge jagis lea čoaskkis ja galmmas, de liikká olles máilbmi bahkke deike!</xt>
@@ -15219,16 +15312,6 @@
                <x>Jeg skyver han bort, men han bare trenger seg på.</x>
                <xt>Hoiggan su eret, muhto son dušše bahkke ala.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">trenge seg fram</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="trenge seg fram e077f70f-5712-4749-8e39-7c82e80622be">
-            <t pos="V">bahkket</t>
          </tg>
       </mg>
    </e>
@@ -15390,16 +15473,6 @@
                <x>Nå steiker sola og det er mange barflekker.</x>
                <xt>Dál beaivváš goardá ja bievla lea valjis.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">bite på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="bite på 04b14325-10de-4e7f-a69e-dc0c85f54129">
-            <t pos="V">bastit</t>
          </tg>
       </mg>
    </e>
@@ -15988,13 +16061,13 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="svi 77be3948-206f-4b45-a513-c351fb7eef27">
-            <re>brenne noe</re>
+            <re>transitiv: brenne noe</re>
             <t pos="V">boaldit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="svi 35829a23-daed-44bd-9811-4596685dff48">
-            <re>gi sviende følelse</re>
+            <re>transitiv: gi sviende følelse</re>
             <t pos="V">gáskit</t>
             <xg>
                <x>Chili svir i munnen.</x>
@@ -16005,7 +16078,7 @@
       <mg>
          <tg xml:lang="sme" tw_id="svi f587afa4-0acc-40d2-a39a-4ac87ac50018">
             <re>fysisk smerte</re>
-            <t pos="V">spiiddistit</t>
+            <t pos="V">intransitiv: spiiddistit</t>
          </tg>
       </mg>
    </e>
@@ -16757,17 +16830,6 @@
          <tg xml:lang="sme" tw_id="klare seg ac263c51-f46a-460d-9be5-e793e99f4e57">
             <t pos="V">ceavzit</t>
             <t pos="V">seailut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">reise opp</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="reise opp de448090-f27c-4266-8d67-36038ba4ad4c">
-            <re>en gang</re>
-            <t pos="V">cegget</t>
          </tg>
       </mg>
    </e>
@@ -18378,18 +18440,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="ta til orde for 98e4792a-8d6f-452f-aff4-d75b2f5e59d0">
             <t pos="V">evttohit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">strekke seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="strekke seg c290484e-64d1-428c-af0a-7644fca4d870">
-            <t pos="V">faŋuhit</t>
-            <t pos="V">vatnat</t>
-            <t pos="V">fakŋut</t>
          </tg>
       </mg>
    </e>
@@ -20145,7 +20195,20 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="bite c26f895c-1479-4f6c-b17b-238f15a646e7">
+	         <re>transitiv</re>
             <t pos="V">gáskit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="bite litt ac18afea-1eb4-446a-a1d8-6755c8c6d413">
+ 	         <re>transitiv: om å bite litt eller fort</re>
+           <t pos="V">gáskkestit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="bite på 04b14325-10de-4e7f-a69e-dc0c85f54129">
+	         <re>intransitiv: om å bite på</re>
+            <t pos="V">bastit</t>
          </tg>
       </mg>
    </e>
@@ -20265,17 +20328,6 @@
          <tg xml:lang="sme" tw_id="drukne 9904cae0-4a0f-4954-bfd1-f33ef2437e4c">
             <t pos="V">heavvanit</t>
             <t pos="V">hávkat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">henge opp</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="henge opp 9f68c881-8008-467e-8156-cf9c7e663baf">
-            <t pos="V">heŋget</t>
-            <t pos="V">heaŋgut</t>
          </tg>
       </mg>
    </e>
@@ -27126,26 +27178,6 @@
          <tg xml:lang="sme" tw_id="hoste stygt 63904a72-6824-4dba-8eac-a95b4518d422">
             <re>en gang eller plutselig</re>
             <t pos="V">guorssádit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bite litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="bite litt ac18afea-1eb4-446a-a1d8-6755c8c6d413">
-            <t pos="V">gáskkestit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bite fort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="bite fort d06f694b-65de-45b0-b8a8-a35cc86efc56">
-            <t pos="V">gáskkestit</t>
          </tg>
       </mg>
    </e>
