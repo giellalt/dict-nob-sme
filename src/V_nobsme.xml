@@ -12110,11 +12110,38 @@
    </e>
    <e>
       <lg>
+         <l pos="V">knyte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om å lage knute</re>
+            <t pos="V">čuolbmadit</t>
+            <xg>
+               <x>Han knytet sekken igjen med en dobbelknute.</x>
+               <xt>Son čuolbmadii seahka duppalčuolmmain.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="knyte 4ef99729-1cd4-445e-8671-1350eacf2d56">
+            <re>om å binde fast</re>
+            <t pos="V" src="fad">čatnat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om fiskegarn</re>
+            <t pos="V">gođđit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">knytte</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="knytte fbe5bdf9-c71a-4bbc-812f-85fe9ffd3207">
-            <re>lage knute</re>
+            <re>om å lage knute</re>
             <t pos="V">čuolbmadit</t>
             <xg>
                <x>Han knyttet sekken igjen med en dobbelknute.</x>
@@ -12124,13 +12151,13 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="knytte 5131549f-a9c1-40c3-8f34-0ba0c0b8e4e9">
-            <re>binde</re>
+            <re>om å binde fast</re>
             <t pos="V" src="fad">čatnat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="knytte 4d136682-ad76-4df1-a5da-b17e1283b855">
-            <re>fiskegarn</re>
+            <re>om fiskegarn</re>
             <t pos="V">gođđit</t>
          </tg>
       </mg>
@@ -12783,7 +12810,6 @@
          <tg xml:lang="sme" tw_id="løse 8c77c89f-bd36-460b-b9df-71592725da7d">
             <re>gjøre løs</re>
             <t pos="V">gálgat</t>
-            <t pos="V" src="fad">čoavdit</t>
          </tg>
       </mg>
       <mg>
@@ -12796,6 +12822,16 @@
          <tg xml:lang="sme" tw_id="løse d8f8a03c-22f4-4a9d-8a4f-6b1bf6acae72">
             <re>løsne, ta løs</re>
             <t pos="V">luvvet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="løse 8c77c89f-bd36-460b-b9df-71592725da7d">
+            <re>gjøre løs</re>
+            <t pos="V" src="fad">čoavdit</t>
+            <xg>
+               <x>Han viser tradisjonelle knuter, hvordan man knyter og løser dem.</x>
+               <xt>Son čájeha árbevirolaš čuolmmaid, mo daid čuolbmada ja čoavdá.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20554,6 +20590,10 @@
       <mg>
          <tg xml:lang="sme" tw_id="glede noen b00679e1-38bf-4ac2-a1a3-d90847010891">
             <t pos="V">illudahttit</t>
+            <xg>
+               <x>Árvalus illudahtii mu.</x>
+               <xt>Forslaget gledet meg.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -33175,6 +33215,10 @@
          <tg xml:lang="sme" tw_id="oppfylle 3d0d9730-2913-4e0b-a40e-cebdedc4ee40">
             <t pos="V">deavdit</t>
             <t pos="V" alt_str="ollášuhttit">ollašuhttit</t>
+            <xg>
+               <x>De oppfylte kravet.</x>
+               <xt>Sii ollašuhte gáibádusa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -33580,16 +33624,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="utrydde ca74a762-24d3-4c21-9c84-a3d9e9ea49be">
             <t pos="V">jávkadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="V">knyte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="knyte 4ef99729-1cd4-445e-8671-1350eacf2d56">
-            <t pos="V">čatnat</t>
          </tg>
       </mg>
    </e>
