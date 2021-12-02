@@ -8242,7 +8242,6 @@
          <tg xml:lang="sme" tw_id="enkel b09bd259-a648-427f-b1a7-35b80d030985">
             <re>usammensatt, naturlig, liketil</re>
             <t pos="A" src="fad">eaŋkil</t>
-            <t pos="A" src="fad">eaŋkal</t>
             <t pos="A" src="fad">oktageardán</t>
             <t pos="A" src="fad">ovttageardán</t>
             <xg>
@@ -8252,6 +8251,21 @@
             <xg>
                <x>enkel informasjon</x>
                <xt>ovttageardánis dieđut</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="enkelt 24b6904c-82ad-4993-bfa4-83143b511171">
+	         <re>om den enkelte</re>
+            <t pos="A">ovttaskas</t>
+            <t pos="A">eaŋkil</t>
+            <xg>
+               <x>Johansen kan ikke kommentere enkeltsaker.</x>
+               <xt>Johansen ii sáhte ovttaskas áššiid kommenteret.</xt>
+            </xg>
+            <xg>
+               <x>Johansen kan ikke kommentere enkeltsaker.</x>
+               <xt>Johansen ii sáhte eaŋkiláššiid kommenteret.</xt>
             </xg>
          </tg>
       </mg>
@@ -8267,7 +8281,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="enkel 16dafce7-7fb6-451b-83ad-5dac70b6b303">
-            <re>som adverb: enkelt</re>
+            <re>som adverb: enkelt, på en enkel måte</re>
             <t pos="Adv" src="fad">geahppasit</t>
          </tg>
       </mg>
@@ -8805,9 +8819,12 @@
       <mg>
          <tg xml:lang="sme" tw_id="individuell 9cb9a999-9d4f-460d-8c35-ec46838a9ec3">
             <t pos="A" alt_str="ovttagaslaš" src="fad">oktagaslaš</t>
+            <t pos="A">ovttaskas</t>
             <t pos="A" src="fad">individuála</t>
-            <t pos="A" src="fad">individuálalaš</t>
-            <t pos="A" src="fad">individuella</t>
+            <xg>
+               <x>Samiske barn får individuell rettighet til å lære både sitt eget språk og på sitt eget språk.</x>
+               <xt>Sámi mánát ožžo ovttaskas vuoigatvuođa oahppat sihke iežaset giela ja iežaset gillii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -12314,6 +12331,16 @@
       <mg>
          <tg xml:lang="sme" tw_id="enfoldig d008655b-4428-4040-9fbd-3c5fba3a0cde">
             <t pos="A">ovttageardán</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">siŋgel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">ovttaskas</t>
          </tg>
       </mg>
    </e>
@@ -19788,17 +19815,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="teologisk de8c3bc0-cc37-4a5c-a8ad-74289cfa4273">
             <t pos="A">teologalaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="A">enkelt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="enkelt 24b6904c-82ad-4993-bfa4-83143b511171">
-            <t pos="A">ovttaskas</t>
-            <t pos="A">eaŋkil</t>
          </tg>
       </mg>
    </e>
