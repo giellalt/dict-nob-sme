@@ -22070,17 +22070,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">gi råd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gi råd 28a0ff7a-ff66-4496-9b5e-a632837f0f8e">
-            <t pos="V">neavvut</t>
-            <t pos="V">rávvestit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">nettobudsjettere</l>
       </lg>
       <mg>
@@ -23344,6 +23333,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="råde 13d580a0-5794-4eb4-bfc6-1049f31af3cf">
+	         <re>gi råd</re>
             <t pos="V">ráđđet</t>
             <t pos="V">rávvestit</t>
             <t pos="V">neavvut</t>
@@ -24084,16 +24074,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="sjangle 7ac37aa7-1469-4076-aa73-3116e7122ef2">
             <t pos="V">suoibut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gi lov</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gi lov 68459bb5-a0f5-4ac7-910d-aa648c5fd2cc">
-            <t pos="V">suovvat</t>
          </tg>
       </mg>
    </e>
@@ -25703,16 +25683,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde møte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="holde møte 5c66dbf8-01a6-407f-af51-d2635ba4dd64">
-            <t pos="V">čoahkkinastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">kjøre av sted</l>
       </lg>
       <mg>
@@ -26571,16 +26541,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="kaste et blikk på av og til f1e06b50-3bce-479c-a2fe-ed5f5da865e5">
             <t pos="V">geahčastallat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">holde utstrakt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="holde utstrakt ac1e052d-7277-4da1-98fa-d2e9c9b94a1f">
-            <t pos="V">geaigguhit</t>
          </tg>
       </mg>
    </e>
@@ -27711,6 +27671,12 @@
                <x>I dag er det snøfokk.</x>
                <xt>Odne njeađgá.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="fyke i lengre tid 471b63e1-38b9-4973-bd49-213e4ac7ce85">
+	         <re>fyke i lengre tid</re>
+            <t pos="V">borggadit</t>
          </tg>
       </mg>
       <mg>
@@ -29203,26 +29169,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">legge grime på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="legge grime på 6e054887-6dd8-405c-8d26-1c8acf6715c8">
-            <t pos="V">bolohastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">fyke i lengre tid</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="fyke i lengre tid 471b63e1-38b9-4973-bd49-213e4ac7ce85">
-            <t pos="V">borggadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">lide et stort tap</l>
       </lg>
       <mg>
@@ -29883,16 +29829,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="formulere seg 89b82566-b452-4b91-ab6a-ff00a5cd8062">
             <t pos="V">sátnádit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">gi kreditt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="gi kreditt 7bc61f28-f264-442c-aa5e-fd8b31d37185">
-            <t pos="V">velgohit</t>
          </tg>
       </mg>
    </e>
