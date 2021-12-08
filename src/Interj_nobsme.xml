@@ -3,27 +3,27 @@
 <r id="nobsme" xml:lang="nob">
    <e>
       <lg>
-         <l pos="Interj">god natt</l>
+         <l pos="Phrase">god natt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Interj">buorre idja</t>
+            <t pos="Phrase">buorre idja</t>
          </tg>
       </mg>
   </e>
    <e>
       <lg>
-         <l pos="Interj">god dag</l>
+         <l pos="Phrase">god dag</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Interj">buorre beaivi</t>
+            <t pos="Phrase">buorre beaivi</t>
          </tg>
       </mg>
        <mg>
          <tg xml:lang="sme">
             <re>som svar på hilsning</re>
-            <t pos="Interj">ipmel atti</t>
+            <t pos="Phrase">ipmel atti</t>
             <xg>
                <x>God dag, hilste Ovllá. God dag, svarte Elle.</x>
                <xt>Buorre beaivi, rávkkai Ovllá. Ipmel atti, vástidii Elle.</xt>
@@ -33,17 +33,17 @@
   </e>
    <e>
       <lg>
-         <l pos="Interj">god morgen</l>
+         <l pos="Phrase">god morgen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Interj">buorre iđit</t>
+            <t pos="Phrase">buorre iđit</t>
          </tg>
       </mg>
        <mg>
          <tg xml:lang="sme">
             <re>som svar på hilsning</re>
-            <t pos="Interj">ipmel atti</t>
+            <t pos="Phrase">ipmel atti</t>
             <xg>
                <x>God morgen, sa Ánne da hun kom til kontoret. God morgen, svarte Biera.</x>
                <xt>Buorre iđit, dajai Ánne go bođii kantuvrii. Ipmel atti, vástidii Biera.</xt>
@@ -53,17 +53,17 @@
   </e>
    <e>
       <lg>
-         <l pos="Interj">god kveld</l>
+         <l pos="Phrase">god kveld</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Interj">buorre eahket</t>
+            <t pos="Phrase">buorre eahket</t>
          </tg>
       </mg>
        <mg>
          <tg xml:lang="sme">
             <re>som svar på hilsning</re>
-            <t pos="Interj">ipmel atti</t>
+            <t pos="Phrase">ipmel atti</t>
             <xg>
                <x>God kveld, sa Risten til kursdeltakerne. God kveld, svarte de.</x>
                <xt>Buorre eahket, logai Risten kurssa oasseváldiide. Ipmel atti, vástidedje sii.</xt>
@@ -87,33 +87,18 @@
    </e>
    <e>
       <lg>
-         <l pos="Interj">hade</l>
+         <l pos="Phrase">ha det</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="hade 015fa264-aed2-4480-bec6-f98ceee42fd9">
             <re>sier man til den som reiser avsted</re>
-            <t pos="Interj">mana dearvan</t>
+            <t pos="Phrase">mana dearvan</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">hade</l>
-      </lg>
       <mg>
          <tg xml:lang="sme" tw_id="hade 015fa264-aed2-4480-bec6-f98ceee42fd9">
             <re>sier den som reiser avsted</re>
-            <t pos="Interj">báze dearvan</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Interj">ha det</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ha det 2dd55bde-ddf3-4522-b410-e753f64529d0">
-            <t pos="Interj">mana dearvan</t>
+            <t pos="Phrase">báze dearvan</t>
          </tg>
       </mg>
    </e>
@@ -151,7 +136,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="gratulerer fe65edb2-7ee9-44af-b5af-22a1ec00de3c">
-            <t pos="Interj">ollu lihkku</t>
+            <t pos="Phrase">ollu lihkku</t>
             <xg>
                <x>Gratulerer med dagen!</x>
                <xt>Ollu lihkku beivviin!</xt>
@@ -175,7 +160,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="oi 9ed9c634-5bd9-4434-b9d3-d5fa0429b893">
-            <t pos="Interj">vuoi ihán</t>
+            <t pos="Phrase">vuoi ihán</t>
             <xg>
                <x>Oi, så flink du er.</x>
                <xt>Vuoi ihán, don leat čeahppi.</xt>
@@ -224,11 +209,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Interj">jeg elsker deg</l>
+         <l pos="Phrase">jeg elsker deg</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="jeg elsker deg 6c408673-9846-442c-bdff-4e43114916e0">
-            <t pos="Interj">mun ráhkistan du</t>
+            <t pos="Phrase">mun ráhkistan du</t>
          </tg>
       </mg>
    </e>
