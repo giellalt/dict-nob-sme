@@ -32463,9 +32463,9 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="veilede f1437a43-4f02-4fb1-86f5-8bfae5bed845">
-            <t pos="V">bagadallat</t>
             <t pos="V">bagadit</t>
             <t pos="V">oaivadit</t>
+            <t pos="V">bagadallat</t>
          </tg>
       </mg>
    </e>
@@ -32485,6 +32485,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="sløyfe c1745283-8f4f-4cee-ac56-08247c38395a">
+	         <re>å fjerne</re>
             <t pos="V">sihkkut</t>
          </tg>
       </mg>
@@ -32588,7 +32589,7 @@
    </e>
    <e src="fad">
       <lg>
-         <l pos="V">ledes</l>
+         <l pos="V">lede</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="ledes fa6010b1-4db6-4d65-9f38-fa31ff22e6d6">
@@ -32726,10 +32727,21 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="variere b131cf24-908e-4888-8667-e45118027cb6">
-            <t pos="V">rievddadit</t>
+	         <re>intransitiv: noe varierer</re>
             <t pos="V">molsašuddat</t>
-            <t pos="V">rievddadallat</t>
             <t pos="V">molsašuvvat</t>
+            <t pos="V">rievddadallat</t>
+            <t pos="V">rievddadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="variere b131cf24-908e-4888-8667-e45118027cb6">
+	         <re>transitiv: variere noe</re>
+            <t pos="V">rievdadallat</t>
+            <xg>
+               <x>Disse læremidlene kan man variere og tilpasse.</x>
+               <xt>Dáid oahpponeavvuid lea vejolaš rievdadallat ja heivehit.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
