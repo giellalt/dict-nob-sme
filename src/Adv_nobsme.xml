@@ -7,14 +7,21 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Phrase">juohke sadji</t>
+	      <re>lokativ betydning: på eller fra stedet</re>   
+            <t pos="Phrase">juohke sajis</t>
             <xg>
                <x>Mark kom til syne overalt.</x>
                <xt>Máđut ihte juohke sajis.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	      <re>illativ betydning: til stedet</re>   
+            <t pos="Phrase">juohke sadjái</t>
             <xg>
-               <x>Du kan sette den overalt.</x>
-               <xt>Sáhtát bidjat dan juohke sadjái.</xt>
+               <x>Du kan sette dem overalt.</x>
+               <xt>Sáhtát bidjat daid juohke sadjái.</xt>
             </xg>
          </tg>
       </mg>
@@ -745,9 +752,23 @@
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme" tw_id="feste seg 70808a96-155e-4944-b4e6-756b5172f3d1">
+            <re>sette seg fast</re>
+            <t pos="V">darvánit</t>
+            <xg>
+               <x>Idag morges satte en bil seg fast i skiløypa.</x>
+               <xt>Odne iđđedis darvánii biila čuoiganláhttui.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="fast 7a47e9f4-2402-4128-8474-fb364408283e">
             <re>bli sittende fast</re>
             <t pos="V">vavdat</t>
+            <xg>
+               <x>Fiskegarnet ble sittende fast i en stor stein, og til slutt går det av når mennene må slitfe i garnet.</x>
+               <xt>Fierbmi vavdá stuorra geađgái ja loahpas boatkana go albmát fertejit gaikut fierpmi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
