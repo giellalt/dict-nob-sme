@@ -4616,6 +4616,16 @@
             <t pos="V" src="fad">cahkkehit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="tenne på f4da67d1-d504-42dd-b92f-86de5787cf2c">
+            <re>tenne på flere ganger</re>
+            <t pos="V">cahkkehallat</t>
+            <xg>
+               <x>Biret tente opp ilden og tente på stearinlysene.</x>
+               <xt>Biret cahkkehii dola ja cahkkehalai gintaliid.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15030,17 +15040,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">lure seg inn på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="lure seg inn på 24c0ad7d-db0d-4ea9-99ad-18191a4b8896">
-            <re>i hast</re>
-            <t pos="V">njáhkalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">slimes til</l>
       </lg>
       <mg>
@@ -17850,10 +17849,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stole på</l>
+         <l pos="V">stole</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="stole på 3911204a-e51d-47b4-9021-4ef88b9f9233">
+	         <re>stole på</re>
             <t pos="V">luohttit</t>
             <xg>
                <x>Jeg stoler på finnmarkingenes egne krefter.</x>
@@ -24705,35 +24705,17 @@
    </e>
    <e>
       <lg>
-         <l pos="V">synes synd på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="synes synd på 81e4eb9e-e548-48a0-b201-2ebeebd72c5e">
-            <t pos="V">árkkášit</t>
-            <xg>
-               <x>Jeg synes synd på deg.</x>
-               <xt>Mun árkkášan du.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">forbarme seg over</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="forbarme seg over 32d525cb-ae4d-4dee-b1d4-0a9c023cde0e">
-            <t pos="V">árkkálmastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">forbarme seg</l>
+         <l pos="V">forbarme</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="forbarme seg be6775dd-f5d4-4667-85cd-03eb4762abc2">
+	         <re>forbarme seg</re>
             <t pos="V">árpmihit</t>
+            <t pos="V">árkkálmastit</t>
+            <xg>
+               <x>Foreninga ba presidenten forbarme seg over fangene.</x>
+               <xt>Searvvit bivde presidentta árpmihit fáŋggaid.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25299,10 +25281,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">hysse på</l>
+         <l pos="V">hysse</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="hysse på 1340f6ff-077a-413f-962b-0f6e625aff66">
+	         <re>hysse på</re>
             <t pos="V">šiggut</t>
          </tg>
       </mg>
@@ -25563,16 +25546,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="tvinges b1f17650-2085-4699-852d-a29cdf8ca18c">
             <t pos="V">bággehallat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">likne på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="likne på 33359501-37dc-44a7-8629-8869c9f0d152">
-            <t pos="V">sulastahttit</t>
          </tg>
       </mg>
    </e>
@@ -25903,21 +25876,6 @@
             <xg>
                <x>Sola gikk ned.</x>
                <xt>Beaivváš luoitádii.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">tenne på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="tenne på f4da67d1-d504-42dd-b92f-86de5787cf2c">
-            <re>flere ganger</re>
-            <t pos="V">cahkkehallat</t>
-            <xg>
-               <x>Biret tente opp ilden og tente på stearinlysene.</x>
-               <xt>Biret cahkkehii dola ja cahkkehalai gintaliid.</xt>
             </xg>
          </tg>
       </mg>
@@ -26761,12 +26719,18 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>snike</re>
+            <re>lure seg inn</re>
             <t pos="V">njáhkat</t>
           	<xg>
                <x>Vi lurte oss inn i matlageret.</x>
                <xt>Mii njágaimet borramušrádjui.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="lure seg inn på 24c0ad7d-db0d-4ea9-99ad-18191a4b8896">
+            <re>lure seg inn i hast</re>
+            <t pos="V">njáhkalit</t>
          </tg>
       </mg>
       <mg>
@@ -26943,10 +26907,10 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ligne</l>
+         <l pos="V">likne</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="ligne 47ee1fe4-2e66-43bb-a6ab-74882677fb5e">
+         <tg xml:lang="sme" tw_id="likne på 33359501-37dc-44a7-8629-8869c9f0d152">
 	         <re>transitiv</re>
             <t pos="V">sulastahttit</t>
             <xg>
@@ -26961,6 +26925,31 @@
             <t pos="V">rohtašuvvat</t>
             <xg>
                <x>Máhtte likner på faren sin.</x>
+               <xt>Máhtte lea rohtašuvvan áhččásis.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">ligne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="ligne 47ee1fe4-2e66-43bb-a6ab-74882677fb5e">
+	         <re>transitiv</re>
+            <t pos="V">sulastahttit</t>
+            <xg>
+               <x>Gánda sulastahti boarrásat vielja.</x>
+               <xt>Gutten lignet på sin eldre bror.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="ligne på 7da93a56-415b-40b0-8942-cebf7ebfada5">
+	         <re>ligne på noen, med illativ</re>
+            <t pos="V">rohtašuvvat</t>
+            <xg>
+               <x>Máhtte ligner på faren sin.</x>
                <xt>Máhtte lea rohtašuvvan áhččásis.</xt>
             </xg>
          </tg>
