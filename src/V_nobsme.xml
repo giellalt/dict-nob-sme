@@ -418,6 +418,12 @@
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme" tw_id="ro båten sakte 128f6d50-38b1-4aae-88b5-5df1202257e7">
+            <re>ro båten sakte</re>
+            <t pos="V">doaladit</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="ro d9c61423-bd9f-45f5-bd88-3b9abae30f8a">
             <re>frakte med båt</re>
             <t pos="V" src="fad">suvdit</t>
@@ -5175,8 +5181,20 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="passe bd648fbf-55c0-4b68-9127-71fc9e969e67">
-            <re>å vokte</re>
+            <re>vokte</re>
             <t pos="V" src="fad">fáktet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="passe på saker 1d06a12d-3eca-4181-8350-983f311b90d7">
+            <re>passe på saker</re>
+            <t pos="V">áittardit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="passe på 38f06276-55db-4ef5-b279-a8b3fe3f7724">
+            <re>passe på; passe seg for</re>
+            <t pos="V">váruhit</t>
          </tg>
       </mg>
    </e>
@@ -5881,6 +5899,12 @@
             <t pos="V" src="fad">lávlut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="synge litt 01bdd4bb-dd1e-4d0e-802f-16c665fe4739">
+	         <re>synge litt</re>
+            <t pos="V">lávlestit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -6383,6 +6407,12 @@
                <x>Riste og Ánde får kyrne til å løpe.</x>
                <xt>Risten ja Ánde viegaheaba gusaid.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="løpe etter noe dc874a6f-d666-483d-bf32-102e94b88146">
+            <re>løpe etter noe</re>
+            <t pos="V">viegahit</t>
          </tg>
       </mg>
    </e>
@@ -7050,6 +7080,12 @@
          <tg xml:lang="sme" tw_id="blåse c7050e7b-f257-48a7-8927-b8055186aecc">
             <re>en gang</re>
             <t pos="V">bosádit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="blåse lenge 1e2fb868-d752-49a8-b6a8-4b3aabe1fae1">
+            <re>blåse lenge</re>
+            <t pos="V">bosodit</t>
          </tg>
       </mg>
       <mg>
@@ -8624,6 +8660,22 @@
             <t pos="V">heajastallat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="holde igjen 0fb711d6-e0e8-4d9b-9c2b-8a4628c629a6">
+            <re>holde igjen</re>
+            <t pos="V">doalahallat</t>
+            <xg>
+               <x>En ung mann klarte ikke å holde seg og pissa på taksiholdeplassen.</x>
+               <xt>Nuorra dievdu ii nagodan doalahallat ja guččai dáksevuordinbáikkis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="holde på noe 77892d53-d83d-4023-ae9e-371b01421f09">
+            <re>holde på noe</re>
+            <t pos="V">doaladit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -9321,6 +9373,12 @@
          <tg xml:lang="sme" tw_id="stikke 9cbc2eb9-e118-47d2-b4c0-0d7cb3c07a42">
             <re>dra</re>
             <t pos="V" src="fad">viehkalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="stikke så det hovner 5ab4eecb-d5a4-4678-bdb9-3aee9aadf210">
+            <re>stikke så det hovner</re>
+            <t pos="V">bostit</t>
          </tg>
       </mg>
    </e>
@@ -10975,6 +11033,12 @@
             <t pos="V" src="fad">čeargut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="rope plutselig 1cd3fd55-5c3f-490b-b45f-dc16e80dc8bb">
+	         <re>rope plutselig</re>
+            <t pos="V">huikkádit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -11169,12 +11233,6 @@
          <l pos="V">stryke</l>
       </lg>
       <mg>
-         <tg xml:lang="sme" tw_id="stryke 6647f5b1-25a4-4b0e-9ff4-ec95f5250916">
-            <re>gni lett en stund</re>
-            <t pos="V">njávkkadit</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme" tw_id="stryke 8c396871-1f58-4ea2-a836-157d337005b4">
             <re>stryke med handa</re>
             <t pos="V">njávkat</t>
@@ -11185,6 +11243,18 @@
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme" tw_id="stryke 6647f5b1-25a4-4b0e-9ff4-ec95f5250916">
+            <re>gni lett en stund</re>
+            <t pos="V">njávkkadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="stryke litt a1cdeeb4-27f0-4ff6-a858-58490c813ead">
+            <re>stryke litt</re>
+            <t pos="V">njávkkastit</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="stryke c9701fe5-d3a8-4c0b-b8a1-2bf1c65a0457">
             <re>jevne, glatte; med strykejern</re>
             <t pos="V">liktet</t>
@@ -11192,7 +11262,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="stryke c736a3cf-0dc2-404f-9f2a-c15262625feb">
-            <re>ikke la bestå</re>
+            <re>fjerne</re>
             <t pos="V" src="fad">sihkkut</t>
          </tg>
       </mg>
@@ -11732,6 +11802,12 @@
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme" tw_id="vises litt 321adc37-4c6b-474f-95cc-0ff4c9a60718">
+            <re>vises litt</re>
+            <t pos="V">oidnostit</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="synes 5fbb55e2-2bbc-4f76-94b1-9a85388d893c">
             <re>spores, merkes</re>
             <t pos="V" src="fad">vuhttot</t>
@@ -11741,6 +11817,29 @@
          <tg xml:lang="sme" tw_id="synes 16ce3e45-bc9b-4b6f-8c59-07526121ef46">
             <re>komme til syne</re>
             <t pos="V" src="fad">ihtit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vises</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme" tw_id="synes 7606ad32-fa54-4368-8afd-c3da7c79c6be">
+            <re>sees</re>
+            <t pos="V">oidnot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="vises litt 321adc37-4c6b-474f-95cc-0ff4c9a60718">
+            <re>vises litt</re>
+            <t pos="V">oidnostit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="synes 5fbb55e2-2bbc-4f76-94b1-9a85388d893c">
+            <re>spores, merkes</re>
+            <t pos="V" src="fad">vuhttot</t>
          </tg>
       </mg>
    </e>
@@ -12208,6 +12307,12 @@
       <mg>
          <tg xml:lang="sme" tw_id="vente c0535ea0-8256-46e2-b302-0a1c987aef88">
             <t pos="V" src="fad">vuordit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="vente litt 469b7143-179a-4572-8a69-abafaa799d27">
+            <re>vente litt</re>
+            <t pos="V">vuorddestit</t>
          </tg>
       </mg>
       <mg>
@@ -13761,6 +13866,12 @@
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme" tw_id="stake av sted ba994a74-726a-4da3-a280-21b9324e7b8f">
+            <re>stake av sted; stake litt</re>
+            <t pos="V">čuoibmulit</t>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="stake e54012b6-ff4e-4317-9b6a-d9be5cb9e3e2">
             <re>stake med kraft og iver</re>
             <t pos="V">čuoibmuladdat</t>
@@ -13768,7 +13879,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="stake 76cac050-1c38-4454-bcf4-aa12d172ee45">
-            <re>få noen til å čuoibmut</re>
+            <re>få noen til å stake</re>
             <t pos="V" src="fad">čuoimmuhit</t>
          </tg>
       </mg>
@@ -13776,12 +13887,6 @@
          <tg xml:lang="sme" tw_id="stake 3f46187d-24fa-44ac-9962-df568d155ff0">
             <re>sette opp staker</re>
             <t pos="V" src="fad">dihkkádit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="stake afc74702-9b07-432d-90e4-ac6ccf1b6f73">
-            <re>få noen til å čuoibmut</re>
-            <t pos="V" src="fad">čuoimmuhit</t>
          </tg>
       </mg>
    </e>
@@ -15127,20 +15232,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">holde igjen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="holde igjen 0fb711d6-e0e8-4d9b-9c2b-8a4628c629a6">
-            <t pos="V">doalahallat</t>
-            <xg>
-               <x>En ung mann klarte ikke å holde seg og pissa på taksiholdeplassen.</x>
-               <xt>Nuorra dievdu ii nagodan doalahallat ja guččai dáksevuordinbáikkis.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">sprute</l>
       </lg>
       <mg>
@@ -15815,16 +15906,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ta part</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ta part 43aad1f9-4e41-45a1-b454-cc4c2320c912">
-            <t pos="V">bealuštit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">inspisere</l>
       </lg>
       <mg>
@@ -16397,16 +16478,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="etse 1ed54471-79dd-4d0c-8539-decf7087def4">
             <t pos="V">borrat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">stikke så det hovner</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="stikke så det hovner 5ab4eecb-d5a4-4678-bdb9-3aee9aadf210">
-            <t pos="V">bostit</t>
          </tg>
       </mg>
    </e>
@@ -17658,26 +17729,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">holde på noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="holde på noe 77892d53-d83d-4023-ae9e-371b01421f09">
-            <t pos="V">doaladit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ro båten sakte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ro båten sakte 128f6d50-38b1-4aae-88b5-5df1202257e7">
-            <t pos="V">doaladit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">trave</l>
       </lg>
       <mg>
@@ -17935,21 +17986,6 @@
          <tg xml:lang="sme" tw_id="nå igjen 0314b6d4-46d2-4bb2-af5b-9b32f4c6a7d6">
             <t pos="V">juksat</t>
             <t pos="V">duohpat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ta imot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ta imot 144a8d52-543b-4659-aed1-a12fbf86a3f0">
-            <t pos="V">vuostáiváldit</t>
-            <t pos="V">duostut</t>
-            <xg>
-               <x>Elle tar imot det som den andre kaster.</x>
-               <xt>Elle duostu maid nubbi bálkesta.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -19849,16 +19885,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">vente litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="vente litt 469b7143-179a-4572-8a69-abafaa799d27">
-            <t pos="V">vuorddestit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">vike</l>
       </lg>
       <mg>
@@ -20194,10 +20220,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">venne seg til</l>
+         <l pos="V">venne</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="venne seg til f5bc8294-fdff-440a-ad04-9e8558b3cd9d">
+	         <re>venne seg til</re>
             <t pos="V">hárjánit</t>
             <xg>
                <x>Etterhvert ble vi vant til kulda.</x>
@@ -21549,16 +21576,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">synge litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="synge litt 01bdd4bb-dd1e-4d0e-802f-16c665fe4739">
-            <t pos="V">lávlestit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">saktne</l>
       </lg>
       <mg>
@@ -21844,16 +21861,6 @@
          <tg xml:lang="sme" tw_id="prise 36dcff3d-cbc3-4a8c-85ae-f34cdf9bf37c">
             <re>religiøst</re>
             <t pos="V">máidnut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">smake på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="smake på ace1e44c-fb05-4c9d-976a-7cbf86c652fb">
-            <t pos="V">máistit</t>
          </tg>
       </mg>
    </e>
@@ -22938,16 +22945,6 @@
                <x>Jeg må piske meg selv i gang.</x>
                <xt>Ferten spihččet iežan johtui.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ligne på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="ligne på 7da93a56-415b-40b0-8942-cebf7ebfada5">
-            <t pos="V">rohtašuvvat</t>
          </tg>
       </mg>
    </e>
@@ -24097,16 +24094,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde i tjor</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="holde i tjor 413145e4-5dc1-42f5-a121-2c4d8294106b">
-            <t pos="V">veaddit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">assistere</l>
       </lg>
       <mg>
@@ -24494,6 +24481,17 @@
          </tg>
       </mg>
       <mg>
+         <tg xml:lang="sme" tw_id="ta imot 144a8d52-543b-4659-aed1-a12fbf86a3f0">
+            <re>ta imot</re>
+            <t pos="V">vuostáiváldit</t>
+            <t pos="V">duostut</t>
+            <xg>
+               <x>Elle tar imot det som den andre kaster.</x>
+               <xt>Elle duostu maid nubbi bálkesta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
          <tg xml:lang="sme" tw_id="ta med makt f4e7b247-1c5d-4185-a8be-95f8d03aed1d">
       <re>ta med makt</re>
             <t pos="V">rivvet</t>
@@ -24516,6 +24514,16 @@
             <xg>
                <x>Det skjedde der hvor Niitonárgavegen tar av fra Tanavegen.</x>
                <xt>Dáhpáhuvai doppe gos Niitonjárgeaidnu earrána Deanogeidnui.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="kle på seg 04652aa6-df7c-4bd7-954c-b9a313f70756">
+	         <re>ta på klesplagg</re>
+            <t pos="V">coggat</t>
+            <xg>
+               <x>Jeg tar på meg skjorte og bukser.</x>
+               <xt>Cokkan báiddi ja buvssaid.</xt>
             </xg>
          </tg>
       </mg>
@@ -24542,41 +24550,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">holde utkikk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="holde utkik e1290d75-61db-49f9-bb79-f3fecf005782">
-            <t pos="V">várdát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">sette av</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="sette av fbd51019-33aa-4138-a375-f6a7fa3e373a">
             <t pos="V">várret</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">passe på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="passe på 38f06276-55db-4ef5-b279-a8b3fe3f7724">
-            <t pos="V">váruhit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">passe seg for</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="passe seg for 686a87c6-d97d-471b-b9eb-0c24a39001c9">
-            <t pos="V">váruhit</t>
          </tg>
       </mg>
    </e>
@@ -24672,26 +24650,6 @@
          <tg xml:lang="sme" tw_id="inngjerde 58450443-120e-494d-b482-4278b3eef86b">
             <t pos="V">áidut</t>
             <t pos="V">gárdut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">holde i hevd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="holde i hevd 6c337266-9ce1-4505-ba83-948b98802eb8">
-            <t pos="V">áimmahuššat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">passe på saker</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="passe på saker 1d06a12d-3eca-4181-8350-983f311b90d7">
-            <t pos="V">áittardit</t>
          </tg>
       </mg>
    </e>
@@ -25490,16 +25448,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">vente lenge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="vente lenge d9b362a8-7490-4f35-9398-039e034f639e">
-            <t pos="V">vuorddašit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">smelle til</l>
       </lg>
       <mg>
@@ -25744,16 +25692,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="småregne e1efdd55-cc76-4840-be14-29b731e20dd9">
             <t pos="V">savdadit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">rope plutselig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="rope plutselig 1cd3fd55-5c3f-490b-b45f-dc16e80dc8bb">
-            <t pos="V">huikkádit</t>
          </tg>
       </mg>
    </e>
@@ -26220,16 +26158,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">blåse lenge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="blåse lenge 1e2fb868-d752-49a8-b6a8-4b3aabe1fae1">
-            <t pos="V">bosodit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">gråte høylytt</l>
       </lg>
       <mg>
@@ -26595,16 +26523,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stryke litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="stryke litt a1cdeeb4-27f0-4ff6-a858-58490c813ead">
-            <t pos="V">njávkkastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">blunde</l>
       </lg>
       <mg>
@@ -26680,16 +26598,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="ligge og strekke seg 16236648-95fd-4940-b1e0-b2650662d9ac">
             <t pos="V">velohallat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">løpe etter noe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="løpe etter noe dc874a6f-d666-483d-bf32-102e94b88146">
-            <t pos="V">viegahit</t>
          </tg>
       </mg>
    </e>
@@ -26800,16 +26708,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="ville sove c99017bf-753f-45ae-8ac7-428920edf81c">
             <t pos="V">oađestuvvat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">vises litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="vises litt 321adc37-4c6b-474f-95cc-0ff4c9a60718">
-            <t pos="V">oidnostit</t>
          </tg>
       </mg>
    </e>
@@ -27049,7 +26947,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="ligne 47ee1fe4-2e66-43bb-a6ab-74882677fb5e">
+	         <re>transitiv</re>
             <t pos="V">sulastahttit</t>
+            <xg>
+               <x>Gánda sulastahti boarrásat vielja.</x>
+               <xt>Gutten liknet på sin eldre bror.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="ligne på 7da93a56-415b-40b0-8942-cebf7ebfada5">
+	         <re>ligne på noen, med illativ</re>
+            <t pos="V">rohtašuvvat</t>
+            <xg>
+               <x>Máhtte likner på faren sin.</x>
+               <xt>Máhtte lea rohtašuvvan áhččásis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -29009,10 +28922,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ta til orde</l>
+         <l pos="V">orde</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="ta til orde 04bd32c7-e76a-4e8c-94ef-f801bcf80d57">
+	         <re>ta til orde</re>
             <t pos="V">báhkkodit</t>
          </tg>
       </mg>
@@ -29664,26 +29578,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">stake av sted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="stake av sted ba994a74-726a-4da3-a280-21b9324e7b8f">
-            <t pos="V">čuoibmulit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">stake litt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="stake litt fdd6ed8b-8f5c-47a7-b999-f9a986088b90">
-            <t pos="V">čuoibmulit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">knytte fort</l>
       </lg>
       <mg>
@@ -29816,10 +29710,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">bry seg om</l>
+         <l pos="V">bry</l>
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="bry seg om 8efc4aa8-96ff-4764-bc00-ff6c8c6c57ff">
+	         <re>bry seg om</re>
             <t pos="V">beroštit</t>
             <xg>
                <x>Jeg bryr meg om det.</x>
@@ -29839,6 +29734,16 @@
       <mg>
          <tg xml:lang="sme" tw_id="bry seg om a480a0ea-2b23-4282-b44c-23b2d3985852">
             <t pos="V">áktet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme" tw_id="bry noen 58db2f35-eda1-4d9b-a442-a7c37dd08573">
+	         <re>bry noen</re>
+            <t pos="V">vuorjat</t>
+            <xg>
+               <x>Jeg ville ikke bry deg med den saken.</x>
+               <xt>In áigun du vuorjat dainna áššiin.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -34647,20 +34552,6 @@
       <mg>
          <tg xml:lang="sme" tw_id="bokse 945e3017-1a65-4ed8-b0cb-02d7dcaf2caa">
             <t pos="V">bokset</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="nfl_201402">
-      <lg>
-         <l pos="V">bry noen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme" tw_id="bry noen 58db2f35-eda1-4d9b-a442-a7c37dd08573">
-            <t pos="V">vuorjat</t>
-            <xg>
-               <x>Jeg ville ikke bry deg med den saken.</x>
-               <xt>In áigun du vuorjat dainna áššiin.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
