@@ -1405,15 +1405,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme" tw_id="forsvinne 0ed9089c-f84e-4448-8326-4e5184910cb6">
-            <t pos="V">gáidat</t>
             <t pos="V" src="fad">jávkat</t>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme" tw_id="forsvinne e4859a36-ba38-4962-82da-fd78c4ffb664">
-            <re>bli glemt av</re>
-            <t pos="V" src="fad">healbat</t>
-         </tg>
+            <xg>
+               <x>Jenta smilte slik at øynene nesten forsvant.</x>
+               <xt>Nieida moddjái nu, ahte su čalmmit uhtes eai jávkan.</xt>
+            </xg>
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="forsvinne plutselig dd1d858a-9980-4c04-a39b-3806d17a979f">
@@ -1427,8 +1424,18 @@
       </mg>
       <mg>
          <tg xml:lang="sme" tw_id="forsvinne c1b866c8-8803-43c3-a9b3-f8321732f192">
-            <re>gjøre at noe forsvinner</re>
+            <re>transitiv: få noe til å forsvinne</re>
             <t pos="V">áibadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>vike, forsvinne i det fjerne</re>
+            <t pos="V">gáidat</t>
+            <xg>
+               <x>Lyden av slåmaskinen forsvant.</x>
+               <xt>Láddjenmašiinna jietna gáiddai.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10837,8 +10844,8 @@
       <mg>
          <tg xml:lang="sme" tw_id="henge 2b57df92-4168-4f03-b990-507a607b6019">
             <re>intransitivː være festet</re>
-            <t pos="V">sorját</t>
             <t pos="V" src="fad">heaŋgát</t>
+            <t pos="V">sorját</t>
             <xg>
                <x>Den henger over stokken.</x>
                <xt>Dat heaŋgá holggas.</xt>
@@ -12046,6 +12053,16 @@
             <xg>
                <x>Jeg skal fjerne navnet ditt fra denne lista.</x>
                <xt>Mun áiggun sihkkut du nama dán listtus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>fjerne seg fra noe</re>
+            <t pos="V">gáidat</t>
+            <xg>
+               <x>Partiene har fjernet seg fra sine medlemmer.</x>
+               <xt>Bellodagat leat gáidan sin lahtuin.</xt>
             </xg>
          </tg>
       </mg>
