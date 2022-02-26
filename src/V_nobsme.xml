@@ -21831,20 +21831,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kunne utenat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Phrase">máhttit bajil</t>
-            <xg>
-               <x>Jeg kan diktet utenat.</x>
-               <xt>Divtta mun máhtán bajil.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">kunne</l>
       </lg>
       <mg>
@@ -21859,11 +21845,21 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-   <re>ha evne eller kunnskap til</re>
+           <re>ha evne eller kunnskap til</re>
             <t pos="V">máhttit</t>
             <xg>
                <x>Vi søker en person som kan samisk både skriftlig og muntlig.</x>
                <xt>Ohcat olbmo gii máhttá sámegiela sihke čálalaččat ja njálmmálaččat.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+           <re>kunne utenat</re>
+            <t pos="Phrase">máhttit bajil</t>
+            <xg>
+               <x>Jeg kan diktet utenat.</x>
+               <xt>Divtta mun máhtán bajil.</xt>
             </xg>
          </tg>
       </mg>
