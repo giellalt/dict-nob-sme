@@ -3676,6 +3676,12 @@
             <t pos="V">golket</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>vindstille vann</re>
+            <t pos="N">goalkejávri</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5655,6 +5661,30 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">ruošša</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>russiskspråklig</re>
+            <t pos="A">ruoššagielat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>russisk side av grensa</re>
+            <t pos="N">ruoššabealli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på eller fra russisk side av grensa</re>
+            <t pos="Adv">Ruošša bealde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til russisk side av grensa</re>
+            <t pos="Adv">Ruošša beallái</t>
          </tg>
       </mg>
    </e>
@@ -10241,6 +10271,17 @@
    </e>
    <e>
       <lg>
+         <l pos="A">skjelende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om øye</re>
+            <t pos="N">skielgá</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">utstående</l>
       </lg>
       <mg>
@@ -12038,6 +12079,28 @@
    </e>
    <e>
       <lg>
+         <l pos="A">enhornet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om rein</re>
+            <t pos="N">ápmil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">høytliggende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>høytliggende terreng med sand og småstein</re>
+            <t pos="N">čierri</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">kroket</l>
       </lg>
       <mg>
@@ -12862,6 +12925,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">udju</t>
+            <t pos="A">njáigu</t>
          </tg>
       </mg>
       <mg>
@@ -13549,10 +13613,6 @@
             <re>som førsteledd i sammensetninger</re>
             <t pos="N">šlinco-</t>
             <t pos="N">šlince-</t>
-            <xg>
-               <x>slasket klesplagg</x>
-               <xt>šlincobivttas</xt>
-            </xg>
             <xg>
                <x>slasket klesplagg</x>
                <xt>šlincebivttas</xt>
@@ -16704,6 +16764,28 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="A">utflyttet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om utflyttet person</re>
+            <t pos="N" type="NomAg">eretfárrejeaddji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hvitkledd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om hvitkledd person</re>
+            <t pos="N">vilgesbivttahas</t>
+         </tg>
+      </mg>
+   </e>
    <e src="fad">
       <lg>
          <l pos="A">uttallig</l>
@@ -17177,7 +17259,32 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="A">ruoŧa</t>
+            <t pos="A">ruoŧŧelaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>svenskspråklig</re>
             <t pos="A">ruoŧagielat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>svensk side av grensa</re>
+            <t pos="N">ruoŧabealli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på eller fra svensk side av grensa</re>
+            <t pos="Adv">Ruoŧa bealde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til svensk side av grensa</re>
+            <t pos="Adv">Ruoŧa beallái</t>
          </tg>
       </mg>
    </e>
@@ -17761,14 +17868,31 @@
          <tg xml:lang="sme">
             <re>som gjelder språk</re>
             <t pos="A">dárogiel</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>norskspråklig</re>
             <t pos="A">dárogielat</t>
             <t pos="A">dárogielalaš</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>snakke norsk</re>
-            <t pos="V">dárustit</t>
+            <re>norsk side av grensa</re>
+            <t pos="N">norggabealli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på eller fra norsk side av grensa</re>
+            <t pos="Adv">Norgga bealde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til norsk side av grensa</re>
+            <t pos="Adv">Norgga beallái</t>
          </tg>
       </mg>
    </e>
@@ -20937,6 +21061,30 @@
             <t pos="A">suopmelaš</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>finskspråklig</re>
+            <t pos="A">suomagielat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>finsk side av grensa</re>
+            <t pos="N">suomabealli</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>på eller fra finsk side av grensa</re>
+            <t pos="Adv">Suoma bealde</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>til finsk side av grensa</re>
+            <t pos="Adv">Suoma beallái</t>
+         </tg>
+      </mg>
    </e>
    <e src="fad">
       <lg>
@@ -20946,7 +21094,6 @@
          <tg xml:lang="sme">
             <t pos="A">giellaoahpalaš</t>
             <t pos="A">grammatihkalaš</t>
-            <t pos="A">grammáhtalaš</t>
          </tg>
       </mg>
    </e>

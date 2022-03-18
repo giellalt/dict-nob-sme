@@ -9060,10 +9060,26 @@
             <re>anmode</re>
             <t pos="V" src="fad">bivdit</t>
             <t pos="V" src="fad">dáhttut</t>
-            <t pos="V" src="fad">sihtat</t>
             <xg>
                <x>Jeg ber deg dra nå.</x>
                <xt>Mun bivddán du vuolgit dál.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>flere ganger</re>
+            <t pos="V">bivdalit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>be om</re>
+            <t pos="V">rávkat</t>
+            <t pos="V" src="fad">sihtat</t>
+            <xg>
+               <x>Han ba om hjelp fra meg.</x>
+               <xt>Son rávkkai mus veahki.</xt>
             </xg>
          </tg>
       </mg>
@@ -23218,31 +23234,21 @@
    </e>
    <e>
       <lg>
-         <l pos="V">skille rein</l>
+         <l pos="V">skjele</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rátkit</t>
+            <t pos="V">skielgát</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">be om</l>
+         <l pos="V">skille rein</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rávkat</t>
-            <xg>
-               <x>Han ba om hjelp fra meg.</x>
-               <xt>Son rávkkai mus veahki.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flere ganger</re>
-            <t pos="V">bivdalit</t>
+            <t pos="V">rátkit</t>
          </tg>
       </mg>
    </e>
