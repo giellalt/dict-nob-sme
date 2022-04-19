@@ -7,6 +7,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>som innledning til relativ bisetning</re>
             <t pos="CS">mii</t>
             <xg>
                <x>Det som skjer, det skjer.</x>
@@ -28,7 +29,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om mennesker</re>
+            <re>som innledning til relativ bisetning om mennesker</re>
             <t pos="CS">gii</t>
             <xg>
                <x>I gamle dager var det en fattig mann som ofte var innom og tigget hos presten.</x>
@@ -50,7 +51,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>innenfor en avgrenset gruppe</re>
+            <re>som innledning til relativ bisetning, innenfor en avgrenset gruppe</re>
             <t pos="Pron" type="Interr">guhte</t>
             <xg>
                <x>Elle fortalte hva hver enkelt tok.</x>
@@ -59,40 +60,6 @@
             <xg>
                <x>Kursene er ment for dem som kan litt samisk fra før.</x>
                <xt>Kurssat leat sin várás guđet máhttet veaháš sámegiela ovddežis.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="CS">go</t>
-            <xg>
-               <x>For dem er samisk et fremmedspråk, som de må begynne å lære på samme måte som andre fremmedspråk.</x>
-               <xt>Sidjiide lea sámegiella amas giella, maid fertejit oahppagoahtit seammá láhkai go eará amas gielaid.</xt>
-            </xg>
-            <xg>
-               <x>Ta en slik som du vil ha.</x>
-               <xt>Váldde dakkára go áiggut.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="CS">nugo</t>
-            <xg>
-               <x>Gjør som jeg.</x>
-               <xt>Daga nugo mun.</xt>
-            </xg>
-            <xg>
-               <x>Sier du det?</x>
-               <xt>Nugo?</xt>
-            </xg>
-            <xg>
-               <x>Dagens nyhetsformidlere kan ikke fortelle nyheter engang slik som de pleide å gjøre i gamle dager.</x>
-               <xt>Dán áigásaš ođasmuitaleaddjit eai máhte ságaidge muitalit nugo dolin lávejedje.</xt>
-            </xg>
-            <xg>
-               <x>På isen var det også små underholdningsinnslag, slik som skallekasting.</x>
-               <xt>Jieŋa alde ledje maid smávva suohtastallamat, nugo gámabálkesteapmi.</xt>
             </xg>
          </tg>
       </mg>
@@ -138,6 +105,43 @@
             <xg>
                <x>Med de maskinene som det er lettest å sy med, er det alltid noen som syr.</x>
                <xt>Daiguin mašiinnaiguin, guđiiguin lea álkimus goarrut, leat álo olbmot goarrume.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">som</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	     <re>innleder sammenlikning</re>
+            <t pos="CS">go</t>
+            <xg>
+               <x>For dem er samisk et fremmedspråk, som de må begynne å lære på samme måte som andre fremmedspråk.</x>
+               <xt>Sidjiide lea sámegiella amas giella, maid fertejit oahppagoahtit seammá láhkai go eará amas gielaid.</xt>
+            </xg>
+            <xg>
+               <x>Ta en slik som du vil ha.</x>
+               <xt>Váldde dakkára go áiggut.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	     <re>innleder sammenlikning</re>
+            <t pos="CS">nugo</t>
+            <xg>
+               <x>Gjør som jeg.</x>
+               <xt>Daga nugo mun.</xt>
+            </xg>
+            <xg>
+               <x>Dagens nyhetsformidlere kan ikke fortelle nyheter engang slik som de pleide å gjøre i gamle dager.</x>
+               <xt>Dán áigásaš ođasmuitaleaddjit eai máhte ságaidge muitalit nugo dolin lávejedje.</xt>
+            </xg>
+            <xg>
+               <x>På isen var det også små underholdningsinnslag, slik som skallekasting.</x>
+               <xt>Jieŋa alde ledje maid smávva suohtastallamat, nugo gámabálkesteapmi.</xt>
             </xg>
          </tg>
       </mg>
