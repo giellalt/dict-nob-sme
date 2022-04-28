@@ -1939,7 +1939,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>med kraftig smak</re>
+            <re>om kaffe, te</re>
             <t pos="A" src="fad">garas</t>
          </tg>
       </mg>
@@ -1951,6 +1951,16 @@
                <x>Vi to er like sterke.</x>
                <xt>Moai letne ovtta gievrru.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli sterk</re>
+            <t pos="V">garrat</t>
+        <xg>
+          <x>Motstanden ble sterk.</x>
+          <xt>Vuosteháhku garai.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -2114,7 +2124,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>bli sur</re>
+            <re>om melk: bli sur</re>
             <t pos="V">jiessut</t>
          </tg>
       </mg>
@@ -4254,6 +4264,17 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli frisk</re>
+            <t pos="V">dearvvašmuvvat</t>
+            <t pos="V">dearvvašnuvvat</t>
+            <xg>
+               <x>Det tok seks uker å bli frisk, og han klarer enda ikke å trene så mye som han pleide.</x>
+               <xt>Guhtta vahku ádjánii dearvvasmuvvat ja velge ii nagat hárjehallat nu olu go lávii.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4312,6 +4333,12 @@
          <tg xml:lang="sme">
             <t pos="A" src="fad">linis</t>
             <t pos="A" src="fad">dimis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli myk</re>
+            <t pos="V">dipmat</t>
          </tg>
       </mg>
    </e>
@@ -5395,6 +5422,12 @@
                <x>Vi to er like tunge.</x>
                <xt>Moai letne ovtta losu.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli tyngre</re>
+            <t pos="V">lossut</t>
          </tg>
       </mg>
    </e>
@@ -7617,7 +7650,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>X år gammel</re>
-            <t pos="A">-jahkásaš</t>
+             <t type="expl">-jahkásaš</t>
             <xg>
                <x>Jenta er femten år gammel.</x>
                <xt>Nieida lea viđanuppelotjahkásaš.</xt>
@@ -7647,6 +7680,12 @@
          <tg xml:lang="sme">
             <re>som knytter seg til fortiden</re>
             <t pos="A" src="fad">dološ</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli gammel</re>
+            <t pos="V" src="fad">boarásmuvvat</t>
          </tg>
       </mg>
    </e>
