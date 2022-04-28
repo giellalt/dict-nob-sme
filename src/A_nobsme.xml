@@ -3705,6 +3705,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+	         <re>bli stille (taus)</re>
+            <t pos="A">jávohuvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
          <re>den stille uke</re>
             <t pos="N">biidnovahkku</t>
          </tg>
@@ -5001,6 +5007,12 @@
             <t pos="A" src="fad">áŋgir</t>
          </tg>
       </mg>
+    <mg>
+      <tg xml:lang="sme">
+        <re>bli ivrig</re>
+        <t pos="V">movttiidit</t>
+      </tg>
+    </mg>
    </e>
    <e>
       <lg>
@@ -5019,6 +5031,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">guorus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli tom, tømmes</re>
+            <t pos="V">guorranit</t>
          </tg>
       </mg>
    </e>
@@ -5247,6 +5265,12 @@
          <tg xml:lang="sme">
             <t pos="A">jaskat</t>
             <t pos="A" src="fad">jávoheapme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli taus</re>
+            <t pos="A">jávohuvvat</t>
          </tg>
       </mg>
    </e>
@@ -5887,7 +5911,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>bli mindre</re>
-            <t pos="A">unnut</t>
+            <t pos="V">unnut</t>
             <xg>
                <x>Verden er blitt mindre.</x>
                <xt>Máilbmi lei unnon.</xt>
@@ -7761,6 +7785,12 @@
             <t pos="A" src="fad">sihkar</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli trygg</re>
+            <t pos="V">oadjut</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8009,6 +8039,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bli svakere</re>
+            <t pos="A">hedjonit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>dårlig, ille</re>
             <t pos="A" src="fad">fuotni</t>
          </tg>
@@ -8077,6 +8113,12 @@
             <re>tydelig</re>
             <t pos="A" src="fad">čielggas</t>
             <t pos="A">sealvi</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>klarne</re>
+            <t pos="V">čielgat</t>
          </tg>
       </mg>
       <mg>
@@ -11203,11 +11245,33 @@
    </e>
    <e>
       <lg>
+         <l pos="A">frustrert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" type="Prfprc">duššástuvvan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli frustrert</re>
+            <t pos="v">duššástuvvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">kokt</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">givssas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli ferdigkokt</re>
+            <t pos="v">giksat</t>
          </tg>
       </mg>
    </e>
@@ -11218,6 +11282,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">givssas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli ferdigstedt</re>
+            <t pos="v">giksat</t>
          </tg>
       </mg>
    </e>
@@ -11268,6 +11338,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">goasttis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>harskne</re>
+            <t pos="V">goastut</t>
+            <t pos="V">hávrut</t>
+            <xg>
+               <x>Smør harskner.</x>
+               <xt>Vuodja hávru.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -11331,6 +11412,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">guoirras</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli skinnmager</re>
+            <t pos="A">guoirat</t>
          </tg>
       </mg>
    </e>
@@ -12664,6 +12751,24 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">ruoinnas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli mager</re>
+            <t pos="V">ruoidnat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>skinnmager</re>
+            <t pos="A">guoirras</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli skinnmager</re>
+            <t pos="A">guoirat</t>
          </tg>
       </mg>
    </e>
@@ -15566,6 +15671,12 @@
                <x>Moltene er modne.</x>
                <xt>Luomi lea láddan.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli moden</re>
+            <t pos="V">láddat</t>
          </tg>
       </mg>
       <mg>
