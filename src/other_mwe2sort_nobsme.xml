@@ -3,89 +3,6 @@
 <r id="nobsme" xml:lang="nob">
    <e>
       <lg>
-         <l pos="Phrase">ingen måte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Phrase">ii guđege ládje</t>
-            <t pos="Phrase">ii guđege láhkai</t>
-            <xg>
-               <x>Dette er på ingen måte akseptabelt.</x>
-               <xt>Dát ii leat dohkálaš	ii guđege láhkai.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">godt humør</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">movtta</t>
-            <t pos="Adv">buorremielas</t>
-            <xg>
-               <x>Vi to er i godt humør.</x>
-               <xt>Moai letne movtta.</xt>
-            </xg>
-            <xg>
-               <x>Elle er i godt humør.</x>
-               <xt>Elle lea buorremielas.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">søvnige øyne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">nagirčalmmit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>med søvnige øyne</re>
-            <t pos="Adv">nagirčalmmiid</t>
-            <xg>
-               <x>Med søvnige øyne krøp jeg ut av sengen.</x>
-               <xt>Nagirčalmmiid njommon seaŋggas eret.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">smil om munnen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>med smil om munnen</re>
-            <t pos="Adv">mojunjálmmiid</t>
-            <xg>
-               <x>Ánte sa med et smil om munnen at han har bestått eksamen.</x>
-               <xt>Ánte dajai mojunjálmmiid ahte son lea ceavzán eksámena.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">ved godt mot</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">movtta</t>
-            <xg>
-               <x>Vi to er ved godt mot.</x>
-               <xt>Moai letne movtta.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">noensteds fra</l>
       </lg>
       <mg>
@@ -95,20 +12,6 @@
             <xg>
                <x>Jeg har ikke hørt noen steder at det har vært jordskjelv.</x>
                <xt>In leat goit gullan gostege ahte lea leamaš eanandoarggástus.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">døgnet rundt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">birrajándora</t>
-            <xg>
-               <x>Her kjører biler og trailere døgnet rundt.</x>
-               <xt>Dáppe vudjet biillat ja tráilarat birrajándora.</xt>
             </xg>
          </tg>
       </mg>
@@ -145,12 +48,8 @@
          <tg xml:lang="sme">
             <t pos="CS">nugo</t>
             <xg>
-               <x>Gjør som jeg.</x>
+               <x>Gjør slik som jeg.</x>
                <xt>Daga nugo mun.</xt>
-            </xg>
-            <xg>
-               <x>Sier du det?</x>
-               <xt>Nugo?</xt>
             </xg>
             <xg>
                <x>Dagens nyhetsformidlere kan ikke fortelle nyheter engang slik som de pleide å gjøre i gamle dager.</x>
@@ -162,14 +61,52 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Phrase">nu mo</t>
+            <t pos="Phrase">nu movt</t>
+            <xg>
+               <x>Vi fikk i år en halv million, slik som i fjor.</x>
+               <xt>Mii oaččuimet dán jagi miljovdnabeali nu movt diibmá.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">av hensyn til</l>
+         <l pos="Phrase">på samme måte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Po">várás</t>
+            <t pos="Phrase">seamma láhkai</t>
+            <t pos="Phrase">seamma ládje</t>
+            <xg>
+               <x>Andre jaktlag må også gjøre det på samme måte.</x>
+               <xt>Eará bivdojoavkkut fertejit maid dahkat juste seamma láhkai.</xt>
+            </xg>
+            <xg>
+               <x>I tillegg er han en helt, på samme måte som Batman og Superman.</x>
+               <xt>Dasa lassin lea son sáŋgár, seammá ládje go Batman ja Superman.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Phrase">samme måte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Phrase">seamma láhkai</t>
+            <t pos="Phrase">seamma ládje</t>
+            <xg>
+               <x>Andre jaktlag må også gjøre det på samme måte.</x>
+               <xt>Eará bivdojoavkkut fertejit maid dahkat juste seamma láhkai.</xt>
+            </xg>
+            <xg>
+               <x>I tillegg er han en helt, på samme måte som Batman og Superman.</x>
+               <xt>Dasa lassin lea son sáŋgár, seammá ládje go Batman ja Superman.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -258,27 +195,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rett vinkel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">njuolggočiehka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">stump vinkel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">leappočiehka</t>
-            <t pos="N">duolbačiehka</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">mange personer</l>
       </lg>
       <mg>
@@ -288,56 +204,6 @@
                <x>Det er i hvert fall ikke noen problemer med fylkeskommunen her, sier mange.</x>
                <xt>Ii dás goit leat fylkkagielddas mihkkege váttisvuođaid, olus lohket.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">rett til å utøve reindrift</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">boazodoallovuoigatvuohta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">forslag til vedtak</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">mearrádusevttohus</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">plikt til merking av tamrein</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">merkengeatnegasvuohta</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">oppsøkende virksomhet</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">ohcandoaibma</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">høyrøstet snakk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N">riedja</t>
          </tg>
       </mg>
    </e>
@@ -358,26 +224,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">sámeálbmotfoanda</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">mange tusen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Num">máŋgaduhát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">mange hundretusen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Num">máŋgačuođiduhát</t>
          </tg>
       </mg>
    </e>
@@ -579,16 +425,12 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">uten avgjørelse</l>
+         <l pos="Phrase">til lags</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>om sted i overført betydning</re>
             <t pos="Pr">guoktil</t>
-            <xg>
-               <x>I rettsaken fikk verken Máret eller Máhtte medhold.</x>
-               <xt>Diggeášši jorai guoktil Máreha ja Máhte.</xt>
-            </xg>
             <xg>
                <x>Vedkommende snakker begge til lags.</x>
                <xt>Son hállá guoktil sudno.</xt>
@@ -658,79 +500,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">med tanke på</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om hensikten</re>
-            <t pos="Po">nammii</t>
-            <xg>
-               <x>Det skal være en stol med tanke på hver enkelt.</x>
-               <xt>Juohke olbmo nammii galgá leat stuollu.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">jevnt i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om mengde, hurtighet eller langvarighet</re>
-            <t pos="Po">guotkku</t>
-            <xg>
-               <x>Biera kan ikke måle seg med Máhtte.</x>
-               <xt>Biera ii leat Máhte guotkku.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">under kontroll av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">gieđas</t>
-            <xg>
-               <x>Hele bedriften er nå under kontroll av deg.</x>
-               <xt>Olles fitnodat lea dál du gieđas.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">jevnhøy med</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om sted i overført betydning</re>
-            <t pos="Po">dássá</t>
-            <xg>
-               <x>Jeg fylte karet helt opp til kanten.</x>
-               <xt>Mun devden gári ravddaid dássá.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">innenfor mulighetens grenser</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">bottain</t>
-            <xg>
-               <x>Det ligger ikke innenfor mine grenser.</x>
-               <xt>Dat ii leat mu bottain.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">nærmere mot ... siden</l>
       </lg>
       <mg>
@@ -740,20 +509,6 @@
             <xg>
                <x>Der må man kjøre nærmere den norske siden.</x>
                <xt>Dakko galgá vuodjit Norgga belos.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">på vegne av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">bealis</t>
-            <xg>
-               <x>Intervjuene er gjort på vegne av instituttet.</x>
-               <xt>Jearahallamat leat dahkkon instituhta bealis.</xt>
             </xg>
          </tg>
       </mg>
@@ -904,46 +659,6 @@
             <xg>
                <x>Jeg håpet virkelig at denne saken går i vår favør.</x>
                <xt>Doivon duođai ahte dát ášši állana min beallái.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">så mye som</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">veardde</t>
-            <xg>
-               <x>så pass mye</x>
-               <xt>dan veardde</xt>
-            </xg>
-            <xg>
-               <x>I denne ordboka er det fjerna en del sjeldne dialektord som har vært med i SKES-materialet.</x>
-               <xt>Dán sátnegirjjis leat guđđon eret muhtun veardde hárvenaš suopmansánit, mat leat leamaš fárus SKES materiálas.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">å javel</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pcle">bat</t>
-            <xg>
-               <x>Å, er det slik det er?</x>
-               <xt>Nu bat dat lea?</xt>
-            </xg>
-            <xg>
-               <x>Hvem ville vel ikke ønsket seg det.</x>
-               <xt>Gii bat dan ii háliidivčče.</xt>
-            </xg>
-            <xg>
-               <x>Hvor er så Biret?</x>
-               <xt>Gos bat Biret lea?</xt>
             </xg>
          </tg>
       </mg>
@@ -1176,20 +891,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">høyere oppe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Pr">badjelis</t>
-            <xg>
-               <x>De måler hvor mye høyere hvert vann er over havnivå.</x>
-               <xt>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Det">begge</l>
       </lg>
       <mg>
@@ -1405,14 +1106,14 @@
    </e>
    <e>
       <lg>
-         <l pos="CS">for at ikke</l>
+         <l pos="Phrase">for at ikke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>for at hun eller han ikke</re>
             <t pos="V">amas</t>
             <xg>
-               <x>Han må være forsiktig når han går, så han ikke faller.</x>
+               <x>Han må være forsiktig når han går, for at han ikke faller.</x>
                <xt>Son ferte leat várrogas go vázzá amas gahččat.</xt>
             </xg>
          </tg>

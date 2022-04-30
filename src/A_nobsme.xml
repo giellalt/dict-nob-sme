@@ -2255,6 +2255,24 @@
             <t pos="N">borramuš</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>rett vinkel</re>
+            <t pos="N">njuolggočiehka</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">stump</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>stump vinkel</re>
+            <t pos="N">leappočiehka</t>
+            <t pos="N">duolbačiehka</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -3914,13 +3932,37 @@
             </xg>
          </tg>
       </mg>
-      <mg>
+       <mg>
          <tg xml:lang="sme">
+            <re>om menneske og trær</re>
+            <t pos="A">guhkki</t>
+            <xg>
+               <x>Han er høyere enn meg.</x>
+               <xt>Son lea guhkit go mun.</xt> 
+            </xg>
+            <xg>
+               <x>Han sto ved det høye treet.</x> 
+               <xt>Son čuččodii guhkes muora guoras.</xt>
+            </xg> 
+         </tg>
+      </mg>
+      <mg>
+        <tg xml:lang="sme">
             <re>om mål</re>
             <t pos="Po">alu</t>
             <xg>
                <x>Den der bjørka er tre meter høy.</x>
                <xt>Duot soahki lea golbma mehtera alu.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>høyere oppe</re>
+            <t pos="Pr">badjelis</t>
+            <xg>
+               <x>De måler hvor mye høyere hvert vann er over havnivå.</x>
+               <xt>Sii mihtidit man ollu badjelis áhpedási guhtege jávri lea.</xt>
             </xg>
          </tg>
       </mg>
@@ -11881,6 +11923,12 @@
             <t pos="V">riejáskit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>høyrøstet snakk</re>
+            <t pos="N">riedja</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -17452,6 +17500,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">váibbas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med søvnige øyne</re>
+            <t pos="Adv">nagirčalmmiid</t>
+            <xg>
+               <x>Med søvnige øyne krøp jeg ut av sengen.</x>
+               <xt>Nagirčalmmiid njommon seaŋggas eret.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
