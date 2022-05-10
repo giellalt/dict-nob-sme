@@ -2087,6 +2087,16 @@
             <t pos="V" src="fad">rievidit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli frastjålet</re>
+            <t pos="V">suoládahttit</t>
+            <xg>
+               <x>Turisten forteller hvordan han ble frastjålet pass og penger.</x>
+               <xt>Turista muitala mo suoládahtii pássa ja ruđaid.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -2882,7 +2892,6 @@
          <l pos="V">såre</l>
       </lg>
       <mg>
-	      <l_ref>vondt_adv</l_ref>
          <tg xml:lang="sme">
             <re>fornærme, krenke</re>
             <t pos="V">loavkašuhttit</t>
@@ -2893,12 +2902,6 @@
          <tg xml:lang="sme">
             <re>skade</re>
             <t pos="V" src="fad">soardit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>bli såret, fornærmet</re>
-            <t pos="V">loavkašuvvat</t>
          </tg>
       </mg>
    </e>
@@ -4903,12 +4906,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="fad">dubmet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-	         <re>bli dømt</re>
-            <t pos="V" src="fad">dubmehallat</t>
          </tg>
       </mg>
    </e>
@@ -9210,9 +9207,9 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>komme inn</re>
             <t pos="V">beassat</t>
             <xg>
+            <re>komme inn</re>
                <x>Jeg kom meg inn på universitetet.</x>
                <xt>Mun bessen universitehtii.</xt>
             </xg>
@@ -15896,12 +15893,6 @@
             <t pos="V">beahttit</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-	         <re>bli bedratt</re>
-            <t pos="V">beahtahallat</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -18851,12 +18842,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">gaskkalduvvat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-	         <re>bli avbrutt</re>
             <t pos="V">gaskkalduvvat</t>
          </tg>
       </mg>
@@ -24839,19 +24824,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-	         <re>transitiv: kile noe</re>
             <t pos="V">čagalduhttit</t>
             <t pos="V">čagarduhttit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-	         <re>intransitiv: det kiler</re>
-            <t pos="V">čagalduvvat</t>
-        <xg>
-          <x>Jeg må innrømme at det kiler i magen.</x>
-          <xt>Ferten mieđihit ahte čoavji čagalduvvá.</xt>
-        </xg>
          </tg>
       </mg>
    </e>
@@ -33114,16 +33088,6 @@
          </tg>
       </mg>
    </e>
-   <e>
-      <lg>
-         <l pos="V">bøtelegge</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">sáhkuhit</t>
-         </tg>
-      </mg>
-   </e>
    <e src="fad">
       <lg>
          <l pos="V">overdrive</l>
@@ -33131,7 +33095,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">liiggástallat</t>
-            <t pos="V">mearehuddat</t>
          </tg>
       </mg>
    </e>
