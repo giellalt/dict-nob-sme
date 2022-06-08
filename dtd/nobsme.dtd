@@ -30,7 +30,7 @@ orig_entry CDATA #IMPLIED
 pos CDATA #REQUIRED
 >
 
-<!ELEMENT mg  ( re? , tg+ )>
+<!ELEMENT mg  ( l_ref?, re? , tg+ )>
 <!ATTLIST mg
 xml:lang CDATA #IMPLIED
 >
