@@ -14382,7 +14382,9 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	        <re>å ha noe</re>
             <t pos="V">leat</t>
+            <t type="grammar" href="https://oahpa.no/sme/gramm/verb.nob.html#Leat-verbet">les mer i grammatikken</t>          
             <xg>
                <x>Jeg har en bil.</x>
                <xt>Mus lea biila.</xt>
@@ -14399,7 +14401,9 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t type="expl">(hjelpeverb)</t>
+	        <re>å ha gjort noe, (hjelpeverb)</re>
+            <t pos="V">leat</t>
+            <t type="grammar" href="https://oahpa.no/sme/gramm/verb.nob.html#Leat-verbet">les mer i grammatikken</t>    
             <xg>
                <x>Jeg har kjøpt bil.</x>
                <xt>Mun lean oastán biilla.</xt>
@@ -14428,6 +14432,11 @@
          <tg xml:lang="sme">
             <re>ha med seg</re>
             <t pos="V">fievrridit</t>
+            <t pos="V">buktit</t>
+            <xg>
+               <x>Har du med godteri til meg?</x>
+               <xt>Buktetgo munnje njálgáid?</xt>
+            </xg>
          </tg>
       </mg>
    </e>
