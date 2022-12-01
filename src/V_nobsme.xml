@@ -322,6 +322,16 @@
             <t pos="V" src="fad">girdilit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>fly hit og dit</re>
+            <t pos="V">girddašit</t>
+            <xg>
+               <x>Vi fulgte flygingen til de kolossale fuglene der borte.</x>
+               <xt>Čuovuimet duoid áibmadas lottiid girddašeami.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -1235,6 +1245,12 @@
             <re>transportere</re>
             <t pos="V">geasehit</t>
             <t pos="V" src="fad">vuojihit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kjøre svært fort</re>
+            <t pos="V">luoittihit</t>
          </tg>
       </mg>
    </e>
@@ -7532,8 +7548,30 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>ankomme</re>
+            <t pos="V" src="fad">ollet</t>
+            <t pos="V" src="fad">joavdat</t>
+            <xg>
+               <x>Klokka halv fire på natta når de Sørøya.</x>
+               <xt>Diibmu beal njealjis ihkku sii ollejit Sállanii.</xt>
+            </xg>
+            <xg>
+               <x>Undommene har enda ikke nådd Karasjok, men de er på veg nordover med fly.</x>
+               <xt>Nuorat eai lean vel joavdán Kárášjohkii, muhto leat jođus davás girdi mielde.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>nå frem, vinne frem</re>
             <t pos="V">buvttihit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>nå igjen</re>
+            <t pos="V">juksat</t>
+            <t pos="V">duohpat</t>
          </tg>
       </mg>
       <mg>
@@ -18067,17 +18105,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nå igjen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">juksat</t>
-            <t pos="V">duohpat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">bevitne</l>
       </lg>
       <mg>
@@ -20501,22 +20528,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nå fram</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">ollet</t>
-            <t pos="V">joavdat</t>
-            <t pos="V">buvttehit</t>
-            <xg>
-               <x>Denne gangen nådde alle representantene tidsnok i motsetning til år 1814 da representantene fra Nord-Norge ikke nådde fram dit.</x>
-               <xt>Dán háve jovde buot áirasat áigemunil 1814 jagi ektui go Davvi-Norgga áirasat eai buvttehan dohko.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">drive dank</l>
       </lg>
       <mg>
@@ -21422,16 +21433,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">luoddanit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">kjøre svært fort</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">luoittihit</t>
          </tg>
       </mg>
    </e>
@@ -26092,20 +26093,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">vuoidalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">fly hit og dit</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">girddašit</t>
-            <xg>
-               <x>Vi fulgte flygingen til de kolossale fuglene der borte.</x>
-               <xt>Čuovuimet duoid áibmadas lottiid girddašeami.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
