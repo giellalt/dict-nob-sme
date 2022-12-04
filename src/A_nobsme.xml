@@ -773,6 +773,21 @@
    </e>
    <e>
       <lg>
+         <l pos="A">flau</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli flau</re>
+            <t pos="V">heahpanit</t>
+            <xg>
+               <x>Jeg blir flau.</x>
+               <xt>Mun heahpanan.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">tiltaksløs</l>
       </lg>
       <mg>
@@ -810,6 +825,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" type="Prfprc">jierásmuvvan</t>
+            <t pos="V">balus</t>
+            <xg>
+               <x>Jeg er nervøs.</x>
+               <xt>Mun lean balus.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -2800,13 +2820,32 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>som attributt</re>
             <t pos="A" src="fad">movttet</t>
             <t pos="A" src="fad">ilolaš</t>
+            <xg>
+               <x>Han er en glad gutt.</x>
+               <xt>Son lea ilolaš lunta.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>som predikativ</re>
+            <t pos="A" src="fad">movttet</t>
+            <t pos="A" src="fad">ilolaš</t>
+            <t pos="Adv">buoremielas</t>
             <t pos="Adv">ilus</t>
             <xg>
-               <x>Vi forstår da at han er en glad gutt.</x>
-               <xt>Mii gal ipmirdit ahte son lea ilolaš lunta.</xt>
+               <x>Jeg er glad.</x>
+               <xt>Mun lean buoremielas.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>er glad for noe</re>
+            <t pos="Adv">ilus</t>
             <xg>
                <x>Vi er glade for at du har valgt oss som samarbeidspartner.</x>
                <xt>Mii leat ilus go leat min válljen ovttasbargoguoibmin.</xt>
@@ -2995,6 +3034,16 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="Phrase">rámis</t>
+            <xg>
+               <x>Jeg er stolt av prosjektet.</x>
+               <xt>Mun lean rámis prošeavttain.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>overlegent stolt</re>
             <t pos="A">govdat</t>
             <t pos="A" src="fad">čeavlái</t>
             <t pos="A" src="fad">vuovdnái</t>
@@ -4480,11 +4529,54 @@
    </e>
    <e>
       <lg>
+         <l pos="A">irritabel</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">erdui</t>
+            <t pos="A">duskkas</t>
+            <xg>
+               <x>Han sov dårlig og var hele tiden veldig irritabel.</x>
+               <xt>Son ođii funet ja lei jámma hui erdui.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">irritert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" type="Prfprc">erdon</t>
+            <xg>
+               <x>Vi er irriterte.</x>
+               <xt>Mii leat erdon.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli irritert</re>
+            <t pos="V">eardut</t>
+            <xg>
+               <x>Jeg blir irritert.</x>
+               <xt>Mun earddun.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">misfornøyd</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">duhtameahttun</t>
+            <xg>
+               <x>Vi er misfornøyde.</x>
+               <xt>Mii leat duhtameahttumat.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -5420,6 +5512,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">lihkolaš</t>
+            <t pos="A">ilolaš</t>
          </tg>
       </mg>
    </e>
@@ -10185,6 +10278,7 @@
          <tg xml:lang="sme">
             <t pos="A">bahá</t>
             <t pos="A">hárpmas</t>
+            <t pos="V" type="Prfprc">suhttan</t>
          </tg>
       </mg>
       <mg>
@@ -11041,6 +11135,20 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">erenoamáš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sorgfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Phrase">morrašis</t>
+            <xg>
+               <x>Mun lean morrašis.</x>
+               <xt>Jeg er sorgfull.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13252,6 +13360,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">udju</t>
+            <t pos="A">njáigu</t>
          </tg>
       </mg>
       <mg>
@@ -19260,6 +19369,16 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="A">aggressiv</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">vašán</t>
+         </tg>
+      </mg>
+   </e>
    <e src="fad">
       <lg>
          <l pos="A">hatefull</l>
@@ -20359,6 +20478,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">duhtavaš</t>
+            <t pos="A">duđavaš</t>
          </tg>
       </mg>
    </e>
