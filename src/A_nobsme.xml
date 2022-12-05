@@ -5442,7 +5442,7 @@
             <t pos="A" src="fad">jierpmálaš</t>
             <t pos="A">jearggalaš</t>
             <xg>
-			<x>Av dette blir det ikke noen fornuftig løsning.</x>         
+			<x>Av dette kommer det ikke noen fornuftig løsning.</x>         
 			<xt>Dás ii boađe jierpmálaš čoavddus.</xt>
             </xg>
 		</tg>
@@ -6918,8 +6918,23 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>om en person</re>
             <t pos="A" src="fad">jierbmái</t>
+            <xg>
+			<x>Biehtár er en smart gutt.</x>         
+			<xt>Biehtár lea jierbmás gánda.</xt>
+            </xg>
          </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om en sak</re>
+            <t pos="A">jierpmálaš</t>
+            <xg>
+			<x>Av dette kommer det ikke noen smart løsning.</x>         
+			<xt>Dás ii boađe jierpmálaš čoavddus.</xt>
+            </xg>         
+          </tg>
       </mg>
    </e>
    <e>
@@ -20488,13 +20503,18 @@
       <mg>
          <tg xml:lang="sme">
 	         <re>noen har det trist</re>
+            <t pos="A">šlundi</t>
             <t pos="N">váivi</t>
+             <xg>
+               <x>Han var trist fordi han ikke klarte seg i semifinalen.</x>
+               <xt>Son lei šlundi go ii birgen semifinálas.</xt>
+            </xg>
              <xg>
                <x>Jeg er trist i dag.</x>
                <xt>Mus lea váivi odne.</xt>
             </xg>
         </tg>
-      </mg>
+      </mg> 
    </e>
    <e src="fad">
       <lg>
