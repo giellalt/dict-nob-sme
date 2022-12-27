@@ -1876,8 +1876,20 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>sove godt</re>
+            <t pos="V">oađašit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>overnatte</re>
             <t pos="V" src="fad">ijastallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ville sove</re>
+            <t pos="V">oađestuvvat</t>
          </tg>
       </mg>
    </e>
@@ -14352,6 +14364,12 @@
             <t pos="V">njuikkodit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	      <re>som en hare</re>
+            <t pos="V">simput</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15180,6 +15198,7 @@
             <re>fort</re>
             <t pos="V">bárgut</t>
             <t pos="V">muhkut</t>
+            <t pos="V">bállit</t>
          </tg>
       </mg>
    </e>
@@ -16919,12 +16938,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>en gang</re>
-            <t pos="V">ravgat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+	         <re>om ball</re>
             <t pos="V">bánccardit</t>
             <xg>
                <x>Ballen spratt hvor som helst bortsett fra mot meg.</x>
@@ -16934,27 +16948,24 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">báhccat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>drepe ved å stanse lufttilførsel til lungene</re>
+	         <re>en gang</re>
             <t pos="V">galkat</t>
+            <t pos="V">báhccat</t>
+            <xg>
+               <x>Ballen treffer hodet hans og spretter i mål.</x>
+               <xt>Spábba deaivá su oaivvi ja galká mollii.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">ravggadit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
+	         <re>sprette eller springe som en hare</re>
             <t pos="V">cancut</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+	         <re>om å vake</re>
             <t pos="V">bákŋat</t>
             <xg>
                <x>Fisken spretter i vannet.</x>
@@ -19362,6 +19373,22 @@
          <tg xml:lang="sme">
             <re>en gang</re>
             <t pos="V">goaikkihit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">risle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">šnjoarrat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lenge</re>
+            <t pos="V">šnjoaraidit</t>
          </tg>
       </mg>
    </e>
@@ -25520,6 +25547,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">šurrat</t>
+            <t pos="V">hurrat</t>
          </tg>
       </mg>
    </e>
@@ -26769,26 +26797,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">nivkkihit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">sove trygt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">oađašit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">ville sove</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">oađestuvvat</t>
          </tg>
       </mg>
    </e>
