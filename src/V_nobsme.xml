@@ -8818,7 +8818,6 @@
             <re>transitiv: utvikle noe</re>
             <t pos="V" src="fad">ovdánahttit</t>
             <t pos="V" src="fad">ovddidit</t>
-            <t pos="V" src="fad">gárget</t>
             <t pos="V" src="fad">gárgedit</t>
          </tg>
       </mg>
@@ -18765,7 +18764,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>en gang</re>
+            <re>transitivt: slenge noe en gang</re>
             <t pos="V">šlivget</t>
             <t pos="V">šlivgut</t>
             <t pos="V">šluvgit</t>
@@ -18774,8 +18773,18 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>holde på å slenge med noe</re>
+            <re>transitivt: holde på å slenge noe</re>
             <t pos="V">šluvggašit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>instransitivt: noe slenger</re>
+            <t pos="V">šlivgasit</t>
+            <xg>
+               <x>Sleden slengte etter skuteren.</x>
+               <xt>Reahka šlivgasii skohtera maŋis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20140,6 +20149,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">gárget</t>
+            <xg>
+               <x>Ullgenseren kan man rekke opp igjen og bruke garnet til noe annet.</x>
+               <xt>Ullobáiddi sáhttá fas gárget ja láiggi geavahit masa nu eará.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -25213,6 +25226,20 @@
    </e>
    <e>
       <lg>
+         <l pos="V">lepje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">čuohkat</t>
+            <xg>
+               <x>Katta lepjer melk.</x>
+               <xt>Bussá čuohká mielkki.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">slafse</l>
       </lg>
       <mg>
@@ -25977,20 +26004,6 @@
             <xg>
                <x>Snøen lyste fjellsidene hvite.</x>
                <xt>Muohta čeaskái várregilggaid.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">slenges</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">šlivgasit</t>
-            <xg>
-               <x>Sleden slengte etter skuteren.</x>
-               <xt>Reahka šlivgasii skohtera maŋis.</xt>
             </xg>
          </tg>
       </mg>
