@@ -249,7 +249,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">gal</t>
+            <t pos="Adv">gal</t>
             <xg>
                <x>Vi bor riktignok i nord, men her er det ikke bare samer.</x>
                <xt>Ássat mii gal davvin, muhto dáppe eai leat dušše sámit.</xt>
@@ -545,6 +545,26 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>langt borte, langt bortefra</re>
+            <t pos="Adv">guhkkin</t>
+            <xg>
+               <x>Du er så langt borte, men likevel så nær.</x>
+               <xt>Don leat nu guhkkin, muhto liikká nu lahka.</xt>
+            </xg>
+            <xg>
+               <x>Du kommer så langt bortefra.</x>
+               <xt>Don boađát nu guhkkin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om et område som er langt borte</re>
+            <t pos="N">endor</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -656,23 +676,37 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pr">guovdu</t>
+	         <re>midt mellom endene</re>
             <t pos="Pr">gasku</t>
-            <xg>
-               <x>Han går midt på veien.</x>
-               <xt>Son vázzá guovdu luotta.</xt>
-            </xg>
             <xg>
                <x>Telefonen ringte midt under møtet.</x>
                <xt>Telefovdna riŋgii gasku čoahkkima.</xt>
             </xg>
             <xg>
-               <x>Den gamle mannen malte den gule stripa som går midt på vegen.</x>
-               <xt>Áddjá málii dan fiskes sázu mii manná gasku luotta.</xt>
-            </xg>
-            <xg>
                <x>Forhåpentligvis er Nordlys midt på tabellen når serien avsluttes på høsten.</x>
                <xt>Doaivumis lea Nordlys gasku tabealla go čiekčamat loahpahuvvojit čakčat.</xt>
+            </xg>
+            <xg>
+               <x>Hun banken på med staven på kanten av tua, og midt i tua åpnet det seg ei dør.</x>
+               <xt>Son skoalkalii soppiinis bovdnaravdii, gasku bovnna rahpasii uksa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>midt mellom langsidene</re>
+            <t pos="Pr">guovdu</t>
+            <xg>
+               <x>Han går midt på veien.</x>
+               <xt>Son vázzá guovdu luotta.</xt>
+            </xg>
+            <xg>
+               <x>Jeg var midt på vidda.</x>
+               <xt>Mun ledjen guovdu duoddara.</xt>
+            </xg>
+            <xg>
+               <x>Jeg kjørte midt på elva.</x>
+               <xt>Vudjen guovdu joga.</xt>
             </xg>
          </tg>
       </mg>
@@ -685,7 +719,17 @@
             </xg>
          </tg>
       </mg>
-   </e>
+      <mg>
+         <tg xml:lang="sme">
+            <re>midt på</re>
+            <t pos="Pr">guovdelas</t>
+            <xg>
+               <x>midt på dagen</x>
+               <xt>guovdelas beaivvi</xt>
+            </xg>
+         </tg>
+      </mg>
+  </e>
    <e>
       <lg>
          <l pos="Adv">først</l>
@@ -1108,9 +1152,42 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>direkte</re>
             <t pos="Adv">njuolga</t>
+            <xg>
+               <x>Jeg dro rett dit.</x>
+               <xt>Mun mannen njuolga dohko.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>rett på, rett mot</re>
+            <t pos="Po">njeaiga</t>
+            <xg>
+               <x>Ofte er det bedre å kjøre rett på et dyr enn å styre i grøfta.</x>
+               <xt>Dávjá lea buoret vuodjit ealli njeaiga go stivret luottas eret.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>rett på, rett mot</re>
+            <t pos="Po">njeaiga</t>
+            <xg>
+               <x>Ofte er det bedre å kjøre rett på et dyr enn å styre i grøfta.</x>
+               <xt>Dávjá lea buoret vuodjit ealli njeaiga go stivret luottas eret.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>riktig</re>
             <t pos="Adv">riekta</t>
-            <t pos="Adv">vuoiga</t>
+            <xg>
+               <x>Jeg gjorde det rett.</x>
+               <xt>Mun bargen dan riekta.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -1423,12 +1500,21 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">duođai</t>
-            <t pos="Adv">duođaid</t>
             <t pos="Adv">vuoiga</t>
             <t pos="Adv">duođas</t>
             <xg>
                <x>Ánte undret seg om Ánne virkelig kan stå på hodet.</x>
                <xt>Ánte imaštalai duođas go Ánne máhttá oaivvi nalde čuožžut.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>forsterkende</re>
+            <t pos="Adv">gal</t>
+            <xg>
+               <x>Det har jeg virkelig glemt.</x>
+               <xt>Dan gal lean vajálduhttán.</xt>
             </xg>
          </tg>
       </mg>
@@ -2205,15 +2291,31 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>østlig dialekt</re>
             <t pos="Adv">máddin</t>
-            <t pos="Adv">lullin</t>
             <xg>
                <x>Elle har bodd 20 år sørpå.</x>
                <xt>Elle lea 20 jagi orron máddin.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>vestlit dialekt</re>
+            <t pos="Adv">lullin</t>
             <xg>
                <x>De har bodd lenge sørpå.</x>
                <xt>Sii leat guhká ássan lullin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>langt sørpå</re>
+            <t pos="Adv">lulde</t>
+            <xg>
+               <x>Langt sørpå bor det mange mennesker.</x>
+               <xt>Lulde ásset ollu olbmot.</xt>
             </xg>
          </tg>
       </mg>
@@ -2224,15 +2326,31 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>østlig dialekt</re>
             <t pos="Adv">máddin</t>
-            <t pos="Adv">lullin</t>
             <xg>
                <x>Elle har kommet sørfra nordover på sommerferie.</x>
                <xt>Elle lea máddin boahtán davás geasselupmui.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>vestlig dialekt</re>
+            <t pos="Adv">lullin</t>
             <xg>
                <x>Jeg kom sørfra i går.</x>
                <xt>Mun bohten ikte lullin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>langt sørfra</re>
+            <t pos="Adv">lulde</t>
+            <xg>
+               <x>Langt sørfra er det kommet mange mennesker til denne konferansen.</x>
+               <xt>Lulde leat boahtán ollu olbmot dán konferánsii.</xt>
             </xg>
          </tg>
       </mg>
@@ -2540,8 +2658,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>kryssing f.eks. vei</re>
-            <t pos="Adv">rastá</t>
+	         <re>litt over</re>
+            <t pos="Pr">badjelaš</t>
+            <xg>
+               <x>Elle har bare litt over åtti frimerker.</x>
+               <xt>Elles leat dušše badjelaš gávccilogi poastamearkka.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -3215,6 +3337,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+	         <re>akkurat der</re>
             <t pos="Adv">duos</t>
             <xg>
                <x>Elle bor akkurat der.</x>
@@ -3238,6 +3361,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>akkurat her</re>
             <t pos="Adv">dás</t>
             <xg>
                <x>Elle bor akkurat her.</x>
@@ -3251,6 +3375,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+	         <re>her omkring</re>
             <t pos="Adv">dáppe</t>
             <xg>
                <x>Elle bor her omkring.</x>
@@ -4364,6 +4489,22 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>sånn her</re>
+            <t pos="Adv">ná</t>
+            <xg>
+               <x>Jeg skriver sånn.</x>
+               <xt>Mun čálán ná.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>sånn der</re>
+            <t pos="Adv">nie</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -4994,6 +5135,20 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>som helst</re>
+            <t pos="Adv">feara</t>
+            <xg>
+               <x>Der borte var hva som helst.</x>
+               <xt>Doppe lei feara mii.</xt>
+            </xg>
+            <xg>
+               <x>Alle reindriftssamene dro deretter hvor som helst, noen til russiske og noen til norske områder.</x>
+               <xt>Buot boazosápmelaččat johtaledje dasto feara gos, muhtumin ruošša ja muhtumin norgga eatnamis.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5394,6 +5549,16 @@
             <xg>
                <x>Helst flirte han da den ene etter den andre jenta slo lillestalloen med knyttnevene.</x>
                <xt>Áinnas vel reškkii go uhcastáloš ain čorpmahalai duoppá dáppá niidii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>den ene av de to</re>
+            <t pos="Pron">juobbágoabbá</t>
+            <xg>
+               <x>Verddesystemets prinsipp er byttehandel hvor den ene alltid er skyldig til den andre.</x>
+               <xt>Verddestallama vuođđojurdda lea lonuhangávpi, mas juobbágoabbá lea álo velggolaš nubbái.</xt>
             </xg>
          </tg>
       </mg>

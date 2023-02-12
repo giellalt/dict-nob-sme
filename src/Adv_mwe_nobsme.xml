@@ -1,31 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../dtd/nobsme.dtd">
 <r id="nobsme" xml:lang="nob">
-   <e>
-      <lg>
-         <l pos="Phrase">langt unna</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-	         <re>om område</re>
-            <t pos="N">endor</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i vegen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">ovddas</t>
-            <xg>
-               <x>Hun høre ikke, og så heller ikke lenger, tankene var i vegen .</x>
-               <xt>Son ii gullan, ii ge oaidnán šat, jurdagat ledje ovddas.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
    <e src="fad">
       <lg>
          <l pos="Adv">føre var</l>
@@ -192,13 +167,9 @@
             </xg>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">ikke med en gang</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>ikke med en gang</re>
             <t pos="Adv">buoril</t>
             <xg>
                <x>Gutten sovnet ikke med en gang.</x>
@@ -239,17 +210,6 @@
                <x>Vi to er ferdige for lenge siden.</x>
                <xt>Moai letne áigá geargan.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">på skrå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">vitnjut</t>
-            <t pos="Adv">állut</t>
          </tg>
       </mg>
    </e>
@@ -343,20 +303,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">akkurat der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">duos</t>
-            <xg>
-               <x>Elle bor akkurat der.</x>
-               <xt>Elle orru duos.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">i lengden</l>
       </lg>
       <mg>
@@ -387,30 +333,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">muhtumin</t>
-            <t pos="Adv">muhtomin</t>
             <t pos="Adv">gaskkohagaid</t>
             <t pos="Adv">duollet dálle</t>
             <xg>
                <x>Elle bruker av og til å besøke meg.</x>
                <xt>Elle láve duollet dálle fitnat mu guossis.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">midt i</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">gasku</t>
-            <xg>
-               <x>Hun banken på med staven på kanten av tua, og midt i tua åpnet det seg ei dør.</x>
-               <xt>Son skoalkalii soppiinis bovdnaravdii, gasku bovnna rahpasii uksa.</xt>
-            </xg>
-            <xg>
-               <x>Bygdefolket krevde at skolen flyttes mer midt i bygda.</x>
-               <xt>Gili olbmot gáibidedje ahte skuvla sirdojuvvo eanet gasku gili.</xt>
             </xg>
          </tg>
       </mg>
@@ -431,67 +358,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">langt borte</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">guhkkin</t>
-            <xg>
-               <x>Du er så langt borte, men likevel så nær.</x>
-               <xt>Don leat nu guhkkin, muhto liikká nu lahka.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">langt bortefra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">guhkkin</t>
-            <xg>
-               <x>Du kommer så langt bortefra.</x>
-               <xt>Don boađát nu guhkkin.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">to ganger</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">guktii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">i morgen</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">ihttin</t>
-            <xg>
-               <x>Når skal vi bli ferdige? I morgen.</x>
-               <xt>Goas mii galgat geargat? Na ihttin.</xt>
-            </xg>
-            <xg>
-               <x>I morgen begynner juleferien.</x>
-               <xt>Ihttin álgá juovlaluopmu.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>til i morgen</re>
-            <t pos="Adv">ihttážii</t>
-            <xg>
-               <x>Når skal vi være ferdig? Til i morgen.</x>
-               <xt>Goassážii mii galgat geargat? Na ihttážii.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -589,34 +460,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">langt sørpå</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">lulde</t>
-            <xg>
-               <x>Langt sørpå bor det mange mennesker.</x>
-               <xt>Lulde ásset ollu olbmot.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">langt sørfra</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">lulde</t>
-            <xg>
-               <x>Langt sørfra er det kommet mange mennesker til denne konferansen.</x>
-               <xt>Lulde leat boahtán ollu olbmot dán konferánsii.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">for eksempel</l>
       </lg>
       <mg>
@@ -644,65 +487,11 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">sånn her</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">ná</t>
-            <xg>
-               <x>Jeg skriver sånn her.</x>
-               <xt>Mun čálán ná.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">sånn der</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">nie</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">for det andre</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">nuppádassii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">for annen gang</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">nuppádassii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">uten videre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">nuvttá</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">for en liten stund</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">oanehassii</t>
          </tg>
       </mg>
    </e>
@@ -749,20 +538,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">i veien</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Po">ovddas</t>
-            <xg>
-               <x>Du står i veien for meg.</x>
-               <xt>Don čuoččut mu ovddas.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">tvers av</l>
       </lg>
       <mg>
@@ -783,31 +558,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">på slump</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">summal</t>
-            <t pos="Adv">šlumpa</t>
-            <xg>
-               <x>Læreren hadde valgt assistenter på slump.</x>
-               <xt>Oahpaheaddji lei summal válljen vehkiid.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">med makt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">veagal</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">slett ikke</l>
       </lg>
       <mg>
@@ -816,24 +566,6 @@
             <xg>
                <x>Nettstedet er slett ikke endelig.</x>
                <xt>Neahttasadji ii leat gal eisege loahpalaš.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">som helst</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">feara</t>
-            <xg>
-               <x>Der borte var hva som helst.</x>
-               <xt>Doppe lei feara mii.</xt>
-            </xg>
-            <xg>
-               <x>Alle reindriftssamene dro deretter hvor som helst, noen til russiske og noen til norske områder.</x>
-               <xt>Buot boazosápmelaččat johtaledje dasto feara gos, muhtumin ruošša ja muhtumin norgga eatnamis.</xt>
             </xg>
          </tg>
       </mg>
@@ -900,16 +632,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Adv">til syne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">oidnosii</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Adv">ja visst</l>
       </lg>
       <mg>
@@ -965,16 +687,6 @@
                <x>Marit kommer i alle fall.</x>
                <xt>Máret goit boahtá.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Adv">mot kvelden</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="Adv">eahketbeallái</t>
          </tg>
       </mg>
    </e>
