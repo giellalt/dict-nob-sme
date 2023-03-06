@@ -8030,6 +8030,20 @@
    </e>
    <e>
       <lg>
+         <l pos="V">skrible</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">roancat</t>
+            <xg>
+               <x>I begynnelsen av boka hadde Riittá skriblet noe på finsk.</x>
+               <xt>Girjji álgui Riittá lei roancan juoidá suomagillii.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">applaudere</l>
       </lg>
       <mg>
@@ -8162,38 +8176,69 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>gjøre åpen</re>
+            <re>åpne noe</re>
             <t pos="V" src="fad">rahpat</t>
+              <xg>
+                 <x>Far åpna døra enda mer, gikk inn på rommet og satte seg ved Mihkku.</x>
+                 <xt>Áhčči rabai uvssa vel eambbo, manai latnjii ja čohkkedii Mihku báldii.</xt>
+              </xg>
+              <xg>
+                 <x>Utstillinga åpnes på torsdag.</x>
+                 <xt>Čájáhus rahppojuvvo duorastaga.</xt>
+              </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>gjøre åpen, en gang</re>
+            <re>åpne noe, en gang</re>
             <t pos="V">rabastit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>gjøre åpen, fort</re>
+            <re>åpne noe, fort</re>
             <t pos="V">rabestit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>åpne opp noe som kun kan åpnes i den ene siden, flere ganger</re>
+            <re>åpne på gløtt</re>
+            <t pos="V">govket</t>
+              <xg>
+                 <x>Det er ikke nok å bare åpne dørene på gløtt.</x>
+                 <xt>Ii leat doarvái dušše govket uvssaid.</xt>
+              </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>åpne opp ved å brette opp noe, flere ganger</re>
             <t pos="V" src="fad">leahkkut</t>
+              <xg>
+                 <x>Jeg oppfordrer juornalistene å åpne ordboka.</x>
+                 <xt>Ávžžuhan journalisttaid sátnegirjji leahkkut.</xt>
+              </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>åpne opp noe som kun kan åpnes i den ene siden, en gang</re>
+            <re>åpne opp ved å brette opp noe, en gang</re>
             <t pos="V">leahkastit</t>
+              <xg>
+                 <x>Jeg åpna vinduet, og uteluft strømmet inn i rommet.</x>
+                 <xt>Leahkastin lása, ja olgoáibmu šávihii latnjii.</xt>
+              </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>åpnes</re>
+            <re>åpne seg</re>
             <t pos="V" src="fad" alt_str="rahppasit">rahpasit</t>
+            <t pos="V">leahkkasit</t>
+              <xg>
+                 <x>Døra åpnet seg.</x>
+                 <xt>Uksa rahpasii.</xt>
+              </xg>
          </tg>
       </mg>
    </e>
@@ -19781,16 +19826,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">åpne på gløtt</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">govket</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">forfordeles</l>
       </lg>
       <mg>
@@ -21103,17 +21138,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">leabbát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">åpne seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">rahpasit</t>
-            <t pos="V">leahkkasit</t>
          </tg>
       </mg>
    </e>
