@@ -257,7 +257,7 @@
          <tg xml:lang="sme">
             <t pos="V">hárčet</t>
             <xg>
-               <x>Jeg husker en slik overtro: En kvinne skulle ikke skreve over fangstredskaper.</x>
+               <x>Jeg husker en slik folketro: En kvinne skulle ikke skreve over fangstredskaper.</x>
                <xt>Muittán dákkár diidda go: Nissonolmmoš ii galgan hárčet bivdobiergasiid badjel.</xt>
             </xg>
          </tg>
@@ -6190,14 +6190,21 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>true med å ville + infinitiv</re>
             <t pos="V" src="fad">nihttit</t>
+        <xg>
+          <x>Stallo løftet kluppa, som om han truet med den.</x>
+          <xt>Stállu loktestii šlubbosoappi, dego nihttime dainna.</xt>
+        </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>true med bevegelser, gjenstander</re>
             <t pos="V">vuohkadit</t>
+        <xg>
+          <x>Gutten truet med knyttneven mot hunden.</x>
+          <xt>Bárdni vuohkadii čorpmain beatnagii.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -6298,6 +6305,10 @@
          <tg xml:lang="sme">
             <t pos="V" src="fad">návddašit</t>
             <t pos="V">muosáhit</t>
+        <xg>
+          <x>Vi brukte å dra innom øya for å bade og nyte sola.</x>
+          <xt>Láviimet fitnat sullos gálašeamen ja návddašit beaivvi.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -6958,8 +6969,22 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="fad">čavget</t>
+        <xg>
+          <x>Jeg strammet skolissene.</x>
+          <xt>Mun čavgejin skuovvabáttiid.</xt>
+        </xg>
          </tg>
       </mg>
+    <mg>
+      <tg xml:lang="sme">
+	      <re>bli strammere</re>
+        <t pos="V">čavgat</t>
+        <xg>
+          <x>Reglene i forhold til bedrifter blir strammere.</x>
+          <xt>Njuolggadusaid fitnodagaid ektui čavget.</xt>
+        </xg>
+      </tg>
+    </mg>
    </e>
    <e>
       <lg>
@@ -7999,7 +8024,7 @@
             <re>transitiv: slå, jule, banke</re>
             <t pos="V" src="fad" alt_str="cápmit">cábmit</t>
             <xg>
-               <x>Vi må slå sennagresset mot spikerfjøl, for å myke de opp.</x>
+               <x>Vi må slå sennagresset mot spikerfjøl, slik at det blir mykt.</x>
                <xt>Gámasuinniid ferte cábmit spihkárfielluin, vai dipmet.</xt>
             </xg>
          </tg>
@@ -13040,7 +13065,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>øke sterkt, tilta</re>
+            <re>øke sterkt, tilta i antall</re>
             <t pos="V">laskat</t>
          </tg>
       </mg>
@@ -13063,6 +13088,16 @@
             <t pos="V" src="fad">bajidit</t>
          </tg>
       </mg>
+    <mg>
+      <tg xml:lang="sme">
+	      <re>om vind</re>
+        <t pos="V">øke</t>
+        <xg>
+          <x>Mot kvelden begynte vinden å øke voldsomt.</x>
+          <xt>Eahketbeallái čavgagođii biegga garrasit.</xt>
+        </xg>
+      </tg>
+    </mg>
    </e>
    <e>
       <lg>
@@ -13122,6 +13157,14 @@
          <tg xml:lang="sme">
             <re>trekke plutselig, rykke</re>
             <t pos="V" src="fad">rohttet</t>
+             <xg>
+               <x>Gutten trakk glidelåsen helt opp til under haka.</x>
+               <xt>Bárdni rohttii luottolása áibbas bajás gáibbe vuollái.</xt>
+            </xg>
+        <xg>
+          <x>Presten trakk pusten og så begynte hun å preke.</x>
+          <xt>Báhppa rohttii vuoiŋŋahaga ja de álggii sárdnidit.</xt>
+        </xg>
          </tg>
       </mg>
       <mg>
@@ -14174,6 +14217,10 @@
          <tg xml:lang="sme">
             <re>stake av sted; stake litt</re>
             <t pos="V">čuoibmulit</t>
+            <xg>
+               <x>Jenta staket med kraft og gled langt.</x>
+               <xt>Nieida čuoibmulii fámuin ja čeasai guhkás.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -17986,6 +18033,20 @@
    </e>
    <e>
       <lg>
+         <l pos="V">mykgjøre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">dipmadit</t>
+        <xg>
+          <x>Komager som har blitt harde, mykgjør vi med barkevann.</x>
+          <xt>Garran gápmagiid dipmadit ostočáziin.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">mykne</l>
       </lg>
       <mg>
@@ -19007,10 +19068,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Phrase">časkit čalmmi</t>
+            <t pos="V">ravkalit</t>
             <xg>
                <x>Han blunket til jenta slik at hun rødmet.</x>
                <xt>Son časkkii čalmmi niidii nu ahte son ruovssihii.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om øyne, blunke flere ganger</re>
+            <t pos="V">ravkkuhit</t>
          </tg>
       </mg>
    </e>
@@ -19099,6 +19167,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">garahit</t>
+            <t pos="V">gárvvihit</t>
          </tg>
       </mg>
    </e>
@@ -19901,6 +19970,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>å bøye seg ned</re>
+            <t pos="V">gugget</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>å huke seg ned</re>
             <t pos="V">guvnnjádit</t>
          </tg>
@@ -19964,6 +20039,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">gođđit</t>
+            <xg>
+               <x>Når man strikker rett og vrang om hverandre, blir det vrangbord.</x>
+               <xt>Go gođđá sihke njuolga ja jorgut vurrolaga, de šaddá readdi.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	      <re>strikke mønster</re>   
+            <t pos="V">hervet</t>
+            <t pos="V">girjet</t>
          </tg>
       </mg>
    </e>
@@ -21084,6 +21170,10 @@
          <tg xml:lang="sme">
             <re>gi brakende, knasende lyd</re>
             <t pos="V">ruohčat</t>
+            <xg>
+               <x>Snøen knaket under vinterskoene.</x>
+               <xt>Muohta ruškkii dálveskuovaid vuolde.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -21135,6 +21225,19 @@
       <lg>
          <l pos="V">løsne</l>
       </lg>
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="V">luotkanit</t>
+        <xg>
+          <x>På fars gamle jakke hadde den ene ermekanten løsnet.</x>
+          <xt>Áhči boares jáhkas nubbi soadjegeahči lei luotkanan.</xt>
+        </xg>
+        <xg>
+          <x>Bestemors flette hadde løsnet.</x>
+          <xt>Áhkku bárggaldat lei luotkanan.</xt>
+        </xg>
+      </tg>
+    </mg>
       <mg>
          <tg xml:lang="sme">
             <re>løsne helt</re>
@@ -21354,18 +21457,6 @@
          <tg xml:lang="sme">
             <re>om øyne og stjerner</re>
             <t pos="V">ravkit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om øyne, blinke flere ganger</re>
-            <t pos="V">ravkkuhit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>blinke til noen</re>
-            <t pos="V">ravkalit</t>
          </tg>
       </mg>
    </e>
@@ -22131,6 +22222,16 @@
             <t pos="V">smáhkohallat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>nyte</re>
+            <t pos="V">návddašit</t>
+        <xg>
+          <x>De gledet seg til igjen å smake mors godsaker.</x>
+          <xt>Soai illudeigga eatni herskuid fas návddašit.</xt>
+        </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -22361,6 +22462,14 @@
          <tg xml:lang="sme">
             <re>gli fort</re>
             <t pos="V">čeassat</t>
+            <xg>
+               <x>Jenta staket med kraft og gled langt.</x>
+               <xt>Nieida čuoibmulii fámuin ja čeasai guhkás.</xt>
+            </xg>
+        <xg>
+          <x>Det var så glatt at hver gang jeg tok et skritt fram, gled jeg to tilbake.</x>
+          <xt>Lei nu njalkkas ahte juohke háve go lávkejin ovtta lávkki ovddos, de čessen guokte maŋos.</xt>
+        </xg>
          </tg>
       </mg>
       <mg>
@@ -23369,6 +23478,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">ruovgat</t>
+            <t pos="V">skurkkihit</t>
          </tg>
       </mg>
    </e>
@@ -25408,6 +25518,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>om dyr</re>
             <t pos="V">čuohkat</t>
             <xg>
                <x>Hunden slafser i seg vann.</x>
@@ -25858,6 +25969,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">čavget</t>
+        <xg>
+          <x>EU-kommisjonen foreslår å stramme inn reglene i forhold til bedrifter.</x>
+          <xt>EU-kommišuvdna árvala čavget njuolggadusaid fitnodagaid ektui.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -26583,11 +26698,35 @@
    </e>
    <e>
       <lg>
-         <l pos="V">krølle seg sammen</l>
+         <l pos="V">krølle</l>
       </lg>
+    <mg>
+      <tg xml:lang="nob">
+	         <re>krølle noe</re>
+        <t pos="V">joaibmudit</t>
+      </tg>
+    </mg>
+    <mg>
+      <tg xml:lang="nob">
+	         <re>bli krøllet</re>
+        <t pos="V">joaibmut</t>
+        <t pos="V">joaibmašuvvat</t>
+        <xg>
+          <x>Jenta kleip så hardt i papiret at det ble krøllet.</x>
+          <xt>Nieida civccui báhpira nu garrasit ahte dat joaibmašuvai.</xt>
+        </xg>
+      </tg>
+    </mg>
       <mg>
          <tg xml:lang="sme">
+	         <re>krølle seg sammen</re>
             <t pos="V">giessasaddat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>krølle seg i gryta</re>
+            <t pos="V">davrat</t>
          </tg>
       </mg>
    </e>
@@ -29257,16 +29396,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">krølle seg i gryta</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">davrat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">svime av</l>
       </lg>
       <mg>
@@ -31039,13 +31168,32 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="V">humre</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">himihit</t>
+        <xg>
+          <x>Ánne humret av tankene sine.</x>
+          <xt>Ánne himihii iežas jurdagiidda.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
    <e src="fad">
       <lg>
          <l pos="V">skjerpe</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>stramme inn</re>
             <t pos="V">čavget</t>
+        <xg>
+          <x>EU-kommisjonen foreslår å skjerpe reglene i forhold til bedrifter.</x>
+          <xt>EU-kommišuvdna árvala čavget njuolggadusaid fitnodagaid ektui.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -35961,6 +36109,15 @@
             <t pos="V">doavskkuhit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">meavskut</t>
+            <xg>
+               <x>Jenta smattet med tunga mot ganen.</x>
+               <xt>Nieida meavskkui njuokčamiin guomi vuostá.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e src="nfl_201402">
       <lg>
@@ -36108,6 +36265,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">cáhkkat</t>
+            <t pos="V">bažirdit</t>
          </tg>
       </mg>
       <mg>
@@ -36142,6 +36300,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">fillet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">sprike</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">hirrát</t>
          </tg>
       </mg>
    </e>

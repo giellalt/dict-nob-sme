@@ -20,6 +20,16 @@
    </e>
    <e>
       <lg>
+         <l pos="A">ubestemmelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">mearritmeahttun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">autonom</l>
       </lg>
       <mg>
@@ -2357,6 +2367,15 @@
          <tg xml:lang="sme">
             <re>rett vinkel</re>
             <t pos="N">njuolggočiehka</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">njuolga</t>
+            <xg>
+               <x>Når man strikker rett og vrang om hverandre, blir det vrangbord.</x>
+               <xt>Go gođđá sihke njuolga ja jorgut vurrolaga, de šaddá readdi.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -6847,7 +6866,7 @@
          </tg>
       </mg>
     <mg>
-      <tg xml:lang="nob">
+      <tg xml:lang="sme">
 	     <re>avhengig av, komme an på</re>
         <t pos="Po">duohken</t>
         <xg>
@@ -8009,6 +8028,16 @@
             <xg>
                <x>Skåla er full.</x>
                <xt>Lihtti lea dievva.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>stappfull</re>
+            <t pos="Phrase">spagga dievva</t>
+            <xg>
+               <x>Toget er stappfullt.</x>
+               <xt>Toga lea spagga dievva.</xt>
             </xg>
          </tg>
       </mg>
@@ -11851,6 +11880,15 @@
             <t pos="A">gážžár</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">jorgut</t>
+            <xg>
+               <x>Når man strikker rett og vrang om hverandre, blir det vrangbord.</x>
+               <xt>Go gođđá sihke njuolga ja jorgut vurrolaga, de šaddá readdi.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -14069,6 +14107,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>oppsvulmet</re>
+            <t pos="A">bohtas</t>
+        <xg>
+          <x>Øynene var røde og hovne.</x>
+          <xt>Čalmmit ledje ruoksadat ja bohttasat.</xt>
+        </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>overlegen</re>
             <t pos="A">čeavlái</t>
          </tg>
       </mg>
