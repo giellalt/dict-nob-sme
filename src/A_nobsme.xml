@@ -2336,7 +2336,6 @@
       <mg>
          <tg xml:lang="sme">
             <re>i bevegelse</re>
-            <t pos="A">mášoheapme</t>
             <t pos="A" src="fad">muoseheapme</t>
          </tg>
       </mg>
@@ -5253,6 +5252,13 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">gierdameahttun</t>
+            <t pos="A">mášoheapme</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	       <re>bli utålmodig</re>  
+            <t pos="V">mášohuddat</t>
          </tg>
       </mg>
    </e>
@@ -5578,6 +5584,21 @@
    </e>
    <e>
       <lg>
+         <l pos="A">rynket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	        <re>bli rynket</re> 
+            <t pos="V">nárvvagit</t>
+            <xg>
+			<x>Tårene rant langs de rynkete kinnene.</x>         
+			<xt>Gatnjalat golge nárvvagan muođuid mielde.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">innesluttet</l>
       </lg>
       <mg>
@@ -5590,6 +5611,12 @@
       <lg>
          <l pos="A">matt</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+	        <re>uklar</re> 
+            <t pos="A">deavkat</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
 	        <re>om følelse</re> 
@@ -12561,7 +12588,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">mášoheapme</t>
             <t pos="A">stađuheapme</t>
             <t pos="A">šuđggas</t>
             <t pos="A">leaboheapme</t>
@@ -20772,6 +20798,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">dábálaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">skammelig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">heahpatlaš</t>
          </tg>
       </mg>
    </e>
