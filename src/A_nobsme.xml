@@ -818,6 +818,10 @@
                <x>Jeg ble lei av det.</x>
                <xt>Dolken das.</xt>
             </xg>
+            <xg>
+               <x>Barna er lei av fisk.</x>
+               <xt>Mánát leat čalmmástuvvan guolis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -912,8 +916,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V" type="Prfprc">jierásmuvvan</t>
-            <t pos="V">balus</t>
+            <t pos="A">jieris</t>
+            <t pos="Adv">balus</t>
             <xg>
                <x>Jeg er nervøs.</x>
                <xt>Mun lean balus.</xt>
@@ -5911,7 +5915,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>veldig våt</re>
-            <t pos="V">čáhccái</t>
+            <t pos="A">čáhccái</t>
          <xg>
           <x>Det utmarksområdet er et temmelig vått område.</x>
           <xt>Diet meahcceguovlu lea oalle čáhccás guovlu.</xt>
@@ -9566,7 +9570,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>uheldig person</re>
-            <t pos="V">gorremaš</t>
+            <t pos="N">gorremaš</t>
          </tg>
       </mg>
    </e>
@@ -14168,13 +14172,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">árgi</t>
-            <t pos="V" type="Prfprc">heađásmuvvan</t>
+            <t pos="A">jieris</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>bli engstelig</re>
             <t pos="V">heađásmuvvat</t>
+            <t pos="V">jierásmuvvat</t>
          </tg>
       </mg>
    </e>
@@ -15391,7 +15396,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">sodjan</t>
+            <t pos="V" type="Prfprc">sodjan</t>
             <xg>
                <x>bøyd form</x>
                <xt>sodjan hápmi</xt>
@@ -15401,7 +15406,7 @@
        <mg>
          <tg xml:lang="sme">
 	         <re>bøyd av noen</re>
-            <t pos="V">sojahuvvon</t>
+            <t pos="V" type="Prfprc">sojahuvvon</t>
             <xg>
                <x>bøyd stang</x>
                <xt>sojahuvvon stággu</xt>
