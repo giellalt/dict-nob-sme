@@ -618,14 +618,43 @@
    </e>
    <e>
       <lg>
+         <l pos="Adv">stående</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">čuožžut</t>
+            <xg>
+               <x>Men ingen var stående.</x>
+               <xt>Muhto ii oktage lean čuožžut.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">sittende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">čohkkut</t>
+            <xg>
+               <x>Så sovnet han sittende.</x>
+               <xt>De son nohkai fas čohkkut.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">tvers</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">doarrás</t>
+	         <re>på tvers</re>
+            <t pos="A">doaris</t>
             <xg>
-               <x>Gutten kjørte med skuteren på kryss og tvers over vidda.</x>
-               <xt>Bárdni vujii duoddara ruossut doarrás skohteriin.</xt>
+               <x>Den har streker på tvers.</x>
+               <xt>Das leat doares sárgat.</xt>
             </xg>
          </tg>
       </mg>
@@ -2725,7 +2754,7 @@
          <tg xml:lang="sme">
             <t pos="Adv">botnjut</t>
             <xg>
-               <x>Gutten tråkket skjevt, og plutselig lå han.</x>
+               <x>Gutten tråkket skjevt, og plutselig var han liggende.</x>
                <xt>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</xt>
             </xg>
          </tg>
@@ -4966,6 +4995,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">veallut</t>
+            <xg>
+               <x>Gutten tråkket skjevt, og plutselig var han liggende.</x>
+               <xt>Bárdni duolmmastii botnjut, ja fáhkka lei veallut.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
