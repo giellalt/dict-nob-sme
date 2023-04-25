@@ -8227,10 +8227,21 @@
          <tg xml:lang="sme">
             <re>beruset</re>
             <t pos="Adv">gárremiin</t>
+            <t pos="A">oaivvesnaga</t>
             <xg>
                <x>Han er full.</x>
                <xt>Son lea gárremiin.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli beruset</re>
+            <t pos="V">gárihuvvat</t>
+        <xg>
+          <x>De har drukket brennevin og er blitt fulle.</x>
+          <xt>Sii leat juhkan viinni ja leat gárihuvvan.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -21072,6 +21083,20 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="A">pyntesyk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">čigŋái</t>
+         <xg>
+          <x>Hun lager moderne sølvsmykker til pyntesyke folk.</x>
+          <xt>Son ráhkada ođđamállet silbbaid čigŋás olbmuide.</xt>
+        </xg>
+        </tg>
+      </mg>
+   </e>
    <e src="fad">
       <lg>
          <l pos="A">brukervennlig</l>
@@ -21089,6 +21114,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">udju</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	       <re>være beskjeden, oppføre seg som en gjest</re>  
+            <t pos="V">guossástallat</t>
+        <xg>
+          <x>Her trenger man ikke være beskjeden, forsyn dere med mat!</x>
+          <xt>Dás ii dárbbaš guossástallat, váldi borramuša!</xt>
+        </xg>
          </tg>
       </mg>
    </e>

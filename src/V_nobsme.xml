@@ -3830,9 +3830,31 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>spise med skje</re>
+            <t pos="V">gazzat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>spise en skjefull</re>
             <t pos="V">gaccestit</t>
             <t pos="V">gaccastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>spise god mat</re>
+            <t pos="V">herskkostallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>spise godt og lenge</re>
+            <t pos="V">reahttadit</t>
+        <xg>
+          <x>Vi spiste godt og lenge, det var ordentlig delikatesse.</x>
+          <xt>Reahttadeimme, dat han lei albma hersko.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -15747,6 +15769,16 @@
             <t pos="V">gárrut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>driste seg til</re>
+            <t pos="V">jolggadit</t>
+        <xg>
+          <x>Jeg får meg ikke til å spise i andres påsyn.</x>
+          <xt>In jolggat boradit earáid oaidnut.</xt>
+        </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -19466,16 +19498,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">spise med skje</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">gazzat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">strekke hals</l>
       </lg>
       <mg>
@@ -21138,6 +21160,10 @@
          <tg xml:lang="sme">
 	         <re>driste seg til</re>
             <t pos="V">jolggadit</t>
+        <xg>
+          <x>Jeg drister meg ikke til å spise i andres påsyn.</x>
+          <xt>In jolggat boradit earáid oaidnut.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -25638,6 +25664,16 @@
             <t pos="V">čiŋadit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	        <re>liker å pynte seg</re> 
+            <t pos="A">čigŋái</t>
+         <xg>
+          <x>Hun lager moderne sølvsmykker til folk som liker å pynte seg.</x>
+          <xt>Son ráhkada ođđamállet silbbaid čigŋás olbmuide.</xt>
+        </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -26752,16 +26788,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">libardit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">spise god mat</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">herskkostallat</t>
          </tg>
       </mg>
    </e>
