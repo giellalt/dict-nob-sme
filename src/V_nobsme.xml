@@ -161,21 +161,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">forby</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flere ganger</re>
-            <t pos="V">gieldduhit</t>
-            <xg>
-               <x>Bestemor har forbydd oss å gå dit, men vi bryr oss ikke.</x>
-               <xt>Áhkku lei gieldduhan min mannamis dohko, muhto mii eat beroš.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">jåle</l>
       </lg>
       <mg>
@@ -2550,11 +2535,25 @@
    </e>
    <e>
       <lg>
-         <l pos="V">oppholde</l>
+         <l pos="V">oppholde seg</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">ájahallat</t>
+            <xg>
+               <x>Duommá ájahallá árgabeivviid mánáidgárddis.</x>
+               <xt>Duommá oppholder seg på hverdagene i barnehagen.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bo</re>
+            <t pos="V">orodit</t>
+            <xg>
+               <x>Issát lei orodan miehtá geasi gilis.</x>
+               <xt>Issát hadde oppholdt seg hele sommeren i bygda.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -5371,6 +5370,16 @@
             <t pos="V" src="fad">gieldit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>flere ganger</re>
+            <t pos="V">gieldduhit</t>
+            <xg>
+               <x>Bestemor har forbydd oss å gå dit, men vi bryr oss ikke.</x>
+               <xt>Áhkku lei gieldduhan min mannamis dohko, muhto mii eat beroš.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8162,20 +8171,6 @@
             <xg>
                <x>I begynnelsen av boka hadde Riittá skriblet noe på finsk.</x>
                <xt>Girjji álgui Riittá lei roancan juoidá suomagillii.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">uttrykke</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">albmanahttit</t>
-            <xg>
-               <x>Eleven skal kunne uttrykke og begrunne meninger og følelser.</x>
-               <xt>Oahppi galgá máhttit albmanahttit ja vuođustit oaiviliid ja dovdduid.</xt>
             </xg>
          </tg>
       </mg>
@@ -11417,8 +11412,8 @@
       <mg>
          <tg xml:lang="sme">
             <re>styre</re>
-            <t pos="V">hovdet</t>
             <t pos="V" src="fad">jođihit</t>
+            <t pos="V">hovdet</t>
             <xg>
                <x>Barnehagen blir ledet av Várdobáiki samiske senter.</x>
                <xt>Mánáidgárddi jođiha Várdobáiki sámi guovddáš.</xt>
@@ -14002,6 +13997,15 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="V">albmanahttit</t>
+            <xg>
+               <x>Eleven skal kunne uttrykke og begrunne meninger og følelser.</x>
+               <xt>Oahppi galgá máhttit albmanahttit ja vuođustit oaiviliid ja dovdduid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>la vise seg, gi form</re>
             <t pos="V" src="fad">ovdanbuktit</t>
             <t pos="V" src="fad">dovddahit</t>
@@ -15746,7 +15750,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">stryke av sted</l>
+         <l pos="Phrase">stryke avsted</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -25039,21 +25043,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sende av sted</l>
+         <l pos="V">sende avsted</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">vuolggahit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">reise av sted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">vuolgit</t>
          </tg>
       </mg>
    </e>
@@ -25399,7 +25393,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="V">ájahallat</t>
             <t pos="V">ájahaddat</t>
+            <xg>
+               <x>Dál Duommá ii sáhttán šat ájahallat, muhto fertii johtileamos lági mielde vuolgit.</x>
+               <xt>Nå kunne ikke Duommá somle lenger, men måtte .</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -26193,16 +26192,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">beaškalit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kjøre av sted</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">vuoddját</t>
          </tg>
       </mg>
    </e>
@@ -27402,17 +27391,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">oppholde seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">orodit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">fare av sted</l>
+         <l pos="V">fare avsted</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -33227,16 +33206,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">praktiseret</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="V">lede</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">jođihit</t>
          </tg>
       </mg>
    </e>

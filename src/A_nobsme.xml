@@ -80,26 +80,6 @@
    </e>
    <e>
       <lg>
-         <l pos="A">permanent</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">bissovaš</t>
-         </tg>
-      </mg>
-   </e>
-   <e src="fad">
-      <lg>
-         <l pos="A">uriktig</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A" alt_str="boasttu">boasttu-</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">rettslærd</l>
       </lg>
       <mg>
@@ -6416,16 +6396,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">guovtteoaivvat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="A">enøyd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">ovttačalmmat</t>
          </tg>
       </mg>
    </e>
@@ -15549,16 +15519,6 @@
    </e>
    <e>
       <lg>
-         <l pos="A">hvitkledd</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="A">vilgesbivttat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="A">litt</l>
       </lg>
       <mg>
@@ -17702,7 +17662,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-	         <re>om hvitkledd person</re>
+            <t pos="A">vilgesbivttat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>en hvitkledd person</re>
             <t pos="N">vilgesbivttahas</t>
          </tg>
       </mg>
@@ -17807,6 +17772,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" alt_str="boastto; boasttu">boasttu-</t>
+            <xg>
+               <x>uriktig informasjon</x>
+               <xt>boasttudiehtu</xt>
+            </xg>
          </tg>
       </mg>
    </e>
