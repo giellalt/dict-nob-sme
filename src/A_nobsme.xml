@@ -2507,7 +2507,19 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">ođđaáigásaš</t>
+        <xg>
+          <x>Son ráhkada ođđamállet silbbaid čigŋás olbmuide.</x>
+          <xt>Hun lager moderne sølvsmykker til jålete folk.</xt>
+        </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="A" src="fad">ođđamállet</t>
+        <xg>
+          <x>Son ráhkada ođđamállet silbbaid čigŋás olbmuide.</x>
+          <xt>Hun lager moderne sølvsmykker til jålete folk.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -5358,6 +5370,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">guorus</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>i tom tilstand; helt tom</re>
+            <t pos="Adv">guorosnaga</t>
          </tg>
       </mg>
       <mg>
@@ -9649,12 +9667,6 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>i tom eller ledig tilstand; helt tom</re>
-            <t pos="Adv">guorosnaga</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>uten arbeid</re>
             <t pos="A" src="fad">bargguheapme</t>
          </tg>
@@ -10096,6 +10108,11 @@
          <tg xml:lang="sme">
             <t pos="A">hállái</t>
             <t pos="A">hubmái</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">daddjái</t>
          </tg>
       </mg>
    </e>
@@ -12190,6 +12207,24 @@
    </e>
    <e>
       <lg>
+         <l pos="A">oppskrudd</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">vilddas</t>
+            <t pos="A">hilbat</t>
+            <t pos="A">villas</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>være oppskrudd</re>
+            <t pos="V">gievvudit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">skøyeraktig</l>
       </lg>
       <mg>
@@ -13839,6 +13874,20 @@
    </e>
    <e>
       <lg>
+         <l pos="A">svarthvit</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">čáhppesvielgat</t>
+        <xg>
+          <x>I boka er det bilder i svarthvitt.</x>
+          <xt>Girjjis leat čáhppesvilges govat.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">rikelig</l>
       </lg>
       <mg>
@@ -13855,6 +13904,10 @@
          <tg xml:lang="sme">
             <t pos="A">vašálaš</t>
             <t pos="A">vašán</t>
+        <xg>
+          <x>Blikkene virket fiendtlige.</x>
+          <xt>Geahčastagat orrot vašánat.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -20657,6 +20710,14 @@
          <tg xml:lang="sme">
             <t pos="A">namaheapme</t>
             <t pos="A">anonyma</t>
+            <xg>
+               <x>Tilbudet er gratis og klientene kan være anonyme.</x>
+               <xt>Fálaldat lea nuvttá ja klieanttat sáhttet leat namakeahttá.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="Adv">namakeahttá</t>
             <xg>
                <x>Tilbudet er gratis og klientene kan være anonyme.</x>
