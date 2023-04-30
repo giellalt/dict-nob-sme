@@ -464,6 +464,16 @@
    </e>
    <e>
       <lg>
+         <l pos="V">bakke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" src="fad">báhkket</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">pakke</l>
       </lg>
       <mg>
@@ -1469,7 +1479,7 @@
             </xg>
         <xg>
           <x>Sola rakk bare såvidt å vises før den igjen forsvant.</x>
-          <xt>Beaivvaš ollii dušše jur oidnostit ovdalgo fas jávkkihii.</xt>
+          <xt>Beaivváš ollii dušše jur oidnostit ovdalgo fas jávkkihii.</xt>
         </xg>
          </tg>
       </mg>
@@ -1487,6 +1497,16 @@
                <x>Lyden av slåmaskinen forsvant.</x>
                <xt>Láddjenmašiinna jietna gáiddai.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>forsvinne fra et sted</re>
+            <t pos="V">čáhpodit</t>
+        <xg>
+          <x>Forsvinn herfra!</x>
+          <xt>Čáhpot dás eret!</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -6685,7 +6705,7 @@
             <t pos="V">doaŋgut</t>
         <xg>
           <x>Min venstre hand er stivet, jeg har mistet kreftene i handa.</x>
-          <xt>Mus lea gurot giehta doŋgon, lean massán návccaid gieđas.</xt>
+          <xt>Mus lea gurut giehta doŋgon, lean massán návccaid gieđas.</xt>
         </xg>
          </tg>
       </mg>
@@ -12259,6 +12279,10 @@
             <t pos="V">mátkkoštit</t>
             <t pos="V" src="fad">jođašit</t>
             <t pos="V" src="fad">vánddardit</t>
+        <xg>
+          <x>Reineieren ferdes mellom reinflokken og hjemmet.</x> 
+          <xt>Boazoisit jođaša ealu ja ruovttu gaskka.</xt>
+        </xg>
          </tg>
       </mg>
       <mg>
@@ -12390,7 +12414,7 @@
             <t pos="V">oidnostit</t>
         <xg>
           <x>Sola rakk bare såvidt å synes før den igjen forsvant.</x>
-          <xt>Beaivvaš ollii dušše jur oidnostit ovdalgo fas jávkkihii.</xt>
+          <xt>Beaivváš ollii dušše jur oidnostit ovdalgo fas jávkkihii.</xt>
         </xg>
          </tg>
       </mg>
@@ -12427,7 +12451,7 @@
             <t pos="V">oidnostit</t>
         <xg>
           <x>Sola rakk bare såvidt å vises før den igjen forsvant.</x>
-          <xt>Beaivvaš ollii dušše jur oidnostit ovdalgo fas jávkkihii.</xt>
+          <xt>Beaivváš ollii dušše jur oidnostit ovdalgo fas jávkkihii.</xt>
         </xg>
          </tg>
       </mg>
@@ -15885,8 +15909,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>dukke opp uanmeldt</re>
+            <re>dukke opp</re>
             <t pos="V">skuvihit</t>
+            <xg>
+               <x>Vi visste ikke hva som kunne dukke opp mellom trærne.</x>
+               <xt>Eat diehtán mii sáhtii skuvihit muoraid gaskkas.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -18123,6 +18151,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">coggat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	        <re>stappe i munnen</re> 
+            <t pos="V">spuŋget</t>
          </tg>
       </mg>
    </e>
@@ -22988,16 +23022,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">ikke klare økonomiske forpliktelser</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">nallasit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">pirke</l>
       </lg>
       <mg>
@@ -23129,6 +23153,16 @@
          <tg xml:lang="sme">
             <re>miste fotfestet og gli</re>
             <t pos="V">njaláhastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>gli ned, om bukser</re>
+            <t pos="V">nallasit</t>
+         <xg>
+          <x>Buksene har glidd ned hos barnet, og rumpa synes.</x>
+          <xt>Mánás leat nallasan buvssat, ja bahta oidno.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -26365,6 +26399,18 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">čuvggodit</t>
+        <xg>
+          <x>Plutselig ble det lyst i rommet.</x>
+          <xt>Fáhkka čuvggodii latnja.</xt>
+        </xg>
+        <xg>
+          <x>Tidlig på morgenen, før det blir lyst, drar alle ut.</x>
+          <xt>Iđđes árrat, ovdalgo čuvggoda, vulget buohkat olggos.</xt>
+        </xg>
+        <xg>
+          <x>Jenta synger med mørk stemme som etterhvert blir lysere.</x>
+          <xt>Nieida lávlu sevdnjes jienain mii dađistaga čuvggoda.</xt>
+        </xg>
          </tg>
       </mg>
       <mg>
@@ -33669,7 +33715,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">rasttildit</t>
+            <t pos="V">meattildit</t>
          </tg>
       </mg>
    </e>
@@ -33784,6 +33830,17 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">jorralit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>vendt mot hverande</re>
+            <t pos="Adv">njunnálagaid</t>
+            <t pos="Adv">njunnálaga</t>
+        <xg>
+          <x>De satt vendt mot hverandre, og lot som de snakket sammen.</x>
+          <xt>Soai čuoččasteigga njunnálagaid, ja dahkaluttaiga ságasteame.</xt>
+        </xg>
          </tg>
       </mg>
    </e>

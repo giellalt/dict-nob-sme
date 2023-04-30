@@ -2508,8 +2508,8 @@
          <tg xml:lang="sme">
             <t pos="A" src="fad">ođđaáigásaš</t>
         <xg>
-          <x>Son ráhkada ođđamállet silbbaid čigŋás olbmuide.</x>
-          <xt>Hun lager moderne sølvsmykker til jålete folk.</xt>
+          <x>Hun lager moderne sølvsmykker til jålete folk.</x>
+          <xt>Son ráhkada ođđaáigásaš silbbaid čigŋás olbmuide.</xt>
         </xg>
          </tg>
       </mg>
@@ -2517,8 +2517,8 @@
          <tg xml:lang="sme">
             <t pos="A" src="fad">ođđamállet</t>
         <xg>
-          <x>Son ráhkada ođđamállet silbbaid čigŋás olbmuide.</x>
-          <xt>Hun lager moderne sølvsmykker til jålete folk.</xt>
+          <x>Hun lager moderne sølvsmykker til jålete folk.</x>
+          <xt>Son ráhkada ođđamállet silbbaid čigŋás olbmuide.</xt>
         </xg>
          </tg>
       </mg>
@@ -3922,7 +3922,7 @@
       <mg>
          <tg xml:lang="sme">
 	         <re>bli stille (taus)</re>
-            <t pos="A">jávohuvvat</t>
+            <t pos="V">jávohuvvat</t>
          </tg>
       </mg>
       <mg>
@@ -5706,7 +5706,7 @@
       <mg>
          <tg xml:lang="sme">
 	         <re>bli taus</re>
-            <t pos="A">jávohuvvat</t>
+            <t pos="V">jávohuvvat</t>
          </tg>
       </mg>
    </e>
@@ -10238,6 +10238,20 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli lyst</re>
+            <t pos="V">čuvggodit</t>
+        <xg>
+          <x>Plutselig ble det lyst i rommet.</x>
+          <xt>Fáhkka čuvggodii latnja.</xt>
+        </xg>
+        <xg>
+          <x>Tidlig på morgenen, før det blir lyst, drar alle ut.</x>
+          <xt>Iđđes árrat, ovdalgo čuvggoda, vulget buohkat olggos.</xt>
+        </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -11985,7 +11999,7 @@
       <mg>
          <tg xml:lang="sme">
 	         <re>bli skinnmager</re>
-            <t pos="A">guoirat</t>
+            <t pos="V">guoirat</t>
          </tg>
       </mg>
    </e>
@@ -12091,6 +12105,30 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">gáđaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">skjelvende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">dorggiidaddi</t>
+           <xg>
+               <x>Hun klatret likevel på på scenen hvor hun med skjelvende stemme sang.</x>
+               <xt>Son goitge gorgŋii lávdái gos son dorggiidaddi jienain lávllui.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>skjelvende hender</re>
+            <t pos="Adv">doarggatgaccaid</t>
+           <xg>
+               <x>Hun klatret likevel på på scenen hvor hun spilte med skjelvende hender.</x>
+               <xt>Son goitge gorgŋii lávdái gos son duorggatgaccaid čuojahii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13418,7 +13456,7 @@
       <mg>
          <tg xml:lang="sme">
 	         <re>bli skinnmager</re>
-            <t pos="A">guoirat</t>
+            <t pos="V">guoirat</t>
          </tg>
       </mg>
    </e>
