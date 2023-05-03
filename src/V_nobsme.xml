@@ -9972,15 +9972,23 @@
          <tg xml:lang="sme">
             <re>hive en gang</re>
             <t pos="V" src="fad">bálkestit</t>
-            <t pos="V">suhppet</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>hive flere ganger</re>
             <t pos="V">bálkut</t>
-            <t pos="V">suohpput</t>
          </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	      <re>flere ganger</re>
+            <t pos="V">šlivgut</t>
+            <xg>
+               <x>Jeg kan ikke kaste med flue.</x>
+               <xt>In máhte dolgevuokkain šlivgut.</xt>
+            </xg>
+        </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
@@ -10028,12 +10036,6 @@
          <tg xml:lang="sme">
             <re>kaste med pinne</re>
             <t pos="V" src="fad">behtostit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-	         <re>kaste not</re>
-            <t pos="V">jorgalit</t>
          </tg>
       </mg>
       <mg>
@@ -15871,6 +15873,10 @@
             <t pos="V">bárgut</t>
             <t pos="V">muhkut</t>
             <t pos="V">bállit</t>
+            <xg>
+               <x>Så hører gutten at kyrne rauter, sauene breker og hestene vrinsker.</x>
+               <xt>De gullá bárdni go gusat muhkot, sávzzat mehkot ja heasttat šnjirgot.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -19482,6 +19488,15 @@
             <t pos="V">rámškut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">šlivgut</t>
+            <xg>
+               <x>Linjedommeren viftet med flagget.</x>
+               <xt>Linnjáduopmár šlivggui leavggain.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -19699,9 +19714,36 @@
          <tg xml:lang="sme">
             <re>transitivt: slenge noe en gang</re>
             <t pos="V">šlivget</t>
+        <xg>
+          <x>Jenta slengte veska på golvet.</x>
+          <xt>Nieida šlivgii lávkka láhttái.</xt>
+        </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>transitivt: slenge flere ganger</re>
             <t pos="V">šlivgut</t>
+        <xg>
+          <x>Hunden slengte på hodet, slik at musa skulle falle av.</x>
+          <xt>Beana šlivggui oaivvi, vai sáhpán gahčašii eret.</xt>
+        </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>transitivt: slenge flere ganger mot noe</re>
             <t pos="V">šluvgit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>transitivt: slenge med noe langt</re>
             <t pos="V">fáškut</t>
+        <xg>
+          <x>å slenge med tau</x>
+          <xt>fáškut báttiin</xt>
+        </xg>
          </tg>
       </mg>
       <mg>
@@ -22827,6 +22869,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">meahkut</t>
+            <xg>
+               <x>Så hører gutten at kyrne rauter, sauene breker og hestene vrinsker.</x>
+               <xt>De gullá bárdni go gusat muhkot, sávzzat mehkot ja heasttat šnjirgot.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24894,6 +24940,15 @@
             <t pos="V">skuhrrat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">snuhrrat</t>
+            <xg>
+               <x>Det er du som snorker så høyt!</x>
+               <xt>Don han snuhrat nu jitnosit!</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -26639,11 +26694,29 @@
    </e>
    <e>
       <lg>
+         <l pos="V">knegge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">šnjirgut</t>
+            <xg>
+               <x>Så hører gutten at kyrne rauter, sauene breker og hestene knegger.</x>
+               <xt>De gullá bárdni go gusat muhkot, sávzzat mehkot ja heasttat šnjirgot.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">vrinske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">šnjirgut</t>
+            <xg>
+               <x>Så hører gutten at kyrne rauter, sauene breker og hestene vrinsker.</x>
+               <xt>De gullá bárdni go gusat muhkot, sávzzat mehkot ja heasttat šnjirgot.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
