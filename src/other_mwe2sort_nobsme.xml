@@ -119,9 +119,9 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>lokativ betydning, på eller fra</re>
             <t pos="Po">bálddas</t>
             <t pos="Po">guoras</t>
-            <t pos="Po">báldda</t>
             <xg>
                <x>Barnet sover ved siden av mora.</x>
                <xt>Mánná oađđá eatni bálddas.</xt>
@@ -130,14 +130,11 @@
                <x>Barnet sitter ved siden av mor.</x>
                <xt>Mánná čohkká eatni guoras.</xt>
             </xg>
-            <xg>
-               <x>Ved siden av Máze skole rant en bekk.</x>
-               <xt>Máze skuvlla báldda golggai ája.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
+	         <re>bevegelse til</re>
             <t pos="Po">báldii</t>
             <xg>
                <x>Legg deg ned ved siden av meg.</x>
@@ -152,6 +149,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>bevegelse til</re>
             <t pos="Adv">gurrii</t>
             <xg>
                <x>Sett den ved siden av veien.</x>
@@ -444,10 +442,15 @@
          <tg xml:lang="sme">
             <re>om tid</re>
             <t pos="Po">áigge</t>
+            <t pos="Po">mielde</t>
             <xg>
                <x>Det forventes at eleven har lært dette i løpet av ungdomsskolen.</x>
                <xt>Vurdojuvvo ahte oahppi lea dan oahppan nuoraidskuvlla áigge.</xt>
             </xg>
+             <xg>
+               <x>Du må bli ferdig med dette i løpet av dagen.</x>
+               <xt>Dáinna fertet otná beaivvi mielde geargat.</xt>
+             </xg>
          </tg>
       </mg>
    </e>

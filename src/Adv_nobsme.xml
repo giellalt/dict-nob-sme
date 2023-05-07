@@ -5360,12 +5360,22 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">ruovttoluotta</t>
-            <t pos="Adv">ruoktot</t>
-            <t pos="Adv">ruoktut</t>
             <xg>
                <x>Allerede dagen etter kom de tilbake.</x>
                <xt>Nuppe beaivvi juo máhcaiga ruovttoluotta.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>i noen dialekter</re>
+            <t pos="Adv">ruoktot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>fram og tilbake</re>
+            <t pos="Phrase">ruoktot ovdan</t>
             <xg>
                <x>Slik kjørte vi fram og tilbake.</x>
                <xt>Nu moai vuojašeimme ruoktot ovdan.</xt>
@@ -6194,7 +6204,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">olgu</t>
+	         <re>i friluft</re>
+            <t pos="Phrase">olggu ovddas</t>
          </tg>
       </mg>
    </e>
@@ -6436,6 +6447,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">danne</t>
+            <t pos="Adv">dasto</t>
+        <xg>
+          <x>Dermed må jeg finne en annen løsning.</x>
+          <xt>Dasto ferten eará čovdosa gávdnat.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
