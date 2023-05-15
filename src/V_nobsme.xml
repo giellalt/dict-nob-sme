@@ -1185,6 +1185,16 @@
             <t pos="V">ravgat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>pga av manglende kraft eller stivhet</re>
+            <t pos="V">šloanccehit</t>
+            <xg>
+               <x>Potetkålen er mørknet og falt mot jorda.</x>
+               <xt>Buđetgálat leat čáhpodan ja šloanccehan eatnamii.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -9092,6 +9102,21 @@
          <tg xml:lang="sme">
             <re>avveie</re>
             <t pos="V" src="fad">vihkkedallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">vakte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>vente på lur, ved jakt</re>
+            <t pos="V">vuođgŋit</t>
+            <xg>
+               <x>Røyskatta vakter under vedstabelen på mus.</x>
+               <xt>Buoidda vuođgŋá sáhpániid muorralána vuolde.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -22014,23 +22039,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nærme seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">lahkonit</t>
-            <t pos="V">lahkanit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>begynne å nærme seg</re>
-            <t pos="V">lahkonišgoahtit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">løses</l>
       </lg>
       <mg>
@@ -23933,6 +23941,20 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>bli etter</re>
+            <t pos="V">bázahallat</t>
+          <xg>
+             <x>Nord-Norge blir nå fullstendig etter når det gjelder vegvedlikehold.</x>
+             <xt>Davvi-Norga lea dál oalát bázahallamin geaidnodivodemiid ektui.</xt>
+          </xg>
+          <xg>
+             <x>Cirga ble etter de andre hestene.</x>
+             <xt>Cirga bázahalai eará heasttaide.</xt>
+          </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>bli nok</re>
             <t pos="V">juollut</t>
             <xg>
@@ -23955,6 +23977,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">oskkildit</t>
+            <xg>
+               <x>Derfor tiltror de ikke mer ansvar til oss.</x>
+               <xt>Danne eai oskkil midjiide eanet ovddasvástádusa.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24849,16 +24875,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">mørknes</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">sevnnjodit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">skille seg ut</l>
       </lg>
       <mg>
@@ -25582,14 +25598,50 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>bli mørkere</re>
-            <t pos="V">čáhpodit</t>
+	         <re>om lys</re>
+            <t pos="V">sevnnjodit</t>
+            <xg>
+               <x>Det var allerede mørknet da de nærmet seg tantas hus.</x>
+               <xt>Lea juo sevnnjodan go soai lahkoneaba siesá vissui.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>på ettermiddagen</re>
+            <re>skumre</re>
             <t pos="V">veiggodit</t>
+            <xg>
+               <x>Sola går ned og det begynner å bli mørkne.</x>
+               <xt>Beaivi luoitá ja veiggodišgoahtá.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli mørkere</re>
+            <t pos="V">čáhpodit</t>
+            <xg>
+               <x>Hun ble mørk i øynene.</x>
+               <xt>Sus čáhpodedje čalmmit.</xt>
+            </xg>
+            <xg>
+               <x>Potetkålen er mørknet og falt mot jorda.</x>
+               <xt>Buđetgálat leat čáhpodan ja šloanccehan eatnamii.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om materiale eller farge</re>
+            <t pos="V">devkkodit</t>
+            <xg>
+               <x>Gullet er blitt mørkere.</x>
+               <xt>Golli lea devkkodan.</xt>
+            </xg>
+            <xg>
+               <x>Sommerens farger blir mørkere mot vinteren.</x>
+               <xt>Geasi ivnnit devkkodit dálvvi vuostá.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -26918,6 +26970,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">logaldallat</t>
+          <xg>
+             <x>Forskeren foreleste om samiske stedsnavn.</x>
+             <xt>Dutki logaldalai sámi báikenamaid birra.</xt>
+          </xg>
          </tg>
       </mg>
    </e>
@@ -29665,16 +29721,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">bántet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">anløpe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">devkkodahttit</t>
          </tg>
       </mg>
    </e>
@@ -34680,6 +34726,10 @@
          <tg xml:lang="sme">
             <t pos="V">lahkanit</t>
             <t pos="V">lahkonit</t>
+            <xg>
+               <x>Det var allerede blitt mørkt da de nærmet seg tantas hus.</x>
+               <xt>Lea juo sevnnjodan go soai lahkoneaba siesá vissui.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
