@@ -4440,7 +4440,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>tap</re>
+            <re>miste, med mulighet for at det kan finnes igjen</re>
+            <t pos="V">láhppit</t>
+            <xg>
+               <x>Jeg fant lua som jeg hadde mistet.</x>
+               <xt>Gávdnen gahpira maid ledjen láhppán.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>miste noe uten mulighet for at det kan finnes igjen</re>
             <t pos="V" src="fad">massit</t>
             <xg>
                <x>Bøndene i området mister mye sau til rovdyr.</x>
@@ -4450,29 +4460,17 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>komme til å gjøre noe ufrivillig</re>
-            <t pos="V" src="fad">ribahit</t>
-            <xg>
-               <x>I går kveld mistet jeg å sove og ble derfor ikke å komme.</x>
-               <xt>Ikte eahkes mun ribahin nohkkat, inge šaddan boahtit.</xt>
-            </xg>
-            <xg>
-               <x>Elle mistet å le i kirka.</x>
-               <xt>Elle ribahii boagustit girkus.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>miste noe ufrivillig</re>
+            <re>være uheldig å tape noe</re>
             <t pos="V" src="fad">manahit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>miste, eller rote bort.</re>
-            <t pos="V" src="fad">láhppit</t>
-         </tg>
+            <xg>
+               <x>Jeg mistet sertifikatet.</x>
+               <xt>Mun manahin vuodjinkoartta.</xt>
+            </xg>
+             <xg>
+               <x>På denne måten mister vi potensielle lærere.</x>
+               <xt>Dien láhkai mii manahit vejolaš oahpaheddjiid.</xt>
+            </xg>
+        </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
@@ -4490,6 +4488,30 @@
             <xg>
                <x>Noen igjen fortalte om hvor store fisker de hadde mistet.</x>
                <xt>Muhtumat ges muitaledje man stuora guliid ledje beasahan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>miste å gjøre noe, ufrivillig</re>
+            <t pos="V" src="fad">ribahit</t>
+            <xg>
+               <x>I går kveld mistet jeg å sove og ble derfor ikke å komme.</x>
+               <xt>Ikte eahkes mun ribahin nohkkat, inge šaddan boahtit.</xt>
+            </xg>
+            <xg>
+               <x>Elle mistet å le i kirka.</x>
+               <xt>Elle ribahii boagustit girkus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>miste bussen</re>
+            <t pos="V">báhcit</t>
+            <xg>
+               <x>Lásse mistet bussen, og jeg skal hente han på skolen.</x>
+               <xt>Lásse bázii busses, ja mun áiggun viežžat su skuvllas.</xt>
             </xg>
          </tg>
       </mg>
