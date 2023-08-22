@@ -498,11 +498,18 @@
    </e>
    <e>
       <lg>
-         <l pos="N">stille sted i elva</l>
+         <l pos="N">stilla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>sted i elva uten strøm</re>
             <t pos="N">goatnil</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>kort stille sted, mellom to stryk</re>
+            <t pos="N">jalvi</t>
          </tg>
       </mg>
    </e>
@@ -554,17 +561,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">ipmi</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N">stille sted mellom to stryk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>kort stille sted</re>
-            <t pos="N">jalvi</t>
          </tg>
       </mg>
    </e>
