@@ -4057,6 +4057,17 @@
    </e>
    <e>
       <lg>
+         <l pos="V">utfolde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+             <re>utfolde seg, utprøve</re>
+           <t pos="V">geahččaladdat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">kommentere</l>
       </lg>
       <mg>
@@ -13687,7 +13698,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>gi trekk</re>
+            <re>om luft</re>
             <t pos="V">jiellat</t>
          </tg>
       </mg>
@@ -20278,20 +20289,6 @@
             <t pos="V">ánuhit</t>
             <t pos="V">átnut</t>
             <t pos="V">gearjidit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">trekke seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">geassádit</t>
-            <xg>
-               <x>Jeg trakk meg fra eksamen.</x>
-               <xt>Geassádin eksámenis.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
@@ -30915,24 +30912,10 @@
             <t pos="V">noastalit</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">trekke not på land</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
+         <re>trekke not på land</re>
             <t pos="V">noastit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">bruke not</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">nuohttut</t>
          </tg>
       </mg>
    </e>
@@ -32626,6 +32609,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">geiget</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">videreutvikle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Phrase">viidásit ovddidit</t>
          </tg>
       </mg>
    </e>
@@ -35369,7 +35362,17 @@
          </tg>
       </mg>
    </e>
-   <e src="fad">
+    <e>
+      <lg>
+         <l pos="V">gjenfortelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">bájuhit</t>
+         </tg>
+      </mg>
+   </e>
+  <e src="fad">
       <lg>
          <l pos="V">gjengi</l>
       </lg>
