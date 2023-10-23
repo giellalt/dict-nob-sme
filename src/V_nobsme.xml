@@ -8305,7 +8305,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>transitiv: rette, sette opp; stille</re>
+            <re>transitiv: rette, sette noe opp; stille noe</re>
             <t pos="V" alt_str="čuoččaldahttit" src="fad">čuoččáldahttit</t>
          </tg>
       </mg>
@@ -8325,6 +8325,16 @@
             <t pos="V">ceggestit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+          <re>intransitiv: noe reiser seg opp</re>
+            <t pos="V">ceagganit</t>
+            <xg>
+               <x>Hårene reiste seg.</x>
+               <xt>Guolggat ceagganedje.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8335,6 +8345,10 @@
             <re>tilegne seg kunnskap</re>
             <t pos="V" src="fad">oahppat</t>
             <t pos="V" src="fad">oahpahallat</t>
+            <xg>
+               <x>Man lærer så lenge man lever.</x>
+               <xt>Olmmoš oahppá guovtti soabbái.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -13268,6 +13282,25 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="fad">válljet</t>
+            <xg>
+               <x>For mange er kalt, men få er utvalgt.</x>
+               <xt>Eatnagat leat bovdejuvvon, muhto hárvásat leat válljejuvvon.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">høste</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>i bibeloversetting, egentlig å slå</re>
+            <t pos="V">láddjet</t>
+            <xg>
+               <x>Det et menneske sår, skal det også høste.</x>
+               <xt>Dat maid olmmoš gilvá, dan son maid láddje.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -20898,6 +20931,16 @@
          <tg xml:lang="sme">
             <re>holde på å flyte</re>
             <t pos="V">govddodit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>i bibeloversetting</re>
+            <t pos="V">golgat</t>
+            <xg>
+               <x>Dra opp til det landet som flyter av melk og honning.</x>
+               <xt>Mana dan eatnamii mas golgá mielki ja honnet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
