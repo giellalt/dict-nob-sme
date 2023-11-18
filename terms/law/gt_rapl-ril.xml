@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../scripts/gt_dictionary.css" type="text/css"?>
-<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../scripts/gt_dictionary_alt.css" type="text/css"?>
+<?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../giella-core/dicts/scripts/gt_dictionary.css" type="text/css"?>
+<?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../giella-core/dicts/scripts/gt_dictionary_alt.css" type="text/css"?>
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
-"../../../dicts/scripts/gt_dictionary.dtd">
+"../../../giella-core/dicts/scripts/gt_dictionary.dtd">
 <r xml:lang="nob" id="JustermTana">
    <lics xml:space="preserve"><lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -53778,7 +53778,7 @@ For the full license text, see the link above.</lic><ref>Work by SEG, Giellatekn
          <i type="Sámedikki giellastivrra áššis 50/05"/>
       </term_info>
    </e>
-   <xhtml:script src="../../../../scripts/gt_dictionary.js"
+   <xhtml:script src="../../../../giella-core/dicts/scripts/gt_dictionary.js"
 		 type="text/javascript"
 		 xmlns:xhtml="http://www.w3.org/1999/xhtml" />
 </r>
