@@ -3445,6 +3445,10 @@
             <t pos="A">bissovaš</t>
             <t pos="A">kronalaš</t>
             <t pos="A" src="fad">guhkálmas</t>
+            <xg>
+               <x>Astma er en kronisk sykdom.</x>
+               <xt>Ástmá lea bissovaš dávda.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8073,9 +8077,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>permanent</re>
+	         <re>over tid</re>
             <t pos="A" src="fad">bistevaš</t>
-            <t pos="A" src="fad">bissovaš</t>
             <xg>
                <x>Mor har fast jobb.</x>
                <xt>Eatnis lea bistevaš virgi.</xt>
@@ -8084,14 +8087,14 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>kompakt</re>
-            <t pos="A">stáđis</t>
+            <re>regelmessig</re>
+            <t pos="A" src="fad">fásta</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>regelmessig</re>
-            <t pos="A" src="fad">fásta</t>
+            <re>kompakt</re>
+            <t pos="A">stáđis</t>
          </tg>
       </mg>
       <mg>
@@ -9870,7 +9873,11 @@
             <t pos="A" src="fad">guhkitáigásaš</t>
             <t pos="A" src="fad">guhkilmas</t>
             <t pos="A" src="fad">bistil</t>
-         </tg>
+             <xg>
+               <x>Vi ønsker en langvarig finansiering.</x>
+               <xt>Mii háliidit bistevaš ruhtadeami.</xt>
+            </xg>
+        </tg>
       </mg>
    </e>
    <e>
@@ -10943,6 +10950,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>permanent</re>
             <t pos="A">bissovaš</t>
          </tg>
       </mg>
@@ -21768,8 +21776,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">bistevaš</t>
             <t pos="A">bissovaš</t>
+            <xg>
+               <x>Det skal opprettes en permanent ordning.</x>
+               <xt>Galgá ásahuvvot bissovaš ordnet.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21985,11 +21996,9 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">áššáisoahppevaš</t>
             <t pos="A">áššáiguoskevaš</t>
             <t pos="A">áššáigullevaš</t>
             <t pos="A">relevánta</t>
-            <t pos="A">čuožžovaš</t>
          </tg>
       </mg>
    </e>
