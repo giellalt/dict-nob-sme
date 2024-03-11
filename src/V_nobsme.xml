@@ -21790,16 +21790,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">jevne ut</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">jevdet</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">ymte</l>
       </lg>
       <mg>
@@ -29209,6 +29199,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>jevne ut</re>
             <t pos="V">dásset</t>
             <t pos="V">jalget</t>
             <t pos="V">dulbet</t>
@@ -29216,7 +29207,20 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+	         <re>gjøre suppe mer tyktflytende</re>
             <t pos="V">suohkudit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>klippe kanten jevn</re>
+            <t pos="V">jevdet</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>rive, jevne med jorda</re>
+            <t pos="V">gaikkodit</t>
          </tg>
       </mg>
    </e>
