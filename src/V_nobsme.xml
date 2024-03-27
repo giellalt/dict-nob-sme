@@ -10221,14 +10221,10 @@
             <t pos="V">vilppastit</t>
          </tg>
       </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">kaste lodd</l>
-      </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">vuorbádit</t>
+ 	         <re>kaste lodd om noe</re>
+           <t pos="V">vuorbádit</t>
          </tg>
       </mg>
    </e>
@@ -28603,6 +28599,23 @@
          <tg xml:lang="sme">
             <re>la gå igjennom sikt</re>
             <t pos="V">sevlet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">lodde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>lodde ut, ved loddtrekning</re>
+            <t pos="V">vuorbádit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>binde sammen to metallstykker med flytende metall</re>
+            <t pos="V">jugahit</t>
          </tg>
       </mg>
    </e>
