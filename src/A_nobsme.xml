@@ -7720,18 +7720,16 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>vaklevoren</re>
             <t pos="A">skivžžas</t>
-            <t pos="A">livzzas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som førsteledd i sammensetninger</re>
-            <t pos="N">skivžže-</t>
-            <t pos="N">livze-</t>
+            <t pos="A">juovzzas</t>
             <xg>
-               <x>ustøtt bord</x>
-               <xt>skivžžebeavdi, livzebeavdi</xt>
+               <x>Bordet er ustødig.</x>
+               <xt>Beavdi lea skivžžas.</xt>
+            </xg>
+            <xg>
+               <x>ustødig sko</x>
+               <xt>skivžegáma</xt>
             </xg>
          </tg>
       </mg>
@@ -11186,6 +11184,7 @@
          <tg xml:lang="sme">
 	         <re>skallet person</re>
             <t pos="N">boalči</t>
+            <t pos="N">báljesoaivi</t>
          </tg>
       </mg>
    </e>
@@ -12789,9 +12788,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">skivžžas</t>
-            <t pos="A">livzzas</t>
-            <t pos="A">juovzzas</t>
             <t pos="A">jurbolas</t>
             <xg>
                <x>Elvebåten er ustø.</x>
@@ -12801,12 +12797,15 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>som førsteledd i sammensetninger</re>
-            <t pos="N">skivžže-</t>
-            <t pos="N">livze-</t>
+	         <re>skjelvende</re>
+            <t pos="A">livzzas</t> 
+            <xg>
+               <x>ustø gange</x>
+               <xt>livzzas vázzin</xt>
+            </xg>
             <xg>
                <x>ustøtt bord</x>
-               <xt>skivžžebeavdi, livzebeavdi</xt>
+               <xt>livzebeavdi</xt>
             </xg>
          </tg>
       </mg>
@@ -12862,7 +12861,11 @@
                <x>Den er livløs.</x>
                <xt>Dat lea jámas.</xt>
             </xg>
-         </tg>
+            <xg>
+              <x>Kua hadde kalvet en livløs kalv.</x>
+              <xt>Gussa lei guoddán jápma gálbbi.</xt>
+            </xg>
+        </tg>
       </mg>
    </e>
    <e>
@@ -13997,11 +14000,22 @@
    </e>
    <e>
       <lg>
-         <l pos="A">fiolett</l>
+         <l pos="A">lilla</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">sáhppat</t>
+            <t pos="A">sáhppesalit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">fiolett</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">violeahtta</t>
          </tg>
       </mg>
    </e>
