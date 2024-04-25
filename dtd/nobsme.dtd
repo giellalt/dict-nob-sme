@@ -23,6 +23,7 @@ nr CDATA #IMPLIED
 type CDATA #IMPLIED
 l_ref CDATA #IMPLIED
 orig_entry CDATA #IMPLIED
+til_ref CDATA #IMPLIED
 >
 
 <!ELEMENT lsub  ( #PCDATA )>
