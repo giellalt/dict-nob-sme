@@ -1,9 +1,20 @@
-<!ELEMENT r ( e+ ) >
+<!ELEMENT r ( lics? , e+ ) >
 <!ATTLIST r
 xml:lang ( nob ) #IMPLIED
+id ( nobsme ) #IMPLIED 
 >
-<!ATTLIST r
-      id ( nobsme ) #IMPLIED >
+<!ELEMENT lics  ( lic , ref* , sourcenote* )>
+<!ATTLIST lics xml:space (default|preserve) 'preserve'
+          xmlns:xhtml CDATA #FIXED "http://www.w3.org/1999/xhtml"
+          xhtml:script CDATA "http://www.w3.org/1999/xhtml"
+          >
+
+<!ELEMENT lic (#PCDATA|a)*>
+<!ATTLIST lic xml:lang ( en | nno ) #IMPLIED >
+<!ELEMENT ref (#PCDATA|a|i)*>
+<!ELEMENT sourcenote (#PCDATA|a)*>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT i (#PCDATA)>
 
 <!ELEMENT e  ( lg , mg* )>
 <!ATTLIST e
