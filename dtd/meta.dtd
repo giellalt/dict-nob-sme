@@ -1,0 +1,17 @@
+<!ELEMENT dictmeta (id, name+, public, license, copyright, description+, langs) >
+<!ELEMENT id ( #PCDATA ) >
+<!ELEMENT name ( #PCDATA ) >
+<!ATTLIST name
+xml:lang (no|se|sma|smj) #REQUIRED
+>
+<!ELEMENT public ( #PCDATA ) >
+<!ELEMENT license ( #PCDATA ) >
+<!ELEMENT copyright ( #PCDATA ) >
+<!ELEMENT description (p) >
+<!ATTLIST description
+xml:lang (no|se|sma|smj) #REQUIRED
+>
+<!ELEMENT p ( #PCDATA ) >
+<!ELEMENT langs (srclang, trglang+) >
+<!ELEMENT srclang ( #PCDATA ) >
+<!ELEMENT trglang ( #PCDATA ) >
