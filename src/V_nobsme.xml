@@ -1060,6 +1060,15 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="V">goalljut</t>
+        <xg>
+          <x>Hvis man ikke kommer seg bak et tre, kan reinoksen stange et menneske ihjel.</x>
+          <xt>Jos ii beasa muora, de sarvvis sáhttá guolljut olbmo cuovkkas.</xt>
+        </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="V">doarrut</t>
             <t pos="V" src="fad">nordat</t>
          </tg>
@@ -2612,6 +2621,15 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="V">guovlat</t>
+         <xg>
+          <xt>Gutten kikker på meg.</xt>
+          <x>Bárdni guovlá munnje.</x>
+        </xg>
+        </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="V">guovlladit</t>
             <t pos="V" src="fad">guovlalit</t>
             <xg>
@@ -3024,6 +3042,20 @@
             <xg>
                <x>Rypene har gjemt seg under snøen for å vente på morgendagen.</x>
                <xt>Rievssahat leat muohttaga vuollái čiehkádan vuordit ihttáža.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">svippe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">skirvehit</t>
+            <xg>
+               <x>Han trengte kniven av stål og svippet innom for å hente den.</x>
+               <xt>Son dárbbašii stálleniibbi ja de skirvehii son dan viežžalit.</xt>
             </xg>
          </tg>
       </mg>
@@ -4194,7 +4226,10 @@
          <tg xml:lang="sme">
             <re>oppnå noe</re>
             <t pos="V">menestuvvat</t>
-            <t pos="V">meinnestuvvat</t>
+        <xg>
+          <x>Jenta lyktes godt med det.</x>
+          <xt>Nieida menestuvai bures dainna.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -7918,6 +7953,11 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">jabbut</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -8657,6 +8697,10 @@
          <tg xml:lang="sme">
             <re>titte</re>
             <t pos="V" src="fad">guovlat</t>
+        <xg>
+          <xt>Gutten ser på meg.</xt>
+          <x>Bárdni guovlá munnje.</x>
+        </xg>
          </tg>
       </mg>
       <mg>
@@ -17199,6 +17243,15 @@
             <t pos="V">ráhtat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">šloaŋkalit</t>
+        <xg>
+          <x>Gutten slamrer døra igjen.</x>
+          <xt>Bárdni šloaŋkala uvssa gitta.</xt>
+        </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -18167,16 +18220,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">cahkat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">reise seg opp</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">ceagganit</t>
          </tg>
       </mg>
    </e>
@@ -21231,21 +21274,15 @@
    </e>
    <e>
       <lg>
-         <l pos="V">kike</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">guovlat</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">titte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V">guovlat</t>
+        <xg>
+          <xt>Gutten titter på meg.</xt>
+          <x>Bárdni guovlá munnje.</x>
+        </xg>
          </tg>
       </mg>
       <mg>
@@ -26778,6 +26815,19 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">ceagganit</t>
+            <xg>
+               <x>Hårene reiste seg.</x>
+               <xt>Guolggat ceagganedje.</xt>
+            </xg>
+            <xg>
+               <x>Nå har det nye hotellet reist seg.</x>
+               <xt>Dál lea ođđa hotealla ceagganan.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -28856,6 +28906,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">gaifát</t>
+        <xg>
+          <x>Alle stirrer på meg.</x>
+          <xt>Buohkat gáifajit munnje.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -33521,6 +33575,20 @@
                <x>Deretter får representantene stille spørsmål til Sametingsrådet.</x>
                <xt>Dasto besset áirasat divvut gažaldagaideaset Sámediggeráđđái.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+         <re>stille seg opp</re>
+            <t pos="V">čuoččahit</t>
+        <xg>
+          <x>Rektor stiller seg foran døra.</x>
+          <xt>Rektor čuoččaha uvssa ovdii.</xt>
+        </xg>
+        <xg>
+          <x>Olbmot geat čužžo ja vurde olmmošráiddus eai ožžon makkárge dieđuid, eará go čuoččahit ráidui.</x>
+          <xt>Personene som sto og ventet i køen av mennesker fikk ingen beskjeder, annet enn å stille seg i kø.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -38452,6 +38520,20 @@
    </e>
    <e>
       <lg>
+         <l pos="V">innskrive</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">čálihit</t>
+            <xg>
+               <x>Samer fra andre land kan også la seg innskrive i valgmanntallet.</x>
+               <xt>Eará riikka sápmelaččat sáhttet maid čálihit iežaset jienastuslohkui.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">sjekke</l>
       </lg>
       <mg>
@@ -38461,6 +38543,16 @@
       <x>Husk å sjekke om du må forhåndsstemme i år.</x>
       <xt>Muitte fal iskat fertet go ovddalgihtii jienastit dán jagi.</xt>
     </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>sjekke inn</re>
+            <t pos="V">čálihit</t>
+            <xg>
+               <x>Sjekk inn på hotellet!</x>
+               <xt>Čálit hotellii!</xt>
+            </xg>
          </tg>
       </mg>
    </e>
