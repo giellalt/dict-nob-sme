@@ -43,14 +43,11 @@ pos CDATA #REQUIRED
 >
 
 <!ELEMENT mg  ( l_ref?, re? , tg+ )>
-<!ATTLIST mg
-xml:lang CDATA #IMPLIED
->
+
 
 <!ELEMENT tg  ( re? , t+ , xg* )>
-<!ATTLIST tg
-xml:lang CDATA #REQUIRED
->
+<!ATTLIST tg xml:lang ( sme ) #IMPLIED >
+
 
 <!ELEMENT re  ( #PCDATA )>
 <!ATTLIST re
