@@ -16,7 +16,7 @@ id ( nobsme ) #IMPLIED
 <!ELEMENT a (#PCDATA)>
 <!ELEMENT i (#PCDATA)>
 
-<!ELEMENT e  ( lg , mg* )>
+<!ELEMENT e  ( lg, mg* )>
 <!ATTLIST e
 src CDATA #IMPLIED
 usage CDATA #IMPLIED
@@ -28,7 +28,8 @@ note CDATA #IMPLIED
 
 <!ELEMENT l  ( #PCDATA )>
 <!ATTLIST l
-pos CDATA #REQUIRED
+pos ( A | Abbr | Adv | CC | CS | Clt | Interj |
+      N | Num | Pcle | Po | Pr | Pron | Qu | V ) #REQUIRED 
 alt_str CDATA #IMPLIED
 nr CDATA #IMPLIED
 type CDATA #IMPLIED
