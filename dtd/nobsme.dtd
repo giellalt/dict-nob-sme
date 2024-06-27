@@ -34,6 +34,7 @@ alt_str CDATA #IMPLIED
 nr CDATA #IMPLIED
 type CDATA #IMPLIED
 orig_entry CDATA #IMPLIED
+til_ref CDATA #IMPLIED
 >
 
 <!ELEMENT lsub  ( #PCDATA )>
