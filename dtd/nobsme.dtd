@@ -29,7 +29,7 @@ note CDATA #IMPLIED
 <!ELEMENT l  ( #PCDATA )>
 <!ATTLIST l
 pos ( A | Abbr | Adv | CC | CS | Clt | Interj |
-      N | Num | Pcle | Po | Pr | Pron | Qu | V | Phrase ) #REQUIRED 
+      N | Num | Pcle | Po | Pr | Pron | Qu | V | Phrase | Det ) #REQUIRED 
 alt_str CDATA #IMPLIED
 nr CDATA #IMPLIED
 type CDATA #IMPLIED
