@@ -14,9 +14,8 @@ id ( nobsme ) #IMPLIED
 <!ELEMENT ref (#PCDATA|a|i)*>
 <!ELEMENT sourcenote (#PCDATA|a)*>
 <!ELEMENT a (#PCDATA)>
-<!ELEMENT i (#PCDATA)>
 
-<!ELEMENT e  ( lg, mg* )>
+<!ELEMENT e  ( lg, mg+, ig* )>
 <!ATTLIST e
 src CDATA #IMPLIED
 usage CDATA #IMPLIED
@@ -45,6 +44,12 @@ pos CDATA #REQUIRED
 <!ELEMENT mg  ( l_ref?, re? , tg+ )>
 
 <!ELEMENT l_ref  ( #PCDATA )>
+
+<!ELEMENT ig ( i, id?, it+)+ >
+<!ELEMENT i (#PCDATA) >
+<!ELEMENT id (#PCDATA) >
+<!ELEMENT it (#PCDATA) >
+
 
 <!ELEMENT tg  ( re? , t+ , xg* )>
 <!ATTLIST tg xml:lang ( sme ) #IMPLIED >
