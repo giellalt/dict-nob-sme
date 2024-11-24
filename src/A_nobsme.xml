@@ -6373,10 +6373,18 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>rødme</re>
+            <re>bli rød</re>
             <t pos="V">ruvssodit</t>
          </tg>
       </mg>
+    <ig>
+          <i>rød tråd</i>
+          <it>rukses árpu</it>
+    </ig>
+    <ig>
+          <i>røde tall</i>
+          <it>rukses logut</it>
+    </ig>
    </e>
    <e>
       <lg>
@@ -6901,6 +6909,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">čalmmeheapme</t>
+            <xg>
+               <x>Bestemor er nokså svaksynt.</x>
+               <xt>Áhkku lea oalle čalmmeheapme.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -8492,6 +8504,10 @@
             <xg>
                <x>Han er full.</x>
                <xt>Son lea gárremiin.</xt>
+            </xg>
+            <xg>
+               <x>Han er full.</x>
+               <xt>Son lea oaivvesnaga.</xt>
             </xg>
          </tg>
       </mg>
@@ -10281,6 +10297,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">sohkarkeahtes</t>
+      <xg>
+        <x>sukkerfri brus</x>
+        <xt>sohkarkeahtes bruvsa</xt>
+      </xg>
          </tg>
       </mg>
    </e>
@@ -10291,6 +10311,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">glutenkeahtes</t>
+      <xg>
+        <x>glutenfritt mel</x>
+        <xt>glutenkeahtes jáffut</xt>
+      </xg>
          </tg>
       </mg>
    </e>
@@ -14928,6 +14952,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">čalmmeheapme</t>
+            <xg>
+               <x>Bestemor er blind.</x>
+               <xt>Áhkku lea čalmmeheapme.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
