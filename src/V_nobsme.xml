@@ -1405,15 +1405,29 @@
    </e>
    <e>
       <lg>
+         <l pos="V">tagge</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">gilkorastit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">minske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>om størrelse</re>
             <t pos="V">unnut</t>
-            <t pos="V">geahpedit</t>
-            <t pos="V">geahpidit</t>
             <t pos="V">uhccut</t>
-            <t pos="V" src="fad">unnudit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om antall eller styrke</re>
+            <t pos="V">geahppánit</t>
          </tg>
       </mg>
    </e>
@@ -8423,8 +8437,14 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="V">gilkorastit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>øremerke rein; flere ganger</re>
             <t pos="V" src="fad">mearkut</t>
+            <t pos="V">gilkorastit</t>
          </tg>
       </mg>
       <mg>
