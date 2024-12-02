@@ -6661,6 +6661,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">ovttačalmmat</t>
+      <xg>
+        <x>enøyd troll</x>
+        <xt>ovttačalmmat stállu</xt>
+      </xg>
+      <xg>
+        <x>enøyd nasjonalisme</x>
+        <xt>ovttačalmmat nationalisma</xt>
+      </xg>
          </tg>
       </mg>
    </e>
@@ -9871,7 +9879,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">ámmátlaš</t>
-            <t pos="A" src="fad">profeššunealla</t>
+            <t pos="A" src="fad">professionála</t>
             <t pos="A" src="fad">fidnomáhtolaš</t>
             <t pos="A" src="fad">fitnolaš</t>
          </tg>
@@ -10353,11 +10361,29 @@
    </e>
    <e>
       <lg>
+         <l pos="A">trehjulet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">golmmajuvllat</t>
+      <xg>
+        <x>trehjulet vuoján</x>
+        <xt>golmmajuvllat vuoján</xt>
+      </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">firehjuls</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">njealjejuvllat</t>
+      <xg>
+        <x>firehjulskjøretøy</x>
+        <xt>njealjejuvllat vuoján</xt>
+      </xg>
          </tg>
       </mg>
    </e>
