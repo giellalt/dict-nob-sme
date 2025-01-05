@@ -667,7 +667,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="CS">dego</t>
-            <t pos="CS">dugo</t>
             <xg>
                <x>Du spiser akkurat som en gris.</x>
                <xt>Don borat dego spiidni.</xt>
@@ -682,11 +681,18 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="CS">vaikko</t>
-            <t pos="CS">vaikke</t>
-            <t pos="CS">váikko</t>
             <xg>
                <x>Du spiser om så hvor mye.</x>
                <xt>Don gal borat vaikko man ollu.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Phrase">lehkos dal</t>
+            <xg>
+               <x>Om så det er en spiker i veggen eller merkelige mennesker, så er det uforklarlige hendinger.</x>
+               <xt>Lehkos dal návli seainnis dahje imašlágán olbmot, de leat čilgetmeahttun vásáhusat.</xt>
             </xg>
          </tg>
       </mg>
@@ -698,8 +704,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="CS">vaikko</t>
-            <t pos="CS">vaikke</t>
-            <t pos="CS">váikko</t>
             <xg>
                <x>Jeg hjelper deg, selv om du ikke trenger hjelp.</x>
                <xt>Mun veahkehan du, vaikko it dárbbaš ge veahki.</xt>
@@ -715,7 +719,6 @@
          <tg xml:lang="sme">
             <t pos="Po">dihte</t>
             <t pos="Po">geažil</t>
-            <t pos="Po">dihtii</t>
             <xg>
                <x>På grunn av dette må de lage en felles liste til Sametingsvalget.</x>
                <xt>Dan dihte fertejit ráhkadit oktasaš listtu Sámediggeválgii.</xt>
