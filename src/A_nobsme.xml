@@ -10182,9 +10182,60 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>ikke opptatt, ikke i bruk</re>
-            <t pos="A" src="fad">rabas</t>
+            <re>om noe som ikke er opptatt</re>
+            <t pos="A">rabas</t>
+            <xg>
+               <x>ledig fast stilling</x>
+               <xt>rabas bistevaš virgi</xt>
+            </xg>
+            <xg>
+               <x>Stillinga er lyst ledig.</x>
+               <xt>Virgi lea almmuhuvvon rabasin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om noe som blir ledig</re>
+            <t pos="V">rahpasit</t>
+            <xg>
+               <x>Stillinga blir ledig.</x>
+               <xt>Virgi rahpasa.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ikke i bruk</re>
             <t pos="A" src="fad">guorus</t>
+            <xg>
+               <x>ledige driftsenheter</x>
+               <xt>guoros doalloovttadagat</xt>
+            </xg>
+            <xg>
+               <x>ledige seter</x>
+               <xt>guoros čohkkánsajit</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>ikke i bruk</re>
+            <t pos="V">geavatkeahtes</t>
+            <xg>
+               <x>ledig kapasitet</x>
+               <xt>geavatkeahtes bargonávccaid</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om å ha tid</re>
+            <t pos="V">astat</t>
+            <xg>
+               <x>Er du ledig? (Har du tid?)</x>
+               <xt>Asttat go?</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -10195,7 +10246,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>gå ledig</re>
+            <re>gå ledig, ubundet av plikter eller lignende</re>
             <t pos="V">joavdelastit</t>
          </tg>
       </mg>
@@ -10206,12 +10257,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">kommersiála</t>
-            <t pos="A" src="fad">kommersiealla</t>
             <t pos="A" src="fad">gávppálaš</t>
+            <t pos="A" src="fad">kommersiealla</t>
             <xg>
                <x>kommersielt krabbefiske</x>
-               <xt>gávppálaš reabbábivddu</xt>
+               <xt>gávppálaš reabbábivdu</xt>
             </xg>
          </tg>
       </mg>
@@ -10267,9 +10317,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad">liberálalaš</t>
-            <t pos="A" src="fad">liberála</t>
             <t pos="A" src="fad">friijahápmásaš</t>
+            <t pos="A" src="fad">liberála</t>
          </tg>
       </mg>
    </e>
@@ -10305,7 +10354,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">bistevaš</t>
-            <t pos="A" src="fad">guhkitáigásaš</t>
             <t pos="A" src="fad">guhkilmas</t>
             <t pos="A" src="fad">bistil</t>
             <xg>
@@ -20205,7 +20253,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">guhkesáigásaš</t>
-            <t pos="A">guhkitáigásaš</t>
             <t pos="A">guhkesáiggi</t>
          </tg>
       </mg>
