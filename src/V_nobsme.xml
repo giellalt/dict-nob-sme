@@ -5821,9 +5821,22 @@
          <tg xml:lang="sme">
             <re>flere ganger</re>
             <t pos="V">muollat</t>
+        <xg>
+          <x>Oksen brøler.</x>
+          <xt>Burru muollá.</xt>
+        </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>flere ganger</re>
             <t pos="V">rohkut</t>
             <t pos="V">gilljut</t>
             <t pos="V" src="fad">čeargut</t>
+        <xg>
+          <x>Bjørnen brøler.</x>
+          <xt>Guovža rohku.</xt>
+        </xg>
          </tg>
       </mg>
       <mg>
@@ -15246,7 +15259,17 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>om mus</re>
+            <re>om mus, pipe en gang</re>
+            <t pos="V">cihrrat</t>
+            <xg>
+               <x>Musa piper.</x>
+               <xt>Sáhpán cihrrá.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om mus, holde på å pipe</re>
             <t pos="V">cihraidit</t>
             <xg>
                <x>Musa piper på låven.</x>
@@ -17734,6 +17757,16 @@
             <xg>
                <x>Hanen galer.</x>
                <xt>Vuoncávaris bišku.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om gjøk</re>
+            <t pos="V">guhkkat</t>
+            <xg>
+               <x>Gjøken galer.</x>
+               <xt>Giehka guhkká.</xt>
             </xg>
          </tg>
       </mg>
@@ -21897,6 +21930,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">holvut</t>
+            <xg>
+               <x>Ulven uler.</x>
+               <xt>Gumpe holvu.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -23985,6 +24022,11 @@
             <t pos="V">njihkut</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">riehčut</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -24666,6 +24708,10 @@
          <tg xml:lang="sme">
             <re>om skjur</re>
             <t pos="V">čahrrat</t>
+            <xg>
+               <x>Skjura skratter.</x>
+               <xt>Skire čahrrá.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -24888,6 +24934,20 @@
          <tg xml:lang="sme">
 	       <re>om rein</re>  
             <t pos="V">ruovgat</t>
+            <xg>
+               <x>Boazu ruovgá.</x>
+               <xt>Reinen grynter.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	       <re>om gris</re>  
+            <t pos="V">snurkit</t>
+      <xg>
+        <x>Grisen grynter.</x>
+        <xt>Spiidni snurká.</xt>
+      </xg>
          </tg>
       </mg>
       <mg>
@@ -27344,8 +27404,30 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>om småprat, om mygg</re>
             <t pos="V">šurrat</t>
+            <xg>
+               <x>Mygga summer.</x>
+               <xt>Čuoika šurrá.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">summe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="V">hurrat</t>
+            <xg>
+               <x>Flua summer.</x>
+               <xt>Čuru hurrá.</xt>
+            </xg>
+        <xg>
+          <x>Skuteren summer.</x>
+          <xt>Skohter hurrá.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -29016,7 +29098,31 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+	        <re>gnelle, kvine</re> 
+            <t pos="V">riehčut</t>
+            <xg>
+               <x>Måsa skriker.</x>
+               <xt>Skávli riehču.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="V">abmet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">gnelle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">riehčut</t>
+            <xg>
+               <x>Hunden gneller.</x>
+               <xt>Beana riehču.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
