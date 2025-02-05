@@ -6377,18 +6377,6 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>en gang</re>
-            <t pos="V" src="fad">leiket</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>en gang</re>
-            <t pos="V">njorret</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>i alminnelighet</re>
             <t pos="V">njoarrat</t>
          </tg>
@@ -6397,6 +6385,17 @@
          <tg xml:lang="sme">
             <re>til flere</re>
             <t pos="V">leaikut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>en gang</re>
+            <t pos="V">njorret</t>
+            <t pos="V" src="fad">leiket</t>
+            <xg>
+               <x>Far skjenker morgenkaffe til seg selv.</x>
+               <xt>Áhčči njorre alccesis iđitkáfe.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -8919,6 +8918,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>se til siden</re>
+            <t pos="V">liđgut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>å være seende</re>
             <t pos="N" type="NomAg">oaidni</t>
             <xg>
@@ -9454,6 +9459,42 @@
                <x>Røyskatta vakter under vedstabelen på mus.</x>
                <xt>Buoidda vuođgŋá sáhpániid muorralána vuolde.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">boble</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">bulljarastit</t>
+            <t pos="V">buljardit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">bule</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">bullját</t>
+            <xg>
+               <x>Blodåra buler ut i panna hennes.</x>
+               <xt>Varrasuotna lea bulljáme su gállus.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">gispe</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>etter luft</re>
+            <t pos="V">hahpaštuddat</t>
          </tg>
       </mg>
    </e>
@@ -15809,9 +15850,21 @@
 	         <re>skave, kutte</re>
             <t pos="V">cáhpat</t>
             <xg>
-               <x>Far heller morgenkaffe til seg selv, og kutter ost i kaffekoppen.</x>
-               <xt>Áhčči njorre alccesis iđitkáfe ja cáhpá vuosttá káffegohppii.</xt>
+               <x>Far kutter ost i kaffekoppen.</x>
+               <xt>Áhčči cáhpá vuosttá káffegohppii.</xt>
             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>skjære i små biter</re>
+            <t pos="V">cábadit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>skjære hakk i noe</re>
+            <t pos="V">ceahkkut</t>
          </tg>
       </mg>
       <mg>
@@ -15828,6 +15881,12 @@
          <tg xml:lang="sme">
             <re>håndverk: klippe eller skjære til</re>
             <t pos="V">vadjat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>skjære seg</re>
+            <t pos="V">čuohpadit</t>
          </tg>
       </mg>
       <mg>
@@ -17806,6 +17865,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>spontant</re>
+            <t pos="V">čaimmihit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>mindre vanlig; flire på en ubehagelig måte og stille</re>
             <t pos="V">nilkkistit</t>
          </tg>
@@ -18521,16 +18586,6 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">skjære hakk</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">ceahkkut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="Phrase">klare seg</l>
       </lg>
       <mg>
@@ -18898,16 +18953,6 @@
                <x>Jeg veksler penger i banken.</x>
                <xt>Mun cuvken ruđaid báŋkkus.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">skjære i små biter</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">cábadit</t>
          </tg>
       </mg>
    </e>
@@ -25146,6 +25191,16 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>skjele til</re>
+            <t pos="V">liđgut</t>
+            <xg>
+               <x>Mii fertet skjele til andre kommuner</x>
+               <xt>Vi må liđgut eará suohkaniidda.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -27064,16 +27119,6 @@
                <x>Hunden slafser i seg vann.</x>
                <xt>Beana čuohká čázi.</xt>
             </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">skjære seg</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">čuohpadit</t>
          </tg>
       </mg>
    </e>
@@ -35646,8 +35691,8 @@
 	         <re>kutte opp mat</re>
             <t pos="V">cáhpat</t>
             <xg>
-               <x>Far heller morgenkaffe til seg selv, og kutter ost i kaffekoppen.</x>
-               <xt>Áhčči njorre alccesis iđitkáfe ja cáhpá vuosttá káffegohppii.</xt>
+               <x>Far kutter ost i kaffekoppen.</x>
+               <xt>Áhčči cáhpá vuosttá káffegohppii.</xt>
             </xg>
          </tg>
       </mg>
