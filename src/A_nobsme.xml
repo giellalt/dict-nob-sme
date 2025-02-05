@@ -5907,7 +5907,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">válmmas</t>
-            <t pos="A">válmmaš</t>
             <t pos="A" src="fad">gárvvis</t>
          </tg>
       </mg>
@@ -9210,10 +9209,23 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>ferdig</re>
+            <re>klar til å</re>
             <t pos="A">gearggus</t>
+            <xg>
+               <x>Jeg er klar til å dra.</x>
+               <xt>Lean gearggus vuolgit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>er ferdig</re>
             <t pos="A" src="fad">válmmas</t>
             <t pos="A" src="fad">gárvvis</t>
+            <xg>
+               <x>Kaffen er klar.</x>
+               <xt>Gáffe lea gárvvis.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
