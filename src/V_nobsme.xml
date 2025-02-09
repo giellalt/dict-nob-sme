@@ -3166,7 +3166,18 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">skirvehit</t>
+	         <re>bringe som snarest</re>
+            <t pos="V">buvttestit</t>
+            <xg>
+               <x>Bestefar svippet meg hjem på kvelden.</x>
+               <xt>Áddjá buvttesttii mu ruoktot eahkedis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+ 	         <re>ta en sving innom</re>
+           <t pos="V">skirvehit</t>
             <xg>
                <x>Han trengte kniven av stål og svippet innom for å hente den.</x>
                <xt>Son dárbbašii stálleniibbi ja de skirvehii son dan viežžalit.</xt>
@@ -10760,6 +10771,10 @@
             <t pos="V">dállet</t>
          </tg>
       </mg>
+    <ig>
+      <i>riste på hodet</i>
+      <it>bárdit oaivvi</it>
+    </ig>
    </e>
    <e>
       <lg>
@@ -15423,7 +15438,12 @@
             <t pos="V">cikcut</t>
          </tg>
       </mg>
-   </e>
+       <mg>
+         <tg xml:lang="sme">
+            <t pos="V">čárvet</t>
+         </tg>
+      </mg>
+  </e>
    <e>
       <lg>
          <l pos="V">pleie</l>
@@ -17867,6 +17887,12 @@
          <tg xml:lang="sme">
             <re>spontant</re>
             <t pos="V">čaimmihit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>flire ertende</re>
+            <t pos="V">šnjeazistit</t>
          </tg>
       </mg>
       <mg>
@@ -22336,8 +22362,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>høyrøstet</re>
             <t pos="V">šoambbistit</t>
+            <t pos="V">šloambbistit</t>
          </tg>
       </mg>
       <mg>
@@ -23662,6 +23688,12 @@
             <t pos="V">mulggádit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med et blikk</re>
+            <t pos="V">mulggastit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -23706,6 +23738,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">murdit</t>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+	         <re>med kjøretøy</re>
+            <t pos="V">murddihit</t>
+          <xg>
+           <x>Mor rygger ut på hovedvegen.</x>
+           <xt>Eadni murddiha váldogeidnui.</xt>
+         </xg>
          </tg>
       </mg>
    </e>
@@ -30900,6 +30942,16 @@
          </tg>
       </mg>
    </e>
+    <e>
+      <lg>
+         <l pos="Phrase">hule ut</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">gohpat</t>
+         </tg>
+      </mg>
+   </e>
    <e>
       <lg>
          <l pos="V">forsenke</l>
@@ -32001,8 +32053,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>underholde</re>
-            <t pos="V">čájehit</t>
+            <re>på scenen</re>
+            <t pos="V">loaiddastit</t>
          </tg>
       </mg>
       <mg>
@@ -35232,6 +35284,10 @@
          <tg xml:lang="sme">
             <re>bli rammet</re>
             <t pos="V">fáhtehallat</t>
+        <xg>
+          <x>På kvelden blir jeg rammet av hodepine.</x>
+          <xt>Eahkedis fáhtehalan oaivebákčasii.</xt>
+        </xg>
          </tg>
       </mg>
    </e>

@@ -4876,6 +4876,10 @@
             <t pos="V">buozastit</t>
          </tg>
       </mg>
+    <ig>
+      <i>være syk lenge</i>
+      <it>eallit buoza</it>
+    </ig>
    </e>
    <e>
       <lg>
@@ -4910,7 +4914,17 @@
           <it>leat guovtti ilmmi gaskkas</it>
     </ig>
    </e>
-   <e>
+    <e>
+      <lg>
+         <l pos="A">gullameahttun</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Phrase">ikke hørbar</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
       <lg>
          <l pos="A">halvvoksen</l>
       </lg>
@@ -6907,6 +6921,16 @@
                <x>Verden er blitt mindre.</x>
                <xt>Máilbmi lei unnon.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">knøttliten</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">binná bánna</t>
          </tg>
       </mg>
    </e>
@@ -11109,7 +11133,8 @@
       <mg>
          <tg xml:lang="sme">
             <re>være motløs</re>
-            <t pos="V">skurdnját</t>
+            <t pos="V">šlundát</t>
+            <t pos="V">šlundádit</t>
          </tg>
       </mg>
    </e>
@@ -18053,10 +18078,31 @@
    </e>
    <e>
       <lg>
+         <l pos="A">veltalende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">sánálaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rungende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">skáigil</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">verbal</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="A">sánálaš</t>
             <t pos="A">verbála</t>
          </tg>
       </mg>
