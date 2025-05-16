@@ -2647,6 +2647,11 @@
          <tg xml:lang="sme">
             <t pos="V">čoagganit</t>
             <t pos="V" src="fad">čoahkkanit</t>
+            <t pos="V">čohkiidit</t>
+             <xg>
+              <x>Barna hadde samlet seg for å se på TV.</x>
+              <xt>Mánát ledje čohkiidan geahččat TV.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -3216,7 +3221,7 @@
             <t pos="V">buvttestit</t>
             <xg>
                <x>Bestefar svippet meg hjem på kvelden.</x>
-               <xt>Áddjá buvttesttii mu ruoktot eahkedis.</xt>
+               <xt>Áddjá buvttestii mu ruoktot eahkedis.</xt>
             </xg>
          </tg>
       </mg>
@@ -7348,8 +7353,16 @@
             <t pos="V" src="fad">áibbašit</t>
             <t pos="V">vielladit</t>
             <xg>
-               <x>Abdul bare lengter etter den norske jenta.</x>
-               <xt>Abdul viellada dušše dan dáža nieidda maŋŋái.</xt>
+              <xt>Jeg lengter etter deg.</xt>
+              <x>Mun áibbašan du.</x>
+            </xg>
+            <xg>
+              <xt>Jeg lengter etter hjemplassen.</xt>
+              <x>Mun áibbašan ruovttubáikái.</x>
+            </xg>
+            <xg>
+              <xt>Jeg lengter etter hjemplassen.</xt>
+              <x>Mun vielladan ruovttubáikái.</x>
             </xg>
          </tg>
       </mg>
@@ -12797,6 +12810,10 @@
          <tg xml:lang="sme">
             <re>utveksle</re>
             <t pos="V">lonohallat</t>
+            <xg>
+               <x>utveksle nytt om molteplukking</x>
+               <xt>lohallat luomeságaid</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -20590,6 +20607,13 @@
             <t pos="V">galbmit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>dannes is på vann</re>
+            <t pos="V">spildut</t>
+            <t pos="V">gavdut</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -22877,20 +22901,15 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>holde på å tøyse</re>
-            <t pos="V">leaikkastallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>tøyse</re>
             <t pos="V">leaikkastit</t>
+            <t pos="V">leikošit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>tøyse</re>
-            <t pos="V">leikošit</t>
+            <re>holde på å tøyse</re>
+            <t pos="V">leaikkastallat</t>
          </tg>
       </mg>
       <mg>
@@ -31128,10 +31147,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">bihcut</t>
-            <xg>
-               <x>Bakken er dekket av rim.</x>
-               <xt>Eana lea bihcon.</xt>
-            </xg>
+        <xg>
+          <x>Golggotmánus eatnamat bihcot ja jávrrit gavdot.</x>
+          <xt>I oktober dannes det rim på jordag og vannene fryser til.</xt>
+        </xg>
          </tg>
       </mg>
       <mg>

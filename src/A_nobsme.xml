@@ -13122,8 +13122,8 @@
 	      <re>som kommer i motgående retning</re>
             <t pos="A">ovddalboahtti</t>
             <xg>
-               <x>ovddalboahtti johtolat</x>
-               <xt>møtende trafikk</xt>
+               <x>møtende trafikk</x>
+               <xt>ovddalboahtti johtolat</xt>
             </xg>
          </tg>
       </mg>
@@ -14703,9 +14703,20 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	         <re>opptint, om ting, vinduer, klær</re>
             <t pos="A">saŋas</t>
          </tg>
       </mg>
+    <mg>
+      <tg xml:lang="nob">
+	      <re>om tynn is på vann</re>
+        <t pos="V">nálget</t>
+        <xg>
+          <x>Jávri spildu ihkku, muhto beaivvi ala sáhttá nálget.</x>
+          <xt>Vannet fryser til på natta, men i løpet av dagen kan det bli isfritt.</xt>
+        </xg>
+      </tg>
+    </mg>
    </e>
    <e>
       <lg>
@@ -14713,6 +14724,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+	      <re>som ikke har snø eller is på vinteren</re>
             <t pos="A">saŋas</t>
          </tg>
       </mg>
@@ -21093,6 +21105,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">šattoheapme</t>
+            <t pos="A">guorbbas</t>
          </tg>
       </mg>
    </e>
