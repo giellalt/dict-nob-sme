@@ -1751,6 +1751,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">gállit</t>
+            <t pos="V">muovlat</t>
             <xg>
                <x>Det var ganske tungt å grynne i dypsnøen.</x>
                <xt>Lei oba lossat obbasa gállit.</xt>
@@ -5022,6 +5023,20 @@
    </e>
    <e>
       <lg>
+         <l pos="V">virvle</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">ráppaštit</t>
+           <xg>
+             <x>Elvevannet virvler.</x>
+             <xt>Johka ráppašta.</xt>
+           </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">velsigne</l>
       </lg>
       <mg>
@@ -5121,6 +5136,16 @@
             <xg>
                <x>Jaktlaget har lov til å skyte en elg til.</x>
                <xt>Bivdojoavkkus lea lohpi ovtta ealgga velá báhčit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>om fiskegarn</re>
+            <t pos="V" src="fad">moardit</t>
+            <xg>
+              <x>skyte drivgarn</x>
+              <xt>moardit golgadaga</xt>
             </xg>
          </tg>
       </mg>
@@ -7369,6 +7394,16 @@
    </e>
    <e>
       <lg>
+         <l pos="V">flakne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">njallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">fortjene</l>
       </lg>
       <mg>
@@ -9605,6 +9640,7 @@
          <tg xml:lang="sme">
             <re>etter luft</re>
             <t pos="V">hahpaštuddat</t>
+            <t pos="V">hahppalit</t>
          </tg>
       </mg>
    </e>
@@ -16659,6 +16695,65 @@
    </e>
    <e>
       <lg>
+         <l pos="V">overvelde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli overveldet av arbeid</re>
+            <t pos="V">hievganit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">tildekke</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">gokčat</t>
+            <xg>
+               <x>Svarte skyer dekker fullstendig til tinder og fjell.</x>
+               <xt>Čáhpes balvvat gokčet álfárot gáissáid ja váriid.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>dekke med snø eller sand</re>
+            <t pos="V">jávistit</t>
+             <xg>
+               <x>Leirrasene har dekket til to hus.</x>
+               <xt>Láirauđđasat leat jávistan guokte viesu.</xt>
+             </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli tildekket med snø eller sand</re>
+            <t pos="V">jávvásit</t>
+             <xg>
+               <x>Utedoen er tildekket av snø.</x>
+               <xt>Hivsset lea jávvásan muohttaga vuollai.</xt>
+             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">spakne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">loaččihit</t>
+        <xg>
+          <x>Vinden spaknet.</x>
+          <xt>Biegga loaččihii.</xt>
+        </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Phrase">dukke opp</l>
       </lg>
       <mg>
@@ -16678,6 +16773,20 @@
             <xg>
                <x>Vi visste ikke hva som kunne dukke opp mellom trærne.</x>
                <xt>Eat diehtán mii sáhtii skuvihit muoraid gaskkas.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>dukke opp</re>
+            <t pos="V">guivásit</t>
+            <xg>
+               <x>Husmora dukket opp på kjøkkenet.</x>
+               <xt>Dálueamit guivásii gievkkanis.</xt>
+            </xg>
+            <xg>
+               <x>Plutselig kan det dukke opp økonomiske vanskeligheter.</x>
+               <xt>Báifáhkka sáhttet guivásit ekonomalaš váttisvuođat.</xt>
             </xg>
          </tg>
       </mg>
@@ -18809,6 +18918,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">ciellat</t>
+            <t pos="V">šáigit</t>
          </tg>
       </mg>
       <mg>
@@ -19050,6 +19160,27 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">curbmát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">krasje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>krasje i noe</re>
+            <t pos="V">boŋkkihit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>kollidere</re>
+            <t pos="V">beaškkihit</t>
+            <xg>
+               <x>Berit måtte svinge bilen i grøfta for at bilene ikke skulle kollidere.</x>
+               <xt>Biret šattai bonjastit biilla doares beallái nu ahte biillat eai beašket oktii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -21949,6 +22080,13 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>kle på sko</re>
+            <t pos="V">coggat</t>
+            <t pos="V">gámadit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -22629,6 +22767,16 @@
    </e>
    <e>
       <lg>
+         <l pos="V">smulne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">doažžut</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">dure</l>
       </lg>
       <mg>
@@ -22647,6 +22795,12 @@
          <tg xml:lang="sme">
             <re>lyden av motor</re>
             <t pos="V">jurrat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>lyden av nor</re>
+            <t pos="V">báfaidit</t>
          </tg>
       </mg>
    </e>
@@ -22772,6 +22926,16 @@
         <xg>
           <x>Et stykke av tanna har løsna.</x>
           <xt>Bánis lea laigan bihttá.</xt>
+        </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>flakne</re>
+            <t pos="V">njallat</t>
+        <xg>
+          <x>Sieđga njallá.</x>
+          <xt>Seljebarken løsner.</xt>
         </xg>
          </tg>
       </mg>
@@ -26987,6 +27151,12 @@
             <t pos="V">čalgat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>stadig synke gjennom</re>
+            <t pos="V">čalggadit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -27720,7 +27890,7 @@
    </e>
    <e>
       <lg>
-         <l pos="V">smelle til</l>
+         <l pos="V">smelle i</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -28123,6 +28293,15 @@
             <xg>
                <x>Milene ilte avgårde.</x>
                <xt>Miillat hurge.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">hurgguhit</t>
+            <xg>
+               <x>Bilene ilte mot bygdesenteret.</x>
+               <xt>Biillat hurgguhit márkana guvlui.</xt>
             </xg>
          </tg>
       </mg>
@@ -30440,6 +30619,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">almmuhit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">trakte etter</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">háhpohallat</t>
          </tg>
       </mg>
    </e>
@@ -37883,6 +38072,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">mánet</t>
+            <t pos="V">mánidit</t>
          </tg>
       </mg>
    </e>
