@@ -2172,6 +2172,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>sove urolig</re>
+            <t pos="V">čáráhallat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>overnatte</re>
             <t pos="V" src="fad">ijastallat</t>
          </tg>
@@ -7736,6 +7742,16 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="fad">dáruiduhttit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">forfinske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">láddiluvvat</t>
          </tg>
       </mg>
    </e>
@@ -17270,6 +17286,11 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">hálbbášit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -17278,6 +17299,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">badjelgeahččat</t>
+            <t pos="V">fuonášit</t>
             <xg>
                <x>Vi lar ikke bykulturen nedvurdere vår kultur.</x>
                <xt>Mii eat divtte gávpotkultuvrra badjelgeahččat iežamet kultuvrra.</xt>
@@ -21185,6 +21207,19 @@
             <t pos="V">niktit</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">siektadit</t>
+            <xg>
+               <x>Dette kan lokke rovdyr inn i reinflokken.</x>
+               <xt>Dát sáhttá siektadit spiriid ealu ala.</xt>
+            </xg>
+            <xg>
+               <x>Med dette lokker de flere å komme til arrangementet.</x>
+               <xt>Dainna sii siektadit eambbosiid boahtit doaluide.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -22619,6 +22654,11 @@
       <lg>
          <l pos="V">skravle</l>
       </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">dáikit</t>
+         </tg>
+      </mg>
       <mg>
          <tg xml:lang="sme">
             <re>i munnen på hverandre</re>
@@ -26303,6 +26343,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">suohtastallat</t>
+            <t pos="V">hervvoštallat</t>
          </tg>
       </mg>
    </e>
@@ -27158,6 +27199,22 @@
    </e>
    <e>
       <lg>
+         <l pos="V">trø gjennom</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">čalgat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>stadig trø gjennom</re>
+            <t pos="V">čalggadit</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="V">synke gjennom</l>
       </lg>
       <mg>
@@ -27638,6 +27695,12 @@
          <tg xml:lang="sme">
             <re>lysne av dag</re>
             <t pos="V">ránodit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>klarne</re>
+            <t pos="V">šearasmuvvat</t>
          </tg>
       </mg>
    </e>
@@ -38284,6 +38347,11 @@
             <t pos="V">skuodnját</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V">givdnjut</t>
+         </tg>
+      </mg>
    </e>
    <e src="nfl_201402">
       <lg>
@@ -38400,6 +38468,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>lukte</re>
             <t pos="V">haksit</t>
             <xg>
                <x>Hunden løftet hodet sitt og snuste alle veier.</x>

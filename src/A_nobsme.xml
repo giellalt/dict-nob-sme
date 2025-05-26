@@ -1035,6 +1035,23 @@
          <tg xml:lang="sme">
             <re>bli fornorsket</re>
             <t pos="V" src="fad">dáruiduvvat</t>
+            <t pos="V">dáččaluvvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">forfinsket</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="V" type="Prfprc">láddiluvvan</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli forfinsket</re>
+            <t pos="V">láddiluvvat</t>
          </tg>
       </mg>
    </e>
@@ -2316,6 +2333,12 @@
             <t pos="A" src="fad">headju</t>
             <t pos="A" src="fad">heittot</t>
             <t pos="A" src="fad">fuotni</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>anse for å være dårlig</re>
+            <t pos="V">fuonášit</t>
          </tg>
       </mg>
    </e>
@@ -4668,8 +4691,8 @@
             <re>bli blå, blåne</re>
             <t pos="V">alihastit</t>
             <xg>
-               <x>I skogene og i skyggefulle skråninger blånet blåbær.</x>
-               <xt>Vuvddiid ja vilttiid itkosis alihastigohtet sarridat.</xt>
+               <x>I skogene og i skyggefulle skråninger blåner blåbær.</x>
+               <xt>Vuvddiid ja vilttiid itkosis alihastet sarridat.</xt>
             </xg>
             <xg>
                <x>Fjellene blånet langt i nord.</x>
@@ -5111,6 +5134,12 @@
             <t pos="A" src="fad">coagis</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	     <re>om båt, kar eller liknende</re>
+            <t pos="A">njáđđi</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5203,6 +5232,7 @@
          <tg xml:lang="sme">
             <t pos="A" src="fad">linis</t>
             <t pos="A" src="fad">dimis</t>
+            <t pos="A">mievkkis</t>
          </tg>
       </mg>
       <mg>
@@ -5729,6 +5759,12 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om båt</re>
+            <t pos="A">ruvdii</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -5792,6 +5828,40 @@
                <x>Jeg er veldig sulten.</x>
                <xt>Mun lean nelgon.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">halvferdig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">gaskandaga</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">skyggefull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">itkkus</t>
+            <xg>
+               <x>I skyggefulle skråninger blåner blåbær.</x>
+               <xt>Itkkusis vilttiin alihastet sarridat.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pro-samisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">sábmái</t>
          </tg>
       </mg>
    </e>
@@ -8684,6 +8754,12 @@
             <t pos="N">fávru</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>anse noe for vakkert</re>
+            <t pos="V">čáppášit</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -9897,6 +9973,12 @@
          <tg xml:lang="sme">
             <re>bli stødig</re>
             <t pos="V">stáđásmuvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om båt og pulk</re>
+            <t pos="V">duollat</t>
          </tg>
       </mg>
    </e>
@@ -13035,6 +13117,16 @@
    </e>
    <e>
       <lg>
+         <l pos="A">spak</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">loaččis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">fiskefattig</l>
       </lg>
       <mg>
@@ -13046,6 +13138,12 @@
          <tg xml:lang="sme">
             <re>bli fiskefattig</re>
             <t pos="V">guolehuvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>tømme for fisk</re>
+            <t pos="V">guolehuhttit</t>
          </tg>
       </mg>
    </e>
@@ -14724,7 +14822,7 @@
       </mg>
     <mg>
       <tg xml:lang="sme">
-	      <re>om tynn is på vann</re>
+	      <re>tining av tynn is på vann</re>
         <t pos="V">nálget</t>
         <xg>
           <x>Jávri spildu ihkku, muhto beaivvi ala sáhttá nálget.</x>
@@ -15581,6 +15679,23 @@
             <t pos="V">jierásmuvvat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>være engstelig</re>
+            <t pos="V">árggástallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">forherdet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	        <re>bli forherdet</re> 
+            <t pos="A">ruovddástuvvat</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15776,10 +15891,40 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">giehtagievra</t>
+            <t pos="A">giehtaráhpat</t>
             <xg>
                <x>Jenta var så armsterk at hun staka av sted med kraft og gled langt.</x>
                <xt>Nieida lei nu giehtagievra ahte son čuoibmulii fámuin ja čeasai guhkás.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">dement</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli dement</re>
+            <t pos="V">hovkkiidit</t>
+            <t pos="V">hovkkehuvvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">forbauset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bli forbauset</re>
+            <t pos="V">heammástuvvat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>gi uttrykk for forbauselse</re>
+            <t pos="V">vuovgit</t>
          </tg>
       </mg>
    </e>
@@ -20631,6 +20776,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">eahpideaddji</t>
+            <t pos="A">eahpidahkes</t>
          </tg>
       </mg>
    </e>
