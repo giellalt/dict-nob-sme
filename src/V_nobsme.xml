@@ -47,7 +47,7 @@
             <re>vær! bydeform</re>
             <t pos="V">orrut</t>
             <xg>
-               <x>Vær stille! (til en person)</x>
+               <x>Vær stille! (til én person)</x>
                <xt>Oro jaska!</xt>
             </xg>
             <xg>
@@ -9773,8 +9773,12 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>fremføre</re>
+            <re>framføre, arrangere</re>
             <t pos="V" src="fad">doallat</t>
+            <xg>
+               <x>Mii holder kurs for ungdom og barn.</x>
+               <xt>Mii doallat kurssaid nuoraide ja mánáide.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -9785,17 +9789,21 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>litt</re>
-            <t pos="V" src="fad">dollet</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>opprettholde; holde ved</re>
             <t pos="V" src="fad">doalahit</t>
             <xg>
                <x>Per prøver å holde hunden i ro.</x>
                <xt>Biera geahččala doalahit beatnaga jaska.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>holde på med å gjøre noe</re>
+            <t type="grammar" href="https://oahpa.no/sme/gramm/verb.nob.html#Aktio+essiv">Bruk aktio essiv</t>          
+            <xg>
+               <x>Iŋgá holder på å sy kofte.</x>
+               <xt>Iŋgá lea goarrume gávtti.</xt>
             </xg>
          </tg>
       </mg>
@@ -9824,7 +9832,7 @@
       </mg>
     <ig>
       <i>Hold opp!</i>
-      <it>Heitte eret! (til en person)</it>
+      <it>Heitte eret! (til én person)</it>
     </ig>
    </e>
    <e>
@@ -15777,7 +15785,7 @@
          <tg xml:lang="sme">
 	        <re>å ha noe</re>
             <t pos="V">leat</t>
-            <t type="grammar" href="https://oahpa.no/sme/gramm/verb.nob.html#Leat-verbet">les mer i grammatikken</t>          
+            <t type="grammar" href="https://oahpa.no/sme/gramm/verb.nob.html#Leat-verbet">Les i grammatikken</t>          
             <xg>
                <x>Jeg har en bil.</x>
                <xt>Mus lea biila.</xt>
@@ -15796,7 +15804,7 @@
          <tg xml:lang="sme">
 	        <re>å ha gjort noe, (hjelpeverb)</re>
             <t pos="V">leat</t>
-            <t type="grammar" href="https://oahpa.no/sme/gramm/verb.nob.html#Leat-verbet">les mer i grammatikken</t>    
+            <t type="grammar" href="https://oahpa.no/sme/gramm/verb.nob.html#Leat-verbet">Les i grammatikken</t>    
             <xg>
                <x>Jeg har kjøpt bil.</x>
                <xt>Mun lean oastán biilla.</xt>
@@ -24850,7 +24858,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>bli noe (adjektiv), f.eks. bli eldre</re>
-          <t type="grammar" href="https://oahpa.no/sme/gramm/suorggideapmi.nob.html#%C3%85+bli+noe%3A+fra+nomen+til+verb">bruk verbavledning, se i grammatikken eller på adjektivet i ordboka</t>
+          <t type="grammar" href="https://oahpa.no/sme/gramm/suorggideapmi.nob.html#%C3%85+bli+noe%3A+fra+nomen+til+verb">Bruk verbavledning. Se i grammatikken eller på adjektivet i ordboka</t>
             <xg>
                <x>Man blir eldre dag for dag.</x>
                <xt>Olmmoš boarásmuvvá beaivvis beaivái.</xt>
@@ -24860,7 +24868,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>passivt verb, f.eks. bli valgt</re>
-          <t type="grammar" href="https://oahpa.no/sme/gramm/suorggideapmi.nob.html#-%28j%29uvvot">bruk verbavledning -(o)(j)uvvot, les i grammatikken</t>
+          <t type="grammar" href="https://oahpa.no/sme/gramm/suorggideapmi.nob.html#-%28j%29uvvot">Bruk verbavledning -(o)(j)uvvot. Les i grammatikken</t>
             <xg>
                <x>Jeg ble valgt inn i kommunestyret.</x>
                <xt>Válljejuvvojin gielddastivrii.</xt>
