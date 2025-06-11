@@ -4987,7 +4987,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A" src="fad" type="NomAg">buohcci</t>
+            <t pos="A" src="fad">buohcci</t>
             <t pos="A" src="fad">buozas</t>
             <xg>
                <x>Han er dessverre syk.</x>
@@ -6722,6 +6722,130 @@
                <x>Vannet hadde gjort skoene hennes våte.</x>
                <xt>Čáhci lei njuoskadan su skuovaid.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">samfunnsinteressert</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">servodatberošteaddji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sakkyndig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg">áššedovdi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">meldepliktig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">dieđihangeatnegahtti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">medvirkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">oasálaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lovkyndig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg">láhkadovdi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">innkallingsansvarlig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg">gohččunovddasvástideaddji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">forbikjørende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg">meaddelvuoddji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">folkerettssakkyndig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="NomAg">álbmotriekteáššedovdi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">stemmeberettiget</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">jienastanvuoigatvuođalaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tillitsvalgt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">luohttámušolmmoš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">fastboende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">dálon</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">blikkstille</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">vuodjagoalki</t>
+        <xg>
+          <x>Vannskorpa glinser blikkstille og slett som et speil.</x>
+          <xt>Čáhcegiera šoavvu vuodjagoalkin ja šalladin dego speajal.</xt>
+        </xg>
          </tg>
       </mg>
    </e>
@@ -12624,6 +12748,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">erenoamáš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>noe ekstra</re>
+            <t pos="N">liigi</t>
          </tg>
       </mg>
    </e>
@@ -22698,6 +22828,20 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+         <re>om mennesker</re>
+            <t pos="N">moattis</t>
+            <xg>
+               <x>Det er skremmende at så få bruker bilbelte.</x>
+               <xt>Lea suorggahahtti go nu moattis geavahit biilaboahkána.</xt>
+            </xg>
+            <xg>
+               <x>Bare veldig få har duodji som hovednæring.</x>
+               <xt>Dušše hui moaddásis lea duodji váldoealáhussan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>færre</re>
             <t pos="A">unnit</t>
             <xg>
@@ -22745,6 +22889,20 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">dábálaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">slags</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">lágan</t>
+            <xg>
+               <x>Jeg liker all slags musikk.</x>
+               <xt>Liikon juohke lágan musihkkii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
