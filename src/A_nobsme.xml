@@ -5068,6 +5068,22 @@
             <t pos="A">beallešattot</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>halvvoksen gutt</re>
+            <t pos="N">bárehuoš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">spøkefull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">leaikái</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -15793,6 +15809,51 @@
    </e>
    <e>
       <lg>
+         <l pos="A">spiss</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>spiss ting</re>
+            <t pos="N">cuipi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lattervekkende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>lattervekkende ting eller person</re>
+            <t pos="N">bogostat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">glødende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>glødende vedstykke</re>
+            <t pos="N">áššu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bærbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>bærbar datamaskin</re>
+            <t pos="N">mátkedihtor</t>
+            <t pos="N">askedihtor</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">fruktsommelig</l>
       </lg>
       <mg>
@@ -17691,11 +17752,49 @@
    </e>
    <e>
       <lg>
+         <l pos="A">alfabetisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">alfabehtalaš</t>
+            <xg>
+               <x>alfabetisk rekkefølge</x>
+               <xt>alfabehtalaš ortnet</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">tilstrekkelig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">doarvái</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>tilstrekkelig mengde</re>
+            <t pos="N">doarvi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tilkommende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">-sássa</t>
+            <xg>
+               <x>tilkommende svigersønn</x>
+               <xt>vivvasássa</xt>
+            </xg>
+            <xg>
+               <x>tilkommende svigerdatter</x>
+               <xt>mannjesássa</xt>
+            </xg>
          </tg>
       </mg>
    </e>
