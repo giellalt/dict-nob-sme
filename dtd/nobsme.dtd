@@ -62,7 +62,7 @@ src CDATA #IMPLIED
 type ( NomAg | G3 | G7 | grammar | Prfprc | Prsprc | Indef | Rel | Refl | Recipr | Interr | Pers | Dem | Prop ) #IMPLIED
 alt_str CDATA #IMPLIED
 nr ( Sg | Du | Pl ) #IMPLIED
-dial ( east | west ) #IMPLIED
+dial ( east | west | torne | varanger ) #IMPLIED
 href CDATA #IMPLIED
 >
 
