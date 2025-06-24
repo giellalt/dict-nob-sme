@@ -18,27 +18,20 @@ id ( nobsme ) #IMPLIED
 <!ELEMENT e  ( lg, mg+, ig* )>
 <!ATTLIST e
 src CDATA #IMPLIED
-usage CDATA #IMPLIED
-mg_c CDATA #IMPLIED
 note CDATA #IMPLIED
 >
 
-<!ELEMENT lg  ( l , lsub? )>
+<!ELEMENT lg  ( l )>
 
 <!ELEMENT l  ( #PCDATA )>
 <!ATTLIST l
-pos ( A | Abbr | Adv | CC | CS | Clt | Interj |
-      N | Num | Pcle | Po | Pr | Pron | Qu | V | Phrase | Det ) #REQUIRED 
+pos ( A | Abbr | Adv | CC | CS | Interj |
+      N | Num | Po | Pr | Pron | V | Phrase | Det ) #REQUIRED 
 alt_str CDATA #IMPLIED
-nr CDATA #IMPLIED
-type CDATA #IMPLIED
+nr ( Pl ) #IMPLIED
+type ( Prop | Indef | Recipr | Pers | Refl | Dem | Poss | Rel | Interr ) #IMPLIED 
 orig_entry CDATA #IMPLIED
 til_ref CDATA #IMPLIED
->
-
-<!ELEMENT lsub  ( #PCDATA )>
-<!ATTLIST lsub
-pos CDATA #REQUIRED
 >
 
 <!ELEMENT mg  ( l_ref?, re? , tg+ )>
@@ -62,21 +55,16 @@ fra_ref CDATA #IMPLIED
 
 <!ELEMENT t  ( #PCDATA )>
 <!ATTLIST t
-pos CDATA #IMPLIED
-t_type CDATA #IMPLIED
-usage CDATA #IMPLIED
+pos ( A | N | V | Adv | Po | Pr | Pron | Rel |  Det | Interj | Pcle |
+            Num | CC | CS | Phrase | fp-cmp ) #IMPLIED
+t_type ( expl | grammarexpl ) #IMPLIED  
 src CDATA #IMPLIED
-type CDATA #IMPLIED
+type ( NomAg | G3 | G7 | grammar | Prfprc | Prsprc | Indef | Rel | Refl | Recipr | Interr | Pers | Dem | Prop ) #IMPLIED
 alt_str CDATA #IMPLIED
-nr CDATA #IMPLIED
-dial CDATA #IMPLIED
-illpl CDATA #IMPLIED
+nr ( Sg | Du | Pl ) #IMPLIED
+dial ( east | west ) #IMPLIED
 href CDATA #IMPLIED
-freq CDATA #IMPLIED
-pers CDATA #IMPLIED
-mod CDATA #IMPLIED
 >
-<!ATTLIST t re CDATA #IMPLIED>
 
 <!ELEMENT xg  ( re? , x , xt )>
 
