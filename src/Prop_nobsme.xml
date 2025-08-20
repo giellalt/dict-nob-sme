@@ -48,7 +48,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Báhčáveaji álbmotmeahcci</t>
+            <t pos="N" type="Prop">Báhčaveaji álbmotmeahcci</t>
          </tg>
       </mg>
    </e>
@@ -178,6 +178,11 @@
             <t pos="N" type="Prop" nr="Pl">Riimmat</t>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Berlevåg" type="Prop" nr="Pl">Struhppu</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -195,7 +200,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Dálmmát</t>
+            <t pos="N" type="Prop" nr="Pl">Dálmmat</t>
          </tg>
       </mg>
    </e>
@@ -379,7 +384,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Áhtávuotna</t>
+            <t pos="N" type="Prop">Átavuotna</t>
          </tg>
       </mg>
    </e>
@@ -429,17 +434,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Áravuopmi</t>
+            <t pos="N" reg="Narvik" type="Prop" src="PS_SA">Áravuopmi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Áravággi</t>
+            <t pos="N" reg="Narvik" type="Prop" src="PS_SA">Áravággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Čáhcevággi</t>
+            <t pos="N" reg="Balsfjord, Storfjord" type="Prop" src="PS_SA">Čáhcevággi</t>
          </tg>
       </mg>
    </e>
@@ -514,7 +519,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Ávva</t>
+            <t pos="N" type="Prop">Ávvá</t>
          </tg>
       </mg>
    </e>
@@ -644,7 +649,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Čáhppesnjárga</t>
+            <t pos="N" reg="Berlevåg, Karlsøy" type="Prop">Čáhppesnjárga</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Balsfjord" type="Prop">Spearronjárga</t>
          </tg>
       </mg>
    </e>
@@ -674,7 +684,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Čiekŋalvággi</t>
+            <t pos="N" type="Prop">Čiekŋalvuovdi</t>
          </tg>
       </mg>
    </e>
@@ -695,6 +705,11 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="Prop">Čorgaš</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" type="Prop">Gidni</t>
          </tg>
       </mg>
    </e>
@@ -784,7 +799,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Eaibuvággi</t>
+            <t pos="N" type="Prop">Eaiboávži</t>
          </tg>
       </mg>
    </e>
@@ -839,7 +854,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Fiškonjárga</t>
+            <t pos="N" reg="Tana" type="Prop">Fiškonjárga</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Nesseby" type="Prop">Oaggunnjárga</t>
          </tg>
       </mg>
    </e>
@@ -859,7 +879,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Fuoitnjárga</t>
+            <t pos="N" type="Prop">Fuoiknjárga</t>
          </tg>
       </mg>
    </e>
@@ -999,7 +1019,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Guitanas</t>
+            <t pos="N" reg="Berlevåg" type="Prop">Guittanas</t>
          </tg>
       </mg>
    </e>
@@ -1074,6 +1094,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="N" type="Prop">Gállafierda</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="N" type="Prop">Iggavuotna</t>
          </tg>
       </mg>
@@ -1129,7 +1154,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Ivgubahta</t>
+            <t pos="N" type="Prop">Ivgobahta</t>
          </tg>
       </mg>
    </e>
@@ -1259,7 +1284,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Leaibbášvággi</t>
+            <t pos="N" reg="Alta, Hammerfest" type="Prop">Leaibeluovta</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Lebesby" type="Prop">Leaibbášveadji</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Tromsø" type="Prop">Leaibbáš</t>
          </tg>
       </mg>
    </e>
@@ -1279,7 +1314,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Leaŋgáviika</t>
+            <t pos="N" type="Prop">Leaŋgaviika</t>
          </tg>
       </mg>
    </e>
@@ -1432,7 +1467,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Njeareveadji</t>
+            <t pos="N" type="Prop">Njereveadji</t>
          </tg>
       </mg>
    </e>
@@ -1543,7 +1578,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Ráidná</t>
+            <t pos="N" reg="Karlsøy" type="Prop">Ráidna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Måsøy" type="Prop">Reainnát</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Porsanger" type="Prop">Vasis</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Sør-Varanger" type="Prop">Ođag</t>
          </tg>
       </mg>
    </e>
@@ -1573,7 +1623,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop">Rávdá</t>
+            <t pos="N" reg="Kvænangen" type="Prop">Rávddá</t>
          </tg>
       </mg>
    </e>
@@ -1693,7 +1743,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sáltesávju</t>
+            <t pos="N" reg="Nordreisa" type="Prop" src="SK">Gárgu</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Måsøy" type="Prop" src="SK">Ávenjárga</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Lebesby" type="Prop" src="SK">Geassenjárga</t>
          </tg>
       </mg>
    </e>
@@ -2394,7 +2454,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bievllavuotna</t>
+            <t pos="N" type="Prop" src="SK">Bievllavuonna</t>
          </tg>
       </mg>
    </e>
@@ -2454,7 +2514,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Senja/Hammerfest" type="Prop" src="SK">Boazovággi</t>
+            <t pos="N" reg="Senja, Hammerfest" type="Prop" src="SK">Boazovággi</t>
          </tg>
       </mg>
       <mg>
@@ -2609,7 +2669,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhčaveaivuotna</t>
+            <t pos="N" type="Prop" src="SK">Báhčaveajvuonna</t>
          </tg>
       </mg>
    </e>
@@ -2619,7 +2679,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhčaveaivuotna</t>
+            <t pos="N" type="Prop" src="SK">Báhčaveajvuonna</t>
          </tg>
       </mg>
    </e>
@@ -2719,8 +2779,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>i Storfjord</re>
-            <t pos="N" type="Prop" src="SK">Didnovággi</t>
+            <t pos="N" reg="Storfjord" type="Prop" src="SK">Didnovággi</t>
          </tg>
       </mg>
       <mg>
@@ -2730,8 +2789,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>i Bardu</re>
-            <t pos="N" type="Prop" src="SK">Stuoravággi</t>
+            <t pos="N" reg="Bardu" type="Prop" src="SK">Stuoravággi</t>
          </tg>
       </mg>
    </e>
@@ -2861,12 +2919,47 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Leaibevuonna</t>
+            <t pos="N" reg="Alta" type="Prop" src="SK">Leaibevuonna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dorskevuonna</t>
+            <t pos="N" reg="Kvænangen" type="Prop" src="SK">Dorskevuonna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Porsanger" type="Prop" src="SK">Leaibevuotna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Sortland" type="Prop" src="SK">Sulfierda</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N" type="Prop">Olderfjord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Alta" type="Prop" src="SK">Leaibevuonna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Kvænangen" type="Prop" src="SK">Dorskevuonna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Porsanger" type="Prop" src="SK">Leaibevuotna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Sortland" type="Prop" src="SK">Sulfierda</t>
          </tg>
       </mg>
    </e>
@@ -2916,7 +3009,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dáigevuonna</t>
+            <t pos="N" type="Prop" src="SK">Dáigevuotna</t>
          </tg>
       </mg>
    </e>
@@ -3571,7 +3664,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gáivuotna</t>
+            <t pos="N" reg="Troms" type="Prop" src="SK">Gáivuotna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Nordkapp" type="Prop" src="SK">Gávkevuotna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Alta" type="Prop" src="SK">Gávvuonna</t>
          </tg>
       </mg>
    </e>
@@ -3581,12 +3684,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gáivuotna</t>
+            <t pos="N" reg="Troms" type="Prop" src="SK">Gáivuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gávkevuotna</t>
+            <t pos="N" reg="Nordkapp" type="Prop" src="SK">Gávkevuotna</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N" reg="Alta" type="Prop" src="SK">Gávvuonna</t>
          </tg>
       </mg>
    </e>
@@ -3881,7 +3989,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Jiehkervuotna</t>
+            <t pos="N" type="Prop" src="SK">Jiehkervuonna</t>
+            <t pos="N" type="Prop" src="SK">Jiehkkervuonna</t>
          </tg>
       </mg>
    </e>
@@ -4007,16 +4116,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="Prop" src="SK">Veahčervuotna</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="N" type="Prop">Olderfjord</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Leaibevuonna</t>
          </tg>
       </mg>
    </e>
@@ -4176,12 +4275,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Miennavuonna</t>
+            <t pos="N" reg="Berlevåg" type="Prop" src="SK">Miennavuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rissevuotna</t>
+            <t pos="N" reg="Nordkapp" type="Prop" src="SK">Rissevuotna</t>
          </tg>
       </mg>
    </e>
@@ -4266,7 +4365,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Muotkevuonna</t>
+            <t pos="N" type="Prop" src="SK">Muotkevuotna</t>
          </tg>
       </mg>
    </e>
@@ -4391,7 +4490,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Njuorjjogohvággi</t>
+            <t pos="N" type="Prop" src="SK">Njuorjjogopvággi</t>
          </tg>
       </mg>
    </e>
@@ -4401,7 +4500,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Njávdánvuotna</t>
+            <t pos="N" type="Prop" src="SK">Njávdámvuonna</t>
          </tg>
       </mg>
    </e>
@@ -4411,7 +4510,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Njávdánvuotna</t>
+            <t pos="N" type="Prop" src="SK">Njávdámvuonna</t>
          </tg>
       </mg>
    </e>
@@ -4526,7 +4625,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Reaisavuotna</t>
+            <t pos="N" type="Prop" src="SK">Reaisvuonna</t>
          </tg>
       </mg>
    </e>
@@ -4536,7 +4635,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Reaššvuotna</t>
+            <t pos="N" type="Prop" src="SK">Reaššvuonna</t>
          </tg>
       </mg>
    </e>
@@ -4666,7 +4765,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rostavuotna</t>
+            <t pos="N" type="Prop" src="SK">Rostavuonna</t>
          </tg>
       </mg>
    </e>
@@ -4676,7 +4775,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruksesvuonna</t>
+            <t pos="N" type="Prop" src="SK">Ruksesvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5141,7 +5240,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sotnabeaivággi</t>
+            <t pos="N" reg="Kvænangen" type="Prop" src="SK">Sonnabeaivággi</t>
          </tg>
       </mg>
    </e>
@@ -5241,7 +5340,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stuorvihvággi</t>
+            <t pos="N" type="Prop" src="SK">Stuorvikvággi</t>
          </tg>
       </mg>
    </e>
@@ -5326,7 +5425,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sáitevuotna</t>
+            <t pos="N" type="Prop" src="SK">Sáitevuonna</t>
          </tg>
       </mg>
    </e>
@@ -5481,7 +5580,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vieravuonna</t>
+            <t pos="N" type="Prop" src="SK">Vieravuotna</t>
          </tg>
       </mg>
    </e>
@@ -5551,7 +5650,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuođđavuotna</t>
+            <t pos="N" type="Prop" src="SK">Vuođavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5631,7 +5730,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ákŋovuotna</t>
+            <t pos="N" type="Prop" src="SK">Ákŋovuonna</t>
          </tg>
       </mg>
    </e>
@@ -6706,7 +6805,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="ps">Ivgumuotki</t>
+            <t pos="N" type="Prop" src="ps">Ivgomuotki</t>
          </tg>
       </mg>
    </e>
@@ -6716,7 +6815,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Ihkkot</t>
+            <t pos="N" type="Prop" nr="Pl">Ihkkok</t>
          </tg>
       </mg>
    </e>
@@ -6746,7 +6845,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Badje-Riebevággi</t>
+            <t pos="N" reg="Tjeldsund" type="Prop" src="SK">Badje-Rebevággi</t>
          </tg>
       </mg>
    </e>
@@ -6826,7 +6925,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Civzzavuonna</t>
+            <t pos="N" type="Prop" src="SK">Civzzavuotna</t>
          </tg>
       </mg>
    </e>
