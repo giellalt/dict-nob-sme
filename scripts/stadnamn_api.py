@@ -78,6 +78,8 @@ def parse_xml(filename: str, strict: bool):
     root = tree.getroot()
     for e in root:
         l = e.find("lg/l")
+        if l is None:
+            continue
         ssr_trans = get_approved_translations(l.text, to_iso)
         if len(ssr_trans) > 0:
             dict_trans = get_dict_translations(e)
