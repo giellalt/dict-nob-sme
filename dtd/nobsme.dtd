@@ -64,6 +64,7 @@ alt_str CDATA #IMPLIED
 nr ( Sg | Du | Pl ) #IMPLIED
 dial ( east | west | torne | varanger ) #IMPLIED
 href CDATA #IMPLIED
+reg CDATA #IMPLIED 
 >
 
 <!ELEMENT xg  ( re? , x , xt )>
