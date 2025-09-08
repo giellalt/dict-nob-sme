@@ -7701,12 +7701,43 @@
             <t pos="V" src="fad">čavget</t>
          </tg>
       </mg>
-    <mg>
-      <tg xml:lang="sme">
-	      <re>bli spent</re>
-        <t pos="V">čavgat</t>
-      </tg>
-    </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli spent</re>
+            <t pos="V">čavgat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med hendene</re>
+            <t pos="V">gealdit</t>
+            <xg>
+               <x>Ánte spenner buen.</x>
+               <xt>Ánte gealdá dávggi.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="V">spenne</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>sparke, flere ganger</re>
+            <t pos="V">čiekčat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>sparke, en gang</re>
+            <t pos="V">čievččastit</t>
+            <xg>
+               <x>Ánte spente døra opp.</x>
+               <xt>Ánte čievččastii uvssa rabas.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -21009,37 +21040,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">geaigát</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">spenne</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>flere ganger</re>
-            <t pos="V">čiekčat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>en gang</re>
-            <t pos="V">čievččastit</t>
-            <xg>
-               <x>Ánte spente døra opp.</x>
-               <xt>Ánte čievččastii uvssa rabas.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>med hendene</re>
-            <t pos="V">gealdit</t>
-            <xg>
-               <x>Ánte spenner buen.</x>
-               <xt>Ánte gealdá dávggi.</xt>
-            </xg>
          </tg>
       </mg>
    </e>
