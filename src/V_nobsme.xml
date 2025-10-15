@@ -11635,7 +11635,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>spasere</re>
+            <re>til fots, spasere</re>
             <t pos="V" src="fad">vázzit</t>
             <xg>
                <x>I dag går jeg fort til jobb, fordi jeg har det travelt.</x>
@@ -11645,6 +11645,43 @@
                <x>Langs denne veien går det mange barn og unge.</x>
                <xt>Dán luotta mielde vázzet olu mánát ja nuorat.</xt>
             </xg>
+            <xg>
+               <x>Gå hjem!</x>
+               <xt>Mana ruoktot!</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>begynne å gå til fots</re>
+            <t pos="V">vázzilit</t>
+            <t pos="V">vázzát</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>gå på rad og rekke</re>
+            <t pos="V">gurgalit</t>
+            <t pos="V">gurggistit</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>gå sakte, om firbeinte dyr</re>
+            <t pos="V">oahkut</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>gå på ski</re>
+            <t pos="V">čuoigat</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>gå på skøyter</re>
+            <t pos="V">luistet</t>
+            <t pos="V">skeittástallat</t>
          </tg>
       </mg>
       <mg>
@@ -11659,12 +11696,14 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>fare, passere</re>
+          <re>gå seg vill</re>
+            <t pos="V">láhppot</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>passere</re>
             <t pos="V" src="fad">mannat</t>
-            <xg>
-               <x>Gå hjem!</x>
-               <xt>Mana ruoktot!</xt>
-            </xg>
             <xg>
                <x>Veien går forbi både skolen og ungdomsklubben.</x>
                <xt>Luodda manná sihke skuvlla ja nuoraidklubba meaddel.</xt>
@@ -11745,28 +11784,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>begynne å gå</re>
-            <t pos="V">vázzilit</t>
-            <t pos="V">vázzát</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>gå i mot</re>
             <t pos="V">vuostálastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>gå på ski</re>
-            <t pos="V">čuoigat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>gå på skøyter</re>
-            <t pos="V">luistet</t>
-            <t pos="V">skeittástallat</t>
          </tg>
       </mg>
       <mg>
@@ -11778,19 +11797,6 @@
                <x>Sola gikk ned.</x>
                <xt>Beaivváš luoitádii.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>gå på rad og rekke</re>
-            <t pos="V">gurgalit</t>
-            <t pos="V">gurggistit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>gå sakte, om firbeinte dyr</re>
-            <t pos="V">oahkut</t>
          </tg>
       </mg>
       <mg>
@@ -11840,12 +11846,6 @@
          <tg xml:lang="sme">
           <re>gå ledig</re>
            <t pos="V">joavdelastit</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-          <re>gå seg vill</re>
-            <t pos="V">láhppot</t>
          </tg>
       </mg>
    </e>
