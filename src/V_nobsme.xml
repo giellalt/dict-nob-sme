@@ -35526,12 +35526,11 @@
             <t pos="V">molsašuddat</t>
             <t pos="V">molsašuvvat</t>
             <t pos="V">rievddadallat</t>
-            <t pos="V">rievddadit</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-          <re>transitiv: variere noe</re>
+          <re>transitiv: å variere noe</re>
             <t pos="V">rievdadallat</t>
             <xg>
                <x>Disse læremidlene kan man variere og tilpasse.</x>
@@ -39799,14 +39798,39 @@
    </e>
    <e src="nfl_201402">
       <lg>
-         <l pos="V">kose seg</l>
+         <l pos="V">kose</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="V">naffát</t>
+	         <re>kose seg, i selskap med andre</re>
+            <t pos="V">hávskohallat</t>
             <xg>
-               <x>Guttene har vært på den amerikanske kysten og bare kost seg der.</x>
-               <xt>Gánddat leat fitnan Amerihká rittus, gos sii leat dušše naffán.</xt>
+               <x>De koste seg sammen med de andre.</x>
+               <xt>Sii hávskohalle earáiguin fárrolaga.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>kose seg, nyte</re>
+            <t pos="V">návddašit</t>
+            <xg>
+               <x>De to koser seg med god mat.</x>
+               <xt>Soai návddašeaba njálgga biepmu.</xt>
+            </xg>
+            <xg>
+               <x>Jeg koste meg på turen.</x>
+               <xt>Mun návddašin leahkit reaissus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>kose seg med god mat</re>
+            <t pos="V">herskostallat</t>
+            <xg>
+               <x>Nå skal vi kose oss med god mat!</x>
+               <xt>Dál áigo herskostallat!</xt>
             </xg>
          </tg>
       </mg>
@@ -39817,6 +39841,16 @@
             <xg>
                <x>De koser seg på festivalen i solskinnet.</x>
                <xt>Sii njabbájit festiválas beaivvadahkan.</xt>
+            </xg>
+         </tg>
+      </mg>
+       <mg>
+         <tg xml:lang="sme">
+	         <re>kose med noen</re>
+            <t pos="V">ráhkástallat</t>
+            <xg>
+               <x>Hun koste med lillesøster.</x>
+               <xt>Son ráhkástalai uhcaoappáža.</xt>
             </xg>
          </tg>
       </mg>
