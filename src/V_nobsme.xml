@@ -2185,40 +2185,96 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="fad">nohkkat</t>
+            <xg>
+               <x>Máhtte sovna på golvet.</x>
+               <xt>Máhtte nohkai láhttái.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">sove</l>
+         <l pos="V">sove </l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="V" src="fad">oađđit</t>
+            <xg>
+               <x>Jentene sover på loftet.</x>
+               <xt>Nieiddat ođđet lovttas.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+       <l_ref>sovne_v</l_ref>
+         <tg xml:lang="sme">
+	         <re>sovne, men i tornesamisk dialekt også å sove</re>
+            <t pos="V">nohkkat</t>
+            <xg>
+               <x>Jentene sover på loftet.</x>
+               <xt>Nieiddat nohkket lovttas.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>blunde</re>
+            <t pos="V">nohkastit</t>
+            <xg>
+               <x>Jeg vil sove litt før middag.</x>
+               <xt>Háliidan nohkastit ovdal mállásiid.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>sove godt</re>
             <t pos="V">oađašit</t>
+            <xg>
+               <x>Mannen sov på kirkegården etter å ha vært på fest.</x>
+               <xt>Almmái lei girkogárddis oađašeamen maŋŋel go lei leamaš feasttas.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>sove urolig</re>
-            <t pos="V">čáráhallat</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>overnatte</re>
-            <t pos="V" src="fad">ijastallat</t>
+            <re>sove lenge og vel</re>
+            <t pos="V">oađástallat</t>
+            <t pos="V">oađđáladdat</t>
+            <xg>
+               <x>Jeg hadde tenkt å sove lenge den morgenen, men i sjutida allerede var det noen som joiket utafor vinduet mitt.</x>
+               <xt>Ledjen jurddašan oađđáladdat duon iđeda, muhto čieža áigge lei juo olmmoš juoigamin mu glása olggobealde.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>ville sove</re>
             <t pos="V">oađestuvvat</t>
+            <xg>
+               <x>Joavnna ville sove i skoletimen.</x>
+               <xt>Joavnna lei oađestuvvamin skuvladiimmus.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>overnatte</re>
+            <t pos="V" src="fad">ijastallat</t>
+            <xg>
+               <x>Vi kan sove i goahti.</x>
+               <xt>Mii sáhttit ijastallat goađis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>dovne bort</re>
+            <t pos="V">čerggiidit</t>
+            <xg>
+               <x>Foten min sover.</x>
+               <xt>Mu juolgi lea čerggiidan.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
