@@ -3458,7 +3458,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>som attributt</re>
+            <re>om en egenskap</re>
             <t pos="A" src="fad">movttet</t>
             <t pos="A" src="fad">ilolaš</t>
             <xg>
@@ -3469,14 +3469,16 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>som predikativ</re>
-            <t pos="A" src="fad">movttet</t>
-            <t pos="A" src="fad">ilolaš</t>
+            <re>om en tilstand</re>
             <t pos="Adv">buoremielas</t>
             <t pos="Adv">ilus</t>
             <xg>
                <x>Jeg er glad.</x>
                <xt>Mun lean buoremielas.</xt>
+            </xg>
+            <xg>
+               <x>Nå er jeg glad.</x>
+               <xt>Dál mun lean ilus.</xt>
             </xg>
          </tg>
       </mg>
@@ -3503,9 +3505,14 @@
             <re>være glad i noen</re>
             <t pos="V">ráhkistit</t>
             <t pos="A">buorre</t>
+            <t pos="A">ráhkis</t>
             <xg>
                <x>Jeg er glad i deg.</x>
-               <xt>Ráhkistan du.</xt>
+               <xt>Mun ráhkistan du.</xt>
+            </xg>
+            <xg>
+               <x>Jeg er glad i deg.</x>
+               <xt>Mun lean ráhkis dutnje.</xt>
             </xg>
             <xg>
                <x>Jeg er glad i deg.</x>
@@ -7207,6 +7214,18 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">ráhkis</t>
+            <xg>
+               <x>Det er et kjært bilde..</x>
+               <xt>Dat lea ráhkis gova.</xt>
+            </xg>
+            <xg>
+               <x>Den boka er meg kjær.</x>
+               <xt>Dat girji lea mus ráhkis.</xt>
+            </xg>
+            <xg>
+               <x>Det er godt å være på den kjære jorda.</x>
+               <xt>Ráhkis eatnamis lea buorre orrut.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
