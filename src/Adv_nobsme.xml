@@ -3455,21 +3455,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>om tid</re>
-            <t pos="Adv">vel</t>
-            <xg>
-               <x>Mor har ikke kommet enda.</x>
-               <xt>Eadni ii leat vel boahtán.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>brukes foran komparativ</re>
             <t pos="Adv">ain</t>
             <xg>
                <x>Vi skal tilby en enda bedre avis til dere.</x>
                <xt>Mii áigut fállat ain buoret aviissa didjiide.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+	         <l_ref>ennå_adv</l_ref>
+         <tg xml:lang="sme">
+            <re>om tid</re>
+            <t pos="Adv">vel</t>
+            <xg>
+               <x>Mor har ikke kommet enda.</x>
+               <xt>Eadni ii leat vel boahtán.</xt>
             </xg>
          </tg>
       </mg>
@@ -3479,6 +3480,7 @@
          <l pos="Adv">ennå</l>
       </lg>
       <mg>
+	         <l_ref>enda_adv</l_ref>
          <tg xml:lang="sme">
             <re>fremdeles på det tidspunktet</re>
             <t pos="Adv">ain</t>
@@ -3486,12 +3488,6 @@
                <x>Hun er ennå der.</x>
                <xt>Son lea ain dáppe.</xt>
             </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>allerede</re>
-            <t pos="Adv">vuos</t>
          </tg>
       </mg>
    </e>
@@ -6419,15 +6415,28 @@
    </e>
    <e>
       <lg>
+         <l pos="Adv">fortsatt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">ain</t>
+            <xg>
+               <x>Mun lean ain čállime.</x>
+               <xt>Jeg skriver fortsatt.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">fremdeles</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Adv">velá</t>
-            <t pos="Po">bále</t>
+            <t pos="Adv">ain</t>
             <xg>
-               <x>Det er viktig å samle reindriftstermer mens det fremdeles fins reindriftssamer som kan dem.</x>
-               <xt>Lea dehálaš čohkket boazodoallotearpmaid, dan bále go ain gávdnojit boazosámit geat máhttet dáid.</xt>
+               <x>Mun lean ain čállime.</x>
+               <xt>Jeg skriver fremdeles.</xt>
             </xg>
          </tg>
       </mg>
