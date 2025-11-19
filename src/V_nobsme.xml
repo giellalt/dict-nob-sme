@@ -12693,10 +12693,34 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>forbli, vedvare</re>
-            <t pos="V" src="fad">joatkit</t>
+            <re>intransitivt: forbli, vedvare</re>
             <t pos="V" src="fad">bissut</t>
+             <t pos="V" src="fad">joatkit</t>
+            <xg>
+               <x>bivvalat jotket</x>
+               <xt>mildværet fortsetter</xt>
+            </xg>
+        </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>transitivt</re>
+            <t pos="V" src="fad">joatkit</t>
+            <xg>
+               <x>fortsette reisa</x>
+               <xt>joatkit mátkki</xt>
+            </xg>
          </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>intransitivt: bestå, forbli</re>
+            <t pos="V" src="fad">bissut</t>
+            <xg>
+               <x>Støtten fortsetter på samme nivå.</x>
+               <xt>Doarjja bissu seammá dásis.</xt>
+            </xg>
+        </tg>
       </mg>
    </e>
    <e>
@@ -18276,6 +18300,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">bissut</t>
+            <xg>
+               <x>Støtten forblir på samme nivå.</x>
+               <xt>Doarjja bissu seammá dásis.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
