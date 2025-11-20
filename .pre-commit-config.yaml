@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: xmllint
+        name: run xmllint --valid
+        entry: .githooks/pre-commit-xmllint-validate.py
+        language: python
+        files: '^src/.*xml$'
+        exclude: '^src/meta\.xml$'
