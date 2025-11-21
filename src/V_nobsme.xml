@@ -4847,11 +4847,11 @@
             <re>ufrivillig</re>
             <t pos="V" src="fad">ribahit</t>
             <xg>
-               <x>I går kveld mistet jeg å sove og ble derfor ikke å komme.</x>
+               <x>I går kveld kom jeg til å sove og ble derfor ikke å komme.</x>
                <xt>Ikte eahkes mun ribahin nohkkat, inge šaddan boahtit.</xt>
             </xg>
             <xg>
-               <x>Elle mistet å le i kirka.</x>
+               <x>Elle kom til å le i kirka.</x>
                <xt>Elle ribahii boagustit girkus.</xt>
             </xg>
          </tg>
@@ -10561,26 +10561,6 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>komme til å: om fremtid</re>
-            <t pos="V">šaddat</t>
-            <xg>
-               <x>Jeg kommer til å dra.</x>
-               <xt>Mun šattan vuolgit.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>komme til å: kanskje</re>
-            <t pos="V">soaitit</t>
-            <xg>
-               <x>Jeg kommer kanskje til å dra.</x>
-               <xt>Mun soaittán vuolgit.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
             <re>ankomme</re>
             <t pos="V" src="fad">ollet</t>
             <t pos="V" src="fad">joavdat</t>
@@ -10596,13 +10576,17 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>komme inn</re>
+            <re>komme seg inn eller til</re>
             <t pos="V">beassat</t>
             <xg>
                <x>Jeg kom meg inn på universitetet.</x>
                <xt>Mun bessen universitehtii.</xt>
             </xg>
-         </tg>
+             <xg>
+               <x>Jeg kom meg ikke til i nærheten av døra engang.</x>
+               <xt>In beassan lahka ge uvssa.</xt>
+            </xg>
+        </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
@@ -10621,6 +10605,26 @@
             <xg>
                <x>Tekstene kommer snart ut som bok.</x>
                <xt>Čállosat ilbmet fargga girjin.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>komme til å: om fremtid</re>
+            <t pos="V">šaddat</t>
+            <xg>
+               <x>Jeg kommer til å dra.</x>
+               <xt>Mun šattan vuolgit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>komme til å: kanskje</re>
+            <t pos="V">soaitit</t>
+            <xg>
+               <x>Jeg kommer kanskje til å dra.</x>
+               <xt>Mun soaittán vuolgit.</xt>
             </xg>
          </tg>
       </mg>
@@ -18122,20 +18126,6 @@
             <t pos="V">beassat</t>
             <xg>
                <x>Jeg slapp ikke til i nærheten av døra engang.</x>
-               <xt>In beassan lahka ge uvssa.</xt>
-            </xg>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="Phrase">komme til</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">beassat</t>
-            <xg>
-               <x>Jeg kom meg ikke til i nærheten av døra engang.</x>
                <xt>In beassan lahka ge uvssa.</xt>
             </xg>
          </tg>
