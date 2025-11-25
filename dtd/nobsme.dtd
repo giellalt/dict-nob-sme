@@ -67,7 +67,7 @@ href CDATA #IMPLIED
 reg CDATA #IMPLIED 
 >
 
-<!ELEMENT xg  ( re? , x , xt )>
+<!ELEMENT xg  ( re? , x , xt* )>
 
 <!ELEMENT x  ( #PCDATA )>
 <!ATTLIST x

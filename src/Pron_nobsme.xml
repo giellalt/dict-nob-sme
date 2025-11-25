@@ -447,13 +447,7 @@
             <xg>
                <x>Vi får råd fra hverandre.</x>
                <xt>Mii oažžut rávvagiid guhtet guoimmisteamet.</xt>
-            </xg>
-            <xg>
-               <x>Vi får råd fra hverandre.</x>
                <xt>Mii oažžut rávvagiid guhtet guimmiineamet.</xt>
-            </xg>
-            <xg>
-               <x>Vi får råd fra hverandre.</x>
                <xt>Mii oažžut rávvagiid nuppit nuppiin.</xt>
             </xg>
          </tg>
@@ -467,13 +461,7 @@
             <xg>
                <x>Dere får råd fra hverandre.</x>
                <xt>Dii oažžubehtet rávvagiid guhtet guoimmisteattet.</xt>
-            </xg>
-            <xg>
-               <x>Dere får råd fra hverandre.</x>
                <xt>Dii oažžubehtet rávvagiid guhtet guimmiineattet.</xt>
-            </xg>
-            <xg>
-               <x>Dere får råd fra hverandre.</x>
                <xt>Dii oažžubehtet rávvagiid nuppit nuppiin.</xt>
             </xg>
          </tg>
@@ -487,13 +475,7 @@
             <xg>
                <x>De får råd fra hverandre.</x>
                <xt>Sii ožžot rávvagiid guhtet guoimmisteaset.</xt>
-            </xg>
-            <xg>
-               <x>De får råd fra hverandre.</x>
                <xt>Sii ožžot rávvagiid guhtet guimmiineaset.</xt>
-            </xg>
-            <xg>
-               <x>De får råd fra hverandre.</x>
                <xt>Sii ožžot rávvagiid nuppit nuppiin.</xt>
             </xg>
          </tg>
@@ -508,13 +490,12 @@
             <re>vi ... til hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoibmáseamet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiidasamet</t>
+            <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiide</t>
             <xg>
                <x>Vi forteller nytt til hverandre.</x>
                <xt>Mii muitalit ságaid guhtet guoibmáseamet.</xt>
-            </xg>
-            <xg>
-               <x>Vi forteller nytt til hverandre.</x>
                <xt>Mii muitalit ságaid guhtet guimmiidasamet.</xt>
+               <xt>Mii muitalit ságaid nuppit nuppiide.</xt>
             </xg>
          </tg>
       </mg>
@@ -523,13 +504,12 @@
             <re>dere .... til hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoibmáseattet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiidasadet</t>
+            <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiide</t>
             <xg>
                <x>Dere forteller nytt til hverandre.</x>
                <xt>Dii muitalehpet ságaid guhtet guoibmáseattet.</xt>
-            </xg>
-            <xg>
-               <x>Dere forteller nytt til hverandre.</x>
                <xt>Dii muitalehpet ságaid guhtet guimmiidasadet.</xt>
+               <xt>Dii muitalehpet ságaid nuppit nuppiide.</xt>
             </xg>
          </tg>
       </mg>
@@ -542,13 +522,7 @@
             <xg>
                <x>De forteller nytt til hverandre.</x>
                <xt>Sii muitalit ságaid guhtet guoibmáseaset.</xt>
-            </xg>
-            <xg>
-               <x>De forteller nytt til hverandre.</x>
                <xt>Sii muitalit ságaid guhtet guimmiidasaset.</xt>
-            </xg>
-            <xg>
-               <x>De forteller nytt til hverandre.</x>
                <xt>Sii muitalit ságaid nuppit nuppiide.</xt>
             </xg>
          </tg>
@@ -598,13 +572,12 @@
             <re>vi ... hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoibmámet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiideamet</t>
-            <xg>
+             <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiid</t>
+           <xg>
                <x>Vi kjenner hverandre.</x>
                <xt>Mii dovdat guhtet guoibmámet.</xt>
-            </xg>
-            <xg>
-               <x>Vi kjenner hverandre.</x>
                <xt>Mii dovdat guhtet guimmiideamet.</xt>
+               <xt>Mii dovdat nuppit nuppiid.</xt>
             </xg>
          </tg>
       </mg>
@@ -613,13 +586,12 @@
             <re>dere .... hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoimmádet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiideattet</t>
+             <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiid</t>
             <xg>
                <x>Dere kjenner hverandre.</x>
                <xt>Dii dovdabehtet guhtet guoimmádet.</xt>
-            </xg>
-            <xg>
-               <x>Dere kjenner hverandre.</x>
                <xt>Dii dovdabehtet guhtet guimmiideattet.</xt>
+               <xt>Dii dovdabehtet nuppit nuppiid.</xt>
             </xg>
          </tg>
       </mg>
@@ -632,13 +604,7 @@
             <xg>
                <x>De kjenner hverandre.</x>
                <xt>Sii dovdet guhtet guoimmiset.</xt>
-            </xg>
-            <xg>
-               <x>De kjenner hverandre.</x>
                <xt>Sii dovdet guhtet guimmiideaset.</xt>
-            </xg>
-            <xg>
-               <x>De kjenner hverandre.</x>
                <xt>Sii dovdet nuppit nuppiid.</xt>
             </xg>
          </tg>
@@ -657,13 +623,7 @@
             <xg>
                <x>Vi skøyer med hverandre.</x>
                <xt>Mii leaikkastallat guhtet guimmiineamet.</xt>
-            </xg>
-            <xg>
-               <x>Vi skøyer med hverandre.</x>
                <xt>Mii leaikkastallat guhtet guimmiideametguin.</xt>
-            </xg>
-            <xg>
-               <x>Vi skøyer med hverandre.</x>
                <xt>Mii leaikkastallat nuppit nuppiiguin.</xt>
             </xg>
          </tg>
@@ -677,13 +637,7 @@
             <xg>
                <x>Dere skøyer med hverandre.</x>
                <xt>Dii leaikkastallabehtet guhtet guimmiineattet.</xt>
-            </xg>
-            <xg>
-               <x>Dere skøyer med hverandre.</x>
                <xt>Dii leaikkastallabehtet guhtet guimmiideattetguin.</xt>
-            </xg>
-            <xg>
-               <x>Dere skøyer med hverandre.</x>
                <xt>Dii leaikkastallabehtet nuppit nuppiiguin.</xt>
             </xg>
          </tg>
@@ -697,13 +651,7 @@
             <xg>
                <x>De skøyer med hverandre.</x>
                <xt>Sii leaikkastallet guhtet guimmiineaset.</xt>
-            </xg>
-            <xg>
-               <x>De skøyer med hverandre.</x>
                <xt>Sii leaikkastallet guhtet guimmiideasetguin.</xt>
-            </xg>
-            <xg>
-               <x>De skøyer med hverandre.</x>
                <xt>Sii leaikkastallet nuppit nuppiiguin.</xt>
             </xg>
          </tg>
