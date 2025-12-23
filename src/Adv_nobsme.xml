@@ -6066,14 +6066,19 @@
          <l pos="Adv">kanskje</l>
       </lg>
       <mg>
+	         <l_ref>antakelig_adv</l_ref>
          <tg xml:lang="sme">
-            <t pos="V">soaitit</t>
             <t pos="Adv">várra</t>
+            <t pos="Adv">vissa</t>
+            <t pos="Adv">suige</t>
+        </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	        <re>kunne kanskje (være)</re>
+            <t pos="V">soaitit</t>
             <t pos="V">dáidit</t>
             <t pos="V">veadjit</t>
-            <t pos="Adv">vissa</t>
-            <t pos="Pcle">suige</t>
-            <t pos="Pcle">samat</t>
             <xg>
                <x>Vi får kanskje ikke engang representant til Sametinget.</x>
                <xt>Eat soaitte oba oažžut ge áirasa Sámediggái.</xt>
@@ -6094,10 +6099,6 @@
                <x>Det er kanskje slik.</x>
                <xt>Gal veadjá leat nu.</xt>
             </xg>
-            <xg>
-             <x>Kansje denne kofta passer til deg!</x>
-             <xt>Samat dutnje heivešii dát gákti!</xt>
-           </xg>
         </tg>
       </mg>
    </e>
@@ -6830,11 +6831,10 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Pcle">amma</t>
             <t pos="Pcle">ammahal</t>
             <xg>
                <x>Han har antakelig noe han vil snakke om når han har bedt meg komme hit.</x>
-               <xt>Amma sus lea ášši go sihtan mu deike boahtit.</xt>
+               <xt>Ammahal sus lea ášši go sihtan mu deike boahtit.</xt>
             </xg>
             <xg>
                <x>Nå skal det antakelig fungere siden nesten alle i styret er fra samme sted.</x>
