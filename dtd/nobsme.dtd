@@ -45,7 +45,7 @@ til_ref CDATA #IMPLIED
 
 
 <!ELEMENT tg  ( re? , t+ , xg* )>
-<!ATTLIST tg xml:lang ( sme ) #IMPLIED >
+<!ATTLIST tg xml:lang ( sme ) #REQUIRED >
 
 
 <!ELEMENT re  ( #PCDATA )>
