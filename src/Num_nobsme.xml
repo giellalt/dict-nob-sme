@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -6,8 +6,8 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../dtd/nobsme.dtd">
 <r id="nobsme" xml:lang="nob">
-  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
-    <lic xml:lang="en">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
       This code is made available under a Creative Commons Attribution license
       <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -16,12 +16,12 @@
 
       For the full license text, see the link above.
     </lic>
-    <ref>
+      <ref>
       Work by Nils Jernsletten, Giellatekno and Divvun at UiT, and members of
       the language communities. Source code available at
       <a>https://github.com/giellalt/dict-sme-nob/</a>.
     </ref>
-    <sourcenote>
+      <sourcenote>
       THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
       published dictionary. As such it can and will contain unfinished entries,
       unpublished entries, entries with objectionable translations, etc. If you
@@ -30,9 +30,8 @@
       <a>mailto:giellatekno@uit.no</a>. Please also note that the entries are
       not necessarily sorted, or could be wrongly sorted.
      </sourcenote>
-  </lics>
-    <e>
-
+   </lics>
+   <e>
       <lg>
          <l pos="Num">halv</l>
       </lg>
@@ -118,7 +117,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>mange hundretusen</re>
+            <re>mange hundretusen</re>
             <t pos="Num">máŋgačuođiduhát</t>
          </tg>
       </mg>
@@ -194,7 +193,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>ti personer</re>
+            <re>ti personer</re>
             <t pos="N">logis</t>
             <xg>
                <x>I Finnmark var ti personer foreslått til dette årets drømmestipend.</x>
@@ -218,7 +217,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>fire personer</re>
+            <re>fire personer</re>
             <t pos="N">njealjis</t>
             <xg>
                <x>Alle fire gikk inn på rommet for å sove.</x>
@@ -262,6 +261,17 @@
                <x>De bor i ett av verdens rikeste land.</x>
                <xt>Sii orrot ovtta máilmmi riggámus riikkain.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Num">null</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Num">nolla</t>
+            <t pos="Num">nulla</t>
          </tg>
       </mg>
    </e>
@@ -330,7 +340,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>sju personer</re>
+            <re>sju personer</re>
             <t pos="N">čiežas</t>
             <xg>
                <x>Sju personer var kommuneansatte.</x>
@@ -354,7 +364,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>syv personer</re>
+            <re>syv personer</re>
             <t pos="N">čiežas</t>
             <xg>
                <x>Syv personer var kommuneansatte.</x>
@@ -378,7 +388,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>to personer</re>
+            <re>to personer</re>
             <t pos="N">guovttis</t>
             <xg>
                <x>To personer fikk ikke permisjon med lønn.</x>
@@ -416,7 +426,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>tre personer</re>
+            <re>tre personer</re>
             <t pos="N">golmmas</t>
             <xg>
                <x>Nå er de bare tre personer.</x>
@@ -444,7 +454,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>seks personer</re>
+            <re>seks personer</re>
             <t pos="N">guđas</t>
             <xg>
                <x>Seks stemte mot.</x>
@@ -468,7 +478,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>åtte personer</re>
+            <re>åtte personer</re>
             <t pos="N">gávccis</t>
             <xg>
                <x>Åtte personer stemte mot.</x>
@@ -492,7 +502,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>elleve personer</re>
+            <re>elleve personer</re>
             <t pos="N">oktanuppelogis</t>
             <xg>
                <x>Elleve personer stemte mot.</x>
@@ -512,7 +522,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>tolv personer</re>
+            <re>tolv personer</re>
             <t pos="N">guoktenuppelogis</t>
             <xg>
                <x>Tolv personer stemte mot.</x>
@@ -996,7 +1006,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>mange tusen</re>
+            <re>mange tusen</re>
             <t pos="Num">máŋgaduhát</t>
          </tg>
       </mg>
