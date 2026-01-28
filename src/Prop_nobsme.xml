@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -6,8 +6,8 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../dtd/nobsme.dtd">
 <r id="nobsme" xml:lang="nob">
-  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
-    <lic xml:lang="en">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
       This code is made available under a Creative Commons Attribution license
       <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -16,12 +16,12 @@
 
       For the full license text, see the link above.
     </lic>
-    <ref>
+      <ref>
       Work by Nils Jernsletten, Giellatekno and Divvun at UiT, and members of
       the language communities. Source code available at
       <a>https://github.com/giellalt/dict-sme-nob/</a>.
     </ref>
-    <sourcenote>
+      <sourcenote>
       THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
       published dictionary. As such it can and will contain unfinished entries,
       unpublished entries, entries with objectionable translations, etc. If you
@@ -30,9 +30,8 @@
       <a>mailto:giellatekno@uit.no</a>. Please also note that the entries are
       not necessarily sorted, or could be wrongly sorted.
      </sourcenote>
-  </lics>
-    <e>
-
+   </lics>
+   <e>
       <lg>
          <l pos="N" type="Prop">Sannhets- og forsoningskommisjonen</l>
       </lg>
@@ -49,14 +48,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N" type="Prop">Oslo</t>
-        <xg>
-          <x>Oslo kommune</x>
-          <xt>Oslo suohkan dahje Oslo gielda</xt>
-        </xg>
-        <xg>
-          <x>Oslos sørsamiske navn er Oslove.</x>
-          <xt>Oslo lullisámi namma lea Oslove.</xt>
-        </xg>
+            <xg>
+               <x>Oslo kommune</x>
+               <xt>Oslo suohkan dahje Oslo gielda</xt>
+            </xg>
+            <xg>
+               <x>Oslos sørsamiske navn er Oslove.</x>
+               <xt>Oslo lullisámi namma lea Oslove.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -72,11 +71,21 @@
    </e>
    <e>
       <lg>
+         <l pos="N" type="Prop">Færøyene</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t nr="Pl" pos="N" type="Prop">Fearasullot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N" type="Prop">Harstad</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Hárstták</t>
+            <t nr="Pl" pos="N" type="Prop">Hárstták</t>
          </tg>
       </mg>
    </e>
@@ -96,7 +105,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="fad">Stáhtavuovdi</t>
+            <t pos="N" src="fad" type="Prop">Stáhtavuovdi</t>
          </tg>
       </mg>
    </e>
@@ -116,7 +125,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Stuorra Británnia</t>
+            <t pos="N" src="GG" type="Prop">Stuorra Británnia</t>
          </tg>
       </mg>
    </e>
@@ -142,7 +151,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>stjernebilde</re>
-            <t pos="N" type="Prop" nr="Pl">Ruossanásttit</t>
+            <t nr="Pl" pos="N" type="Prop">Ruossanásttit</t>
          </tg>
       </mg>
    </e>
@@ -153,7 +162,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>stjernebilde</re>
-            <t pos="N" type="Prop" nr="Pl">Gállábártnit</t>
+            <t nr="Pl" pos="N" type="Prop">Gállábártnit</t>
          </tg>
       </mg>
    </e>
@@ -163,7 +172,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl" src="SK">Ivvárstádik</t>
+            <t nr="Pl" pos="N" src="SK" type="Prop">Ivvárstádik</t>
          </tg>
       </mg>
    </e>
@@ -173,7 +182,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Bievák</t>
+            <t nr="Pl" pos="N" type="Prop">Bievák</t>
          </tg>
       </mg>
    </e>
@@ -183,7 +192,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Divrrák</t>
+            <t nr="Pl" pos="N" type="Prop">Divrrák</t>
          </tg>
       </mg>
    </e>
@@ -193,12 +202,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Riimmat</t>
+            <t nr="Pl" pos="N" type="Prop">Riimmat</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Berlevåg" type="Prop" nr="Pl">Struhppu</t>
+            <t nr="Pl" pos="N" reg="Berlevåg" type="Prop">Struhppu</t>
          </tg>
       </mg>
    </e>
@@ -208,7 +217,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Skánik</t>
+            <t nr="Pl" pos="N" type="Prop">Skánik</t>
          </tg>
       </mg>
    </e>
@@ -218,7 +227,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Dálmmat</t>
+            <t nr="Pl" pos="N" type="Prop">Dálmmat</t>
          </tg>
       </mg>
    </e>
@@ -228,7 +237,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Dávggát</t>
+            <t nr="Pl" pos="N" type="Prop">Dávggát</t>
             <xg>
                <x>Karlsvogna er et stjernebilde.</x>
                <xt>Dávggát leat nástegovva.</xt>
@@ -242,7 +251,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Hilssát</t>
+            <t nr="Pl" pos="N" type="Prop">Hilssát</t>
          </tg>
       </mg>
    </e>
@@ -252,7 +261,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Iččát</t>
+            <t nr="Pl" pos="N" type="Prop">Iččát</t>
          </tg>
       </mg>
    </e>
@@ -262,7 +271,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Lodegak</t>
+            <t nr="Pl" pos="N" type="Prop">Lodegak</t>
          </tg>
       </mg>
    </e>
@@ -272,7 +281,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Muosát</t>
+            <t nr="Pl" pos="N" type="Prop">Muosát</t>
          </tg>
       </mg>
    </e>
@@ -282,7 +291,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Várggát</t>
+            <t nr="Pl" pos="N" type="Prop">Várggát</t>
          </tg>
       </mg>
    </e>
@@ -292,7 +301,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Voagat</t>
+            <t nr="Pl" pos="N" type="Prop">Voagat</t>
          </tg>
       </mg>
    </e>
@@ -302,7 +311,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl" src="PS_SA">Davviriikkat</t>
+            <t nr="Pl" pos="N" src="PS_SA" type="Prop">Davviriikkat</t>
          </tg>
       </mg>
    </e>
@@ -322,7 +331,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skiervá</t>
+            <t pos="N" src="SK" type="Prop">Skiervá</t>
          </tg>
       </mg>
    </e>
@@ -332,7 +341,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bearalváhki</t>
+            <t pos="N" src="SK" type="Prop">Bearalváhki</t>
          </tg>
       </mg>
    </e>
@@ -342,7 +351,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rivtták</t>
+            <t pos="N" src="SK" type="Prop">Rivtták</t>
          </tg>
       </mg>
    </e>
@@ -352,7 +361,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ákŋoluokta</t>
+            <t pos="N" src="SK" type="Prop">Ákŋoluokta</t>
          </tg>
       </mg>
    </e>
@@ -362,7 +371,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Leavdnja</t>
+            <t pos="N" src="SK" type="Prop">Leavdnja</t>
          </tg>
       </mg>
    </e>
@@ -372,7 +381,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ráneš</t>
+            <t pos="N" src="SK" type="Prop">Ráneš</t>
          </tg>
       </mg>
    </e>
@@ -442,7 +451,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Ánddasuolu</t>
+            <t pos="N" src="PS_SA" type="Prop">Ánddasuolu</t>
          </tg>
       </mg>
    </e>
@@ -452,17 +461,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Narvik" type="Prop" src="PS_SA">Áravuopmi</t>
+            <t pos="N" reg="Narvik" src="PS_SA" type="Prop">Áravuopmi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Narvik" type="Prop" src="PS_SA">Áravággi</t>
+            <t pos="N" reg="Narvik" src="PS_SA" type="Prop">Áravággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Balsfjord, Storfjord" type="Prop" src="PS_SA">Čáhcevággi</t>
+            <t pos="N" reg="Balsfjord, Storfjord" src="PS_SA" type="Prop">Čáhcevággi</t>
          </tg>
       </mg>
    </e>
@@ -472,7 +481,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Avvil</t>
+            <t pos="N" src="PS_SA" type="Prop">Avvil</t>
          </tg>
       </mg>
    </e>
@@ -587,7 +596,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Beardueatnu</t>
+            <t pos="N" src="PS_SA" type="Prop">Beardueatnu</t>
          </tg>
       </mg>
    </e>
@@ -597,7 +606,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Beardu</t>
+            <t pos="N" src="PS_SA" type="Prop">Beardu</t>
          </tg>
       </mg>
    </e>
@@ -842,7 +851,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Eurohpa</t>
+            <t pos="N" src="GG" type="Prop">Eurohpa</t>
          </tg>
       </mg>
    </e>
@@ -937,7 +946,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Gárasavvon</t>
+            <t pos="N" src="PS_SA" type="Prop">Gárasavvon</t>
          </tg>
       </mg>
    </e>
@@ -947,7 +956,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Gárasavvon</t>
+            <t pos="N" src="PS_SA" type="Prop">Gárasavvon</t>
          </tg>
       </mg>
    </e>
@@ -1007,7 +1016,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Giepma</t>
+            <t pos="N" src="PS_SA" type="Prop">Giepma</t>
          </tg>
       </mg>
    </e>
@@ -1182,7 +1191,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Ivgu</t>
+            <t pos="N" src="PS_SA" type="Prop">Ivgu</t>
          </tg>
       </mg>
    </e>
@@ -1232,7 +1241,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Jiekŋamearra</t>
+            <t pos="N" src="PS_SA" type="Prop">Jiekŋamearra</t>
          </tg>
       </mg>
    </e>
@@ -1242,7 +1251,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Jiekŋamearra</t>
+            <t pos="N" src="PS_SA" type="Prop">Jiekŋamearra</t>
          </tg>
       </mg>
    </e>
@@ -1342,19 +1351,19 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-	         <re>fjord i Tjeldsund</re>
+            <re>fjord i Tjeldsund</re>
             <t pos="N" type="Prop">Loabák</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>gårdsnavn i Tjeldsund</re>
+            <re>gårdsnavn i Tjeldsund</re>
             <t pos="N" type="Prop">Loabák</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>fjord i Gratangen</re>
+            <re>fjord i Gratangen</re>
             <t pos="N" type="Prop">Loabákvuotna</t>
          </tg>
       </mg>
@@ -1475,7 +1484,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Njávdán</t>
+            <t pos="N" src="PS_SA" type="Prop">Njávdán</t>
          </tg>
       </mg>
    </e>
@@ -1751,7 +1760,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sáltesávju</t>
+            <t pos="N" src="SK" type="Prop">Sáltesávju</t>
          </tg>
       </mg>
    </e>
@@ -1761,17 +1770,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Nordreisa" type="Prop" src="SK">Gárgu</t>
+            <t pos="N" reg="Nordreisa" src="SK" type="Prop">Gárgu</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Måsøy" type="Prop" src="SK">Ávenjárga</t>
+            <t pos="N" reg="Måsøy" src="SK" type="Prop">Ávenjárga</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Lebesby" type="Prop" src="SK">Geassenjárga</t>
+            <t pos="N" reg="Lebesby" src="SK" type="Prop">Geassenjárga</t>
          </tg>
       </mg>
    </e>
@@ -1991,12 +2000,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Áltá</t>
+            <t pos="N" src="PS_SA" type="Prop">Áltá</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Álaheadju</t>
+            <t pos="N" src="PS_SA" type="Prop">Álaheadju</t>
          </tg>
       </mg>
    </e>
@@ -2016,7 +2025,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Albánia</t>
+            <t pos="N" src="GG" type="Prop">Albánia</t>
          </tg>
       </mg>
    </e>
@@ -2066,7 +2075,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Belgia</t>
+            <t pos="N" src="GG" type="Prop">Belgia</t>
          </tg>
       </mg>
    </e>
@@ -2076,7 +2085,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Biŧon</t>
+            <t pos="N" src="PS_SA" type="Prop">Biŧon</t>
          </tg>
       </mg>
    </e>
@@ -2106,7 +2115,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Dánmárku</t>
+            <t pos="N" src="GG" type="Prop">Dánmárku</t>
          </tg>
       </mg>
    </e>
@@ -2156,7 +2165,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Giron</t>
+            <t pos="N" src="PS_SA" type="Prop">Giron</t>
          </tg>
       </mg>
    </e>
@@ -2166,7 +2175,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Greika</t>
+            <t pos="N" src="GG" type="Prop">Greika</t>
          </tg>
       </mg>
    </e>
@@ -2176,7 +2185,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Helsset</t>
+            <t pos="N" src="PS_SA" type="Prop">Helsset</t>
          </tg>
       </mg>
    </e>
@@ -2186,7 +2195,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Nederlánda</t>
+            <t pos="N" src="GG" type="Prop">Nederlánda</t>
          </tg>
       </mg>
    </e>
@@ -2196,7 +2205,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Hollánda</t>
+            <t pos="N" src="GG" type="Prop">Hollánda</t>
          </tg>
       </mg>
    </e>
@@ -2216,7 +2225,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Islánda</t>
+            <t pos="N" src="GG" type="Prop">Islánda</t>
          </tg>
       </mg>
    </e>
@@ -2277,7 +2286,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Látvia</t>
+            <t pos="N" src="GG" type="Prop">Látvia</t>
          </tg>
       </mg>
    </e>
@@ -2287,7 +2296,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Lietuva</t>
+            <t pos="N" src="GG" type="Prop">Lietuva</t>
          </tg>
       </mg>
    </e>
@@ -2350,7 +2359,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Frankriika</t>
+            <t pos="N" src="GG" type="Prop">Frankriika</t>
          </tg>
       </mg>
    </e>
@@ -2400,7 +2409,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Soađegilli</t>
+            <t pos="N" src="PS_SA" type="Prop">Soađegilli</t>
          </tg>
       </mg>
    </e>
@@ -2450,7 +2459,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Allavággi</t>
+            <t pos="N" src="SK" type="Prop">Allavággi</t>
          </tg>
       </mg>
    </e>
@@ -2460,12 +2469,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Lebesby" type="Prop" src="SK">Beahkkirvuotna</t>
+            <t pos="N" reg="Lebesby" src="SK" type="Prop">Beahkkirvuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Alta" type="Prop" src="SK">Gearvuonna</t>
+            <t pos="N" reg="Alta" src="SK" type="Prop">Gearvuonna</t>
          </tg>
       </mg>
    </e>
@@ -2475,7 +2484,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Beassevuotna</t>
+            <t pos="N" src="SK" type="Prop">Beassevuotna</t>
          </tg>
       </mg>
    </e>
@@ -2485,7 +2494,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Beatnatvággi</t>
+            <t pos="N" src="SK" type="Prop">Beatnatvággi</t>
          </tg>
       </mg>
    </e>
@@ -2495,7 +2504,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Biesavuotna</t>
+            <t pos="N" src="SK" type="Prop">Biesavuotna</t>
          </tg>
       </mg>
    </e>
@@ -2505,7 +2514,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bievllavuonna</t>
+            <t pos="N" src="SK" type="Prop">Bievllavuonna</t>
          </tg>
       </mg>
    </e>
@@ -2515,12 +2524,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Tromsø" type="Prop" src="SK">Biežavággi</t>
+            <t pos="N" reg="Tromsø" src="SK" type="Prop">Biežavággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Bardu" type="Prop" src="SK">Ruohkkevággi</t>
+            <t pos="N" reg="Bardu" src="SK" type="Prop">Ruohkkevággi</t>
          </tg>
       </mg>
    </e>
@@ -2530,17 +2539,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Kåfjord" type="Prop" src="SK">Dálusvággi</t>
+            <t pos="N" reg="Kåfjord" src="SK" type="Prop">Dálusvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Kåfjord" type="Prop" src="SK">Dálvvesvággi</t>
+            <t pos="N" reg="Kåfjord" src="SK" type="Prop">Dálvvesvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Hammerfest" type="Prop" src="SK">Birranvággi</t>
+            <t pos="N" reg="Hammerfest" src="SK" type="Prop">Birranvággi</t>
          </tg>
       </mg>
    </e>
@@ -2550,7 +2559,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Boatkavággi</t>
+            <t pos="N" src="SK" type="Prop">Boatkavággi</t>
          </tg>
       </mg>
    </e>
@@ -2560,22 +2569,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Storfjord" type="Prop" src="SK">Boazolanvággi</t>
+            <t pos="N" reg="Storfjord" src="SK" type="Prop">Boazolanvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Senja, Hammerfest" type="Prop" src="SK">Boazovággi</t>
+            <t pos="N" reg="Senja, Hammerfest" src="SK" type="Prop">Boazovággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Lyngen" type="Prop" src="SK">Sarvvesvággi</t>
+            <t pos="N" reg="Lyngen" src="SK" type="Prop">Sarvvesvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Lebesby" type="Prop" src="SK">Boazojorranávži</t>
+            <t pos="N" reg="Lebesby" src="SK" type="Prop">Boazojorranávži</t>
          </tg>
       </mg>
    </e>
@@ -2585,7 +2594,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Boazovuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Boazovuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -2595,7 +2604,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Boazovuonna</t>
+            <t pos="N" src="SK" type="Prop">Boazovuonna</t>
          </tg>
       </mg>
    </e>
@@ -2605,7 +2614,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bohtalvuotna</t>
+            <t pos="N" src="SK" type="Prop">Bohtalvuotna</t>
          </tg>
       </mg>
    </e>
@@ -2615,12 +2624,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Hammerfest" type="Prop" src="SK">Bollovuotna</t>
+            <t pos="N" reg="Hammerfest" src="SK" type="Prop">Bollovuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Lyngen" type="Prop" src="SK">Vuoivuotna</t>
+            <t pos="N" reg="Lyngen" src="SK" type="Prop">Vuoivuotna</t>
          </tg>
       </mg>
    </e>
@@ -2630,7 +2639,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bollovággi</t>
+            <t pos="N" src="SK" type="Prop">Bollovággi</t>
          </tg>
       </mg>
    </e>
@@ -2640,7 +2649,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Borjjasvággi</t>
+            <t pos="N" src="SK" type="Prop">Borjjasvággi</t>
          </tg>
       </mg>
    </e>
@@ -2650,7 +2659,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Buntavággi</t>
+            <t pos="N" src="SK" type="Prop">Buntavággi</t>
          </tg>
       </mg>
    </e>
@@ -2660,7 +2669,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Buolavággi</t>
+            <t pos="N" src="SK" type="Prop">Buolavággi</t>
          </tg>
       </mg>
    </e>
@@ -2670,7 +2679,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Buvrovuonna</t>
+            <t pos="N" src="SK" type="Prop">Buvrovuonna</t>
          </tg>
       </mg>
    </e>
@@ -2680,7 +2689,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhccavuotna</t>
+            <t pos="N" src="SK" type="Prop">Báhccavuotna</t>
          </tg>
       </mg>
    </e>
@@ -2690,7 +2699,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhccavuotna</t>
+            <t pos="N" src="SK" type="Prop">Báhccavuotna</t>
          </tg>
       </mg>
    </e>
@@ -2700,7 +2709,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhccavuotna</t>
+            <t pos="N" src="SK" type="Prop">Báhccavuotna</t>
          </tg>
       </mg>
    </e>
@@ -2710,7 +2719,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhkavuotna</t>
+            <t pos="N" src="SK" type="Prop">Báhkavuotna</t>
          </tg>
       </mg>
    </e>
@@ -2720,7 +2729,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhčaveajvuonna</t>
+            <t pos="N" src="SK" type="Prop">Báhčaveajvuonna</t>
          </tg>
       </mg>
    </e>
@@ -2730,7 +2739,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhčaveajvuonna</t>
+            <t pos="N" src="SK" type="Prop">Báhčaveajvuonna</t>
          </tg>
       </mg>
    </e>
@@ -2740,7 +2749,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bálggesvággi</t>
+            <t pos="N" src="SK" type="Prop">Bálggesvággi</t>
          </tg>
       </mg>
    </e>
@@ -2750,7 +2759,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bárdevuotna</t>
+            <t pos="N" src="SK" type="Prop">Bárdevuotna</t>
          </tg>
       </mg>
    </e>
@@ -2760,7 +2769,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bártnavuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Bártnavuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -2770,7 +2779,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báttárvuonna</t>
+            <t pos="N" src="SK" type="Prop">Báttárvuonna</t>
          </tg>
       </mg>
    </e>
@@ -2780,7 +2789,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Cohkolatvággi</t>
+            <t pos="N" src="SK" type="Prop">Cohkolatvággi</t>
          </tg>
       </mg>
    </e>
@@ -2790,7 +2799,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Cohkolatvággi</t>
+            <t pos="N" src="SK" type="Prop">Cohkolatvággi</t>
          </tg>
       </mg>
    </e>
@@ -2800,7 +2809,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Cuokcavuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Cuokcavuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -2810,7 +2819,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Cuokcavuotna</t>
+            <t pos="N" src="SK" type="Prop">Cuokcavuotna</t>
          </tg>
       </mg>
    </e>
@@ -2820,7 +2829,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Deanuvuotna</t>
+            <t pos="N" src="SK" type="Prop">Deanuvuotna</t>
          </tg>
       </mg>
    </e>
@@ -2830,17 +2839,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Storfjord" type="Prop" src="SK">Didnovággi</t>
+            <t pos="N" reg="Storfjord" src="SK" type="Prop">Didnovággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rievdnavággi</t>
+            <t pos="N" src="SK" type="Prop">Rievdnavággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Bardu" type="Prop" src="SK">Stuoravággi</t>
+            <t pos="N" reg="Bardu" src="SK" type="Prop">Stuoravággi</t>
          </tg>
       </mg>
    </e>
@@ -2850,7 +2859,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dihkkevággi</t>
+            <t pos="N" src="SK" type="Prop">Dihkkevággi</t>
          </tg>
       </mg>
    </e>
@@ -2860,7 +2869,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Diksovuotna</t>
+            <t pos="N" src="SK" type="Prop">Diksovuotna</t>
          </tg>
       </mg>
    </e>
@@ -2870,7 +2879,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ditnuidvággi</t>
+            <t pos="N" src="SK" type="Prop">Ditnuidvággi</t>
          </tg>
       </mg>
    </e>
@@ -2880,7 +2889,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Divrevággi</t>
+            <t pos="N" src="SK" type="Prop">Divrevággi</t>
          </tg>
       </mg>
    </e>
@@ -2890,7 +2899,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Doaresvuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Doaresvuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -2900,7 +2909,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Doaresvuonna</t>
+            <t pos="N" src="SK" type="Prop">Doaresvuonna</t>
          </tg>
       </mg>
    </e>
@@ -2910,17 +2919,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Senja, Storfjord" type="Prop" src="SK">Doaresvággi</t>
+            <t pos="N" reg="Senja, Storfjord" src="SK" type="Prop">Doaresvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Tjeldsund" type="Prop" src="SK">Geargevággi</t>
+            <t pos="N" reg="Tjeldsund" src="SK" type="Prop">Geargevággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Narvik" type="Prop" src="SK">Máttavággi</t>
+            <t pos="N" reg="Narvik" src="SK" type="Prop">Máttavággi</t>
          </tg>
       </mg>
    </e>
@@ -2930,7 +2939,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Doaresvággi</t>
+            <t pos="N" src="SK" type="Prop">Doaresvággi</t>
          </tg>
       </mg>
    </e>
@@ -2940,7 +2949,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dohpparvággi</t>
+            <t pos="N" src="SK" type="Prop">Dohpparvággi</t>
          </tg>
       </mg>
    </e>
@@ -2950,7 +2959,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dollevággi</t>
+            <t pos="N" src="SK" type="Prop">Dollevággi</t>
          </tg>
       </mg>
    </e>
@@ -2960,7 +2969,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Donjevuotna</t>
+            <t pos="N" src="SK" type="Prop">Donjevuotna</t>
          </tg>
       </mg>
    </e>
@@ -2970,22 +2979,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Alta" type="Prop" src="SK">Leaibevuonna</t>
+            <t pos="N" reg="Alta" src="SK" type="Prop">Leaibevuonna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Kvænangen" type="Prop" src="SK">Dorskevuonna</t>
+            <t pos="N" reg="Kvænangen" src="SK" type="Prop">Dorskevuonna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Porsanger" type="Prop" src="SK">Leaibevuotna</t>
+            <t pos="N" reg="Porsanger" src="SK" type="Prop">Leaibevuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Sortland" type="Prop" src="SK">Sulfierda</t>
+            <t pos="N" reg="Sortland" src="SK" type="Prop">Sulfierda</t>
          </tg>
       </mg>
    </e>
@@ -2995,22 +3004,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Alta" type="Prop" src="SK">Leaibevuonna</t>
+            <t pos="N" reg="Alta" src="SK" type="Prop">Leaibevuonna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Kvænangen" type="Prop" src="SK">Dorskevuonna</t>
+            <t pos="N" reg="Kvænangen" src="SK" type="Prop">Dorskevuonna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Porsanger" type="Prop" src="SK">Leaibevuotna</t>
+            <t pos="N" reg="Porsanger" src="SK" type="Prop">Leaibevuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Sortland" type="Prop" src="SK">Sulfierda</t>
+            <t pos="N" reg="Sortland" src="SK" type="Prop">Sulfierda</t>
          </tg>
       </mg>
    </e>
@@ -3020,7 +3029,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Duolljevággi</t>
+            <t pos="N" src="SK" type="Prop">Duolljevággi</t>
          </tg>
       </mg>
    </e>
@@ -3030,7 +3039,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Kvænangen" type="Prop" src="SK">Duommásvággi</t>
+            <t pos="N" reg="Kvænangen" src="SK" type="Prop">Duommásvággi</t>
          </tg>
       </mg>
    </e>
@@ -3040,7 +3049,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Duorppalvuotna</t>
+            <t pos="N" src="SK" type="Prop">Duorppalvuotna</t>
          </tg>
       </mg>
    </e>
@@ -3050,7 +3059,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dáibáravuotna</t>
+            <t pos="N" src="SK" type="Prop">Dáibáravuotna</t>
          </tg>
       </mg>
    </e>
@@ -3060,7 +3069,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dáigevuotna</t>
+            <t pos="N" src="SK" type="Prop">Dáigevuotna</t>
          </tg>
       </mg>
    </e>
@@ -3070,7 +3079,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dápmotvággi</t>
+            <t pos="N" src="SK" type="Prop">Dápmotvággi</t>
          </tg>
       </mg>
    </e>
@@ -3080,7 +3089,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dážavággi</t>
+            <t pos="N" src="SK" type="Prop">Dážavággi</t>
          </tg>
       </mg>
    </e>
@@ -3090,7 +3099,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dášvággi</t>
+            <t pos="N" src="SK" type="Prop">Dášvággi</t>
          </tg>
       </mg>
    </e>
@@ -3100,7 +3109,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Earnjoasvággi</t>
+            <t pos="N" src="SK" type="Prop">Earnjoasvággi</t>
          </tg>
       </mg>
    </e>
@@ -3110,7 +3119,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Eavrovággi</t>
+            <t pos="N" src="SK" type="Prop">Eavrovággi</t>
          </tg>
       </mg>
    </e>
@@ -3120,7 +3129,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Fastovággi</t>
+            <t pos="N" src="SK" type="Prop">Fastovággi</t>
          </tg>
       </mg>
    </e>
@@ -3130,7 +3139,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Fastovággi</t>
+            <t pos="N" src="SK" type="Prop">Fastovággi</t>
          </tg>
       </mg>
    </e>
@@ -3140,12 +3149,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Alta" type="Prop" src="SK">Fielvuonna</t>
+            <t pos="N" reg="Alta" src="SK" type="Prop">Fielvuonna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Sør-Varanger" type="Prop" src="SK">Ruossavuotna</t>
+            <t pos="N" reg="Sør-Varanger" src="SK" type="Prop">Ruossavuotna</t>
          </tg>
       </mg>
    </e>
@@ -3155,12 +3164,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Fálesvággi</t>
+            <t pos="N" src="SK" type="Prop">Fálesvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Goalsevággi</t>
+            <t pos="N" src="SK" type="Prop">Goalsevággi</t>
          </tg>
       </mg>
    </e>
@@ -3170,7 +3179,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Fállevuonna</t>
+            <t pos="N" src="SK" type="Prop">Fállevuonna</t>
          </tg>
       </mg>
    </e>
@@ -3180,7 +3189,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Fávrresvággi</t>
+            <t pos="N" src="SK" type="Prop">Fávrresvággi</t>
          </tg>
       </mg>
    </e>
@@ -3190,7 +3199,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gahpervággi</t>
+            <t pos="N" src="SK" type="Prop">Gahpervággi</t>
          </tg>
       </mg>
    </e>
@@ -3200,7 +3209,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gahpirvuotna</t>
+            <t pos="N" src="SK" type="Prop">Gahpirvuotna</t>
          </tg>
       </mg>
    </e>
@@ -3210,7 +3219,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Galbárvággi</t>
+            <t pos="N" src="SK" type="Prop">Galbárvággi</t>
          </tg>
       </mg>
    </e>
@@ -3220,7 +3229,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Garžavággi</t>
+            <t pos="N" src="SK" type="Prop">Garžavággi</t>
          </tg>
       </mg>
    </e>
@@ -3230,7 +3239,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gaska-Dorskavuotna</t>
+            <t pos="N" src="SK" type="Prop">Gaska-Dorskavuotna</t>
          </tg>
       </mg>
    </e>
@@ -3240,7 +3249,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gaskabeaivággi</t>
+            <t pos="N" src="SK" type="Prop">Gaskabeaivággi</t>
          </tg>
       </mg>
    </e>
@@ -3250,7 +3259,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gaskavággi</t>
+            <t pos="N" src="SK" type="Prop">Gaskavággi</t>
          </tg>
       </mg>
    </e>
@@ -3260,12 +3269,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gaskavággi</t>
+            <t pos="N" src="SK" type="Prop">Gaskavággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čeađevággi</t>
+            <t pos="N" src="SK" type="Prop">Čeađevággi</t>
          </tg>
       </mg>
    </e>
@@ -3275,7 +3284,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gaskkasvággi</t>
+            <t pos="N" src="SK" type="Prop">Gaskkasvággi</t>
          </tg>
       </mg>
    </e>
@@ -3285,12 +3294,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ráttovuotna</t>
+            <t pos="N" src="SK" type="Prop">Ráttovuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geaccevuotna</t>
+            <t pos="N" src="SK" type="Prop">Geaccevuotna</t>
          </tg>
       </mg>
    </e>
@@ -3300,7 +3309,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geaccevággi</t>
+            <t pos="N" src="SK" type="Prop">Geaccevággi</t>
          </tg>
       </mg>
    </e>
@@ -3310,12 +3319,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geaidnovággi</t>
+            <t pos="N" src="SK" type="Prop">Geaidnovággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Jiekŋavággi</t>
+            <t pos="N" src="SK" type="Prop">Jiekŋavággi</t>
          </tg>
       </mg>
    </e>
@@ -3325,7 +3334,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geaippilvággi</t>
+            <t pos="N" src="SK" type="Prop">Geaippilvággi</t>
          </tg>
       </mg>
    </e>
@@ -3335,7 +3344,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geairavággi</t>
+            <t pos="N" src="SK" type="Prop">Geairavággi</t>
          </tg>
       </mg>
    </e>
@@ -3345,7 +3354,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gealovággi</t>
+            <t pos="N" src="SK" type="Prop">Gealovággi</t>
          </tg>
       </mg>
    </e>
@@ -3355,7 +3364,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geassevággi</t>
+            <t pos="N" src="SK" type="Prop">Geassevággi</t>
          </tg>
       </mg>
    </e>
@@ -3365,7 +3374,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geazzevuotna</t>
+            <t pos="N" src="SK" type="Prop">Geazzevuotna</t>
          </tg>
       </mg>
    </e>
@@ -3375,7 +3384,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geinnotvággi</t>
+            <t pos="N" src="SK" type="Prop">Geinnotvággi</t>
          </tg>
       </mg>
    </e>
@@ -3385,17 +3394,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Giepmestatvággi</t>
+            <t pos="N" src="SK" type="Prop">Giepmestatvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Guhkesvággi</t>
+            <t pos="N" src="SK" type="Prop">Guhkesvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Leađđovággi</t>
+            <t pos="N" src="SK" type="Prop">Leađđovággi</t>
          </tg>
       </mg>
    </e>
@@ -3405,7 +3414,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gierdduidvággi</t>
+            <t pos="N" src="SK" type="Prop">Gierdduidvággi</t>
          </tg>
       </mg>
    </e>
@@ -3415,12 +3424,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gievdanvággi</t>
+            <t pos="N" src="SK" type="Prop">Gievdanvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Njuollaborvággi</t>
+            <t pos="N" src="SK" type="Prop">Njuollaborvággi</t>
          </tg>
       </mg>
    </e>
@@ -3430,7 +3439,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gievdnevággi</t>
+            <t pos="N" src="SK" type="Prop">Gievdnevággi</t>
          </tg>
       </mg>
    </e>
@@ -3440,7 +3449,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gievdnevággi</t>
+            <t pos="N" src="SK" type="Prop">Gievdnevággi</t>
          </tg>
       </mg>
    </e>
@@ -3450,7 +3459,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gihccevággi</t>
+            <t pos="N" src="SK" type="Prop">Gihccevággi</t>
          </tg>
       </mg>
    </e>
@@ -3460,7 +3469,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gihpovuotna</t>
+            <t pos="N" src="SK" type="Prop">Gihpovuotna</t>
          </tg>
       </mg>
    </e>
@@ -3470,7 +3479,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gilevuotna</t>
+            <t pos="N" src="SK" type="Prop">Gilevuotna</t>
          </tg>
       </mg>
    </e>
@@ -3480,7 +3489,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gistovággi</t>
+            <t pos="N" src="SK" type="Prop">Gistovággi</t>
          </tg>
       </mg>
    </e>
@@ -3490,7 +3499,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Givssatvággi</t>
+            <t pos="N" src="SK" type="Prop">Givssatvággi</t>
          </tg>
       </mg>
    </e>
@@ -3500,7 +3509,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Giđđavággi</t>
+            <t pos="N" src="SK" type="Prop">Giđđavággi</t>
          </tg>
       </mg>
    </e>
@@ -3510,7 +3519,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Goahteluovttvággi</t>
+            <t pos="N" src="SK" type="Prop">Goahteluovttvággi</t>
          </tg>
       </mg>
    </e>
@@ -3520,7 +3529,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Goavkejohvággi</t>
+            <t pos="N" src="SK" type="Prop">Goavkejohvággi</t>
          </tg>
       </mg>
    </e>
@@ -3530,7 +3539,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Goddevággi</t>
+            <t pos="N" src="SK" type="Prop">Goddevággi</t>
          </tg>
       </mg>
    </e>
@@ -3540,7 +3549,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Goddevággi</t>
+            <t pos="N" src="SK" type="Prop">Goddevággi</t>
          </tg>
       </mg>
    </e>
@@ -3550,12 +3559,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gáhppovuotna</t>
+            <t pos="N" src="SK" type="Prop">Gáhppovuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gohppalvuotna</t>
+            <t pos="N" src="SK" type="Prop">Gohppalvuotna</t>
          </tg>
       </mg>
    </e>
@@ -3565,7 +3574,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Govdavuonna</t>
+            <t pos="N" src="SK" type="Prop">Govdavuonna</t>
          </tg>
       </mg>
    </e>
@@ -3575,7 +3584,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Govdavággi</t>
+            <t pos="N" src="SK" type="Prop">Govdavággi</t>
          </tg>
       </mg>
    </e>
@@ -3585,7 +3594,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Govdavággi</t>
+            <t pos="N" src="SK" type="Prop">Govdavággi</t>
          </tg>
       </mg>
    </e>
@@ -3595,7 +3604,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Govdavággi</t>
+            <t pos="N" src="SK" type="Prop">Govdavággi</t>
          </tg>
       </mg>
    </e>
@@ -3605,7 +3614,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Goškesvággi</t>
+            <t pos="N" src="SK" type="Prop">Goškesvággi</t>
          </tg>
       </mg>
    </e>
@@ -3615,7 +3624,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Guhtovággi</t>
+            <t pos="N" src="SK" type="Prop">Guhtovággi</t>
          </tg>
       </mg>
    </e>
@@ -3625,7 +3634,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Guhturvággi</t>
+            <t pos="N" src="SK" type="Prop">Guhturvággi</t>
          </tg>
       </mg>
    </e>
@@ -3635,7 +3644,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gulpevággi</t>
+            <t pos="N" src="SK" type="Prop">Gulpevággi</t>
          </tg>
       </mg>
    </e>
@@ -3645,7 +3654,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gumpevággi</t>
+            <t pos="N" src="SK" type="Prop">Gumpevággi</t>
          </tg>
       </mg>
    </e>
@@ -3655,7 +3664,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Guolbanvággi</t>
+            <t pos="N" src="SK" type="Prop">Guolbanvággi</t>
          </tg>
       </mg>
    </e>
@@ -3665,7 +3674,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Guvgesloapmevággi</t>
+            <t pos="N" src="SK" type="Prop">Guvgesloapmevággi</t>
          </tg>
       </mg>
    </e>
@@ -3675,7 +3684,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Guvggosvággi</t>
+            <t pos="N" src="SK" type="Prop">Guvggosvággi</t>
          </tg>
       </mg>
    </e>
@@ -3685,7 +3694,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gáhpevuotna</t>
+            <t pos="N" src="SK" type="Prop">Gáhpevuotna</t>
          </tg>
       </mg>
    </e>
@@ -3695,7 +3704,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gáhttovuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Gáhttovuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -3705,7 +3714,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gáibbivággi</t>
+            <t pos="N" src="SK" type="Prop">Gáibbivággi</t>
          </tg>
       </mg>
    </e>
@@ -3715,17 +3724,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Troms" type="Prop" src="SK">Gáivuotna</t>
+            <t pos="N" reg="Troms" src="SK" type="Prop">Gáivuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Nordkapp" type="Prop" src="SK">Gávkevuotna</t>
+            <t pos="N" reg="Nordkapp" src="SK" type="Prop">Gávkevuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Alta" type="Prop" src="SK">Gávvuonna</t>
+            <t pos="N" reg="Alta" src="SK" type="Prop">Gávvuonna</t>
          </tg>
       </mg>
    </e>
@@ -3735,17 +3744,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Troms" type="Prop" src="SK">Gáivuotna</t>
+            <t pos="N" reg="Troms" src="SK" type="Prop">Gáivuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Nordkapp" type="Prop" src="SK">Gávkevuotna</t>
+            <t pos="N" reg="Nordkapp" src="SK" type="Prop">Gávkevuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Alta" type="Prop" src="SK">Gávvuonna</t>
+            <t pos="N" reg="Alta" src="SK" type="Prop">Gávvuonna</t>
          </tg>
       </mg>
    </e>
@@ -3755,17 +3764,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Áhkávággi</t>
+            <t pos="N" src="SK" type="Prop">Áhkávággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gálbbosvággi</t>
+            <t pos="N" src="SK" type="Prop">Gálbbosvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Áhkárvággi</t>
+            <t pos="N" src="SK" type="Prop">Áhkárvággi</t>
          </tg>
       </mg>
    </e>
@@ -3775,7 +3784,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gálbirvággi</t>
+            <t pos="N" src="SK" type="Prop">Gálbirvággi</t>
          </tg>
       </mg>
    </e>
@@ -3785,12 +3794,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gáltovuotna</t>
+            <t pos="N" src="SK" type="Prop">Gáltovuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gálttavuotna</t>
+            <t pos="N" src="SK" type="Prop">Gálttavuotna</t>
          </tg>
       </mg>
    </e>
@@ -3800,7 +3809,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gálttavággi</t>
+            <t pos="N" src="SK" type="Prop">Gálttavággi</t>
          </tg>
       </mg>
    </e>
@@ -3810,7 +3819,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gámavuonna</t>
+            <t pos="N" src="SK" type="Prop">Gámavuonna</t>
          </tg>
       </mg>
    </e>
@@ -3820,7 +3829,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gánesvággi</t>
+            <t pos="N" src="SK" type="Prop">Gánesvággi</t>
          </tg>
       </mg>
    </e>
@@ -3830,7 +3839,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gáranasvuotna</t>
+            <t pos="N" src="SK" type="Prop">Gáranasvuotna</t>
          </tg>
       </mg>
    </e>
@@ -3840,7 +3849,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gárdelvuonna</t>
+            <t pos="N" src="SK" type="Prop">Gárdelvuonna</t>
          </tg>
       </mg>
    </e>
@@ -3850,12 +3859,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gárgolašvággi</t>
+            <t pos="N" src="SK" type="Prop">Gárgolašvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Heastavággi</t>
+            <t pos="N" src="SK" type="Prop">Heastavággi</t>
          </tg>
       </mg>
    </e>
@@ -3865,12 +3874,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gárjelvággi</t>
+            <t pos="N" src="SK" type="Prop">Gárjelvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruoššavággi</t>
+            <t pos="N" src="SK" type="Prop">Ruoššavággi</t>
          </tg>
       </mg>
    </e>
@@ -3880,7 +3889,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gárjelvággi</t>
+            <t pos="N" src="SK" type="Prop">Gárjelvággi</t>
          </tg>
       </mg>
    </e>
@@ -3890,7 +3899,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gárjelvággi</t>
+            <t pos="N" src="SK" type="Prop">Gárjelvággi</t>
          </tg>
       </mg>
    </e>
@@ -3900,12 +3909,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gáivuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Gáivuonvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gávkevággi</t>
+            <t pos="N" src="SK" type="Prop">Gávkevággi</t>
          </tg>
       </mg>
    </e>
@@ -3915,7 +3924,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Heallovággi</t>
+            <t pos="N" src="SK" type="Prop">Heallovággi</t>
          </tg>
       </mg>
    </e>
@@ -3925,7 +3934,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Heargevággi</t>
+            <t pos="N" src="SK" type="Prop">Heargevággi</t>
          </tg>
       </mg>
    </e>
@@ -3935,7 +3944,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Heasttalvággi</t>
+            <t pos="N" src="SK" type="Prop">Heasttalvággi</t>
          </tg>
       </mg>
    </e>
@@ -3945,7 +3954,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Henddovággi</t>
+            <t pos="N" src="SK" type="Prop">Henddovággi</t>
          </tg>
       </mg>
    </e>
@@ -3955,7 +3964,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Hárvvesvággi</t>
+            <t pos="N" src="SK" type="Prop">Hárvvesvággi</t>
          </tg>
       </mg>
    </e>
@@ -3965,7 +3974,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Idjavuotna</t>
+            <t pos="N" src="SK" type="Prop">Idjavuotna</t>
          </tg>
       </mg>
    </e>
@@ -3975,7 +3984,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Idjavuotna</t>
+            <t pos="N" src="SK" type="Prop">Idjavuotna</t>
          </tg>
       </mg>
    </e>
@@ -3985,7 +3994,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Iibmavuotna</t>
+            <t pos="N" src="SK" type="Prop">Iibmavuotna</t>
          </tg>
       </mg>
    </e>
@@ -3995,12 +4004,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Iisavággi</t>
+            <t pos="N" src="SK" type="Prop">Iisavággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čievččasvággi</t>
+            <t pos="N" src="SK" type="Prop">Čievččasvággi</t>
          </tg>
       </mg>
    </e>
@@ -4010,7 +4019,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Irevuotna</t>
+            <t pos="N" src="SK" type="Prop">Irevuotna</t>
          </tg>
       </mg>
    </e>
@@ -4020,7 +4029,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Irgavuotna</t>
+            <t pos="N" src="SK" type="Prop">Irgavuotna</t>
          </tg>
       </mg>
    </e>
@@ -4030,7 +4039,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Iŋggávággi</t>
+            <t pos="N" src="SK" type="Prop">Iŋggávággi</t>
          </tg>
       </mg>
    </e>
@@ -4040,8 +4049,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Jiehkervuonna</t>
-            <t pos="N" type="Prop" src="SK">Jiehkkervuonna</t>
+            <t pos="N" src="SK" type="Prop">Jiehkervuonna</t>
+            <t pos="N" src="SK" type="Prop">Jiehkkervuonna</t>
          </tg>
       </mg>
    </e>
@@ -4051,7 +4060,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Jiekŋavággi</t>
+            <t pos="N" src="SK" type="Prop">Jiekŋavággi</t>
          </tg>
       </mg>
    </e>
@@ -4061,7 +4070,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Johkalvággi</t>
+            <t pos="N" src="SK" type="Prop">Johkalvággi</t>
          </tg>
       </mg>
    </e>
@@ -4071,7 +4080,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Johkavággi</t>
+            <t pos="N" src="SK" type="Prop">Johkavággi</t>
          </tg>
       </mg>
    </e>
@@ -4081,7 +4090,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Jorbavággi</t>
+            <t pos="N" src="SK" type="Prop">Jorbavággi</t>
          </tg>
       </mg>
    </e>
@@ -4091,7 +4100,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Junttevággi</t>
+            <t pos="N" src="SK" type="Prop">Junttevággi</t>
          </tg>
       </mg>
    </e>
@@ -4101,7 +4110,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Juomvággi</t>
+            <t pos="N" src="SK" type="Prop">Juomvággi</t>
          </tg>
       </mg>
    </e>
@@ -4111,7 +4120,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Juovlavuotna</t>
+            <t pos="N" src="SK" type="Prop">Juovlavuotna</t>
          </tg>
       </mg>
    </e>
@@ -4121,7 +4130,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Juvošvággi</t>
+            <t pos="N" src="SK" type="Prop">Juvošvággi</t>
          </tg>
       </mg>
    </e>
@@ -4131,7 +4140,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Jáhkovuonna</t>
+            <t pos="N" src="SK" type="Prop">Jáhkovuonna</t>
          </tg>
       </mg>
    </e>
@@ -4141,7 +4150,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Lavttevuotna</t>
+            <t pos="N" src="SK" type="Prop">Lavttevuotna</t>
          </tg>
       </mg>
    </e>
@@ -4151,22 +4160,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sarvvesvuotna</t>
+            <t pos="N" src="SK" type="Prop">Sarvvesvuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Leavdnjavuotna</t>
+            <t pos="N" src="SK" type="Prop">Leavdnjavuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Lavttevuotna</t>
+            <t pos="N" src="SK" type="Prop">Lavttevuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Veahčervuotna</t>
+            <t pos="N" src="SK" type="Prop">Veahčervuotna</t>
          </tg>
       </mg>
    </e>
@@ -4176,7 +4185,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Leakševággi</t>
+            <t pos="N" src="SK" type="Prop">Leakševággi</t>
          </tg>
       </mg>
    </e>
@@ -4186,7 +4195,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Liidditvuotna</t>
+            <t pos="N" src="SK" type="Prop">Liidditvuotna</t>
          </tg>
       </mg>
    </e>
@@ -4196,7 +4205,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Loddevággi</t>
+            <t pos="N" src="SK" type="Prop">Loddevággi</t>
          </tg>
       </mg>
    </e>
@@ -4206,12 +4215,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Loddevággi</t>
+            <t pos="N" src="SK" type="Prop">Loddevággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vehávággi</t>
+            <t pos="N" src="SK" type="Prop">Vehávággi</t>
          </tg>
       </mg>
    </e>
@@ -4221,7 +4230,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Luhppovággi</t>
+            <t pos="N" src="SK" type="Prop">Luhppovággi</t>
          </tg>
       </mg>
    </e>
@@ -4231,7 +4240,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Lágesvuotna</t>
+            <t pos="N" src="SK" type="Prop">Lágesvuotna</t>
          </tg>
       </mg>
    </e>
@@ -4241,17 +4250,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Lákkovuonna</t>
+            <t pos="N" src="SK" type="Prop">Lákkovuonna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stuoravuotna</t>
+            <t pos="N" src="SK" type="Prop">Stuoravuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Uhcavuonna</t>
+            <t pos="N" src="SK" type="Prop">Uhcavuonna</t>
          </tg>
       </mg>
    </e>
@@ -4261,7 +4270,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Lánavuotna</t>
+            <t pos="N" src="SK" type="Prop">Lánavuotna</t>
          </tg>
       </mg>
    </e>
@@ -4271,7 +4280,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Lávvordatvággi</t>
+            <t pos="N" src="SK" type="Prop">Lávvordatvággi</t>
          </tg>
       </mg>
    </e>
@@ -4281,7 +4290,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Lávvárvuotna</t>
+            <t pos="N" src="SK" type="Prop">Lávvárvuotna</t>
          </tg>
       </mg>
    </e>
@@ -4291,7 +4300,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Meahcevággi</t>
+            <t pos="N" src="SK" type="Prop">Meahcevággi</t>
          </tg>
       </mg>
    </e>
@@ -4301,22 +4310,22 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Moskavuotna</t>
+            <t pos="N" src="SK" type="Prop">Moskavuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Meahkovuotna</t>
+            <t pos="N" src="SK" type="Prop">Meahkovuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Máttavuotna</t>
+            <t pos="N" src="SK" type="Prop">Máttavuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Suvdovuonna</t>
+            <t pos="N" src="SK" type="Prop">Suvdovuonna</t>
          </tg>
       </mg>
    </e>
@@ -4326,12 +4335,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Berlevåg" type="Prop" src="SK">Miennavuotna</t>
+            <t pos="N" reg="Berlevåg" src="SK" type="Prop">Miennavuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Nordkapp" type="Prop" src="SK">Rissevuotna</t>
+            <t pos="N" reg="Nordkapp" src="SK" type="Prop">Rissevuotna</t>
          </tg>
       </mg>
    </e>
@@ -4341,7 +4350,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Moalkevuotna</t>
+            <t pos="N" src="SK" type="Prop">Moalkevuotna</t>
          </tg>
       </mg>
    </e>
@@ -4351,7 +4360,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Moalkevuotna</t>
+            <t pos="N" src="SK" type="Prop">Moalkevuotna</t>
          </tg>
       </mg>
    </e>
@@ -4361,12 +4370,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Moskavuotna</t>
+            <t pos="N" src="SK" type="Prop">Moskavuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ullovuotna</t>
+            <t pos="N" src="SK" type="Prop">Ullovuotna</t>
          </tg>
       </mg>
    </e>
@@ -4376,7 +4385,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Moskkuvággi</t>
+            <t pos="N" src="SK" type="Prop">Moskkuvággi</t>
          </tg>
       </mg>
    </e>
@@ -4386,7 +4395,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Moskovággi</t>
+            <t pos="N" src="SK" type="Prop">Moskovággi</t>
          </tg>
       </mg>
    </e>
@@ -4396,7 +4405,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Muohtavággi</t>
+            <t pos="N" src="SK" type="Prop">Muohtavággi</t>
          </tg>
       </mg>
    </e>
@@ -4406,7 +4415,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Muorralvuotna</t>
+            <t pos="N" src="SK" type="Prop">Muorralvuotna</t>
          </tg>
       </mg>
    </e>
@@ -4416,7 +4425,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Muotkevuotna</t>
+            <t pos="N" src="SK" type="Prop">Muotkevuotna</t>
          </tg>
       </mg>
    </e>
@@ -4426,12 +4435,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Muottavággi</t>
+            <t pos="N" src="SK" type="Prop">Muottavággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stuorajárvággi</t>
+            <t pos="N" src="SK" type="Prop">Stuorajárvággi</t>
          </tg>
       </mg>
    </e>
@@ -4441,7 +4450,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Máhkilvuotna</t>
+            <t pos="N" src="SK" type="Prop">Máhkilvuotna</t>
          </tg>
       </mg>
    </e>
@@ -4451,7 +4460,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Máldovuotna</t>
+            <t pos="N" src="SK" type="Prop">Máldovuotna</t>
          </tg>
       </mg>
    </e>
@@ -4461,7 +4470,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Málesvuotna</t>
+            <t pos="N" src="SK" type="Prop">Málesvuotna</t>
          </tg>
       </mg>
    </e>
@@ -4471,7 +4480,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Márjjavággi</t>
+            <t pos="N" src="SK" type="Prop">Márjjavággi</t>
          </tg>
       </mg>
    </e>
@@ -4481,7 +4490,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Márttavággi</t>
+            <t pos="N" src="SK" type="Prop">Márttavággi</t>
          </tg>
       </mg>
    </e>
@@ -4491,7 +4500,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Nammavággi</t>
+            <t pos="N" src="SK" type="Prop">Nammavággi</t>
          </tg>
       </mg>
    </e>
@@ -4501,7 +4510,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Áhkánjárga</t>
+            <t pos="N" src="SK" type="Prop">Áhkánjárga</t>
          </tg>
       </mg>
    </e>
@@ -4511,7 +4520,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Neaskinvuotna</t>
+            <t pos="N" src="SK" type="Prop">Neaskinvuotna</t>
          </tg>
       </mg>
    </e>
@@ -4521,7 +4530,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Nieidavággi</t>
+            <t pos="N" src="SK" type="Prop">Nieidavággi</t>
          </tg>
       </mg>
    </e>
@@ -4531,7 +4540,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Njižževuotna</t>
+            <t pos="N" src="SK" type="Prop">Njižževuotna</t>
          </tg>
       </mg>
    </e>
@@ -4541,7 +4550,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Njuorjjogopvággi</t>
+            <t pos="N" src="SK" type="Prop">Njuorjjogopvággi</t>
          </tg>
       </mg>
    </e>
@@ -4551,7 +4560,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Njávdámvuonna</t>
+            <t pos="N" src="SK" type="Prop">Njávdámvuonna</t>
          </tg>
       </mg>
    </e>
@@ -4561,7 +4570,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Njávdámvuonna</t>
+            <t pos="N" src="SK" type="Prop">Njávdámvuonna</t>
          </tg>
       </mg>
    </e>
@@ -4571,7 +4580,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Noammervággi</t>
+            <t pos="N" src="SK" type="Prop">Noammervággi</t>
          </tg>
       </mg>
    </e>
@@ -4581,7 +4590,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Nuortavuotna</t>
+            <t pos="N" src="SK" type="Prop">Nuortavuotna</t>
          </tg>
       </mg>
    </e>
@@ -4591,7 +4600,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Náhkkevággi</t>
+            <t pos="N" src="SK" type="Prop">Náhkkevággi</t>
          </tg>
       </mg>
    </e>
@@ -4601,7 +4610,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Návuonna</t>
+            <t pos="N" src="SK" type="Prop">Návuonna</t>
          </tg>
       </mg>
    </e>
@@ -4611,7 +4620,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Oaggovuotna</t>
+            <t pos="N" src="SK" type="Prop">Oaggovuotna</t>
          </tg>
       </mg>
    </e>
@@ -4621,7 +4630,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Olmmáivággi</t>
+            <t pos="N" src="SK" type="Prop">Olmmáivággi</t>
          </tg>
       </mg>
    </e>
@@ -4631,12 +4640,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Omasvuotna</t>
+            <t pos="N" src="SK" type="Prop">Omasvuotna</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stuorravuotna</t>
+            <t pos="N" src="SK" type="Prop">Stuorravuotna</t>
          </tg>
       </mg>
    </e>
@@ -4646,7 +4655,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Orjježiidvággi</t>
+            <t pos="N" src="SK" type="Prop">Orjježiidvággi</t>
          </tg>
       </mg>
    </e>
@@ -4666,7 +4675,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Porsáŋgguvuotna</t>
+            <t pos="N" src="SK" type="Prop">Porsáŋgguvuotna</t>
          </tg>
       </mg>
    </e>
@@ -4676,7 +4685,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Reaisvuonna</t>
+            <t pos="N" src="SK" type="Prop">Reaisvuonna</t>
          </tg>
       </mg>
    </e>
@@ -4686,7 +4695,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Reaššvuonna</t>
+            <t pos="N" src="SK" type="Prop">Reaššvuonna</t>
          </tg>
       </mg>
    </e>
@@ -4696,7 +4705,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Riebevággi</t>
+            <t pos="N" src="SK" type="Prop">Riebevággi</t>
          </tg>
       </mg>
    </e>
@@ -4706,7 +4715,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Riehpovuotna</t>
+            <t pos="N" src="SK" type="Prop">Riehpovuotna</t>
          </tg>
       </mg>
    </e>
@@ -4716,7 +4725,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Riehppevággi</t>
+            <t pos="N" src="SK" type="Prop">Riehppevággi</t>
          </tg>
       </mg>
    </e>
@@ -4726,7 +4735,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rievdnavággi</t>
+            <t pos="N" src="SK" type="Prop">Rievdnavággi</t>
          </tg>
       </mg>
    </e>
@@ -4736,12 +4745,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Riikovággi</t>
+            <t pos="N" src="SK" type="Prop">Riikovággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rássevággi</t>
+            <t pos="N" src="SK" type="Prop">Rássevággi</t>
          </tg>
       </mg>
    </e>
@@ -4751,7 +4760,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rivdnjevuotna</t>
+            <t pos="N" src="SK" type="Prop">Rivdnjevuotna</t>
          </tg>
       </mg>
    </e>
@@ -4761,7 +4770,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rivgovággi</t>
+            <t pos="N" src="SK" type="Prop">Rivgovággi</t>
          </tg>
       </mg>
    </e>
@@ -4771,7 +4780,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Roabavuotna</t>
+            <t pos="N" src="SK" type="Prop">Roabavuotna</t>
          </tg>
       </mg>
    </e>
@@ -4781,7 +4790,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rohtovággi</t>
+            <t pos="N" src="SK" type="Prop">Rohtovággi</t>
          </tg>
       </mg>
    </e>
@@ -4791,7 +4800,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rokkilvággi</t>
+            <t pos="N" src="SK" type="Prop">Rokkilvággi</t>
          </tg>
       </mg>
    </e>
@@ -4801,12 +4810,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Romssavággi</t>
+            <t pos="N" src="SK" type="Prop">Romssavággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sálašvággi</t>
+            <t pos="N" src="SK" type="Prop">Sálašvággi</t>
          </tg>
       </mg>
    </e>
@@ -4816,7 +4825,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rostavuonna</t>
+            <t pos="N" src="SK" type="Prop">Rostavuonna</t>
          </tg>
       </mg>
    </e>
@@ -4826,7 +4835,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruksesvuotna</t>
+            <t pos="N" src="SK" type="Prop">Ruksesvuotna</t>
          </tg>
       </mg>
    </e>
@@ -4836,12 +4845,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="other">Honnesváhki</t>
+            <t pos="N" src="other" type="Prop">Honnesváhki</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="other">Áváhki</t>
+            <t pos="N" src="other" type="Prop">Áváhki</t>
          </tg>
       </mg>
    </e>
@@ -4851,7 +4860,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruksesvággi</t>
+            <t pos="N" src="SK" type="Prop">Ruksesvággi</t>
          </tg>
       </mg>
    </e>
@@ -4861,7 +4870,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruksesvággi</t>
+            <t pos="N" src="SK" type="Prop">Ruksesvággi</t>
          </tg>
       </mg>
    </e>
@@ -4871,7 +4880,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruovdevuonna</t>
+            <t pos="N" src="SK" type="Prop">Ruovdevuonna</t>
          </tg>
       </mg>
    </e>
@@ -4881,7 +4890,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruoššavuotna</t>
+            <t pos="N" src="SK" type="Prop">Ruoššavuotna</t>
          </tg>
       </mg>
    </e>
@@ -4891,7 +4900,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruoššavággi</t>
+            <t pos="N" src="SK" type="Prop">Ruoššavággi</t>
          </tg>
       </mg>
    </e>
@@ -4901,7 +4910,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruššovággi</t>
+            <t pos="N" src="SK" type="Prop">Ruššovággi</t>
          </tg>
       </mg>
    </e>
@@ -4911,7 +4920,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ráhpesvággi</t>
+            <t pos="N" src="SK" type="Prop">Ráhpesvággi</t>
          </tg>
       </mg>
    </e>
@@ -4921,7 +4930,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ráhttonasvággi</t>
+            <t pos="N" src="SK" type="Prop">Ráhttonasvággi</t>
          </tg>
       </mg>
    </e>
@@ -4931,7 +4940,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ráisavuotna</t>
+            <t pos="N" src="SK" type="Prop">Ráisavuotna</t>
          </tg>
       </mg>
    </e>
@@ -4941,7 +4950,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ráisavuotna</t>
+            <t pos="N" src="SK" type="Prop">Ráisavuotna</t>
          </tg>
       </mg>
    </e>
@@ -4951,7 +4960,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Rávjavuotna</t>
+            <t pos="N" src="SK" type="Prop">Rávjavuotna</t>
          </tg>
       </mg>
    </e>
@@ -4961,7 +4970,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sadjinvággi</t>
+            <t pos="N" src="SK" type="Prop">Sadjinvággi</t>
          </tg>
       </mg>
    </e>
@@ -4971,7 +4980,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sahávággi</t>
+            <t pos="N" src="SK" type="Prop">Sahávággi</t>
          </tg>
       </mg>
    </e>
@@ -4981,7 +4990,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Salvvasvággi</t>
+            <t pos="N" src="SK" type="Prop">Salvvasvággi</t>
          </tg>
       </mg>
    </e>
@@ -4991,7 +5000,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sapmavággi</t>
+            <t pos="N" src="SK" type="Prop">Sapmavággi</t>
          </tg>
       </mg>
    </e>
@@ -5001,7 +5010,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sapmavággi</t>
+            <t pos="N" src="SK" type="Prop">Sapmavággi</t>
          </tg>
       </mg>
    </e>
@@ -5011,7 +5020,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sarvvesvuotna</t>
+            <t pos="N" src="SK" type="Prop">Sarvvesvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5021,7 +5030,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Seahkkavuotna</t>
+            <t pos="N" src="SK" type="Prop">Seahkkavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5031,7 +5040,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sevdnjosvággi</t>
+            <t pos="N" src="SK" type="Prop">Sevdnjosvággi</t>
          </tg>
       </mg>
    </e>
@@ -5041,7 +5050,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sieiddevuotna</t>
+            <t pos="N" src="SK" type="Prop">Sieiddevuotna</t>
          </tg>
       </mg>
    </e>
@@ -5051,7 +5060,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Måsøy" type="Prop" src="SK">Sieiddevággi</t>
+            <t pos="N" reg="Måsøy" src="SK" type="Prop">Sieiddevággi</t>
          </tg>
       </mg>
    </e>
@@ -5061,7 +5070,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Tromsø" type="Prop" src="SK">Biežavággi</t>
+            <t pos="N" reg="Tromsø" src="SK" type="Prop">Biežavággi</t>
          </tg>
       </mg>
    </e>
@@ -5071,7 +5080,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sieidevuotna</t>
+            <t pos="N" src="SK" type="Prop">Sieidevuotna</t>
          </tg>
       </mg>
    </e>
@@ -5081,7 +5090,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Siellakvuotna</t>
+            <t pos="N" src="SK" type="Prop">Siellakvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5091,7 +5100,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Siidavuonna</t>
+            <t pos="N" src="SK" type="Prop">Siidavuonna</t>
          </tg>
       </mg>
    </e>
@@ -5101,7 +5110,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Siivvarvággi</t>
+            <t pos="N" src="SK" type="Prop">Siivvarvággi</t>
          </tg>
       </mg>
    </e>
@@ -5111,7 +5120,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Simmaidvággi</t>
+            <t pos="N" src="SK" type="Prop">Simmaidvággi</t>
          </tg>
       </mg>
    </e>
@@ -5121,7 +5130,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Simmáviihvággi</t>
+            <t pos="N" src="SK" type="Prop">Simmáviihvággi</t>
          </tg>
       </mg>
    </e>
@@ -5131,7 +5140,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sirddavággi</t>
+            <t pos="N" src="SK" type="Prop">Sirddavággi</t>
          </tg>
       </mg>
    </e>
@@ -5141,7 +5150,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sittarvuotna</t>
+            <t pos="N" src="SK" type="Prop">Sittarvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5151,7 +5160,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skerttetvággi</t>
+            <t pos="N" src="SK" type="Prop">Skerttetvággi</t>
          </tg>
       </mg>
    </e>
@@ -5161,7 +5170,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skiessvuotna</t>
+            <t pos="N" src="SK" type="Prop">Skiessvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5171,7 +5180,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skiipavuotna</t>
+            <t pos="N" src="SK" type="Prop">Skiipavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5181,7 +5190,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skulvavággi</t>
+            <t pos="N" src="SK" type="Prop">Skulvavággi</t>
          </tg>
       </mg>
    </e>
@@ -5191,7 +5200,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skuohtavuotna</t>
+            <t pos="N" src="SK" type="Prop">Skuohtavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5201,17 +5210,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skuonasvággi</t>
+            <t pos="N" src="SK" type="Prop">Skuonasvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stuoravággi</t>
+            <t pos="N" src="SK" type="Prop">Stuoravággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stállovággi</t>
+            <t pos="N" src="SK" type="Prop">Stállovággi</t>
          </tg>
       </mg>
    </e>
@@ -5221,7 +5230,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skáhpevággi</t>
+            <t pos="N" src="SK" type="Prop">Skáhpevággi</t>
          </tg>
       </mg>
    </e>
@@ -5231,7 +5240,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skáravuotna</t>
+            <t pos="N" src="SK" type="Prop">Skáravuotna</t>
          </tg>
       </mg>
    </e>
@@ -5241,7 +5250,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skárfvággi</t>
+            <t pos="N" src="SK" type="Prop">Skárfvággi</t>
          </tg>
       </mg>
    </e>
@@ -5251,7 +5260,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skávlevággi</t>
+            <t pos="N" src="SK" type="Prop">Skávlevággi</t>
          </tg>
       </mg>
    </e>
@@ -5261,7 +5270,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Smiervuotna</t>
+            <t pos="N" src="SK" type="Prop">Smiervuotna</t>
          </tg>
       </mg>
    </e>
@@ -5271,7 +5280,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Smálkovággi</t>
+            <t pos="N" src="SK" type="Prop">Smálkovággi</t>
          </tg>
       </mg>
    </e>
@@ -5281,7 +5290,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Soggovuotna</t>
+            <t pos="N" src="SK" type="Prop">Soggovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5291,7 +5300,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Kvænangen" type="Prop" src="SK">Sonnabeaivággi</t>
+            <t pos="N" reg="Kvænangen" src="SK" type="Prop">Sonnabeaivággi</t>
          </tg>
       </mg>
    </e>
@@ -5301,7 +5310,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stohkkavuotna</t>
+            <t pos="N" src="SK" type="Prop">Stohkkavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5311,7 +5320,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stohpovuotna</t>
+            <t pos="N" src="SK" type="Prop">Stohpovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5321,7 +5330,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Strommavuonna</t>
+            <t pos="N" src="SK" type="Prop">Strommavuonna</t>
          </tg>
       </mg>
    </e>
@@ -5331,7 +5340,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Strovmmavággi</t>
+            <t pos="N" src="SK" type="Prop">Strovmmavággi</t>
          </tg>
       </mg>
    </e>
@@ -5341,7 +5350,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stránddavuotna</t>
+            <t pos="N" src="SK" type="Prop">Stránddavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5351,7 +5360,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stránddavággi</t>
+            <t pos="N" src="SK" type="Prop">Stránddavággi</t>
          </tg>
       </mg>
    </e>
@@ -5361,7 +5370,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stuorajárvággi</t>
+            <t pos="N" src="SK" type="Prop">Stuorajárvággi</t>
          </tg>
       </mg>
    </e>
@@ -5371,7 +5380,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stuoravuotna</t>
+            <t pos="N" src="SK" type="Prop">Stuoravuotna</t>
          </tg>
       </mg>
    </e>
@@ -5381,7 +5390,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stuoravuotna</t>
+            <t pos="N" src="SK" type="Prop">Stuoravuotna</t>
          </tg>
       </mg>
    </e>
@@ -5391,7 +5400,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stuorvikvággi</t>
+            <t pos="N" src="SK" type="Prop">Stuorvikvággi</t>
          </tg>
       </mg>
    </e>
@@ -5401,7 +5410,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stállovággi</t>
+            <t pos="N" src="SK" type="Prop">Stállovággi</t>
          </tg>
       </mg>
    </e>
@@ -5411,7 +5420,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Stállovággi</t>
+            <t pos="N" src="SK" type="Prop">Stállovággi</t>
          </tg>
       </mg>
    </e>
@@ -5421,7 +5430,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Suivvevággi</t>
+            <t pos="N" src="SK" type="Prop">Suivvevággi</t>
          </tg>
       </mg>
    </e>
@@ -5431,12 +5440,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Suoidnevággi</t>
+            <t pos="N" src="SK" type="Prop">Suoidnevággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čuonjávággi</t>
+            <t pos="N" src="SK" type="Prop">Čuonjávággi</t>
          </tg>
       </mg>
    </e>
@@ -5446,7 +5455,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Suollatvággi</t>
+            <t pos="N" src="SK" type="Prop">Suollatvággi</t>
          </tg>
       </mg>
    </e>
@@ -5456,7 +5465,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Suollatvággi</t>
+            <t pos="N" src="SK" type="Prop">Suollatvággi</t>
          </tg>
       </mg>
    </e>
@@ -5466,7 +5475,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Suorrevággi</t>
+            <t pos="N" src="SK" type="Prop">Suorrevággi</t>
          </tg>
       </mg>
    </e>
@@ -5476,7 +5485,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sáitevuonna</t>
+            <t pos="N" src="SK" type="Prop">Sáitevuonna</t>
          </tg>
       </mg>
    </e>
@@ -5486,7 +5495,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sáltevággi</t>
+            <t pos="N" src="SK" type="Prop">Sáltevággi</t>
          </tg>
       </mg>
    </e>
@@ -5496,7 +5505,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sáttovuotna</t>
+            <t pos="N" src="SK" type="Prop">Sáttovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5506,7 +5515,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sáttovuotna</t>
+            <t pos="N" src="SK" type="Prop">Sáttovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5516,7 +5525,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sáttovuotna</t>
+            <t pos="N" src="SK" type="Prop">Sáttovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5526,7 +5535,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Uffirvuotna</t>
+            <t pos="N" src="SK" type="Prop">Uffirvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5536,12 +5545,12 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Uhcavuonašvággi</t>
+            <t pos="N" src="SK" type="Prop">Uhcavuonašvággi</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čáhppesvággi</t>
+            <t pos="N" src="SK" type="Prop">Čáhppesvággi</t>
          </tg>
       </mg>
    </e>
@@ -5551,7 +5560,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ulddašvággi</t>
+            <t pos="N" src="SK" type="Prop">Ulddašvággi</t>
          </tg>
       </mg>
    </e>
@@ -5561,7 +5570,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ulddašvággi</t>
+            <t pos="N" src="SK" type="Prop">Ulddašvággi</t>
          </tg>
       </mg>
    </e>
@@ -5571,7 +5580,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ullovuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Ullovuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -5581,7 +5590,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Uvduvuonna</t>
+            <t pos="N" src="SK" type="Prop">Uvduvuonna</t>
          </tg>
       </mg>
    </e>
@@ -5591,7 +5600,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Veaiggosvuotna</t>
+            <t pos="N" src="SK" type="Prop">Veaiggosvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5601,7 +5610,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Veaikevággi</t>
+            <t pos="N" src="SK" type="Prop">Veaikevággi</t>
          </tg>
       </mg>
    </e>
@@ -5611,7 +5620,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Viektavuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Viektavuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -5621,7 +5630,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Viektavuotna</t>
+            <t pos="N" src="SK" type="Prop">Viektavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5631,7 +5640,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vieravuotna</t>
+            <t pos="N" src="SK" type="Prop">Vieravuotna</t>
          </tg>
       </mg>
    </e>
@@ -5641,7 +5650,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuoiddasvuotna</t>
+            <t pos="N" src="SK" type="Prop">Vuoiddasvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5651,7 +5660,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuojatluohvággi</t>
+            <t pos="N" src="SK" type="Prop">Vuojatluohvággi</t>
          </tg>
       </mg>
    </e>
@@ -5661,7 +5670,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuoksavuotna</t>
+            <t pos="N" src="SK" type="Prop">Vuoksavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5671,7 +5680,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuolevággi</t>
+            <t pos="N" src="SK" type="Prop">Vuolevággi</t>
          </tg>
       </mg>
    </e>
@@ -5681,7 +5690,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuorkelvuotna</t>
+            <t pos="N" src="SK" type="Prop">Vuorkelvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5691,7 +5700,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuotkevuotna</t>
+            <t pos="N" src="SK" type="Prop">Vuotkevuotna</t>
          </tg>
       </mg>
    </e>
@@ -5701,7 +5710,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuođavuotna</t>
+            <t pos="N" src="SK" type="Prop">Vuođavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5711,7 +5720,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuoŧkevuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Vuoŧkevuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -5721,7 +5730,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuoŧkevuotna</t>
+            <t pos="N" src="SK" type="Prop">Vuoŧkevuotna</t>
          </tg>
       </mg>
    </e>
@@ -5731,7 +5740,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuošvággi</t>
+            <t pos="N" src="SK" type="Prop">Vuošvággi</t>
          </tg>
       </mg>
    </e>
@@ -5741,7 +5750,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vuošvággi</t>
+            <t pos="N" src="SK" type="Prop">Vuošvággi</t>
          </tg>
       </mg>
    </e>
@@ -5751,7 +5760,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Váltovuotna</t>
+            <t pos="N" src="SK" type="Prop">Váltovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5761,7 +5770,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Váttavuotna</t>
+            <t pos="N" src="SK" type="Prop">Váttavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5771,7 +5780,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Áhkárvuotna</t>
+            <t pos="N" src="SK" type="Prop">Áhkárvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5781,7 +5790,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ákŋovuonna</t>
+            <t pos="N" src="SK" type="Prop">Ákŋovuonna</t>
          </tg>
       </mg>
    </e>
@@ -5791,7 +5800,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ákšovuotna</t>
+            <t pos="N" src="SK" type="Prop">Ákšovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5801,7 +5810,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ákšovuotna</t>
+            <t pos="N" src="SK" type="Prop">Ákšovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5811,7 +5820,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ákšovuotna</t>
+            <t pos="N" src="SK" type="Prop">Ákšovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5821,7 +5830,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Árresvuotna</t>
+            <t pos="N" src="SK" type="Prop">Árresvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5831,7 +5840,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Árresvággi</t>
+            <t pos="N" src="SK" type="Prop">Árresvággi</t>
          </tg>
       </mg>
    </e>
@@ -5841,7 +5850,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Árresvággi</t>
+            <t pos="N" src="SK" type="Prop">Árresvággi</t>
          </tg>
       </mg>
    </e>
@@ -5851,7 +5860,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Áttánvuotna</t>
+            <t pos="N" src="SK" type="Prop">Áttánvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5861,7 +5870,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ávčavággi</t>
+            <t pos="N" src="SK" type="Prop">Ávčavággi</t>
          </tg>
       </mg>
    </e>
@@ -5871,7 +5880,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čalmmasvággi</t>
+            <t pos="N" src="SK" type="Prop">Čalmmasvággi</t>
          </tg>
       </mg>
    </e>
@@ -5881,7 +5890,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čielgevuotna</t>
+            <t pos="N" src="SK" type="Prop">Čielgevuotna</t>
          </tg>
       </mg>
    </e>
@@ -5891,7 +5900,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čižževuotna</t>
+            <t pos="N" src="SK" type="Prop">Čižževuotna</t>
          </tg>
       </mg>
    </e>
@@ -5901,7 +5910,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čoahkenvuotna</t>
+            <t pos="N" src="SK" type="Prop">Čoahkenvuotna</t>
          </tg>
       </mg>
    </e>
@@ -5911,7 +5920,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čoarddavággi</t>
+            <t pos="N" src="SK" type="Prop">Čoarddavággi</t>
          </tg>
       </mg>
    </e>
@@ -5921,7 +5930,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čoađgevággi</t>
+            <t pos="N" src="SK" type="Prop">Čoađgevággi</t>
          </tg>
       </mg>
    </e>
@@ -5931,7 +5940,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čunovággi</t>
+            <t pos="N" src="SK" type="Prop">Čunovággi</t>
          </tg>
       </mg>
    </e>
@@ -5941,7 +5950,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čuollovuotna</t>
+            <t pos="N" src="SK" type="Prop">Čuollovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5951,7 +5960,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čuolovuotna</t>
+            <t pos="N" src="SK" type="Prop">Čuolovuotna</t>
          </tg>
       </mg>
    </e>
@@ -5961,7 +5970,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čuovgavuotna</t>
+            <t pos="N" src="SK" type="Prop">Čuovgavuotna</t>
          </tg>
       </mg>
    </e>
@@ -5971,7 +5980,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Anár</t>
+            <t pos="N" src="PS_SA" type="Prop">Anár</t>
          </tg>
       </mg>
    </e>
@@ -5991,7 +6000,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Beahcán</t>
+            <t pos="N" src="PS_SA" type="Prop">Beahcán</t>
          </tg>
       </mg>
    </e>
@@ -6001,7 +6010,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Budejju</t>
+            <t pos="N" src="PS_SA" type="Prop">Budejju</t>
          </tg>
       </mg>
    </e>
@@ -6011,7 +6020,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="kal">Buolbmátjávri</t>
+            <t pos="N" src="kal" type="Prop">Buolbmátjávri</t>
          </tg>
       </mg>
    </e>
@@ -6031,7 +6040,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Davvimearra</t>
+            <t pos="N" src="PS_SA" type="Prop">Davvimearra</t>
          </tg>
       </mg>
    </e>
@@ -6041,7 +6050,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA,gg">Duiska</t>
+            <t pos="N" src="PS_SA,gg" type="Prop">Duiska</t>
          </tg>
       </mg>
    </e>
@@ -6051,7 +6060,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA,gg">Estteeana</t>
+            <t pos="N" src="PS_SA,gg" type="Prop">Estteeana</t>
          </tg>
       </mg>
    </e>
@@ -6061,7 +6070,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Finnmárku</t>
+            <t pos="N" src="PS_SA" type="Prop">Finnmárku</t>
          </tg>
       </mg>
    </e>
@@ -6071,7 +6080,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Gaska-Nuorti</t>
+            <t pos="N" src="PS_SA" type="Prop">Gaska-Nuorti</t>
          </tg>
       </mg>
    </e>
@@ -6081,7 +6090,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Gaskamearra</t>
+            <t pos="N" src="PS_SA" type="Prop">Gaskamearra</t>
          </tg>
       </mg>
    </e>
@@ -6091,7 +6100,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Giemajohka</t>
+            <t pos="N" src="PS_SA" type="Prop">Giemajohka</t>
          </tg>
       </mg>
    </e>
@@ -6101,7 +6110,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Giemajávri</t>
+            <t pos="N" src="PS_SA" type="Prop">Giemajávri</t>
          </tg>
       </mg>
    </e>
@@ -6111,7 +6120,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Guoládat</t>
+            <t pos="N" src="PS_SA" type="Prop">Guoládat</t>
          </tg>
       </mg>
    </e>
@@ -6121,7 +6130,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Guoládatnjárga</t>
+            <t pos="N" src="PS_SA" type="Prop">Guoládatnjárga</t>
          </tg>
       </mg>
    </e>
@@ -6141,7 +6150,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Háhpárándi</t>
+            <t pos="N" src="PS_SA" type="Prop">Háhpárándi</t>
          </tg>
       </mg>
    </e>
@@ -6151,7 +6160,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Hámmerfeasta</t>
+            <t pos="N" src="SK" type="Prop">Hámmerfeasta</t>
          </tg>
       </mg>
    </e>
@@ -6161,7 +6170,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Hápmir</t>
+            <t pos="N" src="PS_SA" type="Prop">Hápmir</t>
          </tg>
       </mg>
    </e>
@@ -6171,7 +6180,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Lujávri</t>
+            <t pos="N" src="PS_SA" type="Prop">Lujávri</t>
          </tg>
       </mg>
    </e>
@@ -6191,7 +6200,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Mearrabađaluokta</t>
+            <t pos="N" src="PS_SA" type="Prop">Mearrabađaluokta</t>
          </tg>
       </mg>
    </e>
@@ -6211,7 +6220,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Nuortamearra</t>
+            <t pos="N" src="PS_SA" type="Prop">Nuortamearra</t>
          </tg>
       </mg>
    </e>
@@ -6221,7 +6230,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Durka</t>
+            <t pos="N" src="GG" type="Prop">Durka</t>
          </tg>
       </mg>
    </e>
@@ -6231,7 +6240,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Ukraina</t>
+            <t pos="N" src="GG" type="Prop">Ukraina</t>
          </tg>
       </mg>
    </e>
@@ -6241,7 +6250,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Slovenia</t>
+            <t pos="N" src="GG" type="Prop">Slovenia</t>
          </tg>
       </mg>
    </e>
@@ -6251,7 +6260,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">San Marino</t>
+            <t pos="N" src="GG" type="Prop">San Marino</t>
          </tg>
       </mg>
    </e>
@@ -6261,7 +6270,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Monaco</t>
+            <t pos="N" src="GG" type="Prop">Monaco</t>
          </tg>
       </mg>
    </e>
@@ -6271,7 +6280,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Liechtenstein</t>
+            <t pos="N" src="GG" type="Prop">Liechtenstein</t>
          </tg>
       </mg>
    </e>
@@ -6281,7 +6290,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Bosnia-Hercegovina</t>
+            <t pos="N" src="GG" type="Prop">Bosnia-Hercegovina</t>
          </tg>
       </mg>
    </e>
@@ -6291,7 +6300,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Vilges-Ruošša</t>
+            <t pos="N" src="GG" type="Prop">Vilges-Ruošša</t>
          </tg>
       </mg>
    </e>
@@ -6301,7 +6310,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Andorrá</t>
+            <t pos="N" src="GG" type="Prop">Andorrá</t>
          </tg>
       </mg>
    </e>
@@ -6311,7 +6320,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Serbia</t>
+            <t pos="N" src="GG" type="Prop">Serbia</t>
          </tg>
       </mg>
    </e>
@@ -6321,20 +6330,17 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Portugála</t>
+            <t pos="N" src="GG" type="Prop">Portugála</t>
          </tg>
       </mg>
    </e>
-
-
-
    <e>
       <lg>
          <l pos="N" type="Prop">Polen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Polska</t>
+            <t pos="N" src="GG" type="Prop">Polska</t>
          </tg>
       </mg>
    </e>
@@ -6344,7 +6350,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Montenegro</t>
+            <t pos="N" src="GG" type="Prop">Montenegro</t>
          </tg>
       </mg>
    </e>
@@ -6354,7 +6360,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Máltá</t>
+            <t pos="N" src="GG" type="Prop">Máltá</t>
          </tg>
       </mg>
    </e>
@@ -6364,7 +6370,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Luxemburga</t>
+            <t pos="N" src="GG" type="Prop">Luxemburga</t>
          </tg>
       </mg>
    </e>
@@ -6374,7 +6380,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Čehkkia</t>
+            <t pos="N" src="GG" type="Prop">Čehkkia</t>
          </tg>
       </mg>
    </e>
@@ -6384,7 +6390,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Bulgária</t>
+            <t pos="N" src="GG" type="Prop">Bulgária</t>
          </tg>
       </mg>
    </e>
@@ -6394,7 +6400,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Kroáhtia</t>
+            <t pos="N" src="GG" type="Prop">Kroáhtia</t>
          </tg>
       </mg>
    </e>
@@ -6404,7 +6410,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Vatikána</t>
+            <t pos="N" src="GG" type="Prop">Vatikána</t>
          </tg>
       </mg>
    </e>
@@ -6414,7 +6420,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Slováhkia</t>
+            <t pos="N" src="GG" type="Prop">Slováhkia</t>
          </tg>
       </mg>
    </e>
@@ -6424,7 +6430,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Espánnja</t>
+            <t pos="N" src="GG" type="Prop">Espánnja</t>
          </tg>
       </mg>
    </e>
@@ -6434,7 +6440,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Ungára</t>
+            <t pos="N" src="GG" type="Prop">Ungára</t>
          </tg>
       </mg>
    </e>
@@ -6444,8 +6450,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA,gg">Nuortariika</t>
-            <t pos="N" type="Prop" src="GG">Lulleriika</t>
+            <t pos="N" src="PS_SA,gg" type="Prop">Nuortariika</t>
+            <t pos="N" src="GG" type="Prop">Lulleriika</t>
          </tg>
       </mg>
    </e>
@@ -6455,7 +6461,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Roavenjárga</t>
+            <t pos="N" src="PS_SA" type="Prop">Roavenjárga</t>
          </tg>
       </mg>
    </e>
@@ -6465,7 +6471,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Romsa</t>
+            <t pos="N" src="PS_SA" type="Prop">Romsa</t>
          </tg>
       </mg>
    </e>
@@ -6475,7 +6481,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Romsa</t>
+            <t pos="N" src="PS_SA" type="Prop">Romsa</t>
          </tg>
       </mg>
    </e>
@@ -6485,7 +6491,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Ruksesmearra</t>
+            <t pos="N" src="PS_SA" type="Prop">Ruksesmearra</t>
          </tg>
       </mg>
    </e>
@@ -6495,7 +6501,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Ruonáeana</t>
+            <t pos="N" src="PS_SA" type="Prop">Ruonáeana</t>
          </tg>
       </mg>
    </e>
@@ -6505,7 +6511,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Ubmi</t>
+            <t pos="N" src="PS_SA" type="Prop">Ubmi</t>
          </tg>
       </mg>
    </e>
@@ -6515,7 +6521,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Vilgesmearra</t>
+            <t pos="N" src="PS_SA" type="Prop">Vilgesmearra</t>
          </tg>
       </mg>
    </e>
@@ -6525,7 +6531,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Vuohčču</t>
+            <t pos="N" src="PS_SA" type="Prop">Vuohčču</t>
          </tg>
       </mg>
    </e>
@@ -6535,7 +6541,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Ábeskovvu</t>
+            <t pos="N" src="PS_SA" type="Prop">Ábeskovvu</t>
          </tg>
       </mg>
    </e>
@@ -6545,7 +6551,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Áhkkil</t>
+            <t pos="N" src="PS_SA" type="Prop">Áhkkil</t>
          </tg>
       </mg>
    </e>
@@ -6565,7 +6571,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Áilu</t>
+            <t pos="N" src="PS_SA" type="Prop">Áilu</t>
          </tg>
       </mg>
    </e>
@@ -6575,7 +6581,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="kal">Álletnjárga</t>
+            <t pos="N" src="kal" type="Prop">Álletnjárga</t>
          </tg>
       </mg>
    </e>
@@ -6585,7 +6591,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Álddesjávri</t>
+            <t pos="N" src="PS_SA" type="Prop">Álddesjávri</t>
          </tg>
       </mg>
    </e>
@@ -6595,8 +6601,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="GG">Šveica</t>
-
+            <t pos="N" src="GG" type="Prop">Šveica</t>
          </tg>
       </mg>
    </e>
@@ -6606,7 +6611,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Čáhppesmearra</t>
+            <t pos="N" src="PS_SA" type="Prop">Čáhppesmearra</t>
          </tg>
       </mg>
    </e>
@@ -6616,7 +6621,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sállir</t>
+            <t pos="N" src="SK" type="Prop">Sállir</t>
          </tg>
       </mg>
    </e>
@@ -6626,7 +6631,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sážžá</t>
+            <t pos="N" src="SK" type="Prop">Sážžá</t>
          </tg>
       </mg>
    </e>
@@ -6636,7 +6641,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Guovdageaidnu</t>
+            <t pos="N" src="SK" type="Prop">Guovdageaidnu</t>
          </tg>
       </mg>
    </e>
@@ -6646,7 +6651,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Kárášjohka</t>
+            <t pos="N" src="SK" type="Prop">Kárášjohka</t>
          </tg>
       </mg>
    </e>
@@ -6656,7 +6661,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Porsáŋgu</t>
+            <t pos="N" src="SK" type="Prop">Porsáŋgu</t>
          </tg>
       </mg>
    </e>
@@ -6666,7 +6671,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Skuvvanvárri</t>
+            <t pos="N" src="SK" type="Prop">Skuvvanvárri</t>
          </tg>
       </mg>
    </e>
@@ -6676,7 +6681,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sállan</t>
+            <t pos="N" src="SK" type="Prop">Sállan</t>
          </tg>
       </mg>
    </e>
@@ -6686,7 +6691,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Deatnu</t>
+            <t pos="N" src="SK" type="Prop">Deatnu</t>
          </tg>
       </mg>
    </e>
@@ -6696,7 +6701,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Čáhcesuolu</t>
+            <t pos="N" src="SK" type="Prop">Čáhcesuolu</t>
          </tg>
       </mg>
    </e>
@@ -6706,7 +6711,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Girkonjárga</t>
+            <t pos="N" src="PS_SA" type="Prop">Girkonjárga</t>
          </tg>
       </mg>
    </e>
@@ -6716,7 +6721,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhpajávri</t>
+            <t pos="N" src="SK" type="Prop">Báhpajávri</t>
          </tg>
       </mg>
    </e>
@@ -6726,7 +6731,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Báhpajávri</t>
+            <t pos="N" src="SK" type="Prop">Báhpajávri</t>
          </tg>
       </mg>
    </e>
@@ -6736,7 +6741,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ittunjárga</t>
+            <t pos="N" src="SK" type="Prop">Ittunjárga</t>
          </tg>
       </mg>
    </e>
@@ -6746,7 +6751,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Máhkarávju</t>
+            <t pos="N" src="SK" type="Prop">Máhkarávju</t>
          </tg>
       </mg>
    </e>
@@ -6756,7 +6761,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Romssasuolu</t>
+            <t pos="N" src="SK" type="Prop">Romssasuolu</t>
          </tg>
       </mg>
    </e>
@@ -6766,7 +6771,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sálašoaivi</t>
+            <t pos="N" src="SK" type="Prop">Sálašoaivi</t>
          </tg>
       </mg>
    </e>
@@ -6776,7 +6781,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bissojohka</t>
+            <t pos="N" src="SK" type="Prop">Bissojohka</t>
          </tg>
       </mg>
    </e>
@@ -6786,7 +6791,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bissojohka</t>
+            <t pos="N" src="SK" type="Prop">Bissojohka</t>
          </tg>
       </mg>
    </e>
@@ -6796,7 +6801,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gárgán</t>
+            <t pos="N" src="SK" type="Prop">Gárgán</t>
          </tg>
       </mg>
    </e>
@@ -6806,7 +6811,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ruŋgu</t>
+            <t pos="N" src="SK" type="Prop">Ruŋgu</t>
          </tg>
       </mg>
    </e>
@@ -6816,7 +6821,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="nou94">Báhčaveaileahki</t>
+            <t pos="N" src="nou94" type="Prop">Báhčaveaileahki</t>
          </tg>
       </mg>
    </e>
@@ -6826,7 +6831,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Dieváidvuovdi</t>
+            <t pos="N" src="SK" type="Prop">Dieváidvuovdi</t>
          </tg>
       </mg>
    </e>
@@ -6836,7 +6841,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Ivguvuovdi</t>
+            <t pos="N" src="SK" type="Prop">Ivguvuovdi</t>
          </tg>
       </mg>
    </e>
@@ -6846,7 +6851,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="ps">Ivgomuotki</t>
+            <t pos="N" src="ps" type="Prop">Ivgomuotki</t>
          </tg>
       </mg>
    </e>
@@ -6856,7 +6861,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" nr="Pl">Ihkkok</t>
+            <t nr="Pl" pos="N" type="Prop">Ihkkok</t>
          </tg>
       </mg>
    </e>
@@ -6886,7 +6891,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" reg="Tjeldsund" type="Prop" src="SK">Badje-Rebevággi</t>
+            <t pos="N" reg="Tjeldsund" src="SK" type="Prop">Badje-Rebevággi</t>
          </tg>
       </mg>
    </e>
@@ -6896,7 +6901,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Basevuonna</t>
+            <t pos="N" src="SK" type="Prop">Basevuonna</t>
          </tg>
       </mg>
    </e>
@@ -6906,7 +6911,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Billávuotna</t>
+            <t pos="N" src="SK" type="Prop">Billávuotna</t>
          </tg>
       </mg>
    </e>
@@ -6916,7 +6921,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Boazovuonna</t>
+            <t pos="N" src="SK" type="Prop">Boazovuonna</t>
          </tg>
       </mg>
    </e>
@@ -6926,7 +6931,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bossovuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Bossovuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -6936,7 +6941,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bossovuonna</t>
+            <t pos="N" src="SK" type="Prop">Bossovuonna</t>
          </tg>
       </mg>
    </e>
@@ -6946,7 +6951,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Bártnatvuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Bártnatvuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -6956,7 +6961,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Caganvuotna</t>
+            <t pos="N" src="SK" type="Prop">Caganvuotna</t>
          </tg>
       </mg>
    </e>
@@ -6966,7 +6971,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Civzzavuotna</t>
+            <t pos="N" src="SK" type="Prop">Civzzavuotna</t>
          </tg>
       </mg>
    </e>
@@ -6976,7 +6981,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Duikkášvuonna</t>
+            <t pos="N" src="SK" type="Prop">Duikkášvuonna</t>
          </tg>
       </mg>
    </e>
@@ -6986,7 +6991,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geavlavuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Geavlavuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -6996,7 +7001,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Geavlavuonna</t>
+            <t pos="N" src="SK" type="Prop">Geavlavuonna</t>
          </tg>
       </mg>
    </e>
@@ -7006,7 +7011,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gorbovuotna</t>
+            <t pos="N" src="SK" type="Prop">Gorbovuotna</t>
          </tg>
       </mg>
    </e>
@@ -7016,7 +7021,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Guolbanvággi</t>
+            <t pos="N" src="SK" type="Prop">Guolbanvággi</t>
          </tg>
       </mg>
    </e>
@@ -7026,7 +7031,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Guolmmesvuotna</t>
+            <t pos="N" src="SK" type="Prop">Guolmmesvuotna</t>
          </tg>
       </mg>
    </e>
@@ -7036,7 +7041,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Gálggovuonna</t>
+            <t pos="N" src="SK" type="Prop">Gálggovuonna</t>
          </tg>
       </mg>
    </e>
@@ -7046,7 +7051,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Juovlavuotna</t>
+            <t pos="N" src="SK" type="Prop">Juovlavuotna</t>
          </tg>
       </mg>
    </e>
@@ -7056,7 +7061,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Muotkevuonna</t>
+            <t pos="N" src="SK" type="Prop">Muotkevuonna</t>
          </tg>
       </mg>
    </e>
@@ -7066,7 +7071,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Reakčavuotna</t>
+            <t pos="N" src="SK" type="Prop">Reakčavuotna</t>
          </tg>
       </mg>
    </e>
@@ -7076,7 +7081,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sámevuonvággi</t>
+            <t pos="N" src="SK" type="Prop">Sámevuonvággi</t>
          </tg>
       </mg>
    </e>
@@ -7086,7 +7091,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Sámevuotna</t>
+            <t pos="N" src="SK" type="Prop">Sámevuotna</t>
          </tg>
       </mg>
    </e>
@@ -7096,7 +7101,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Vieksevággi</t>
+            <t pos="N" src="SK" type="Prop">Vieksevággi</t>
          </tg>
       </mg>
    </e>
@@ -7106,7 +7111,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Áitevággi</t>
+            <t pos="N" src="SK" type="Prop">Áitevággi</t>
          </tg>
       </mg>
    </e>
@@ -7116,7 +7121,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="SK">Šortavággi</t>
+            <t pos="N" src="SK" type="Prop">Šortavággi</t>
          </tg>
       </mg>
    </e>
@@ -7126,7 +7131,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" src="PS_SA">Vuorjánjohka</t>
+            <t pos="N" src="PS_SA" type="Prop">Vuorjánjohka</t>
          </tg>
       </mg>
    </e>
@@ -7166,7 +7171,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" alt_str="Finnmárkku-guorahallan">Finnmárkkuguorahallamat</t>
+            <t alt_str="Finnmárkku-guorahallan" pos="N" type="Prop">Finnmárkkuguorahallamat</t>
          </tg>
       </mg>
    </e>
@@ -7186,7 +7191,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" alt_str="Finnmárkku-statistihkka">Finnmárkkustatistihkka</t>
+            <t alt_str="Finnmárkku-statistihkka" pos="N" type="Prop">Finnmárkkustatistihkka</t>
          </tg>
       </mg>
    </e>
@@ -7206,7 +7211,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" alt_str="Finnmárkkukommišuvdna">Finnmárkokommišuvdna</t>
+            <t alt_str="Finnmárkkukommišuvdna" pos="N" type="Prop">Finnmárkokommišuvdna</t>
          </tg>
       </mg>
    </e>
@@ -7216,7 +7221,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" alt_str="Finnmárkku-opmodat">Finnmárkkuopmodat</t>
+            <t alt_str="Finnmárkku-opmodat" pos="N" type="Prop">Finnmárkkuopmodat</t>
          </tg>
       </mg>
    </e>
@@ -7256,11 +7261,11 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" alt_str="Norlándda ruovdemáđiidja">Nordlánddaruovdemáđidja</t>
-            <t pos="N" type="Prop" alt_str="Nordlándda ruovdeluodda">Nordlánddaruovdeluodda</t>
-            <t pos="N" type="Prop" alt_str="Norlándda ruovdemáđii">Nordlánddaruovdemáđii</t>
+            <t alt_str="Norlándda ruovdemáđiidja" pos="N" type="Prop">Nordlánddaruovdemáđidja</t>
+            <t alt_str="Nordlándda ruovdeluodda" pos="N" type="Prop">Nordlánddaruovdeluodda</t>
+            <t alt_str="Norlándda ruovdemáđii" pos="N" type="Prop">Nordlánddaruovdemáđii</t>
             <t pos="N" type="Prop">Nordlandsbanen</t>
-            <t pos="N" type="Prop" alt_str="Nordlándageainnus">Nordlánddageainnus</t>
+            <t alt_str="Nordlándageainnus" pos="N" type="Prop">Nordlánddageainnus</t>
          </tg>
       </mg>
    </e>
@@ -7326,7 +7331,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" alt_str="Romssa-guorahallan">Romssaguorahallamat</t>
+            <t alt_str="Romssa-guorahallan" pos="N" type="Prop">Romssaguorahallamat</t>
          </tg>
       </mg>
    </e>
@@ -7336,7 +7341,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" alt_str="Sámekopiija">Sámikopiija</t>
+            <t alt_str="Sámekopiija" pos="N" type="Prop">Sámikopiija</t>
          </tg>
       </mg>
    </e>
@@ -7396,7 +7401,8 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" type="Prop" alt_str="AGM-ovdáneapmi; AGM-ovdánahttin; ABM-ovdánahttin; ABM-ovddideapmi">AGM-ovddideapmi</t>
+            <t alt_str="AGM-ovdáneapmi; AGM-ovdánahttin; ABM-ovdánahttin; ABM-ovddideapmi" pos="N"
+            type="Prop">AGM-ovddideapmi</t>
          </tg>
       </mg>
    </e>
