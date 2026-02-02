@@ -29,7 +29,7 @@ pos ( A | Abbr | Adv | CC | CS | Interj |
       N | Num | Po | Pr | Pron | V | Phrase | Det ) #REQUIRED 
 alt_str CDATA #IMPLIED
 nr ( Pl ) #IMPLIED
-type ( Prop | Indef | Recipr | Pers | Refl | Dem | Poss | Rel | Interr ) #IMPLIED 
+type ( Prop | Indef | Recipr | Pers | Refl | Dem | Poss | Rel | Interr | Qnt ) #IMPLIED 
 orig_entry CDATA #IMPLIED
 til_ref CDATA #IMPLIED
 >
