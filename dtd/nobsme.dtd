@@ -26,12 +26,13 @@ note CDATA #IMPLIED
 <!ELEMENT l  ( #PCDATA )>
 <!ATTLIST l
 pos ( A | Abbr | Adv | CC | CS | Interj |
-      N | Num | Po | Pr | Pron | V | Phrase | Det ) #REQUIRED 
+      N | Num | Po | Pr | Pron | V | Det ) #IMPLIED
 alt_str CDATA #IMPLIED
 nr ( Pl ) #IMPLIED
 type ( Prop | Indef | Recipr | Pers | Refl | Dem | Poss | Rel | Interr | Qnt ) #IMPLIED 
 orig_entry CDATA #IMPLIED
 til_ref CDATA #IMPLIED
+t_type (phrase) #IMPLIED
 >
 
 <!ELEMENT mg  ( l_ref?, re? , tg+ )>
@@ -56,10 +57,10 @@ fra_ref CDATA #IMPLIED
 <!ELEMENT t  ( #PCDATA )>
 <!ATTLIST t
 pos ( A | N | V | Adv | Po | Pr | Pron | Rel |  Det | Interj | Pcle |
-            Num | CC | CS | Phrase | fp-cmp ) #IMPLIED
-t_type ( expl | grammarexpl ) #IMPLIED  
+            Num | CC | CS | fp-cmp ) #IMPLIED
+t_type ( expl | grammarexpl | phrase | grammar ) #IMPLIED  
 src CDATA #IMPLIED
-type ( NomAg | G3 | G7 | grammar | Prfprc | Prsprc | Indef | Rel | Refl | Recipr | Interr | Pers | Dem | Prop ) #IMPLIED
+type ( NomAg | G3 | G7 | Prfprc | Prsprc | Indef | Rel | Refl | Recipr | Interr | Pers | Dem | Prop ) #IMPLIED
 alt_str CDATA #IMPLIED
 nr ( Sg | Du | Pl ) #IMPLIED
 dial ( east | west | torne | varanger ) #IMPLIED

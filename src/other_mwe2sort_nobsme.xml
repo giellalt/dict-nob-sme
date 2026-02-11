@@ -34,7 +34,7 @@
     <e>
 
       <lg>
-         <l pos="Phrase">hvor mange</l>
+         <l t_type="phrase">hvor mange</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -58,7 +58,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">slik som</l>
+         <l t_type="phrase">slik som</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -79,8 +79,8 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Phrase">nu mo</t>
-            <t pos="Phrase">nu movt</t>
+            <t t_type="phrase">nu mo</t>
+            <t t_type="phrase">nu movt</t>
             <xg>
                <x>Vi fikk i år en halv million, slik som i fjor.</x>
                <xt>Mii oaččuimet dán jagi miljovdnabeali nu movt diibmá.</xt>
@@ -90,12 +90,12 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">på samme måte</l>
+         <l t_type="phrase">på samme måte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Phrase">seamma láhkai</t>
-            <t pos="Phrase">seamma ládje</t>
+            <t t_type="phrase">seamma láhkai</t>
+            <t t_type="phrase">seamma ládje</t>
             <xg>
                <x>Andre jaktlag må også gjøre det på samme måte.</x>
                <xt>Eará bivdojoavkkut fertejit maid dahkat juste seamma láhkai.</xt>
@@ -109,12 +109,12 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">samme måte</l>
+         <l t_type="phrase">samme måte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Phrase">seamma láhkai</t>
-            <t pos="Phrase">seamma ládje</t>
+            <t t_type="phrase">seamma láhkai</t>
+            <t t_type="phrase">seamma ládje</t>
             <xg>
                <x>Andre jaktlag må også gjøre det på samme måte.</x>
                <xt>Eará bivdojoavkkut fertejit maid dahkat juste seamma láhkai.</xt>
@@ -128,7 +128,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">som helst</l>
+         <l t_type="phrase">som helst</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -159,7 +159,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ved siden av</l>
+         <l t_type="phrase">ved siden av</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -204,7 +204,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">alle fall</l>
+         <l t_type="phrase">alle fall</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -218,7 +218,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">rettslig stilling</l>
+         <l t_type="phrase">rettslig stilling</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -228,7 +228,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">samefolkets fond</l>
+         <l t_type="phrase">samefolkets fond</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -238,7 +238,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">et par</l>
+         <l t_type="phrase">et par</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -252,7 +252,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">noen få</l>
+         <l t_type="phrase">noen få</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -266,12 +266,12 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hold opp</l>
+         <l t_type="phrase">hold opp</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <re>til en person</re>
-            <t pos="Phrase">heaitte eret</t>
+            <t t_type="phrase">heaitte eret</t>
             <xg>
                <x>Hold opp med å snakke tull.</x>
                <xt>Heaitte eret duššiid hállamis.</xt>
@@ -281,19 +281,19 @@
       <mg>
          <tg xml:lang="sme">
             <re>til to personer</re>
-            <t pos="Phrase">heaiti eret</t>
+            <t t_type="phrase">heaiti eret</t>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
             <re>til flere enn to personer</re>
-            <t pos="Phrase">heaitet eret</t>
+            <t t_type="phrase">heaitet eret</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">sammenlignet med</l>
+         <l t_type="phrase">sammenlignet med</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -307,7 +307,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">i henhold til</l>
+         <l t_type="phrase">i henhold til</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -325,7 +325,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">i samsvar med</l>
+         <l t_type="phrase">i samsvar med</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -343,7 +343,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">med hensyn til</l>
+         <l t_type="phrase">med hensyn til</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -371,7 +371,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">inn under</l>
+         <l t_type="phrase">inn under</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -386,7 +386,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">til nedre enden</l>
+         <l t_type="phrase">til nedre enden</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -401,7 +401,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mellom to</l>
+         <l t_type="phrase">mellom to</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -420,7 +420,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">til lags</l>
+         <l t_type="phrase">til lags</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -435,7 +435,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">full av</l>
+         <l t_type="phrase">full av</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -450,7 +450,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">oppe på</l>
+         <l t_type="phrase">oppe på</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -465,7 +465,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">så langt som i</l>
+         <l t_type="phrase">så langt som i</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -480,7 +480,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">i løpet av</l>
+         <l t_type="phrase">i løpet av</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -500,7 +500,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">nærmere mot ... siden</l>
+         <l t_type="phrase">nærmere mot ... siden</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -515,7 +515,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">få se</l>
+         <l t_type="phrase">få se</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -533,7 +533,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">kom an</l>
+         <l t_type="phrase">kom an</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -551,7 +551,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">siden av</l>
+         <l t_type="phrase">siden av</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -565,7 +565,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ikke sant</l>
+         <l t_type="phrase">ikke sant</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -585,7 +585,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">hver sin</l>
+         <l t_type="phrase">hver sin</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -627,7 +627,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">til den siden</l>
+         <l t_type="phrase">til den siden</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -646,7 +646,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">mon tro</l>
+         <l t_type="phrase">mon tro</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -660,7 +660,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">for at</l>
+         <l t_type="phrase">for at</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -674,7 +674,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">for å</l>
+         <l t_type="phrase">for å</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -688,7 +688,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">akkurat som</l>
+         <l t_type="phrase">akkurat som</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -702,17 +702,17 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ikke nok med det</l>
+         <l t_type="phrase">ikke nok med det</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Phrase">ii ge das galle</t>
+            <t t_type="phrase">ii ge das galle</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="Phrase">om så</l>
+         <l t_type="phrase">om så</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -725,7 +725,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="Phrase">lehkos dal</t>
+            <t t_type="phrase">lehkos dal</t>
             <xg>
                <x>Om så det er en spiker i veggen eller merkelige mennesker, så er det uforklarlige hendinger.</x>
                <xt>Lehkos dal návli seainnis dahje imašlágán olbmot, de leat čilgetmeahttun vásáhusat.</xt>
@@ -735,7 +735,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">selv om</l>
+         <l t_type="phrase">selv om</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -749,7 +749,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">på grunn av</l>
+         <l t_type="phrase">på grunn av</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -768,7 +768,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">inn i</l>
+         <l t_type="phrase">inn i</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -786,7 +786,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">inne i</l>
+         <l t_type="phrase">inne i</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -800,7 +800,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">i møte</l>
+         <l t_type="phrase">i møte</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -814,7 +814,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">i sin tur</l>
+         <l t_type="phrase">i sin tur</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -828,7 +828,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">alle sammen</l>
+         <l t_type="phrase">alle sammen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -842,7 +842,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">en eller annen</l>
+         <l t_type="phrase">en eller annen</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -865,7 +865,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">ett eller annet</l>
+         <l t_type="phrase">ett eller annet</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -883,7 +883,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">den andre</l>
+         <l t_type="phrase">den andre</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -901,7 +901,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Phrase">for at ikke</l>
+         <l t_type="phrase">for at ikke</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
