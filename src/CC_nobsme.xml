@@ -77,7 +77,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>i spørsmål med flere enn to alternativer</re>
+            <re>i spørsmål der man ikke må velge mellom alternativene</re>
             <t pos="CC">dahje</t>
             <xg>
                <x>Trenger du veiledning eller hjelp?</x>
@@ -87,7 +87,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>i spørsmål med bare to alternativer</re>
+            <re>i spørsmål der man må velge ett alternativ</re>
             <t pos="CC">vai</t>
             <xg>
                <x>Er du den som skal komme, eller skal vi vente på en annen?</x>
@@ -96,6 +96,28 @@
             <xg>
                <x>Vil du ha kaffe eller te?</x>
                <xt>Siđat go gáfe vai deaja?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>i nektende setninger, "ii-" bøyes etter subjektet.</re>
+            <t pos="CC">iige</t>
+            <xg>
+               <x>Han vil hverken ha kaffe eller te.</x>
+               <xt>Son ii siđa gáfe iige deaja.</xt>
+            </xg>
+            <xg>
+               <x>Sii eai máhte lohkat eaige čállit.</x>
+               <xt>De kan hverken lese eller skrive.</xt>
+            </xg>
+            <xg>
+               <x>Sii eai máhte lohkat eaige čállit.</x>
+               <xt>De kan hverken lese eller skrive.</xt>
+            </xg>
+            <xg>
+               <x>Allet moraš alletge čiero!</x>
+               <xt>Ikke sørg eller gråt!</xt>
             </xg>
          </tg>
       </mg>
