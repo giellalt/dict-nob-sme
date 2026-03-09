@@ -2,8 +2,15 @@ repos:
   - repo: local
     hooks:
       - id: xmllint
-        name: run xmllint --valid
+        name: Validate XML and DTD
         entry: .githooks/pre-commit-xmllint-validate.py
+        language: python
+        files: '^src/.*xml$'
+        exclude: '^src/meta\.xml$'
+
+      - id: normalize-unicode
+        name: Normalize to composite Unicode
+        entry: .githooks/pre-commit-normalize-unicode.py
         language: python
         files: '^src/.*xml$'
         exclude: '^src/meta\.xml$'
