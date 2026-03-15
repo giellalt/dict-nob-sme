@@ -44,6 +44,7 @@ src CDATA #IMPLIED
 <!ELEMENT i (#PCDATA) >
 <!ELEMENT id (#PCDATA) >
 <!ELEMENT it (#PCDATA) >
+<!ATTLIST it src CDATA #IMPLIED >
 
 
 <!ELEMENT tg  ( re? , t+ , xg* )>
