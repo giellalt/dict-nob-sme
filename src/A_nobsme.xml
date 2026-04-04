@@ -33,6 +33,20 @@
    </lics>
    <e>
       <lg>
+         <l pos="A">hårsår</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t t_type="phrase">lea hearkkes oaiveoassi</t>
+            <xg>
+               <x>Barnet er hårsår.</x>
+               <xt>Mánás lea hearkkes oaiveoassi.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">uspiselig</l>
       </lg>
       <mg>
@@ -22395,14 +22409,35 @@
          </tg>
       </mg>
    </e>
+   <e>
+      <lg>
+         <l pos="A">grisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">áberávkkas</t>
+            <t pos="A">vuovdái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ufruktbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">šattoheapme</t>
+         </tg>
+      </mg>
+   </e>
    <e src="fad">
       <lg>
          <l pos="A">karrig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="A">šattoheapme</t>
             <t pos="A">guorbbas</t>
+            <t pos="A">šattoheapme</t>
          </tg>
       </mg>
    </e>
