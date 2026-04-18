@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
+remote_theme: giellalt/jekyll-theme-giellalt@main
 title: Dictionary for Norwegian Bokmål ⇒ North Sámi
 description: An electronic dictionary from Norwegian Bokmål to North Sámi
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jemoji
+
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: minimal
