@@ -663,11 +663,23 @@
          <l t_type="phrase">for at</l>
       </lg>
       <mg>
+         <l_ref>for at ikke_phrase_n</l_ref>
          <tg xml:lang="sme">
+            <re>så, slik at</re>
             <t pos="CS">vai</t>
             <xg>
-               <x>Jeg må legge meg tidlig for at jeg klarer å stå opp om morgenen.</x>
-               <xt>Ferten árrat nohkkat vai veaddján iđđes.</xt>
+               <x src="SIKOR">Dette er viktig for at samisk idrett kan utøves og videreutvikles.</x>
+               <xt src="SIKOR">Dat lea deaŧalaš vai sámi valáštallama sáhttá čađahit ja viidáset ovddidit.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>fordi</re>
+            <t pos="CS">go</t>
+            <xg>
+               <x src="SIKOR">Jeg er glad for at vi så raskt kan undertegne avtalen.</x>
+               <xt src="SIKOR">Mun lean hui ilus go mii ná johtilit sáhttit vuolláičállit šiehtadusa.</xt>
             </xg>
          </tg>
       </mg>
