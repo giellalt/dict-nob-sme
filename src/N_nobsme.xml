@@ -30981,6 +30981,16 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+         <tg xml:lang="sme">
+	        <re>om strikking</re>
+            <t pos="N">geardi</t>
+            <xg>
+               <x>Strikk 30 omganger rett.</x>
+               <xt>Gođe 30 geardde njuolgut.</xt>
+            </xg>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
@@ -69358,17 +69368,41 @@
    </e>
    <e>
       <lg>
+         <l pos="N">rettmaske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">njuolggočalbmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">vrangmaske</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">jorggučalbmi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="N">maske</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>i forbindelse med strikking</re>
+            <re>om strikking</re>
             <t pos="N">čalbmi</t>
+            <xg>
+               <x>Strikk 2 masker rett og 2 masker vrangt.</x>
+               <xt>Gođe 2 čalmmi njuolgut ja 2 calmmi jorgut.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>forkledning</re>
+            <re>om forkledning</re>
             <t pos="N">hápma</t>
          </tg>
       </mg>
@@ -73262,6 +73296,12 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">nađđa</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>på fottøy</re>
+            <t pos="N">alddas</t>
          </tg>
       </mg>
    </e>
@@ -92693,7 +92733,28 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N">jorggutbealli</t>
+            <t pos="N">jorggobealli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">rettside</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">njuolggobealli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="N">patentstrikking</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>å strikke patentstrikk</re>
+            <t src="Guttorm ja Labba: Ávdnasis duodjin" t_type="phrase">duppalit gođđit</t>
          </tg>
       </mg>
    </e>
@@ -190671,6 +190732,26 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="N">sátnevuorkávuogádat</t>
+         </tg>
+      </mg>
+   </e>
+    <e>
+      <lg>
+         <l pos="N">vrangbord</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">readdi</t>
+         </tg>
+      </mg>
+   </e>
+  <e>
+      <lg>
+         <l pos="N">stoppenål</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="N">bársannállu</t>
          </tg>
       </mg>
    </e>
