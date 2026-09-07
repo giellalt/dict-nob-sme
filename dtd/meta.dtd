@@ -9,7 +9,7 @@ xml:lang (no|se|sma|smj) #REQUIRED
 <!ELEMENT copyright ( #PCDATA ) >
 <!ELEMENT description (p) >
 <!ATTLIST description
-xml:lang (no|se|sma|smj) #REQUIRED
+xml:lang (no|se) #REQUIRED
 >
 <!ELEMENT p ( #PCDATA ) >
 <!ELEMENT langs (srclang, trglang+) >
