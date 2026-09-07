@@ -45449,20 +45449,6 @@
 
   <e>
     <lg>
-      <l pos="N">sammenligning</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N" src="fad">veardádus</t>
-
-        <t pos="N" src="fad">buohtastahttin</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">psykiater</l>
     </lg>
 
@@ -219574,13 +219560,25 @@
 
     <mg>
       <tg xml:lang="sme">
+        <t pos="N" src="fad">veardádus</t>
         <t pos="N">veardidangovva</t>
-
         <t pos="N">buohtastahttin</t>
       </tg>
     </mg>
   </e>
+  <e>
+    <lg>
+      <l pos="N">sammenligning</l>
+    </lg>
 
+    <mg>
+      <tg xml:lang="sme">
+        <t pos="N" src="fad">veardádus</t>
+        <t pos="N">veardidangovva</t>
+        <t pos="N" src="fad">buohtastahttin</t>
+      </tg>
+    </mg>
+  </e>
   <e src="fad">
     <lg>
       <l pos="N">matlaging</l>
