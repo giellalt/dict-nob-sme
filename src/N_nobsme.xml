@@ -4933,8 +4933,6 @@
          <tg xml:lang="sme">
             <t pos="N" type="NomAg">oahppi</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>skolebarn</re>
             <t pos="N" src="fad">skuvlamánná</t>
@@ -5646,8 +5644,6 @@
          <tg xml:lang="sme">
             <t pos="N" src="fad">mánnávuohta</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>barndomstid</re>
             <t pos="N" src="fad">mánnávuođaáigi</t>
@@ -6236,7 +6232,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>i tillegg</re>
+            <re>i tillegg til noe</re>
             <t t_type="phrase">dasa lassin</t>
             <xg>
                <x>I tillegg var han god til å kommandere oss andre.</x>
@@ -7416,24 +7412,24 @@
             <re>hud</re>
             <t pos="N" src="fad">náhkki</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>garvet dyreskinn</re>
             <t pos="N" src="fad">sisti</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>reinskinn med halvutvokst hår</re>
             <t pos="N">borgi</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>skinnet på alle fire skankene</re>
             <t pos="N">gámasgottur</t>
             <t pos="N">juolgegottur</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+	         <re>fra lys</re>
+            <t pos="N">čuovggas</t>
          </tg>
       </mg>
    </e>
@@ -7487,19 +7483,31 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <t pos="N" src="fad">liekkas</t>
+            <xg>
+               <x>Melkepakken bør ikke være her i varmen.</x>
+               <xt>Mielkepáhkka ii berreše orrut dáppe lieggasis.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>hete, sterk varme</re>
             <t pos="N">báhkka</t>
+            <xg>
+               <x>På grunn av varmen hoppet jeg i vannet.</x>
+               <xt>Báhka dihte mun njuikejin jávrái.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">liekkas</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>sterk varme</re>
+            <re>strålevarme</re>
             <t pos="N">goardda</t>
+            <xg>
+               <x>Jeg ble het av varmen fra bålet.</x>
+               <xt>Báhkkanin dola goardagis.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10949,6 +10957,20 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
+            <re>som førsteledd i sammensetninger som inneholder ski</re>
+            <t pos="N">čuoigan</t>
+            <xg>
+               <x>skitur</x>
+               <xt>čuoiganmátki</xt>
+            </xg>
+            <xg>
+               <x>skisko</x>
+               <xt>čuoiganskuovat, čuoigangápmagat</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
             <re>gå på ski</re>
             <t pos="V">čuoigat</t>
             <xg>
@@ -10970,20 +10992,6 @@
             <xg>
                <x>Vi gikk på ski fra Rávdojohka.</x>
                <xt>Mii čuoigaleimmet Rávdojogas.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>som førsteledd i sammensetninger som inneholder ski</re>
-            <t pos="N" src="fad">čuoigan</t>
-            <xg>
-               <x>skitur</x>
-               <xt>čuoiganmátki</xt>
-            </xg>
-            <xg>
-               <x>skisko</x>
-               <xt>čuoiganskuovat, čuoigangápmagat</xt>
             </xg>
          </tg>
       </mg>
