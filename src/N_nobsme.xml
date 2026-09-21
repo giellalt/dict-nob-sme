@@ -1932,18 +1932,6 @@
 
   <e>
     <lg>
-      <l pos="N">blåseinstrument</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">bossunčuojanas</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">treblåseinstrument</l>
     </lg>
 
@@ -2322,18 +2310,6 @@
 
           <xt>Vuoiti oažžu 800 ruvdnosaš skeaŋkakoartta.</xt>
         </xg>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">pengegave</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">ruhtaskeaŋka</t>
       </tg>
     </mg>
   </e>
@@ -5337,18 +5313,6 @@
 
   <e>
     <lg>
-      <l pos="N">adkomst</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">boađáhat</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">atkomst</l>
     </lg>
 
@@ -5945,6 +5909,7 @@
     <mg>
       <tg xml:lang="sme">
         <t pos="N">siskiluš</t>
+        <t pos="N">čoalli</t>
 
         <xg>
           <x>De brukte alle innvollene til matlaging.</x>
@@ -74071,6 +74036,7 @@
     <mg>
       <tg xml:lang="sme">
         <t pos="N">juolgegávva</t>
+        <t pos="N">gáddu</t>
       </tg>
     </mg>
   </e>
@@ -85775,20 +85741,6 @@
 
   <e>
     <lg>
-      <l pos="N">knehase</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="sme">
-        <re>om mennesker</re>
-
-        <t pos="N">gáddu</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
       <l pos="N">formodning</l>
     </lg>
 
@@ -90684,18 +90636,6 @@
     <mg>
       <tg xml:lang="sme">
         <t pos="N">liidni</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e>
-    <lg>
-      <l pos="N">tilleggsstønad</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">liigedoarjja</t>
       </tg>
     </mg>
   </e>
@@ -108277,6 +108217,10 @@
     </lg>
 
     <mg>
+      <tg xml:lang="sme">
+	      <re>om typen instrument</re>
+        <t pos="N">bossunčuojanas</t>
+      </tg>
       <tg xml:lang="sme">
         <t pos="N">njurggonas</t>
 
@@ -171719,6 +171663,7 @@
 
     <mg>
       <tg xml:lang="sme">
+        <t pos="N">ruhtaskeaŋka</t>
         <t pos="N">ruhtaattus</t>
       </tg>
     </mg>
@@ -213188,18 +213133,6 @@
     <mg>
       <tg xml:lang="sme">
         <t pos="N">njálggis</t>
-      </tg>
-    </mg>
-  </e>
-
-  <e src="fad">
-    <lg>
-      <l pos="N">innvoll</l>
-    </lg>
-
-    <mg>
-      <tg xml:lang="sme">
-        <t pos="N">čoalli</t>
       </tg>
     </mg>
   </e>
@@ -279437,6 +279370,13 @@
     <lg>
       <l pos="N">adkomst</l>
     </lg>
+
+    <mg>
+      <tg xml:lang="sme">
+        <re>inngang</re>
+        <t pos="N">boađáhat</t>
+      </tg>
+    </mg>
 
     <mg>
       <tg xml:lang="sme">
