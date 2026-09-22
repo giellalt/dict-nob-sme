@@ -406,8 +406,8 @@
          <tg xml:lang="sme">
             <re>vi ... fra hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoimmisteamet</t>
-            <t pos="Pron" type="Recipr" nr="Pl">guhtet guimmiineamet</t>
-            <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiin</t>
+            <t pos="Pron" type="Recipr" nr="PlT">guhtet guimmiineamet</t>
+            <t pos="Pron" type="Recipr" nr="PlT">nuppit nuppiin</t>
             <xg>
                <x>Vi får råd fra hverandre.</x>
                <xt>Mii oažžut rávvagiid guhtet guoimmisteamet.</xt>
@@ -420,8 +420,8 @@
          <tg xml:lang="sme">
             <re>dere .... fra hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoimmisteattet</t>
-            <t pos="Pron" type="Recipr" nr="Pl">guhtet guimmiineattet</t>
-            <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiin</t>
+            <t pos="Pron" type="Recipr" nr="PlT">guhtet guimmiineattet</t>
+            <t pos="Pron" type="Recipr" nr="PlT">nuppit nuppiin</t>
             <xg>
                <x>Dere får råd fra hverandre.</x>
                <xt>Dii oažžubehtet rávvagiid guhtet guoimmisteattet.</xt>
@@ -434,8 +434,8 @@
          <tg xml:lang="sme">
             <re>de .... fra hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoimmisteaset</t>
-            <t pos="Pron" type="Recipr" nr="Pl">guhtet guimmiineaset</t>
-            <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiin</t>
+            <t pos="Pron" type="Recipr" nr="PlT">guhtet guimmiineaset</t>
+            <t pos="Pron" type="Recipr" nr="PlT">nuppit nuppiin</t>
             <xg>
                <x>De får råd fra hverandre.</x>
                <xt>Sii ožžot rávvagiid guhtet guoimmisteaset.</xt>
@@ -454,7 +454,7 @@
             <re>vi ... til hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoibmáseamet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiidasamet</t>
-            <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiide</t>
+            <t pos="Pron" type="Recipr" nr="PlT">nuppit nuppiide</t>
             <xg>
                <x>Vi forteller nytt til hverandre.</x>
                <xt>Mii muitalit ságaid guhtet guoibmáseamet.</xt>
@@ -468,7 +468,7 @@
             <re>dere .... til hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoibmáseattet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiidasadet</t>
-            <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiide</t>
+            <t pos="Pron" type="Recipr" nr="PlT">nuppit nuppiide</t>
             <xg>
                <x>Dere forteller nytt til hverandre.</x>
                <xt>Dii muitalehpet ságaid guhtet guoibmáseattet.</xt>
@@ -536,7 +536,7 @@
             <re>vi ... hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoibmámet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiideamet</t>
-             <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiid</t>
+             <t pos="Pron" type="Recipr" nr="PlT">nuppit nuppiid</t>
            <xg>
                <x>Vi kjenner hverandre.</x>
                <xt>Mii dovdat guhtet guoibmámet.</xt>
@@ -550,7 +550,7 @@
             <re>dere .... hverandre</re>
             <t pos="Pron" type="Recipr">guhtet guoimmádet</t>
             <t pos="Pron" type="Recipr">guhtet guimmiideattet</t>
-             <t pos="Pron" type="Recipr" nr="Pl">nuppit nuppiid</t>
+             <t pos="Pron" type="Recipr" nr="PlT">nuppit nuppiid</t>
             <xg>
                <x>Dere kjenner hverandre.</x>
                <xt>Dii dovdabehtet guhtet guoimmádet.</xt>
@@ -800,7 +800,7 @@
             <xg>
                <x>Hvis noen har behov for å prate med noen om hendelsen, så har vi folk der som man kan ta kontakt
                med.</x>
-               <xt>Jus ovttasge lea dárbu geainna nu háleštit dáhpáhusa birra, de lea mis doppe olmmoš geainna sáhttá
+               <xt>Jus ovttasge lea dárbu geainna nu háleštit dáhpáhusa birra, de lea mis doppe olmmoš geainna sáhttá
                váldit oktavuođa</xt>
             </xg>
          </tg>
@@ -885,7 +885,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <t nr="Pl" pos="Pron" type="Dem">dat</t>
+            <t nr="PlT" pos="Pron" type="Dem">dat</t>
             <xg>
                <x>Vi handlet før i matvarebutikkene i Karasjok, men de sluttet å bringe varer til oss.</x>
                <xt>Mii gávppašeimmet ovdal Kárášjoga borramušbuvddain, muhto dat heite gálvvu buktimis midjiide.</xt>
@@ -2824,7 +2824,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>flertall</re>
-            <t nr="Pl" pos="Pron" type="Rel">guđiin</t>
+            <t nr="PlT" pos="Pron" type="Rel">guđiin</t>
          </tg>
       </mg>
    </e>
@@ -2949,7 +2949,7 @@
       <mg>
          <tg xml:lang="sme">
             <re>flertall</re>
-            <t nr="Pl" pos="Pron" type="Rel">goappáin</t>
+            <t nr="PlT" pos="Pron" type="Rel">goappáin</t>
          </tg>
       </mg>
    </e>

@@ -28,7 +28,7 @@ note CDATA #IMPLIED
 pos ( A | Abbr | Adv | CC | CS | Interj |
       N | Num | Po | Pr | Pron | V | Det ) #IMPLIED
 alt_str CDATA #IMPLIED
-nr ( Pl ) #IMPLIED
+nr ( Pl | PlT ) #IMPLIED
 type ( Prop | Indef | Recipr | Pers | Refl | Dem | Poss | Rel | Interr | Qnt ) #IMPLIED 
 orig_entry CDATA #IMPLIED
 til_ref CDATA #IMPLIED
@@ -64,7 +64,7 @@ t_type ( expl | grammarexpl | phrase | grammar ) #IMPLIED
 src CDATA #IMPLIED
 type ( NomAg | G3 | G7 | Prfprc | Prsprc | Indef | Rel | Refl | Recipr | Interr | Pers | Dem | Prop ) #IMPLIED
 alt_str CDATA #IMPLIED
-nr ( Sg | Du | Pl ) #IMPLIED
+nr ( Sg | Du | Pl | PlT ) #IMPLIED
 dial ( east | west | torne | varanger ) #IMPLIED
 href CDATA #IMPLIED
 reg CDATA #IMPLIED 
