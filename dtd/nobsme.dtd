@@ -28,6 +28,7 @@ note CDATA #IMPLIED
 pos ( A | Abbr | Adv | CC | CS | Interj |
       N | Num | Po | Pr | Pron | V | Det ) #IMPLIED
 alt_str CDATA #IMPLIED
+id ( 1 | 2 | 3 ) #IMPLIED
 nr ( Pl | PlT ) #IMPLIED
 type ( Prop | Indef | Recipr | Pers | Refl | Dem | Poss | Rel | Interr | Qnt ) #IMPLIED 
 orig_entry CDATA #IMPLIED
