@@ -5260,8 +5260,9 @@
          <l id="1" pos="N">tang</l>
       </lg>
       <mg>
-         <re>alge i fjæra</re>
+         <re>alge</re>
          <tg xml:lang="sme">
+         <re>alge i fjæra</re>
             <t pos="N">deappu</t>
          </tg>
       </mg>
@@ -7256,7 +7257,7 @@
    </e>
    <e>
       <lg>
-         <l pos="N">bygg</l>
+         <l id="2" pos="N">bygg</l>
       </lg>
       <mg>
          <re>bygning</re>
@@ -7267,10 +7268,10 @@
    </e>
    <e>
       <lg>
-         <l pos="N">bygg</l>
+         <l id="1" pos="N">bygg</l>
       </lg>
       <mg>
-         <re>korn</re>
+         <re>plante</re>
          <tg xml:lang="sme">
             <t pos="N">bivgi</t>
          </tg>
@@ -7382,8 +7383,8 @@
          <l id="1" pos="N">skinn</l>
       </lg>
       <mg>
+            <re>på dyrekropp</re>
          <tg xml:lang="sme">
-            <re>hud</re>
             <t pos="N" src="fad">náhkki</t>
          </tg>
          <tg xml:lang="sme">
@@ -9712,11 +9713,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">kar</l>
+         <l id="1" pos="N">kar</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
             <re>beholder</re>
+         <tg xml:lang="sme">
             <t pos="N">lihtti</t>
          </tg>
       </mg>
@@ -9726,26 +9727,10 @@
             <t pos="N" src="fad">varrasuotna</t>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>mann</re>
-            <t pos="N">dievdu</t>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>skikkelig kar</re>
-            <t pos="N">bojá</t>
-            <xg>
-               <x>Han er en skikkelig kar.</x>
-               <xt>Dat lea beanta bojá.</xt>
-            </xg>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">kar</l>
+         <l id="2" pos="N">kar</l>
       </lg>
       <mg>
          <re>mann</re>
@@ -9868,6 +9853,7 @@
          <l id="2" pos="N">slag</l>
       </lg>
       <mg>
+         <re>bevegelse</re>
          <tg xml:lang="sme">
             <re>klaskende slag</re>
             <t pos="N">doašká</t>
@@ -18705,14 +18691,15 @@
          <l pos="N">hefte</l>
       </lg>
       <mg>
+	      <re>samling av ark</re>
          <tg xml:lang="sme">
             <t pos="N">girjjáš</t>
             <t pos="N" src="fad">gihpa</t>
          </tg>
       </mg>
       <mg>
+          <re>noe som er til ulempe</re>
          <tg xml:lang="sme">
-            <re>noe som er til ulempe</re>
             <t pos="N">veahtu</t>
             <t pos="N">árru</t>
             <xg>
@@ -19024,9 +19011,10 @@
    </e>
    <e>
       <lg>
-         <l pos="N">tak</l>
+         <l id="2" pos="N">tak</l>
       </lg>
       <mg>
+            <re>del av bygning</re>
          <tg xml:lang="sme">
             <t pos="N" src="fad">dáhkki</t>
             <t pos="N">gáhttu</t>
@@ -19042,9 +19030,14 @@
             </xg>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l id="1" pos="N">tak</l>
+      </lg>
       <mg>
+            <re>grep</re>
          <tg xml:lang="sme">
-            <re>gripetak</re>
             <t pos="N">sálva</t>
             <xg>
                <x>Det er godt tak midt på.</x>
@@ -21488,11 +21481,11 @@
    </e>
    <e src="nfl_201402">
       <lg>
-         <l pos="N">ting</l>
+         <l id="1" pos="N">ting</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
             <re>gjenstand</re>
+         <tg xml:lang="sme">
             <t pos="N">bierggas</t>
             <t pos="N">diŋga</t>
             <xg>
@@ -21548,9 +21541,15 @@
             </xg>
          </tg>
       </mg>
+   </e>
+   <e src="nfl_201402">
+      <lg>
+         <l id="2" pos="N">ting</l>
+      </lg>
       <mg>
-         <tg xml:lang="sme">
-            <re>domstol</re>
+          <re>forsamling</re>
+        <tg xml:lang="sme">
+          <re>domstol</re>
             <t pos="N" src="fad">diggi</t>
             <xg>
                <x>Tinget tok konas uttalelse i betraktning.</x>
@@ -21772,14 +21771,14 @@
          <l pos="N">blad</l>
       </lg>
       <mg>
+            <re>avis, ukeblad</re>
          <tg xml:lang="sme">
-            <re>avis, ukeblad, el. tidsskrift</re>
             <t pos="N" src="fad">bláđđi</t>
          </tg>
       </mg>
       <mg>
+            <re>plantedel</re>
          <tg xml:lang="sme">
-            <re>på plante, vokser ut fra stengel eller gren.</re>
             <t pos="N">lasta</t>
          </tg>
       </mg>
@@ -21973,9 +21972,10 @@
    </e>
    <e>
       <lg>
-         <l pos="N">brus</l>
+         <l id="1" pos="N">brus</l>
       </lg>
       <mg>
+            <re>lyd</re>
          <tg xml:lang="sme">
             <t pos="N">šoavva</t>
             <t pos="N">šávva</t>
@@ -21983,9 +21983,14 @@
             <t pos="N">márra</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l id="2" pos="N">brus</l>
+      </lg>
       <mg>
+            <re>drikke</re>
          <tg xml:lang="sme">
-            <re>mineralvann</re>
             <t pos="N" src="fad">bruvsa</t>
          </tg>
       </mg>
@@ -23054,11 +23059,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">vær</l>
+         <l id="1" pos="N">vær</l>
       </lg>
       <mg>
+          <re>tilstand i atmosfæren</re>
          <tg xml:lang="sme">
-            <re>om værforhold</re>
             <t pos="N" src="fad">dálki</t>
          </tg>
          <tg xml:lang="sme">
@@ -23089,11 +23094,11 @@
    </e>
    <e>
       <lg>
-         <l pos="N">vær</l>
+         <l id="2" pos="N">vær</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
             <re>om sau</re>
+         <tg xml:lang="sme">
             <t pos="N">vierca</t>
             <t pos="N">fierca</t>
          </tg>
@@ -23413,8 +23418,6 @@
                <xt>Mu eanu lei váldán badjelasas ádjá dállodoalu.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>om fars yngre bror/fetter</re>
             <t pos="N" src="fad">čeahci</t>
@@ -23427,8 +23430,6 @@
                <xt>Čeahci lea áhččán nuorat viellja, ja mun lean su čeahcit.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>om fars eldre bror/fetter</re>
             <t pos="N" src="fad">eahki</t>
@@ -23441,8 +23442,6 @@
                <xt>Eahki lea áhččán boarrásat viellja, ja mun lean su eahkit.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>om inngiftet onkel</re>
             <t pos="N">máhka</t>
@@ -23533,6 +23532,7 @@
          <l pos="N">liv</l>
       </lg>
       <mg>
+            <re>det å leve</re>
          <tg xml:lang="sme">
             <t pos="N" src="fad">heagga</t>
             <xg>
@@ -23542,8 +23542,8 @@
          </tg>
       </mg>
       <mg>
+            <re>livet man lever</re>
          <tg xml:lang="sme">
-            <re>liv man lever</re>
             <t pos="N" src="fad">eallin</t>
             <xg>
                <x>Samiske kvinners liv er endret.</x>
@@ -23889,22 +23889,26 @@
          <l pos="N">krok</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
             <re>hjørne</re>
+         <tg xml:lang="sme">
             <t pos="N" src="fad">čiehka</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
-            <re>hjørne, utsiden</re>
+            <re>utsiden av hjørnet</re>
             <t pos="N">nurki</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
             <re>bøyd gjenstand</re>
+         <tg xml:lang="sme">
             <t pos="N">faggi</t>
             <t pos="N" src="fad">roahkki</t>
+         </tg>
+      </mg>
+      <mg>
+            <re>fiskekrok</re>
+         <tg xml:lang="sme">
+            <t pos="N">vuogga</t>
          </tg>
       </mg>
    </e>
@@ -24534,18 +24538,15 @@
          <l pos="N">sæd</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
             <re>det man sår</re>
+         <tg xml:lang="sme">
             <t pos="N">gilvva</t>
-         </tg>
-         <tg xml:lang="sme">
-            <re>det man sår</re>
             <t pos="N" src="fad">siepman</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
             <re>sekret fra penis</re>
+         <tg xml:lang="sme">
             <t pos="N" src="fad">siepman</t>
          </tg>
       </mg>
@@ -24905,9 +24906,10 @@
    </e>
    <e>
       <lg>
-         <l pos="N">stryk</l>
+         <l id="1" pos="N">stryk</l>
       </lg>
       <mg>
+            <re>i elv</re>
          <tg xml:lang="sme">
             <re>fossestryk</re>
             <t pos="N" src="fad">guoika</t>
@@ -24915,25 +24917,26 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>stort stryk i elv</re>
+            <re>stort stryk</re>
             <t pos="N">geavŋŋis</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
-            <re>lite stryk i elv</re>
+            <re>lite stryk</re>
             <t pos="N">njavvi</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
-            <re>en grunn njavvi av forholdsvis stor utstrekning</re>
+            <re>lite stryk med stor utstrekning</re>
             <t pos="N">njearri</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l id="2" pos="N">stryk</l>
+      </lg>
       <mg>
-         <tg xml:lang="sme">
             <re>pryl, bank</re>
+         <tg xml:lang="sme">
             <t pos="N">cápmáhallan</t>
             <t pos="N">sealgádeapmi</t>
          </tg>
@@ -25304,17 +25307,23 @@
    </e>
    <e>
       <lg>
-         <l pos="N">rom</l>
+         <l id="1" pos="N">rom</l>
       </lg>
       <mg>
+            <re>del av bygning</re>
          <tg xml:lang="sme">
             <t pos="N">gámmir</t>
             <t pos="N" src="fad">latnja</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l id="2" pos="N">rom</l>
+      </lg>
       <mg>
+            <re>person</re>
          <tg xml:lang="sme">
-            <re>om en person</re>
             <t pos="N">romániolmmoš</t>
          </tg>
       </mg>
@@ -27547,12 +27556,12 @@
    </e>
    <e>
       <lg>
-         <l pos="N">rot</l>
+         <l id="1" pos="N">rot</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>i uorden</re>
-            <t pos="N" src="fad">moivi</t>
+            <re>plantedel</re>
+            <t pos="N" src="fad">ruohtas</t>
          </tg>
       </mg>
       <mg>
@@ -27561,10 +27570,15 @@
             <t pos="N">máddu</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l id="2" pos="N">rot</l>
+      </lg>
       <mg>
+            <re>uorden</re>
          <tg xml:lang="sme">
-            <re>den delen av en plante som går ned i jorda</re>
-            <t pos="N" src="fad">ruohtas</t>
+            <t pos="N" src="fad">moivi</t>
          </tg>
       </mg>
    </e>
@@ -30175,11 +30189,10 @@
          <l pos="N">finsk</l>
       </lg>
       <mg>
+             <re>språk</re>
          <tg xml:lang="sme">
-            <t pos="N" src="fad">suomagiella</t>
+           <t pos="N" src="fad">suomagiella</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>snakke finsk</re>
             <t pos="V" src="fad">suomastit</t>
@@ -35108,17 +35121,22 @@
    </e>
    <e>
       <lg>
-         <l pos="N">lønn</l>
+         <l id="1" pos="N">lønn</l>
       </lg>
       <mg>
+            <re>godtgjøring</re>
          <tg xml:lang="sme">
-            <re>penger</re>
             <t pos="N" src="fad">bálká</t>
          </tg>
       </mg>
+   </e>
+   <e>
+      <lg>
+         <l id="2" pos="N">lønn</l>
+      </lg>
       <mg>
-         <tg xml:lang="sme">
             <re>treslag</re>
+         <tg xml:lang="sme">
             <t pos="N" src="">váđir</t>
          </tg>
       </mg>
@@ -51899,8 +51917,8 @@
          <l id="1" pos="N">vest</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
             <re>himmelretning</re>
+         <tg xml:lang="sme">
             <t pos="N">oarji</t>
             <xg>
                <x>vestpå</x>
