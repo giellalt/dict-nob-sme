@@ -7973,21 +7973,13 @@
    </e>
    <e>
       <lg>
-         <l pos="V">spenne</l>
+         <l id="1" pos="V">spenne</l>
       </lg>
       <mg>
+         <re>stramme</re>
          <tg xml:lang="sme">
-            <re>stramme</re>
             <t pos="V" src="fad">čavget</t>
          </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>bli spent</re>
-            <t pos="V">čavgat</t>
-         </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>med hendene</re>
             <t pos="V">gealdit</t>
@@ -7997,14 +7989,20 @@
             </xg>
          </tg>
       </mg>
+      <mg>
+            <re>bli spent</re>
+         <tg xml:lang="sme">
+            <t pos="V">čavgat</t>
+         </tg>
+      </mg>
    </e>
    <e>
       <lg>
-         <l pos="V">spenne</l>
+         <l id="2" pos="V">spenne</l>
       </lg>
       <mg>
-         <tg xml:lang="sme">
-            <re>sparke, flere ganger</re>
+       <re>sparke</re>
+        <tg xml:lang="sme">
             <t pos="V">čiekčat</t>
          </tg>
       </mg>
@@ -9723,19 +9721,17 @@
          </tg>
       </mg>
       <mg>
-            <re>sette rypesnarer</re>
+            <re>sette ut redskaper</re>
          <tg xml:lang="sme">
+            <re>sette rypesnarer</re>
             <t pos="V">gárdut</t>
             <xg>
                <x>Elevene lærte å sette rypesnarer.</x>
                <xt>Oahppit ohppe gárdut.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
-            <re>sette ut i sjøen</re>
          <tg xml:lang="sme">
-            <re>sette bruk eller line</re>
+            <re>sette fiskebruk eller line</re>
             <t pos="V">suohpput</t>
          </tg>
          <tg xml:lang="sme">
@@ -17570,7 +17566,7 @@
       </lg>
       <mg>
          <tg xml:lang="sme">
-            <re>en gang</re>
+            <re>legge noe</re>
             <t pos="V">bidjat</t>
             <xg>
                <x>Bestemor legger brillene på bordet.</x>
@@ -17591,8 +17587,9 @@
          </tg>
       </mg>
       <mg>
+            <re>legge seg</re>
          <tg xml:lang="sme">
-            <re>legge seg, om mennesker</re>
+            <re>om mennesker</re>
             <t pos="V">velledit</t>
             <t pos="V">veallánit</t>
             <xg>
@@ -17601,7 +17598,7 @@
             </xg>
          </tg>
          <tg xml:lang="sme">
-            <re>legge seg, om dyr</re>
+            <re>om dyr</re>
             <t pos="V">livvut</t>
             <xg>
                <x>Reinen la seg på ned vegen.</x>
@@ -17609,7 +17606,7 @@
             </xg>
          </tg>
          <tg xml:lang="sme">
-            <re>legge seg om hund, rev osv.</re>
+            <re>om hund, rev osv.</re>
             <t pos="V">goarjut</t>
             <xg>
                <x>Den mette hunden legger seg fornøyd ned i døråpninga.</x>
@@ -17617,13 +17614,13 @@
             </xg>
          </tg>
          <tg xml:lang="sme">
-            <re>legge seg mer eller mindre flatt i vannet</re>
+            <re>mer eller mindre flatt i vannet</re>
             <t pos="V">láibmat</t>
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
              <re>legge til</re>
+         <tg xml:lang="sme">
            <t pos="V">lasihit</t>
             <xg>
                <x>Deretter la han til at det ikke er annet enn gammel overtro.</x>
@@ -17640,8 +17637,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
              <re>legge fram</re>
+         <tg xml:lang="sme">
            <t pos="V">ovdanbuktit</t>
             <xg>
                <x>Nillá begynte å tenke på hvordan han skulle legge fram saka.</x>
@@ -17650,8 +17647,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
              <re>legge merke til</re>
+         <tg xml:lang="sme">
             <t pos="V">fuomášit</t>
             <t pos="V">fuobmát</t>
             <xg>
@@ -17661,8 +17658,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
             <re>legge i veg</re>
+         <tg xml:lang="sme">
             <t pos="V">hurgit</t>
             <xg>
                <x>Hun hadde lyst til å legge i veg til fjellet.</x>
@@ -17671,8 +17668,8 @@
          </tg>
       </mg>
       <mg>
-         <tg xml:lang="sme">
             <re>legge ned</re>
+         <tg xml:lang="sme">
             <t pos="V">heaittihit</t>
             <xg>
                <x>Kommunen skal legge ned skolen.</x>
@@ -17681,8 +17678,9 @@
          </tg>
       </mg>
       <mg>
+            <re>legge opp</re>
          <tg xml:lang="sme">
-            <re>legge opp, slutte</re>
+            <re>slutte</re>
             <t pos="V">heaitit</t>
          </tg>
          <tg xml:lang="sme">
