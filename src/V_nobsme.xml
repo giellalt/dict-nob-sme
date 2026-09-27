@@ -9833,7 +9833,7 @@
          </tg>
       </mg>
       <mg>
-         <re>sette av, reserve</re>
+         <re>sette av</re>
          <tg xml:lang="sme">
             <t pos="V">várret</t>
          </tg>
@@ -9999,8 +9999,8 @@
          <l pos="V">veie</l>
       </lg>
       <mg>
+         <re>ha en viss vekt</re>
          <tg xml:lang="sme">
-            <re>ha en viss vekt</re>
             <t pos="V">deaddit</t>
             <xg>
                <x>Lillesøster veier femten kilo.</x>
@@ -10009,8 +10009,8 @@
          </tg>
       </mg>
       <mg>
+         <re>fastsette vekt</re>
          <tg xml:lang="sme">
-            <re>fastsette vekt</re>
             <t pos="V" src="fad">vihkket</t>
             <xg>
                <x>Jeg veier potetene.</x>
@@ -10019,8 +10019,8 @@
          </tg>
       </mg>
       <mg>
+         <re>veie for og imot</re>
          <tg xml:lang="sme">
-            <re>avveie</re>
             <t pos="V" src="fad">vihkkedallat</t>
          </tg>
       </mg>
@@ -10352,30 +10352,22 @@
          <l pos="V">gi</l>
       </lg>
       <mg>
+         <re>la få, donere</re>
          <tg xml:lang="sme">
-            <re>overrekke, levere, donere</re>
             <t pos="V" src="fad">addit</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
-            <re>gi som gave</re>
+            <re>som gave</re>
             <t pos="V" src="fad">skeŋket</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>bevilge</re>
             <t pos="V" src="fad">juolludit</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>gi litt</re>
             <t pos="V">attestit</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>gi mat</re>
             <t pos="V">biebmat</t>
@@ -10386,8 +10378,8 @@
          </tg>
       </mg>
       <mg>
+         <re>gi ut</re>
          <tg xml:lang="sme">
-            <re>gi ut</re>
             <t pos="V">almmuhit</t>
             <xg>
                <x>Vokalisten har også gitt ut CD-er.</x>
@@ -10396,24 +10388,27 @@
          </tg>
       </mg>
       <mg>
+         <re>gi opp</re>
          <tg xml:lang="sme">
-            <re>gi opp</re>
             <t pos="V">luohpat</t>
             <xg>
                <x>Hun ga det opp.</x>
                <xt>Son luobai das.</xt>
             </xg>
          </tg>
+         <tg xml:lang="sme">
+            <t pos="V">vuollánit</t>
+         </tg>
       </mg>
       <mg>
+         <re>gi seg over</re>
          <tg xml:lang="sme">
-            <re>gi seg over</re>
             <t pos="V">dárpmehuvvat</t>
          </tg>
       </mg>
       <mg>
+         <re>gi gjenlyd, respons</re>
          <tg xml:lang="sme">
-            <re>gi gjenlyd, gi respons</re>
             <t pos="V">dávistit</t>
          </tg>
       </mg>
