@@ -1,7 +1,7 @@
 <!ELEMENT r ( lics? , e+ ) >
 <!ATTLIST r
 xml:lang ( nob ) #IMPLIED
-id ( nobsme ) #IMPLIED 
+id ( nobsme ) #IMPLIED
 >
 <!ELEMENT lics  ( lic , ref* , sourcenote* )>
 <!ATTLIST lics xml:space (default|preserve) 'preserve'
@@ -30,7 +30,7 @@ pos ( A | Abbr | Adv | CC | CS | Interj |
 alt_str CDATA #IMPLIED
 id ( 1 | 2 | 3 ) #IMPLIED
 nr ( Pl | PlT ) #IMPLIED
-type ( Prop | Indef | Recipr | Pers | Refl | Dem | Poss | Rel | Interr | Qnt ) #IMPLIED 
+type ( Prop | Indef | Recipr | Pers | Refl | Dem | Poss | Rel | Interr | Qnt ) #IMPLIED
 orig_entry CDATA #IMPLIED
 til_ref CDATA #IMPLIED
 t_type (phrase) #IMPLIED
@@ -49,7 +49,7 @@ src CDATA #IMPLIED
 
 
 <!ELEMENT tg  ( re? , t+ , xg* )>
-<!ATTLIST tg xml:lang ( sme ) #REQUIRED >
+<!ATTLIST tg xml:lang NMTOKEN #FIXED "sme" >
 
 
 <!ELEMENT re  ( #PCDATA )>
@@ -61,14 +61,14 @@ fra_ref CDATA #IMPLIED
 <!ATTLIST t
 pos ( A | N | V | Adv | Po | Pr | Pron | Rel |  Det | Interj | Pcle |
             Num | CC | CS | fp-cmp ) #IMPLIED
-t_type ( expl | grammarexpl | phrase | grammar ) #IMPLIED  
+t_type ( expl | grammarexpl | phrase | grammar ) #IMPLIED
 src CDATA #IMPLIED
 type ( NomAg | G3 | G7 | Prfprc | Prsprc | Indef | Rel | Refl | Recipr | Interr | Pers | Dem | Prop ) #IMPLIED
 alt_str CDATA #IMPLIED
 nr ( Sg | Du | Pl | PlT ) #IMPLIED
 dial ( east | west | torne | varanger ) #IMPLIED
 href CDATA #IMPLIED
-reg CDATA #IMPLIED 
+reg CDATA #IMPLIED
 >
 
 <!ELEMENT xg  ( re? , x , xt* )>
