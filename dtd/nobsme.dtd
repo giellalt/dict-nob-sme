@@ -49,8 +49,7 @@ src CDATA #IMPLIED
 
 
 <!ELEMENT tg  ( re? , t+ , xg* )>
-<!ATTLIST tg xml:lang NMTOKEN #FIXED "sme" >
-
+<!ATTLIST tg xml:lang ( sme ) #REQUIRED >
 
 <!ELEMENT re  ( #PCDATA )>
 <!ATTLIST re
