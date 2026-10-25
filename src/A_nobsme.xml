@@ -43,6 +43,20 @@
    </e>
    <e>
       <lg>
+         <l pos="A">bekymringsfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">vuorjašuhtti</t>
+            <xg>
+               <x>Denne saka er spesielt bekymringsfull.</x>
+               <xt>Dát ášši lea erenoamážit vuorjašuhtti.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">hardfør</l>
       </lg>
       <mg>
@@ -6499,14 +6513,38 @@
             <re>om vann</re>
             <t pos="A" src="fad">čieŋal</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>om snø</re>
             <t pos="A">gassat</t>
             <xg>
                <x>Snøen er dyp.</x>
                <xt>Muohta lea gassat.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="sme">
+            <re>om båt</re>
+            <t pos="A">ruvdii</t>
+            <xg>
+               <x>Båten er både bred og dyp.</x>
+               <xt>Fanas lea sihke govdat ja ruvdii.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="sme">
+            <re>om mål</re>
+            <t pos="Po">čieŋu</t>
+            <xg>
+               <x>Den lille, stille elva er fire meter dyp.</x>
+               <xt>Fielbmá lea njeallje mehter čieŋu.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli dypere</re>
+            <t pos="V">čiekŋut</t>
+            <xg>
+               <x>Dette er en grunn grunne som blir dypere mot Abelsborg.</x>
+               <xt>Dát lea coages njuorra mii čiekŋu Áppošbori vuostá.</xt>
             </xg>
          </tg>
       </mg>
@@ -6530,22 +6568,6 @@
             </xg>
          </tg>
       </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om mål</re>
-            <t pos="Po">čieŋu</t>
-            <xg>
-               <x>Den lille, stille elva er fire meter dyp.</x>
-               <xt>Fielbmá lea njeallje mehter čieŋu.</xt>
-            </xg>
-         </tg>
-      </mg>
-      <mg>
-         <tg xml:lang="sme">
-            <re>om båt</re>
-            <t pos="A">ruvdii</t>
-         </tg>
-      </mg>
    </e>
    <e>
       <lg>
@@ -6554,6 +6576,14 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A" src="fad">roavis</t>
+            <xg>
+               <x>grovt brød</x>
+               <xt>ruovva láibi</xt>
+            </xg>
+            <xg>
+               <x>grove ord</x>
+               <xt>roavva sánit</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
@@ -6590,8 +6620,6 @@
                <xt>Mus lea borranmiella.</xt>
             </xg>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>om sult</re>
             <t pos="N">nealgi</t>
@@ -6711,8 +6739,6 @@
             <re>bli fattig</re>
             <t pos="V">gefot</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>bli fattig på rein</re>
             <t pos="V">boazohuvvat</t>
@@ -9572,6 +9598,23 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="Adv">fuolas</t>
+            <xg>
+               <x>Sametinget er bekymret for fornyelsen av forskriften.</x>
+               <xt>Sámediggi lea hui fuolas láhkaásaheami ođasteamis.</xt>
+            </xg>
+         </tg>
+         <tg xml:lang="sme">
+            <re>bli bekymret</re>
+            <t pos="V">fuolastuvvat</t>
+            <t pos="V">vuorjašuvvat</t>
+            <xg>
+               <x>Vi er bekymret på grunn av forurensningen.</x>
+               <xt>Mii leat fuolastuvvan nuoskideami dihte.</xt>
+            </xg>
+            <xg>
+               <x>Foreldre blir bekymret når fjernundervisninga ikke begynner i tide.</x>
+               <xt>Váhnemat fuolastuvvet go gáiddusoahpahus ii álgge áiggil.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -10819,7 +10862,7 @@
             </xg>
             <xg>
                <x>enkel informasjon</x>
-               <xt>ovttageardánis dieđut</xt>
+               <xt>ovttageardán dieđut</xt>
             </xg>
          </tg>
       </mg>
