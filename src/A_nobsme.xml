@@ -43,6 +43,36 @@
    </e>
    <e>
       <lg>
+         <l pos="A">indoeuropeisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">indoeurohpálaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kaldhjertet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">galbmaváimmot</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kullsvart</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">smurtačáhppat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">bekymringsfull</l>
       </lg>
       <mg>
@@ -91,6 +121,71 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">monárkkalaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">fåmælt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">hálaheapme</t>
+            <t pos="A">humuheapme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">finskspråklig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">suomagielat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ettbeint</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">ovttajuolggat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">estisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">estteeatnalaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avlang</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">guhkedáleš</t>
+            <xg>
+               <x>Form deigen til en avlang pølse.</x>
+               <xt>Dulbe dáiggi guhkedáleš márfin.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">allergisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">allergiijalaš</t>
          </tg>
       </mg>
    </e>
@@ -430,6 +525,16 @@
                <x>Det er viktig å oppbevare brannfarlige materialer etter retningslinjene.</x>
                <xt>Lea dehálaš vurket buleš materiálaid njuolggadusaid mielde.</xt>
             </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">brennbar</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">buleš</t>
          </tg>
       </mg>
    </e>
@@ -2384,6 +2489,17 @@
    </e>
    <e>
       <lg>
+         <l pos="A">dydig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">seđolaš</t>
+            <t pos="A">šigolaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">vitenskapsbasert</l>
       </lg>
       <mg>
@@ -4050,6 +4166,16 @@
       <mg>
          <tg xml:lang="sme">
             <re>engelskspråklig</re>
+            <t pos="A" src="fad">eaŋgalasgielat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">engelsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
             <t pos="A" src="fad">eaŋgalasgielat</t>
          </tg>
       </mg>
@@ -10136,7 +10262,7 @@
                <xt>Sii leat juhkan viinni ja leat gárihuvvan.</xt>
             </xg>
             <xg>
-               <x>Politiet tok vare på en person som var overstadig beruset.</x>
+               <x>Politiet tok vare på en person som var veldig fulle.</x>
                <xt>Politiijat válde vára olbmos gii lei badjelmeare juhkaluvvan.</xt>
             </xg>
          </tg>
@@ -10147,6 +10273,50 @@
             <t pos="Adv">gárremiidda</t>
             <xg>
                <x>De hadde drukket seg fulle.</x>
+               <xt>Sii ledje juhkan gárremiidda.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">beruset</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="Adv">gárremiin</t>
+            <t pos="A">oaivvesnaga</t>
+            <xg>
+               <x>Han er beruset.</x>
+               <xt>Son lea gárremiin.</xt>
+            </xg>
+            <xg>
+               <x>Han er beruset.</x>
+               <xt>Son lea oaivvesnaga.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli beruset</re>
+            <t pos="V">gárihuvvat</t>
+            <t pos="V">juhkaluvvat</t>
+            <xg>
+               <x>De har drukket brennevin og er blitt beruset.</x>
+               <xt>Sii leat juhkan viinni ja leat gárihuvvan.</xt>
+            </xg>
+            <xg>
+               <x>Politiet tok vare på en person som var overstadig beruset.</x>
+               <xt>Politiijat válde vára olbmos gii lei badjelmeare juhkaluvvan.</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli beruset</re>
+            <t pos="Adv">gárremiidda</t>
+            <xg>
+               <x>De hadde drukket seg godt beruset.</x>
                <xt>Sii ledje juhkan gárremiidda.</xt>
             </xg>
          </tg>
@@ -18039,6 +18209,76 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="A">golbmaloginubbi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">trettitredje</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">golbmalogigoalmmát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">trettifjerde</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">golbmaloginjealját</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">trettifemte</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">golbmalogiviđát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">trettisjette</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">golbmalogiguđát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">trettisjuende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">golbmalogičihččet</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">trettiåttende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">golbmalogigávccát</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">trettiniende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">golbmalogiovccát</t>
          </tg>
       </mg>
    </e>
