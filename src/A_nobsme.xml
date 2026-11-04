@@ -53,6 +53,111 @@
    </e>
    <e>
       <lg>
+         <l pos="A">smiskende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">njálggisteaddji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nedsigen</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>om bukser</re>
+            <t pos="A">nalas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lineær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">lineára</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lavhælt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">vuollegisjoccat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">allergifremkallende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">allergiijašaddadeaddji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bejublet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">rámálmas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">komplementær</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">ollisteaddji</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tvilende</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">vihkolas</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vidstrakt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">luomus</t>
+            <xg>
+               <x>Norge er et vidstrakt land.</x>
+               <xt>Norga lea luomos riika.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">saktmodig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">loavdi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">egenrådig</l>
       </lg>
       <mg>
@@ -794,7 +899,7 @@
          <l pos="A">uberørt</l>
       </lg>
       <mg>
-         <re>naturgitt, ikke preget av mennesker </re>
+         <re>naturgitt, ikke preget av mennesker</re>
          <tg xml:lang="sme">
             <t pos="A">luondduviđá</t>
          </tg>
@@ -1028,11 +1133,13 @@
             <t pos="A">čáhkkil</t>
             <t pos="A">saddjái</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>om båt</re>
             <t pos="A" src="sgg">lihttái</t>
+         </tg>
+         <tg xml:lang="sme">
+            <re>vid</re>
+            <t pos="A" src="sgg">luomus</t>
          </tg>
       </mg>
    </e>
@@ -4632,6 +4739,10 @@
          <tg xml:lang="sme">
             <t pos="A">ovddolaš</t>
          </tg>
+         <tg xml:lang="sme">
+            <re>bejublet</re>
+            <t pos="A">rámálmas</t>
+         </tg>
       </mg>
    </e>
    <e>
@@ -6821,6 +6932,18 @@
          <tg xml:lang="sme">
             <t pos="A" src="fad">fámolaš</t>
             <t pos="A" src="fad">válddálaš</t>
+            <t pos="A">vuoimmálaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kraftfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A" src="fad">fámolaš</t>
+            <t pos="A">vuoimmálaš</t>
          </tg>
       </mg>
    </e>
@@ -10299,6 +10422,16 @@
    </e>
    <e>
       <lg>
+         <l pos="A">varig</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">bistevaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">ensidig</l>
       </lg>
       <mg>
@@ -10532,6 +10665,20 @@
    </e>
    <e>
       <lg>
+         <l pos="A">stappfull</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t t_type="phrase">spagga dievva</t>
+            <xg>
+               <x>Toget er stappfullt.</x>
+               <xt>Toga lea spagga dievva.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">full</l>
       </lg>
       <mg>
@@ -10597,7 +10744,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-            <re>bli beruset</re>
+            <re>bli full, bli beruset</re>
             <t pos="V">gárihuvvat</t>
             <t pos="V">juhkaluvvat</t>
             <xg>
@@ -11938,11 +12085,17 @@
             <t pos="A" src="fad">beaktil</t>
             <t pos="A" src="fad">spáitil</t>
          </tg>
-      </mg>
-      <mg>
          <tg xml:lang="sme">
             <re>arbeidsom</re>
             <t pos="A">doaimmalaš</t>
+         </tg>
+         <tg xml:lang="sme">
+            <re>om rente</re>
+            <t pos="A">vuoimmálaš</t>
+            <xg>
+               <x>effektiv rente</x>
+               <xt>vuoimmálaš reantu</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -13111,6 +13264,16 @@
    <e>
       <lg>
          <l pos="A">fettrik</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">vuoddjái</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">fettholdig</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
@@ -17323,11 +17486,26 @@
          <l pos="A">kryssende</l>
       </lg>
       <mg>
+         <l_ref>krysse_v</l_ref>
          <tg xml:lang="sme">
-            <t pos="N">ruossalas</t>
+            <t pos="A">ruossalas</t>
             <xg>
-               <x>kryssende interessert</x>
+               <x>kryssende interesserer</x>
                <xt>ruossalas beroštumit</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">korslagt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">ruossalas</t>
+            <xg>
+               <x>korslagte armer</x>
+               <xt>ruossalas gieđat</xt>
             </xg>
          </tg>
       </mg>
@@ -17461,6 +17639,38 @@
          <tg xml:lang="sme">
             <re>være engstelig</re>
             <t pos="V">árggástallat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">opprømt</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">jieris</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli opprømt</re>
+            <t pos="V">jierásmuvvat</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">yr</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">jieris</t>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>bli yr</re>
+            <t pos="V">jierásmuvvat</t>
          </tg>
       </mg>
    </e>
