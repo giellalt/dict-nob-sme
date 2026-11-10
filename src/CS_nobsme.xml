@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet media="screen"              title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary_XXE.css"     type="text/css"?>
 <?xml-stylesheet media="screen"              title="Hierarchical view" href="../../giella-core/dicts/scripts/gt_dictionary_XXE_alt.css" type="text/css" alternate="yes" ?>
 <?xml-stylesheet media="print,tv,projection" title="Dictionary view"   href="../../giella-core/dicts/scripts/gt_dictionary.css"         type="text/css"?>
@@ -6,8 +6,8 @@
 <!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual"
 "../dtd/nobsme.dtd">
 <r id="nobsme" xml:lang="nob">
-  <lics xmlns:xhtml="http://www.w3.org/1999/xhtml" xml:space="preserve">
-    <lic xml:lang="en">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
       This code is made available under a Creative Commons Attribution license
       <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
 
@@ -16,12 +16,12 @@
 
       For the full license text, see the link above.
     </lic>
-    <ref>
+      <ref>
       Work by Nils Jernsletten, Giellatekno and Divvun at UiT, and members of
       the language communities. Source code available at
       <a>https://github.com/giellalt/dict-sme-nob/</a>.
     </ref>
-    <sourcenote>
+      <sourcenote>
       THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
       published dictionary. As such it can and will contain unfinished entries,
       unpublished entries, entries with objectionable translations, etc. If you
@@ -30,15 +30,14 @@
       <a>mailto:giellatekno@uit.no</a>. Please also note that the entries are
       not necessarily sorted, or could be wrongly sorted.
      </sourcenote>
-  </lics>
-    <e>
-
+   </lics>
+   <e>
       <lg>
          <l pos="CS">som</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
-	         <re>som innledning til relativ bisetning</re>
+            <re>som innledning til relativ bisetning</re>
             <t pos="Pron" type="Rel">mii</t>
             <xg>
                <x>Det som skjer, det skjer.</x>
@@ -82,15 +81,15 @@
          <tg xml:lang="sme">
             <re>det er X som</re>
             <t pos="Pcle">dat</t>
-        <xg>
-          <x>Det er plenumsmøtet som bestemmer budsjettet.</x>
-          <xt>Dievasčoahkkin dat mearrida bušeahta.</xt>
-        </xg>
+            <xg>
+               <x>Det er plenumsmøtet som bestemmer budsjettet.</x>
+               <xt>Dievasčoahkkin dat mearrida bušeahta.</xt>
+            </xg>
          </tg>
       </mg>
       <mg>
          <tg xml:lang="sme">
-	     <re>innleder en betingelse</re>
+            <re>innleder en betingelse</re>
             <t pos="CS">go</t>
             <xg>
                <x>Kom så fort som mulig.</x>
@@ -100,7 +99,7 @@
       </mg>
       <mg>
          <tg xml:lang="sme">
-	         <re>innleder en sammenlikning</re>
+            <re>innleder en sammenlikning</re>
             <t pos="CS">dego</t>
             <t pos="CS">dugo</t>
             <xg>
@@ -131,10 +130,10 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="CS">dannego</t>
-        <xg>
-          <x>Man må gjøre noe med dette fordi situasjonen går utover min helse.</x>
-          <xt>Dainna ferte juoidá dahkat, dannego dilli čuohcá mu dearvvasvuhtii.</xt>
-        </xg>
+            <xg>
+               <x>Man må gjøre noe med dette fordi situasjonen går utover min helse.</x>
+               <xt>Dainna ferte juoidá dahkat, dannego dilli čuohcá mu dearvvasvuhtii.</xt>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -191,7 +190,7 @@
             <xg>
                <x>Det gikk to år før svaret kom.</x>
                <xt>Guokte jagi manne ovdalgo vástádus bođii.</xt>
-             </xg>
+            </xg>
          </tg>
       </mg>
    </e>
@@ -274,8 +273,8 @@
             <t t_type="phrase">dan bále</t>
             <t pos="Po">bále</t>
             <xg>
-               <x>Vi samler reindriftstermer mens det fremdeles fins reindriftssamer som kan dem.</x>
-               <xt>Mii čohkket boazodoallotearpmaid, dan bále go ain gávdnojit boazosámit geat máhttet dáid.</xt>
+               <x>Jeg må dra innom butikken mens jeg har barnevakt.</x>
+               <xt>Ferten gávppis finihit dan bále go mus lea mánnábiigá.</xt>
             </xg>
             <xg>
                <x>mens det er lyst</x>
