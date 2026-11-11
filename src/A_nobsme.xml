@@ -43,11 +43,74 @@
    </e>
    <e>
       <lg>
+         <l pos="A">avsides</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">oktonas</t>
+            <xg>
+               <x>Fra fjellsiden så jeg langt og på neset skimtet jeg et par avsides hus.</x>
+               <xt>Várrevielttis oidnen guhkás ja njárggas oidnojedje moadde oktonas viesu.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="A">sølvgrå</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
             <t pos="A">silbaránis</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hierarkisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">hierárkkalaš</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">slavisk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">slávalaš</t>
+            <xg>
+               <x>slaviske språk</x>
+               <xt>slávalaš gielat</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rumensk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">románalaš</t>
+            <xg>
+               <x>rumensk mat</x>
+               <xt>románialaš biebmu</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">åpensinnet</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">rabasmielat</t>
+            <t pos="A">rabasmielalaš</t>
          </tg>
       </mg>
    </e>
@@ -949,6 +1012,21 @@
             <t pos="A">lossamielalaš</t>
             <xg>
                <x>Jeg er deprimert i mørketida.</x>
+               <xt>Mun lean lossamielat skábman.</xt>
+            </xg>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">melankolsk</l>
+      </lg>
+      <mg>
+         <tg xml:lang="sme">
+            <t pos="A">lossamielat</t>
+            <t pos="A">lossamielalaš</t>
+            <xg>
+               <x>Jeg er melankolsk i mørketida.</x>
                <xt>Mun lean lossamielat skábman.</xt>
             </xg>
          </tg>
@@ -12006,6 +12084,10 @@
             <re>relevant</re>
             <t pos="A" src="fad">áššáigullevaš</t>
             <t pos="A" src="fad">guoskevaš</t>
+            <xg>
+               <x>relevante foreninger</x>
+               <xt>guoskevaš searvvit</xt>
+            </xg>
          </tg>
       </mg>
    </e>
