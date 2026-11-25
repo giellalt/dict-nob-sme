@@ -2428,10 +2428,6 @@
                <x>Hva er så der?</x>
                <xt>Mii bat doppe lea?</xt>
             </xg>
-            <xg>
-               <x>På hvilken måte er veps og maur likedanne? Det er en stor bil som er god å kjøre med.</x>
-               <xt>Mainna lágiin leat vieksát ja gotkkat ovttaláganat? Dat lea stuora biila mainna lea hui buorre vuodjit.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -2470,10 +2466,20 @@
       <mg>
          <tg xml:lang="sme">
             <re>til hva</re>
-            <t pos="Pron" type="Rel">masa</t>
+            <t pos="Pron" type="Interr">masa</t>
             <xg>
                <x>Hva skal du bruke den til?</x>
                <xt>Masa don áiggut dien geavahit?</xt>
+            </xg>
+         </tg>
+      </mg>
+      <mg>
+         <tg xml:lang="sme">
+            <re>med hva</re>
+            <t pos="Pron" type="Interr">mainna</t>
+            <xg>
+               <x>Med hva har du tegnet?</x>
+               <xt>Mainna don leat sárgon?</xt>
             </xg>
          </tg>
       </mg>
