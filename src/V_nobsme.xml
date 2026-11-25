@@ -317,10 +317,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">eretcealkit</t>
-            <xg>
-               <x>Båten anløper Tromsø før midnatt.</x>
-               <xt>Fanas joavdá Romsii ovdal gaskaija.</xt>
-            </xg>
          </tg>
       </mg>
       <mg>
@@ -11518,7 +11514,13 @@
             <t pos="V">čusket</t>
          </tg>
       </mg>
-      <mg>
+       <mg>
+         <tg xml:lang="sme">
+            <re>holde på å springe, om tobeinte og firbeinte</re>
+            <t pos="V">čuskkodit</t>
+         </tg>
+      </mg>
+     <mg>
          <tg xml:lang="sme">
             <re>få noen til å springe</re>
             <t pos="V">viegahit</t>
@@ -21299,7 +21301,7 @@
             <t pos="V">dáhpáhuvvat</t>
             <xg>
                <x>Hva hendte i Tromsø i går?</x>
-               <xt>Mii dáhpáhuvvá Romssas ikte?</xt>
+               <xt>Mii dáhpáhuvai Romssas ikte?</xt>
             </xg>
          </tg>
       </mg>
@@ -23974,6 +23976,7 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">jámálgit</t>
+            <t pos="V">deaimmáskit</t>
          </tg>
       </mg>
    </e>
@@ -28631,16 +28634,6 @@
    </e>
    <e>
       <lg>
-         <l pos="V">sprette og hoppe</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">čuskkodit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
          <l pos="V">lysne</l>
       </lg>
       <mg>
@@ -28735,10 +28728,11 @@
    </e>
    <e>
       <lg>
-         <l pos="V">råskjære fisk</l>
+         <l pos="V">råskjære</l>
       </lg>
       <mg>
          <tg xml:lang="sme">
+            <re>råskjære fisk</re>
             <t pos="V">čállit</t>
          </tg>
       </mg>
@@ -32581,26 +32575,6 @@
       <mg>
          <tg xml:lang="sme">
             <t pos="V">báikut</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">berøre en gevekst</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">bátnádit</t>
-         </tg>
-      </mg>
-   </e>
-   <e>
-      <lg>
-         <l pos="V">svime av</l>
-      </lg>
-      <mg>
-         <tg xml:lang="sme">
-            <t pos="V">deaimmáskit</t>
          </tg>
       </mg>
    </e>
